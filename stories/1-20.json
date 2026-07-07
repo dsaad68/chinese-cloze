@@ -1,0 +1,42 @@
+{
+  "id": "1-20",
+  "level": 1,
+  "title": "我的一天",
+  "titlePinyin": "wǒ de yī tiān",
+  "topicEn": "My Daily Routine",
+  "sentences": [
+    [["我","wǒ","I"],["早上","zǎoshang","morning"],["七","qī","seven"],["点","diǎn","o'clock"],["起床","qǐchuáng","to get up"],["了","le","(particle)",1],["。","",""]],
+    [["然后","ránhòu","then"],["我","wǒ","I"],["吃","chī","to eat"],["早饭","zǎofàn","breakfast"],["，","",""],["我","wǒ","I"],["常常","chángcháng","often",2],["吃","chī","to eat"],["面包","miànbāo","bread"],["和","hé","and",3],["鸡蛋","jīdàn","egg"],["。","",""]],
+    [["我","wǒ","I"],["从","cóng","from",4],["家","jiā","home"],["去","qù","to go"],["学校","xuéxiào","school"],["，","",""],["学校","xuéxiào","school"],["在","zài","at"],["家","jiā","home"],["和","hé","and"],["超市","chāoshì","supermarket"],["前","qián","front",5],["。","",""]],
+    [["中午","zhōngwǔ","noon"],["我","wǒ","I"],["跟","gēn","with",6],["同学","tóngxué","classmate"],["一起","yīqǐ","together",7],["吃饭","chīfàn","to eat a meal"],["，","",""],["我们","wǒmen","we"],["吃","chī","to eat"],["米饭","mǐfàn","rice"],["和","hé","and"],["菜","cài","dish"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["两","liǎng","two",8],["点","diǎn","o'clock"],["我","wǒ","I"],["上课","shàngkè","to attend class"],["，","",""],["我","wǒ","I"],["会","huì","can",9],["写","xiě","to write"],["汉字","hànzì","Chinese characters"],["，","",""],["也","yě","also",10],["能","néng","can",11],["说","shuō","to speak"],["中文","zhōngwén","Chinese language"],["。","",""]],
+    [["放学","fàngxué","to finish school"],["后","hòu","after",12],["我","wǒ","I"],["回家","huíjiā","to go home"],["，","",""],["回家","huíjiā","to go home"],["后","hòu","after"],["我","wǒ","I"],["先","xiān","first",13],["做","zuò","to do"],["作业","zuòyè","homework"],["。","",""]],
+    [["晚上","wǎnshang","evening"],["我","wǒ","I"],["和","hé","with"],["妈妈","māma","mom"],["在","zài","at"],["家","jiā","home"],["里","lǐ","inside",14],["一起","yīqǐ","together"],["看","kàn","to watch"],["电视","diànshì","TV"],["，","",""],["我","wǒ","I"],["喝","hē","to drink"],["一","yī","one"],["杯","bēi","cup (measure word)",15],["水","shuǐ","water"],["。","",""]],
+    [["我","wǒ","I"],["的","de","(possessive particle)",16],["猫","māo","cat"],["在","zài","at"],["椅子","yǐzi","chair"],["下","xià","under",17],["，","",""],["我","wǒ","I"],["没","méi","not have",18],["妹妹","mèimei","younger sister"],["。","",""]],
+    [["我","wǒ","I"],["的","de","(possessive particle)"],["书","shū","book"],["在","zài","at"],["桌子","zhuōzi","table"],["上","shàng","on",19],["，","",""],["我","wǒ","I"],["很","hěn","very"],["喜欢","xǐhuān","to like"],["学习","xuéxí","to study"],["。","",""]],
+    [["我","wǒ","I"],["有","yǒu","to have"],["几","jǐ","a few",20],["个","gè","(measure word)"],["好","hǎo","good"],["朋友","péngyou","friend"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Indicates completion of the action 'get up'.",
+    "2": "Adverb of frequency meaning 'often'.",
+    "3": "Conjunction linking 'bread' and 'eggs'.",
+    "4": "Preposition indicating the starting point 'from home'.",
+    "5": "Position noun meaning 'in front of'.",
+    "6": "Preposition meaning 'with' to indicate accompaniment.",
+    "7": "Adverb meaning 'together' to show joint action.",
+    "8": "Number 'two' used before the time word '两点' (2 o'clock).",
+    "9": "Modal verb expressing ability 'can write'.",
+    "10": "Adverb meaning 'also' connecting two abilities.",
+    "11": "Modal verb expressing ability 'can speak'.",
+    "12": "Noun meaning 'after' indicating time sequence.",
+    "13": "Adverb meaning 'first' indicating order of actions.",
+    "14": "Position noun meaning 'inside' indicating location.",
+    "15": "Measure word for a cup of water.",
+    "16": "Possessive particle linking 'I' and 'cat'.",
+    "17": "Position noun meaning 'under' indicating location.",
+    "18": "Negative adverb for 'not have'.",
+    "19": "Position noun meaning 'on' indicating location.",
+    "20": "Question pronoun used in 'a few' to indicate an indefinite number."
+  },
+  "translation": "I got up at 7 in the morning. Then I eat breakfast, I often eat bread and eggs. I go to school from home, the school is in front of home and supermarket. At noon I eat together with classmates, we eat rice and vegetables. At 2 PM I have class, I can write Chinese characters, and I can also speak Chinese. After school I go home, after returning home I first do homework. In the evening I watch TV together with my mom at home, I drink a glass of water. My cat is under the chair, I don't have a younger sister. My book is on the table, I really like studying. I have a few good friends."
+}

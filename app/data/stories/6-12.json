@@ -1,0 +1,41 @@
+{
+  "id": "6-12",
+  "level": 6,
+  "title": "去超市购物",
+  "titlePinyin": "qù chāo shì gòu wù",
+  "topicEn": "Shopping",
+  "sentences": [
+    [["今天","jīntiān","today"],["下午","xiàwǔ","afternoon"],["，","","comma"],["我","wǒ","I"],["和","hé","and",1],["妈妈","māma","mother"],["一起","yīqǐ","together",2],["去","qù","go"],["超市","chāoshì","supermarket"],["。","","period"]],
+    [["超市","chāoshì","supermarket"],["里","lǐ","in",3],["有","yǒu","there are"],["很多","hěnduō","many"],["商品","shāngpǐn","goods"],["。","","period"]],
+    [["我们","wǒmen","we"],["先","xiān","first",4],["去","qù","go"],["了","le","(past tense marker)",5],["水果","shuǐguǒ","fruit"],["区","qū","section"],["。","","period"]],
+    [["妈妈","māma","mother"],["问","wèn","ask"],["我","wǒ","I"],["想","xiǎng","want"],["吃","chī","eat"],["什么","shénme","what",6],["水果","shuǐguǒ","fruit"],["？","","question mark"]],
+    [["我","wǒ","I"],["说","shuō","say"],["想","xiǎng","want"],["吃","chī","eat"],["苹果","píngguǒ","apple"],["和","hé","and"],["香蕉","xiāngjiāo","banana"],["。","","period"]],
+    [["妈妈","māma","mother"],["买","mǎi","buy"],["了","le","(past tense marker)"],["三","sān","three",7],["个","gè","(measure word for general items)"],["苹果","píngguǒ","apple"],["和","hé","and"],["两","liǎng","two",8],["串","chuàn","bunch"],["香蕉","xiāngjiāo","banana"],["。","","period"]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","go"],["了","le","(past tense marker)"],["饮料","yǐnliào","drinks"],["区","qū","section"],["。","","period"]],
+    [["我","wǒ","I"],["看到","kàndào","see"],["了","le","(past tense marker)"],["我","wǒ","my"],["最","zuì","most",9],["喜欢","xǐhuān","like"],["的","de","(attributive marker)",10],["果汁","guǒzhī","juice"],["。","","period"]],
+    [["我","wǒ","I"],["拿","ná","take"],["了","le","(past tense marker)"],["一","yī","one"],["杯","bēi","glass/cup",11],["。","","period"]],
+    [["妈妈","māma","mother"],["又","yòu","again"],["买","mǎi","buy"],["了","le","(past tense marker)"],["一些","yīxiē","some",12],["牛奶","niúnǎi","milk"],["。","","period"]],
+    [["后来","hòulái","later"],["我们","wǒmen","we"],["去","qù","go"],["了","le","(past tense marker)"],["零食","língshí","snacks"],["区","qū","section"],["，","","comma"],["弟弟","dìdi","younger brother"],["喜欢","xǐhuān","like"],["吃","chī","eat"],["巧克力","qiǎokèlì","chocolate"],["，","","comma"],["所以","suǒyǐ","so"],["我们","wǒmen","we"],["买","mǎi","buy"],["了","le","(past tense marker)"],["两","liǎng","two"],["块","kuài","piece",13],["。","","period"]],
+    [["最后","zuìhòu","finally"],["我们","wǒmen","we"],["去","qù","go"],["结账","jiézhàng","check out"],["，","","comma"],["收银员","shōuyínyuán","cashier"],["告诉","gàosu","tell"],["我们","wǒmen","us"],["一共","yīgòng","altogether",14],["多少","duōshǎo","how much",15],["钱","qián","money"],["。","","period"]],
+    [["妈妈","māma","mother"],["付","fù","pay"],["了","le","(past tense marker)"],["钱","qián","money"],["，","","comma"],["我们","wǒmen","we"],["一起","yīqǐ","together"],["回家","huíjiā","go home"],["了","le","(past tense marker)"],["。","","period"]],
+    [["我们","wǒmen","we"],["都","dōu","all"],["很","hěn","very"],["开心","kāixīn","happy"],["。","","period"]]
+  ],
+  "explanations": {
+    "1": "Connects 'I' and 'mother' to show they acted together.",
+    "2": "Indicates the action was done jointly.",
+    "3": "Shows location inside the supermarket.",
+    "4": "Indicates the sequence of actions.",
+    "5": "Indicates completed action of going.",
+    "6": "Asks about the type of fruit desired.",
+    "7": "Specifies the quantity of apples bought.",
+    "8": "Specifies the quantity of banana bunches bought.",
+    "9": "Forms the superlative 'favorite'.",
+    "10": "Links 'favorite' to 'juice' as a modifier.",
+    "11": "Measure word for the juice container.",
+    "12": "Indicates an unspecified quantity of milk.",
+    "13": "Measure word for pieces of chocolate.",
+    "14": "Asks for the total amount.",
+    "15": "Interrogative pronoun asking for the price."
+  },
+  "translation": "This afternoon, my mother and I went to the supermarket together. There were many goods in the supermarket. We first went to the fruit section. Mother asked me what fruit I wanted to eat. I said I wanted to eat apples and bananas. Mother bought three apples and two bunches of bananas. Then we went to the drinks section. I saw my favorite juice. I took a glass. Mother also bought some milk. Later we went to the snacks section. My younger brother likes chocolate, so we bought two pieces. Finally we went to check out. The cashier told us how much it was altogether. Mother paid the money. We went home together. We were all very happy."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "3-18",
+  "level": 3,
+  "title": "小明的生日",
+  "titlePinyin": "Xiǎo Míng de shēngrì",
+  "topicEn": "Xiao Ming's Birthday",
+  "sentences": [
+    [["今天","jīntiān","today"],["是","shì","is"],["小明","Xiǎo Míng","Xiao Ming"],["的","de","possessive"],["生日","shēngrì","birthday"],["，","",""],["我","wǒ","I",1],["想","xiǎng","want"],["给","gěi","give"],["他","tā","him"],["买","mǎi","buy"],["一","yī","one"],["个","gè","[measure for general objects]",2],["礼物","lǐwù","gift"],["。","",""]],
+    [["我","wǒ","I"],["和","hé","and"],["朋友","péngyou","friend"],["一起","yìqǐ","together"],["去","qù","go"],["商场","shāngchǎng","mall"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first"],["去","qù","go"],["了","le","[past tense particle]"],["楼","lóu","floor/building"],["上","shàng","up/above",3],["的","de","'s"],["衣服","yīfu","clothes"],["店","diàn","store"],["。","",""]],
+    [["店","diàn","store"],["里","lǐ","inside",4],["有","yǒu","have/there is"],["很","hěn","very"],["多","duō","many"],["好看","hǎokàn","good-looking"],["的","de","possessive"],["衬衫","chènshān","shirt"],["。","",""]],
+    [["我","wǒ","I"],["选","xuǎn","choose"],["了","le","[past tense particle]"],["一","yī","one"],["件","jiàn","[measure for clothing]",5],["蓝色","lánsè","blue"],["的","de","possessive"],["衬衫","chènshān","shirt"],["。","",""]],
+    [["朋友","péngyou","friend"],["问","wèn","ask"],["：","",""],["“","",""],["你","nǐ","you",6],["买","mǎi","buy"],["了","le","[past tense particle]"],["什么","shénme","what",7],["？","",""],["”","",""],["我","wǒ","I"],["回答","huídá","answer"],["：","",""],["“","",""],["一","yī","one"],["件","jiàn","[measure for clothing]"],["衬衫","chènshān","shirt"],["。","",""],["”","",""]],
+    [["朋友","péngyou","friend"],["说","shuō","say"],["这","zhè","this",8],["件","jiàn","[measure for clothing]"],["太","tài","too",9],["好","hǎo","good"],["了","le","[past tense particle]"],["。","",""]],
+    [["我","wǒ","I"],["又","yòu","again"],["看","kàn","look at"],["了","le","[past tense particle]"],["一","yī","one"],["条","tiáo","[measure for long thin objects]"],["裤子","kùzi","pants"],["，","",""],["但是","dànshì","but"],["太","tài","too"],["贵","guì","expensive"],["了","le","[past tense particle]"],["，","",""],["我","wǒ","I"],["不","bù","not",10],["买","mǎi","buy"],["。","",""]],
+    [["最后","zuìhòu","finally"],["我","wǒ","I"],["买","mǎi","buy"],["了","le","[past tense particle]"],["那","nà","that"],["件","jiàn","[measure for clothing]"],["衬衫","chènshān","shirt"],["。","",""]],
+    [["朋友","péngyou","friend"],["也","yě","also"],["说","shuō","say"],["他","tā","he",11],["会","huì","will",12],["买","mǎi","buy"],["一","yī","one"],["件","jiàn","[measure for clothing]"],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["从","cóng","from"],["楼","lóu","floor/building"],["上","shàng","up/above"],["下来","xiàlai","come down"],["，","",""],["去","qù","go"],["了","le","[past tense particle]"],["楼","lóu","floor/building"],["下","xià","down/below",13],["的","de","'s"],["书店","shūdiàn","bookstore"],["。","",""]],
+    [["小明","Xiǎo Míng","Xiao Ming"],["喜欢","xǐhuān","like"],["看书","kànshū","read books"],["，","",""],["所以","suǒyǐ","so"],["我","wǒ","I"],["又","yòu","again"],["买","mǎi","buy"],["了","le","[past tense particle]"],["一","yī","one"],["本","běn","[measure for books]"],["书","shū","book"],["。","",""]],
+    [["这","zhè","this"],["本","běn","[measure for books]",14],["书","shū","book"],["很","hěn","very",15],["有","yǒu","have"],["意思","yìsi","meaning; interesting (有意思是interesting)"],["。","",""]],
+    [["我们","wǒmen","we"],["都","dōu","all"],["很","hěn","very"],["开心","kāixīn","happy"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["我们","wǒmen","we"],["回家","huíjiā","go home"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "人称代词，指说话人自己。",
+    "2": "名量词，用于修饰‘礼物’。",
+    "3": "方位名词，表示楼上。",
+    "4": "方位名词，表示商店内部。",
+    "5": "名量词，用于修饰‘衬衫’。",
+    "6": "人称代词，指对方。",
+    "7": "疑问代词，用来询问物品。",
+    "8": "指示代词，指代这件衬衫。",
+    "9": "程度副词，表示程度高。",
+    "10": "否定副词，表示不买裤子。",
+    "11": "人称代词，指朋友。",
+    "12": "能愿动词，表示将来发生的动作。",
+    "13": "方位名词，表示楼下。",
+    "14": "名量词，用于修饰‘书’。",
+    "15": "程度副词，修饰‘有意思’。"
+  },
+  "translation": "Today is Xiao Ming's birthday. I want to give him a gift. My friend and I go to the mall together. We first go to the clothes store upstairs. There are many nice shirts in the store. I choose a blue one. My friend asks, 'What did you buy?' I answer, 'A shirt.' My friend says this one is too good. I also look at a pair of pants, but they are too expensive, so I don't buy them. Finally I buy that shirt. My friend also says he will buy one. Then we come down from upstairs and go to the bookstore downstairs. Xiao Ming likes reading, so I also buy a book. This book is very interesting. We are all very happy. In the afternoon we go home."
+}

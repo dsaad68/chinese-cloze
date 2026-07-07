@@ -1,0 +1,38 @@
+{
+  "id": "4-5",
+  "level": 4,
+  "title": "逛超市",
+  "titlePinyin": "guàng chāoshì",
+  "topicEn": "Going to the supermarket",
+  "sentences": [
+    [["今天","jīntiān","today"],["我","wǒ","I"],["和","hé","and"],["朋友","péngyou","friend"],["一块儿","yīkuàir","together",1],["去","qù","go"],["超市","chāoshì","supermarket"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",2],["去","qù","go"],["水果区","shuǐguǒqū","fruit section"],["，","",""],["那里","nàlǐ","there"],["有","yǒu","have"],["很多","hěnduō","many"],["苹果","píngguǒ","apple"],["和","hé","and"],["香蕉","xiāngjiāo","banana"],["。","",""]],
+    [["我们","wǒmen","we"],["需要","xūyào","need"],["多少","duōshao","how many",3],["苹果","píngguǒ","apple"],["？","",""]],
+    [["我们","wǒmen","we"],["需要","xūyào","need"],["五","wǔ","five",4],["个","gè","(measure word)",5],["苹果","píngguǒ","apple"],["。","",""]],
+    [["朋友","péngyou","friend"],["很","hěn","very",6],["喜欢","xǐhuān","like"],["香蕉","xiāngjiāo","banana"],["，","",""],["她","tā","she"],["买","mǎi","buy"],["了","le","(past)"],["三","sān","three",7],["个","gè","(measure word)"],["香蕉","xiāngjiāo","banana"],["。","",""]],
+    [["蔬菜区","shūcàiqū","vegetable section"],["在","zài","at"],["水果区","shuǐguǒqū","fruit section"],["的","de","(possessive)"],["后","hòu","back",8],["面","miàn","side"],["，","",""],["我们","wǒmen","we"],["看","kàn","see"],["了","le","(past)"],["西红柿","xīhóngshì","tomato"],["和","hé","and"],["胡萝卜","húluóbo","carrot"],["。","",""]],
+    [["朋友","péngyou","friend"],["觉得","juéde","think"],["西红柿","xīhóngshì","tomato"],["真","zhēn","really",9],["新鲜","xīnxiān","fresh"],["，","",""],["她","tā","she"],["买","mǎi","buy"],["了","le","(past)"],["三","sān","three"],["个","gè","(measure word)"],["，","",""],["我","wǒ","I"],["也","yě","also",10],["买","mǎi","buy"],["了","le","(past)"],["一些","yīxiē","some"],["胡萝卜","húluóbo","carrot"],["。","",""]],
+    [["后来","hòulái","later"],["我们","wǒmen","we"],["去","qù","go"],["饮料区","yǐnliàoqū","drink section"],["，","",""],["我","wǒ","I"],["想","xiǎng","want"],["买","mǎi","buy"],["一","yī","one"],["杯","bēi","cup (measure)"],["水","shuǐ","water"],["，","",""],["但","dàn","but"],["那里","nàlǐ","there"],["也","yě","also"],["有","yǒu","have"],["牛奶","niúnǎi","milk"],["，","",""],["牛奶","niúnǎi","milk"],["在","zài","at"],["饮料区","yǐnliàoqū","drink section"],["的","de","(possessive)"],["右","yòu","right",11],["边","biān","side"],["。","",""]],
+    [["我","wǒ","I"],["会","huì","will",12],["选","xuǎn","choose"],["牛奶","niúnǎi","milk"],["，","",""],["朋友","péngyou","friend"],["会","huì","will"],["选","xuǎn","choose"],["水","shuǐ","water"],["。","",""]],
+    [["我们","wǒmen","we"],["付","fù","pay"],["了","le","(past)",13],["钱","qián","money"],["，","",""],["然后","ránhòu","then"],["从","cóng","from",14],["超市","chāoshì","supermarket"],["出来","chūlái","come out"],["。","",""]],
+    [["我们","wǒmen","we"],["都","dōu","all",15],["高兴","gāoxìng","happy"],["地","de","(adverbial)"],["回","huí","return"],["了","le","(past)"],["家","jiā","home"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Used as an adverb to indicate doing something with someone.",
+    "2": "Indicates the sequence of actions.",
+    "3": "Interrogative pronoun asking about quantity.",
+    "4": "The number of apples needed.",
+    "5": "Common measure word for apples.",
+    "6": "Degree adverb modifying 'like'.",
+    "7": "The number of bananas bought.",
+    "8": "Direction noun indicating the position behind the fruit section.",
+    "9": "Intensifier emphasizing the freshness.",
+    "10": "Indicates the speaker also bought carrots.",
+    "11": "Direction noun indicating the side where milk is located.",
+    "12": "Modal verb expressing intention or willingness.",
+    "13": "Past tense marker indicating completion of paying.",
+    "14": "Preposition indicating the starting point of coming out.",
+    "15": "Adverb indicating both persons performed the action."
+  },
+  "translation": "Today my friend and I went to the supermarket together. We first went to the fruit section. There were many apples and bananas. How many apples do we need? We need five apples. My friend likes bananas very much, so she bought three bananas. The vegetable section is behind the fruit section. We saw tomatoes and carrots. My friend thought the tomatoes were really fresh, so she bought three, and I also bought some carrots. Later we went to the drink section. I wanted to buy a cup of water, but there was also milk, and the milk was on the right side of the drink section. I will choose milk, and my friend will choose water. We paid the money, then came out of the supermarket. We all happily went home."
+}

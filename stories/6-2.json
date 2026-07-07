@@ -1,0 +1,40 @@
+{
+  "id": "6-2",
+  "level": 6,
+  "title": "一天的生活",
+  "titlePinyin": "yī tiān de shēng huó",
+  "topicEn": "A Day in Life",
+  "sentences": [
+    [["他","tā","he/him",1],["早上","zǎo shàng","morning"],["七点","qī diǎn","7 o'clock"],["起床","qǐ chuáng","get up"],["了","le","(completion particle)",2],["。","",""]],
+    [["他","tā","he/him"],["先","xiān","first"],["洗脸","xǐ liǎn","wash face"],["刷牙","shuā yá","brush teeth"],["。","",""]],
+    [["然后","rán hòu","then"],["他","tā","he/him"],["喝","hē","drink"],["一","yī","one",3],["杯","bēi","cup",4],["牛奶","niú nǎi","milk"],["，","",""],["吃","chī","eat"],["一","yī","one"],["块","kuài","piece",5],["面包","miàn bāo","bread"],["。","",""]],
+    [["接着","jiē zhe","next"],["他","tā","he/him"],["坐","zuò","sit/ride"],["地铁","dì tiě","subway"],["去","qù","go",6],["公司","gōng sī","company"],["。","",""]],
+    [["公司","gōng sī","company"],["在","zài","at/in",7],["他","tā","he/him"],["的","de","(possessive)",8],["家","jiā","home"],["前面","qián miàn","in front of"],["。","",""]],
+    [["中午","zhōng wǔ","noon"],["他","tā","he/him"],["和","hé","and/with",9],["同事","tóng shì","colleague"],["一起","yī qǐ","together",10],["吃","chī","eat"],["午餐","wǔ cān","lunch"],["。","",""]],
+    [["下午","xià wǔ","afternoon"],["他","tā","he/him"],["继续","jì xù","continue"],["工作","gōng zuò","work"],["。","",""]],
+    [["晚上","wǎn shàng","evening"],["他","tā","he/him"],["回到","huí dào","return to"],["家","jiā","home"],["里","lǐ","inside",11],["做饭","zuò fàn","cook"],["。","",""]],
+    [["他","tā","he/him"],["做","zuò","make"],["一","yī","one"],["道","dào","(measure word for dishes)"],["菜","cài","dish"],["。","",""]],
+    [["然后","rán hòu","then"],["他","tā","he/him"],["边","biān","while"],["吃","chī","eat"],["饭","fàn","meal",12],["边","biān","while"],["看","kàn","watch",13],["电视","diàn shì","TV"],["。","",""]],
+    [["然后","rán hòu","then"],["他","tā","he/him"],["看书","kàn shū","read books"],["学习","xué xí","study"],["中文","zhōng wén","Chinese language"],["。","",""]],
+    [["他","tā","he/him"],["常","cháng","often",14],["晚上","wǎn shàng","evening"],["学习","xué xí","study"],["。","",""]],
+    [["十点半","shí diǎn bàn","half past ten"],["他","tā","he/him"],["睡","shuì","sleep"],["觉","jiào","sleep (n.)",15],["。","",""]]
+  ],
+  "explanations": {
+    "1": "The story introduces a male subject; 'he' is the natural pronoun.",
+    "2": "The particle '了' indicates the action 'get up' is completed.",
+    "3": "The numeral 'one' is needed before the measure word 'cup'.",
+    "4": "The measure word 'cup' pairs with the noun 'milk'.",
+    "5": "The measure word 'piece' is used with the noun 'bread'.",
+    "6": "The verb 'go' indicates the direction to the company.",
+    "7": "The preposition 'at' shows the location of the company.",
+    "8": "The possessive particle '的' connects 'he' and 'home'.",
+    "9": "The conjunction 'and/with' links the subject and his colleagues.",
+    "10": "The adverb 'together' indicates joint action of eating.",
+    "11": "The position noun 'inside' indicates entering the home.",
+    "12": "The noun 'meal' is the object of the verb 'eat'.",
+    "13": "The verb 'watch' goes with the noun 'TV'.",
+    "14": "The frequency adverb 'often' modifies the studying habit.",
+    "15": "The noun 'sleep' serves as the object in the verb phrase 'sleep (the) sleep'."
+  },
+  "translation": "He got up at seven in the morning. He first washed his face and brushed his teeth. Then he drank a glass of milk and ate a piece of bread. Next he took the subway to go to the company. The company was in front of his home. At noon he had lunch with his colleagues. In the afternoon he continued working. In the evening he returned home to cook. He made a dish. Then he ate while watching TV. After that he read books and studied Chinese. He often studied in the evening. He went to bed at half past ten."
+}

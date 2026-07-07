@@ -1,0 +1,38 @@
+{
+  "id": "5-10",
+  "level": 5,
+  "title": "周末公园行",
+  "titlePinyin": "zhōu mò gōng yuán xíng",
+  "topicEn": "Weekend Park Trip",
+  "sentences": [
+    [["昨天","zuótiān","yesterday"],["是","shì","is"],["周末","zhōumò","weekend"],[",","",""],["我","wǒ","I"],["和","hé","and"],["朋友","péngyǒu","friend"],["去","qù","go"],["公园","gōngyuán","park"],[".","",""]],
+    [["公园","gōngyuán","park"],["里","lǐ","in",1],["有","yǒu","have"],["花","huā","flower"],[".","",""]],
+    [["我们","wǒmen","we"],["从","cóng","from",2],["公园","gōngyuán","park"],["门口","ménkǒu","gate"],["进去","jìnqù","go in"],[",","",""],["朋友","péngyǒu","friend"],["说","shuō","say"],["我们","wǒmen","we"],["先","xiān","first",3],["去","qù","go"],["湖","hú","lake"],["边","biān","side"],[".","",""]],
+    [["湖","hú","lake"],["前","qián","in front of",4],["有","yǒu","have"],["四","sì","four"],["棵","kē","(measure word for trees)"],["大","dà","big"],["树","shù","tree"],[",","",""],["大","dà","big"],["树","shù","tree"],["下","xià","under",5],["有","yǒu","have"],["长椅","chángyǐ","bench"],[".","",""]],
+    [["我们","wǒmen","we"],["坐","zuò","sit"],["在","zài","at"],["长椅","chángyǐ","bench"],["上","shàng","on"],["休息","xiūxi","rest"],[".","",""]],
+    [["我","wǒ","I"],["带来","dàilái","bring"],["一","yī","one",6],["本","běn","(measure word for books)"],["书","shū","book"],[",","",""],["朋友","péngyǒu","friend"],["也","yě","also",7],["带来","dàilái","bring"],["别的","biéde","other"],["书","shū","book"],[",","",""],["我们","wǒmen","we"],["一起","yìqǐ","together",8],["看","kàn","read"],["书","shū","book"],[".","",""]],
+    [["随后","suíhòu","afterwards"],[",","",""],["朋友","péngyǒu","friend"],["说","shuō","say"],["这","zhè","this",9],["本","běn","(measure word for books)"],["书","shū","book"],["非常","fēicháng","very"],["有","yǒu","have"],["意思","yìsi","interest; fun"],[".","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["还","hái","also",10],["去","qù","go"],["划船","huáchuán","boat"],[".","",""]],
+    [["湖","hú","lake"],["上","shàng","on"],["有","yǒu","have"],["几","jǐ","several",11],["只","zhī","(measure word for animals)"],["鸭子","yāzi","duck"],[".","",""]],
+    [["我们","wǒmen","we"],["玩","wán","play"],["得","de","(complement marker)"],["很","hěn","very",12],["开心","kāixīn","happy"],[",","",""],["划","huá","row"],["了","le","(perfective marker)"],["两","liǎng","two",13],["个","gè","(measure word)"],["小时","xiǎoshí","hour"],[".","",""]],
+    [["我们","wǒmen","we"],["再","zài","again",14],["看","kàn","look"],["了","le","(perfective marker)"],["看","kàn","look"],["风景","fēngjǐng","scenery"],[",","",""],["最后","zuìhòu","finally"],["都","dōu","all",15],["累","lèi","tired"],["了","le","(perfective marker)"],[",","",""],["就","jiù","then"],["回家","huíjiā","go home"],["了","le","(sentence-final particle)"],[".","",""]]
+  ],
+  "explanations": {
+    "1": "Indicates location inside the park.",
+    "2": "Indicates the starting point of movement.",
+    "3": "Shows the sequence of actions.",
+    "4": "Specifies the position in front of the lake.",
+    "5": "Describes the position under the tree.",
+    "6": "Number before the measure word for a book.",
+    "7": "Indicates that the friend also brought a book.",
+    "8": "Shows that they read books together.",
+    "9": "Refers to the specific book mentioned.",
+    "10": "Adds an additional activity.",
+    "11": "An indefinite number of ducks.",
+    "12": "Modifies the adjective 'happy' to indicate degree.",
+    "13": "Number of hours spent rowing.",
+    "14": "Indicates doing the action once more.",
+    "15": "Indicates that everyone was tired."
+  },
+  "translation": "Yesterday was the weekend. My friend and I went to the park. There were flowers in the park. We entered through the park gate. My friend said we should go to the lake first. There were four big trees in front of the lake. Under the big trees there was a bench. We sat on the bench to rest. I brought a book, and my friend brought another book. We read together. Afterwards, my friend said this book was very interesting. Then we also went boating. There were several ducks on the lake. We had a lot of fun and rowed for two hours. We looked at the scenery again. Finally we were all tired, so we went home."
+}

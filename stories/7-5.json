@@ -1,0 +1,41 @@
+{
+  "id": "7-5",
+  "level": 7,
+  "title": "周末购物",
+  "titlePinyin": "zhōu mò gòu wù",
+  "topicEn": "Weekend Shopping",
+  "sentences": [
+    [["周末","zhōu mò","weekend"],["上午","shàng wǔ","morning"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["妈妈","mā ma","mother"],["从","cóng","from",2],["家","jiā","home"],["出发","chū fā","depart"],["，","",""],["一起","yī qǐ","together",3],["去","qù","go"],["一","yī","one"],["家","jiā","measure word for shops",4],["超市","chāo shì","supermarket"],["。","",""]],
+    [["我们","wǒ men","we"],["想","xiǎng","want"],["买","mǎi","buy"],["一些","yī xiē","some"],["水果","shuǐ guǒ","fruit"],["和","hé","and"],["饮料","yǐn liào","drink"],["。","",""]],
+    [["超市","chāo shì","supermarket"],["里","lǐ","inside",5],["人","rén","people"],["很","hěn","very"],["多","duō","many"],["。","",""]],
+    [["我们","wǒ men","we"],["先","xiān","first",6],["向","xiàng","towards"],["左","zuǒ","left",7],["走","zǒu","walk"],["，","",""],["去","qù","go"],["了","le","particle"],["水果区","shuǐ guǒ qū","fruit section"],["。","",""]],
+    [["妈妈","mā ma","mother"],["问","wèn","ask"],["我","wǒ","me"],["喜欢","xǐ huān","like"],["吃","chī","eat"],["什么","shén me","what",8],["水果","shuǐ guǒ","fruit"],["。","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["我","wǒ","I"],["喜欢","xǐ huān","like"],["吃","chī","eat"],["苹果","píng guǒ","apple"],["和","hé","and"],["香蕉","xiāng jiāo","banana"],["。","",""]],
+    [["妈妈","mā ma","mother"],["买","mǎi","buy"],["了","le","particle"],["三","sān","three",9],["个","gè","measure word",10],["苹果","píng guǒ","apple"],["。","",""]],
+    [["然后","rán hòu","then"],["我们","wǒ men","we"],["向","xiàng","towards"],["右","yòu","right",11],["走","zǒu","walk"],["，","",""],["去","qù","go"],["拿","ná","take"],["饮料","yǐn liào","drink"],["。","",""]],
+    [["妈妈","mā ma","mother"],["会","huì","can",12],["选","xuǎn","choose"],["饮料","yǐn liào","drink"],["，","",""],["她","tā","she"],["选","xuǎn","choose"],["了","le","particle"],["两","liǎng","two",13],["杯","bēi","cup",14],["果汁","guǒ zhī","juice"],["。","",""]],
+    [["我们","wǒ men","we"],["遇到","yù dào","meet"],["了","le","particle"],["邻居","lín jū","neighbor"],["张阿姨","zhāng ā yí","Aunt Zhang"],["。","",""]],
+    [["她","tā","she"],["问","wèn","ask"],["我们","wǒ men","us"],["买","mǎi","buy"],["了","le","particle"],["多少","duō shǎo","how much"],["东西","dōng xi","thing"],["。","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["还","hái","still"],["没","méi","not",15],["买","mǎi","buy"],["完","wán","finish"],["。","",""]],
+    [["她","tā","she"],["笑","xiào","smile"],["着","zhe","particle"],["说","shuō","say"],["真","zhēn","really"],["巧","qiǎo","coincidental"],["，","",""],["她","tā","she"],["也","yě","also"],["来","lái","come"],["买","mǎi","buy"],["东西","dōng xi","thing"],["，","",""],["我们","wǒ men","we"],["一块儿","yī kuàir","together"],["逛","guàng","stroll"],["吧","ba","particle"],["。","",""]],
+    [["最后","zuì hòu","finally"],["，","",""],["我们","wǒ men","we"],["买","mǎi","buy"],["的","de","particle"],["东西","dōng xi","thing"],["很","hěn","very"],["多","duō","many"],["，","",""],["高兴","gāo xìng","happy"],["地","de","adverbial particle"],["回家","huí jiā","go home"],["了","le","particle"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "连接人物，表示‘我和妈妈’一起行动。",
+    "2": "引出起点，表示从家里出发。",
+    "3": "表示共同做某件事，强调结伴而行。",
+    "4": "量词，用于商店，这里指一家超市。",
+    "5": "方位名词，表示超市的内部空间。",
+    "6": "时间副词，表示首先做某事。",
+    "7": "方位名词，指示向左的方向。",
+    "8": "疑问代词，用于询问具体水果种类。",
+    "9": "数词，表示苹果的数量。",
+    "10": "通用个体量词，搭配苹果使用。",
+    "11": "方位名词，指示向右的方向。",
+    "12": "能愿动词，表示有能力挑选饮料。",
+    "13": "数词，放在量词前表示‘两个’。",
+    "14": "名量词，用于饮品。",
+    "15": "否定副词，表示动作尚未完成。"
+  },
+  "translation": "On the weekend morning, I and my mother started from home and went together to a supermarket. We wanted to buy some fruit and drinks. The supermarket was very crowded. We first walked left to the fruit section. Mother asked me what fruit I liked to eat. I said I liked apples and bananas. Mother bought three apples. Then we walked right to get drinks. Mother knows how to choose drinks; she picked two cups of juice. We ran into our neighbor Aunt Zhang. She asked us how many things we had bought. I said we hadn't finished buying yet. She smiled and said, 'What a coincidence, I'm also here to buy things. Let's stroll together!' Finally, we had bought a lot of things and happily went home."
+}

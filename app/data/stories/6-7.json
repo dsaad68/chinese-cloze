@@ -1,0 +1,39 @@
+{
+  "id": "6-7",
+  "level": 6,
+  "title": "周末购物",
+  "titlePinyin": "zhōu mò gòu wù",
+  "topicEn": "Weekend shopping",
+  "sentences": [
+    [["今天","jīn tiān","today"],["星期六","xīng qī liù","Saturday"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["妈妈","mā ma","mother"],["从","cóng","from",2],["家里","jiā lǐ","home"],["出发","chū fā","set out"],["，","",""],["常常","cháng cháng","often",3],["一起","yī qǐ","together",4],["去","qù","go"],["超市","chāo shì","supermarket"],["买","mǎi","buy"],["东西","dōng xi","things"],["。","",""]],
+    [["我们","wǒ men","we"],["先","xiān","first",5],["去","qù","go"],["了","le","(past)"],["水果区","shuǐ guǒ qū","fruit area"],["，","",""],["那里","nà lǐ","there"],["有","yǒu","have"],["苹果","píng guǒ","apple"],["、","",""],["香蕉","xiāng jiāo","banana"],["和","hé","and"],["葡萄","pú tao","grape"],["。","",""]],
+    [["妈妈","mā ma","mother"],["问","wèn","ask"],["我","wǒ","I"],["吃","chī","eat"],["哪","nǎ","which",6],["个","gè","(measure)"],["，","",""],["苹果","píng guǒ","apple"],["还是","hái shì","or",7],["香蕉","xiāng jiāo","banana"],["，","",""],["我","wǒ","I"],["说","shuō","say"],["我","wǒ","I"],["会","huì","will",8],["吃","chī","eat"],["苹果","píng guǒ","apple"],["。","",""]],
+    [["她","tā","she"],["让","ràng","let",9],["我","wǒ","me"],["拿","ná","take"],["三","sān","three",10],["斤","jīn","jin",11],["苹果","píng guǒ","apple"],["，","",""],["并","bìng","and"],["问","wèn","ask"],["这些","zhè xiē","these",12],["苹果","píng guǒ","apple"],["多少","duō shǎo","how much",13],["钱","qián","money"],["，","",""],["我","wǒ","I"],["说","shuō","say"],["三","sān","three"],["斤","jīn","jin"],["十五","shí wǔ","fifteen"],["元","yuán","yuan"],["。","",""]],
+    [["然后","rán hòu","then"],["我们","wǒ men","we"],["去","qù","go"],["蔬菜区","shū cài qū","vegetable area"],["，","",""],["蔬菜","shū cài","vegetables"],["在","zài","at"],["左边","zuǒ biān","left side"],["的","de","(possessive)"],["架子","jià zi","shelf"],["上","shàng","on"],["。","",""]],
+    [["妈妈","mā ma","mother"],["正在","zhèng zài","be ...ing"],["挑选","tiāo xuǎn","select"],["白菜","bái cài","cabbage"],["和","hé","and"],["西红柿","xī hóng shì","tomato"],["，","",""],["她","tā","she"],["没有","méi yǒu","did not",14],["买","mǎi","buy"],["菠菜","bō cài","spinach"],["。","",""]],
+    [["她","tā","she"],["问","wèn","ask"],["我","wǒ","me"],["还","hái","also"],["要","yào","want"],["买","mǎi","buy"],["什么","shén me","what"],["，","",""],["她","tā","she"],["告诉","gào su","tell"],["我","wǒ","me"],["别","bié","don't"],["买","mǎi","buy"],["太多","tài duō","too much"],["。","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["再","zài","again"],["买","mǎi","buy"],["一些","yī xiē","some"],["牛奶","niú nǎi","milk"],["吧","ba","(suggestion)"],["，","",""],["我","wǒ","I"],["也","yě","also"],["喜欢","xǐ huān","like"],["喝","hē","drink"],["牛奶","niú nǎi","milk"],["。","",""]],
+    [["我们","wǒ men","we"],["去","qù","go"],["了","le","(past)"],["饮料区","yǐn liào qū","beverage area"],["，","",""],["牛奶","niú nǎi","milk"],["在","zài","at"],["冰箱","bīng xiāng","fridge"],["里","lǐ","inside",15],["。","",""]],
+    [["我们","wǒ men","we"],["拿","ná","take"],["了","le","(past)"],["两","liǎng","two"],["盒","hé","box"],["牛奶","niú nǎi","milk"],["。","",""]],
+    [["最后","zuì hòu","finally"],["去","qù","go"],["收银台","shōu yín tái","checkout"],["付","fù","pay"],["钱","qián","money"],["。","",""]],
+    [["今天","jīn tiān","today"],["买","mǎi","buy"],["了","le","(past)"],["很多","hěn duō","many"],["东西","dōng xi","things"],["，","",""],["我们","wǒ men","we"],["都","dōu","all"],["非常","fēi cháng","very"],["高兴","gāo xìng","happy"],["地","de","(adverbial)"],["回家","huí jiā","go home"],["了","le","(past)"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Connects the two subjects 'I' and 'mother'.",
+    "2": "Indicates the starting point of the action.",
+    "3": "Frequency adverb describing a habitual action.",
+    "4": "Coordination adverb meaning 'together' with the verb 'go'.",
+    "5": "Time adverb indicating the first step in a sequence.",
+    "6": "Interrogative pronoun asking for a choice.",
+    "7": "Conjunction presenting alternatives.",
+    "8": "Modal verb expressing intention to eat apples.",
+    "9": "Causative verb used to request an action.",
+    "10": "Numeral quantifying the weight of apples.",
+    "11": "Measure word for weight, appropriate for fruit.",
+    "12": "Demonstrative pronoun specifying the apples in question.",
+    "13": "Interrogative asking about the price.",
+    "14": "Negative adverb negating the action of buying spinach.",
+    "15": "Direction noun indicating the location of the milk."
+  },
+  "translation": "Today is Saturday. I went to the supermarket with my mom from home, and we often go together. We first went to the fruit area. There were apples, bananas, and grapes. Mom asked me which one to eat, apple or banana. I said I would eat apples. She asked me to take three jin of apples and asked how much these apples cost. I said three jin is fifteen yuan. Then we went to the vegetable area. The vegetables are on the left shelf. Mom was selecting cabbage and tomatoes. She didn't buy spinach. She asked me what else to buy, and she told me not to buy too much. I said to buy some milk, and I also like milk. We went to the beverage area. The milk is in the fridge. We took two boxes of milk. Finally, we went to the checkout to pay. Today we bought a lot of things, and we all very happily went home."
+}

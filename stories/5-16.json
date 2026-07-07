@@ -1,0 +1,42 @@
+{
+  "id": "5-16",
+  "level": 5,
+  "title": "参观博物馆",
+  "titlePinyin": "cān guān bó wù guǎn",
+  "topicEn": "A visit to the museum",
+  "sentences": [
+    [["这","zhè","this"],["个","gè","(measure word)"],["周末","zhōumò","weekend"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["家人","jiārén","family"],["打算","dǎsuàn","plan"],["去","qù","go"],["博物馆","bówùguǎn","museum"],["。","",""]],
+    [["早上","zǎoshang","morning"],["八","bā","eight"],["点","diǎn","o'clock"],["，","",""],["我们","wǒmen","we"],["从","cóng","from",2],["家","jiā","home"],["出发","chūfā","depart"],["。","",""]],
+    [["爸爸","bàba","dad"],["会","huì","can",3],["开车","kāichē","drive"],["，","",""],["我","wǒ","I"],["坐","zuò","sit"],["在","zài","at"],["前面","qiánmiàn","front",4],["。","",""]],
+    [["妈妈","māma","mom"],["和","hé","and"],["妹妹","mèimei","younger sister"],["坐","zuò","sit"],["在","zài","at"],["后面","hòumiàn","back",5],["。","",""]],
+    [["路上","lùshang","on the way"],["，","",""],["我们","wǒmen","we"],["先","xiān","first",6],["去","qù","go"],["了","le","(aspect particle)"],["一","yī","one"],["个","gè","(measure word)"],["加油站","jiāyóuzhàn","gas station"],["。","",""]],
+    [["然后","ránhòu","then"],["，","",""],["我们","wǒmen","we"],["继续","jìxù","continue"],["向","xiàng","towards"],["前","qián","forward"],["开","kāi","drive"],["。","",""]],
+    [["到","dào","arrive"],["了","le","(aspect)"],["博物馆","bówùguǎn","museum"],["，","",""],["我们","wǒmen","we"],["不","bù","not"],["知道","zhīdào","know"],["要","yào","want"],["买","mǎi","buy"],["几","jǐ","how many",7],["张","zhāng","(measure for tickets)"],["票","piào","ticket"],["。","",""]],
+    [["最后","zuìhòu","finally"],["，","",""],["我们","wǒmen","we"],["买","mǎi","buy"],["了","le","(aspect)"],["三","sān","three",8],["张","zhāng","(measure)"],["票","piào","ticket"],["。","",""]],
+    [["博物馆","bówùguǎn","museum"],["里","lǐ","inside",9],["有","yǒu","have"],["很多","hěnduō","many"],["古老","gǔlǎo","ancient"],["的","de","(attribute)"],["文物","wénwù","artifact"],["。","",""]],
+    [["但是","dànshì","but"],["，","",""],["博物馆","bówùguǎn","museum"],["里","lǐ","inside"],["不","bù","not"],["能","néng","can",10],["拍照","pāizhào","take photos"],["。","",""]],
+    [["我","wǒ","I"],["最","zuì","most"],["喜欢","xǐhuān","like"],["的","de","(nominalizer)"],["是","shì","is"],["那些","nàxiē","those",11],["青铜器","qīngtóngqì","bronze ware"],["。","",""]],
+    [["博物馆","bówùguǎn","museum"],["里","lǐ","inside"],["没有","méiyǒu","did not",12],["卖","mài","sell"],["吃","chī","food"],["的","de","(nominalizer)"],["，","",""],["所以","suǒyǐ","so"],["我们","wǒmen","we"],["去","qù","go"],["了","le","(aspect)"],["外面","wàimiàn","outside",13],["的","de","(possessive)"],["咖啡馆","kāfēiguǎn","café"],["。","",""]],
+    [["在","zài","at"],["咖啡馆","kāfēiguǎn","café"],["里","lǐ","inside"],["，","",""],["我们","wǒmen","we"],["喝","hē","drink"],["了","le","(aspect)"],["一","yī","one"],["杯","bēi","cup"],["果汁","guǒzhī","juice"],["和","hé","and"],["吃","chī","eat"],["了","le","(aspect)"],["一","yī","one"],["个","gè","(measure)"],["面包","miànbāo","bread"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["两","liǎng","two"],["点","diǎn","o'clock"],["，","",""],["我们","wǒmen","we"],["一起","yìqǐ","together",14],["回家","huíjiā","go home"],["了","le","(aspect)"],["。","",""]],
+    [["今天","jīntiān","today"],["真","zhēn","really"],["开心","kāixīn","happy"],["，","",""],["下次","xiàcì","next time"],["再","zài","again"],["来","lái","come"],["看","kàn","see"],["别的","biéde","others",15],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Connects 'I' and 'family' to indicate accompaniment.",
+    "2": "Indicates the starting point of the action 'depart'.",
+    "3": "Modal verb expressing Dad's ability to drive.",
+    "4": "Location noun indicating the front seat.",
+    "5": "Location noun indicating the back seat.",
+    "6": "Time adverb indicating the order of actions.",
+    "7": "Question word used to ask about the number of tickets.",
+    "8": "Number specifying the quantity of tickets purchased.",
+    "9": "Location noun indicating inside the museum.",
+    "10": "Modal verb used in the negative to express prohibition.",
+    "11": "Demonstrative pronoun referring to specific bronze wares.",
+    "12": "Negative adverb indicating the absence of food for sale.",
+    "13": "Location noun indicating the place outside the museum.",
+    "14": "Adverb indicating joint action of going home.",
+    "15": "Indefinite pronoun referring to other things to see."
+  },
+  "translation": "This weekend, my family and I planned to go to the museum. At eight o'clock in the morning, we set off from home. Dad can drive, and I sat in the front. Mom and my younger sister sat in the back. On the way, we first went to a gas station. Then we continued driving forward. When we arrived at the museum, we didn't know how many tickets to buy. In the end, we bought three tickets. Inside the museum, there were many ancient artifacts. But photography was not allowed inside the museum. What I liked most were those bronze wares. There was no food sold in the museum, so we went to the café outside. At the café, we drank a glass of juice and ate a piece of bread. At two o'clock in the afternoon, we went home together. Today was really happy; next time we'll come again to see other things."
+}

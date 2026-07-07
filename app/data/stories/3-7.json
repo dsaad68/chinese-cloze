@@ -1,0 +1,39 @@
+{
+  "id": "3-7",
+  "level": 3,
+  "title": "我的早晨",
+  "titlePinyin": "wǒ de zǎo chén",
+  "topicEn": "Daily Morning Routine",
+  "sentences": [
+    [["今天","jīntiān","today"],["早上","zǎoshang","morning"],["，","",""],["我","wǒ","I"],["六","liù","six",1],["点","diǎn","o'clock",2],["起床","qǐchuáng","get up"],["。","",""]],
+    [["我","wǒ","I"],["起床","qǐchuáng","get up"],["后","hòu","after",3],["，","",""],["先","xiān","first",4],["刷牙","shuāyá","brush teeth"],["，","",""],["然后","ránhòu","then"],["洗脸","xǐliǎn","wash face"],["。","",""]],
+    [["我","wǒ","I"],["穿","chuān","wear"],["衣服","yīfu","clothes"],["，","",""],["吃","chī","eat"],["早饭","zǎofàn","breakfast"],["。","",""]],
+    [["我","wǒ","I"],["喝","hē","drink"],["了","le","perfective particle",5],["一","yī","one",6],["杯","bēi","cup",7],["牛奶","niúnǎi","milk"],["，","",""],["吃","chī","eat"],["了","le","perfective particle"],["一","yī","one"],["个","gè","general measure word",8],["面包","miànbāo","bread"],["。","",""]],
+    [["然后","ránhòu","then"],["我","wǒ","I"],["从","cóng","from",9],["家","jiā","home",10],["出发","chūfā","depart"],["去","qù","go",11],["学校","xuéxiào","school"],["。","",""]],
+    [["在","zài","at",12],["学校","xuéxiào","school"],["，","",""],["我","wǒ","I"],["学习","xuéxí","study"],["汉语","hànyǔ","Chinese language"],["，","",""],["还","hái","also",13],["学习","xuéxí","study"],["数学","shùxué","mathematics"],["。","",""]],
+    [["中午","zhōngwǔ","noon"],["，","",""],["我","wǒ","I"],["和","hé","and",14],["朋友","péngyou","friend"],["一起","yīqǐ","together",15],["在","zài","at"],["食堂","shítáng","cafeteria"],["吃饭","chīfàn","eat a meal"],["。","",""]],
+    [["我们","wǒmen","we"],["吃","chī","eat"],["了","le","perfective particle"],["米饭","mǐfàn","rice"],["和","hé","and"],["菜","cài","dish"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["，","",""],["我","wǒ","I"],["回","huí","return"],["家","jiā","home"],["写","xiě","write"],["作业","zuòyè","homework"],["。","",""]],
+    [["晚上","wǎnshang","evening"],["，","",""],["我","wǒ","I"],["妈妈","māma","mom"],["做饭","zuòfàn","cook"],["，","",""],["我们","wǒmen","we"],["一起","yīqǐ","together"],["吃","chī","eat"],["晚饭","wǎnfàn","dinner"],["。","",""]],
+    [["晚饭","wǎnfàn","dinner"],["后","hòu","after"],["，","",""],["我","wǒ","I"],["看","kàn","watch"],["了","le","perfective particle"],["一下","yīxià","a bit"],["电视","diànshì","television"],["。","",""]],
+    [["我","wǒ","I"],["十","shí","ten"],["点","diǎn","o'clock"],["睡觉","shuìjiào","sleep"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Number used to state the time of waking up.",
+    "2": "Measure word for hours in telling time.",
+    "3": "Indicates the sequence of actions after getting up.",
+    "4": "Shows the first action in a sequence.",
+    "5": "Completes the action of drinking.",
+    "6": "Number used with a measure word to count cups.",
+    "7": "Measure word for liquids in a cup.",
+    "8": "Common measure word for counting bread.",
+    "9": "Indicates the starting point of departure.",
+    "10": "Noun specifying the place of departure.",
+    "11": "Verb indicating movement towards school.",
+    "12": "Preposition indicating location of studying.",
+    "13": "Adds another subject studied, meaning 'also'.",
+    "14": "Connects the subject with his friend.",
+    "15": "Adverb showing the action is done jointly."
+  },
+  "translation": "This morning, I got up at six o'clock. After getting up, I first brushed my teeth, then washed my face. I put on clothes and ate breakfast. I drank a cup of milk and ate a piece of bread. Then I left home for school. At school, I studied Chinese and also studied math. At noon, my friend and I ate together in the cafeteria. We ate rice and dishes. In the afternoon, I went home to do homework. In the evening, my mom cooked, and we ate dinner together. After dinner, I watched TV for a while. I went to sleep at ten o'clock."
+}

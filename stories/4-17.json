@@ -1,0 +1,41 @@
+{
+  "id": "4-17",
+  "level": 4,
+  "title": "周末去公园",
+  "titlePinyin": "zhōumò qù gōngyuán",
+  "topicEn": "A weekend trip to the park",
+  "sentences": [
+    [["上","shàng","last"],["个","gè","measure word"],["周末","zhōumò","weekend"],["，","","comma"],["我","wǒ","I"],["和","hé","and"],["朋友","péngyou","friend"],["从","cóng","from",1],["家里","jiālǐ","home"],["出发","chūfā","set off"],["去","qù","go"],["公园","gōngyuán","park"],["。","","period"]],
+    [["公园","gōngyuán","park"],["里","lǐ","in",2],["有","yǒu","have"],["很多","hěnduō","many"],["花","huā","flower"],["，","","comma"],["非常","fēicháng","very",3],["漂亮","piàoliang","beautiful"],["。","","period"]],
+    [["我们","wǒmen","we"],["走","zǒu","walk"],["进去","jìnqù","go in"],["，","","comma"],["先","xiān","first",4],["看","kàn","look"],["花","huā","flower"],["。","","period"]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["往","wǎng","towards"],["东","dōng","east",5],["走","zǒu","walk"],["，","","comma"],["看到","kàndào","see"],["了","le","particle",6],["一","yī","one"],["个","gè","measure word"],["湖","hú","lake"],["。","","period"]],
+    [["湖","hú","lake"],["上","shàng","on"],["有","yǒu","have"],["一","yī","one"],["座","zuò","measure for bridge"],["桥","qiáo","bridge"],["，","","comma"],["桥","qiáo","bridge"],["的","de","possessive particle"],["左边","zuǒbiān","left side"],["有","yǒu","have"],["一","yī","one"],["棵","kē","measure for trees"],["大树","dàshù","big tree"],["，","","comma"],["树","shù","tree"],["下","xià","under"],["有","yǒu","have"],["几","jǐ","how many",7],["个","gè","measure word"],["人","rén","person"],["在","zài","in progress"],["休息","xiūxi","rest"],["。","","period"]],
+    [["我们","wǒmen","we"],["走","zǒu","walk"],["过去","guòqù","go over"],["，","","comma"],["看到","kàndào","see"],["了","le","particle"],["那些","nàxiē","those",8],["鱼","yú","fish"],["。","","period"]],
+    [["朋友","péngyou","friend"],["问","wèn","ask"],["我","wǒ","me"],["：","","colon"],["“","","left quote"],["你","nǐ","you"],["能","néng","can",9],["吃","chī","eat"],["面包","miànbāo","bread"],["吗","ma","question particle"],["？","","question mark"],["”","","right quote"]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","","colon"],["“","","left quote"],["不","bù","no",10],["，","","comma"],["我","wǒ","I"],["不","bù","not"],["饿","è","hungry"],["。","","period"],["”","","right quote"]],
+    [["之后","zhīhòu","after that"],["我们","wǒmen","we"],["去","qù","go"],["了","le","particle"],["商店","shāngdiàn","store"],["，","","comma"],["买","mǎi","buy"],["了","le","particle"],["两","liǎng","two",11],["杯","bēi","cup",12],["水","shuǐ","water"],["。","","period"]],
+    [["在","zài","at"],["商店","shāngdiàn","store"],["外","wài","outside",13],["，","","comma"],["我","wǒ","I"],["遇到","yùdào","meet"],["了","le","particle"],["一","yī","one"],["个","gè","measure word"],["同学","tóngxué","classmate"],["。","","period"]],
+    [["他","tā","he"],["问","wèn","ask"],["我","wǒ","me"],["：","","colon"],["“","","left quote"],["你","nǐ","you"],["要","yào","want"],["去","qù","go"],["哪里","nǎlǐ","where",14],["？","","question mark"],["”","","right quote"]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","","colon"],["“","","left quote"],["我","wǒ","I"],["要","yào","want"],["回家","huíjiā","go home"],["。","","period"],["”","","right quote"]],
+    [["我们","wǒmen","we"],["一起","yīqǐ","together",15],["坐","zuò","take"],["公交车","gōngjiāochē","bus"],["回家","huíjiā","go home"],["。","","period"]],
+    [["今天","jīntiān","today"],["玩","wán","play"],["得","de","particle"],["很","hěn","very"],["开心","kāixīn","happy"],["。","","period"]]
+  ],
+  "explanations": {
+    "1": "Indicates the starting point of the journey.",
+    "2": "Position word meaning 'inside' the park.",
+    "3": "Adverb of degree to emphasize the beauty.",
+    "4": "Time adverb indicating the first action.",
+    "5": "Direction word indicating the direction of walking.",
+    "6": "Aspect particle indicating completed action.",
+    "7": "Question word asking about an unspecified number.",
+    "8": "Demonstrative pronoun referring to specific fish.",
+    "9": "Modal verb expressing ability.",
+    "10": "Negation word used to refuse.",
+    "11": "Number used before a measure word.",
+    "12": "Measure word for cups of water.",
+    "13": "Position word meaning 'outside' the store.",
+    "14": "Question word asking about place.",
+    "15": "Adverb meaning 'together'."
+  },
+  "translation": "Last weekend, I went to the park with my friend. There were many flowers in the park, very beautiful. We walked in, first looked at flowers. Then we walked east and saw a lake. There was a bridge on the lake, and to the left of the bridge there was a big tree, with several people resting under the tree. We walked over and saw those fish. My friend asked me: 'Can you eat bread?' I said: 'No, I'm not hungry.' After that we went to the store and bought two cups of water. Outside the store, I met a classmate. He asked me: 'Where are you going?' I said: 'I'm going home.' We took the bus home together. Today we had a lot of fun."
+}

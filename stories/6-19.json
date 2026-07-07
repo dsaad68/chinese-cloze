@@ -1,0 +1,37 @@
+{
+  "id": "6-19",
+  "level": 6,
+  "title": "周末购物",
+  "titlePinyin": "zhōu mò gòu wù",
+  "topicEn": "Weekend Shopping",
+  "sentences": [
+    [["我","wǒ","I"],["和","hé","and",1],["朋友","péngyou","friend"],["一起","yìqǐ","together"],["去","qù","go"],["这","zhè","this",2],["个","gè","(measure word)"],["市场","shìchǎng","market"],["。","","period"]],
+    [["我们","wǒmen","we"],["先","xiān","first",3],["看","kàn","look"],["了","le","(aspect particle)"],["水果","shuǐguǒ","fruit"],["，","","comma"],["她","tā","she",4],["会","huì","can",5],["选","xuǎn","choose"],["水果","shuǐguǒ","fruit"],["。","","period"]],
+    [["朋友","péngyou","friend"],["问","wèn","ask"],["老板","lǎobǎn","boss"],["苹果","píngguǒ","apple"],["多少","duōshǎo","how much",6],["钱","qián","money"],["一","yī","one"],["斤","jīn","jin"],["，","","comma"],["老板","lǎobǎn","boss"],["说","shuō","say"],["三","sān","three"],["块","kuài","yuan"],["一","yī","one"],["斤","jīn","jin"],["。","","period"]],
+    [["朋友","péngyou","friend"],["买","mǎi","buy"],["了","le","(aspect particle)"],["三","sān","three",7],["个","gè","(measure word)"],["苹果","píngguǒ","apple"],["，","","comma"],["我","wǒ","I"],["也","yě","also"],["买","mǎi","buy"],["了","le","(aspect particle)"],["两","liǎng","two"],["个","gè","(measure word)"],["。","","period"]],
+    [["朋友","péngyou","friend"],["问","wèn","ask"],["还","hái","still",8],["需要","xūyào","need"],["买","mǎi","buy"],["什么","shénme","what",9],["，","","comma"],["我","wǒ","I"],["说","shuō","say"],["买","mǎi","buy"],["一些","yīxiē","some"],["西红柿","xīhóngshì","tomato"],["吧","ba","(suggestion)"],["。","","period"]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","go"],["了","le","(aspect particle)"],["菜店","càidiàn","vegetable shop"],["，","","comma"],["店","diàn","shop"],["里","lǐ","in"],["有","yǒu","have"],["很多","hěnduō","many"],["蔬菜","shūcài","vegetables"],["。","","period"]],
+    [["我们","wǒmen","we"],["常","cháng","often",10],["来","lái","come"],["这","zhè","this"],["家","jiā","(measure word for shops)",11],["菜店","càidiàn","vegetable shop"],["，","","comma"],["朋友","péngyou","friend"],["问","wèn","ask"],["西红柿","xīhóngshì","tomato"],["几","jǐ","how many"],["块","kuài","yuan"],["钱","qián","money"],["一","yī","one"],["斤","jīn","jin"],["。","","period"]],
+    [["老板","lǎobǎn","boss"],["说","shuō","say"],["五","wǔ","five"],["块","kuài","yuan"],["一","yī","one"],["斤","jīn","jin"],["，","","comma"],["我们","wǒmen","we"],["觉得","juéde","feel"],["太","tài","too",12],["贵","guì","expensive"],["了","le","(aspect particle)"],["就","jiù","then"],["没","méi","not",13],["买","mǎi","buy"],["。","","period"]],
+    [["最后","zuìhòu","finally"],["我们","wǒmen","we"],["买","mǎi","buy"],["了","le","(aspect particle)"],["半","bàn","half"],["斤","jīn","jin"],["肉","ròu","meat"],["，","","comma"],["从","cóng","from",14],["市场","shìchǎng","market"],["回家","huíjiā","go home"],["后","hòu","after"],["一起","yìqǐ","together"],["做","zuò","do"],["晚饭","wǎnfàn","dinner"],["。","","period"]],
+    [["我","wǒ","I"],["做","zuò","do"],["饭","fàn","meal"],["，","","comma"],["朋友","péngyou","friend"],["洗","xǐ","wash"],["碗","wǎn","bowl"],["，","","comma"],["我们","wǒmen","we"],["都","dōu","all",15],["很","hěn","very"],["开心","kāixīn","happy"],["。","","period"]]
+  ],
+  "explanations": {
+    "1": "Connects 'I' and 'friend' to indicate companionship.",
+    "2": "Demonstrative pronoun specifying which market.",
+    "3": "Time adverb showing the sequence of actions.",
+    "4": "Personal pronoun referring to the friend.",
+    "5": "Modal verb expressing ability or skill.",
+    "6": "Question pronoun asking about price.",
+    "7": "Numeral indicating quantity of apples.",
+    "8": "Adverb meaning 'additionally', used to ask for more items.",
+    "9": "Question pronoun asking for the item to buy.",
+    "10": "Frequency adverb 'often', describing habitual action.",
+    "11": "Measure word used with 'this' to specify the shop.",
+    "12": "Degree adverb 'too' intensifying the adjective 'expensive'.",
+    "13": "Negative adverb used before verb to indicate past negation.",
+    "14": "Preposition indicating starting point of movement.",
+    "15": "Scope adverb 'all' summarizing the group's state."
+  },
+  "translation": "My friend and I went to the market together. This market is very big. We first looked at the fruit. She can choose fruit. The friend asked the boss how much the apples cost per jin. The boss said three yuan per jin. The friend bought three apples, and I also bought two. The friend asked what else we needed to buy. I said let's buy some tomatoes. Then we went to the vegetable shop. There were many vegetables in the shop. We often come to this vegetable shop. The friend asked how much the tomatoes cost per jin. The boss said five yuan per jin. We thought it was too expensive, so we didn't buy. Finally we bought half a jin of meat, then went home from the market and made dinner together. I cooked, the friend washed dishes, and we were all very happy."
+}

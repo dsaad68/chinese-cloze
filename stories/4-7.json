@@ -1,0 +1,40 @@
+{
+  "id": "4-7",
+  "level": 4,
+  "title": "周末购物",
+  "titlePinyin": "zhōumò gòuwù",
+  "topicEn": "Weekend Shopping",
+  "sentences": [
+    [["今天","jīntiān","today"],["星期六","xīngqīliù","Saturday"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["朋友","péngyou","friend"],["一起","yìqǐ","together",2],["去","qù","go"],["商场","shāngchǎng","mall"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",3],["坐","zuò","sit/take"],["地铁","dìtiě","subway"],["，","",""],["从","cóng","from",4],["家","jiā","home"],["出发","chūfā","depart"],["。","",""]],
+    [["到","dào","arrive"],["了","le","particle"],["商场","shāngchǎng","mall"],["，","",""],["我们","wǒmen","we"],["上","shàng","go up",5],["了","le","particle"],["二","èr","two",6],["楼","lóu","floor"],["。","",""]],
+    [["那里","nàlǐ","there",7],["有","yǒu","have/exist"],["很多","hěnduō","many"],["衣服","yīfu","clothes"],["。","",""]],
+    [["朋友","péngyou","friend"],["看中","kànzhòng","take a fancy to"],["了","le","particle"],["一","yī","one"],["件","jiàn","piece"],["红色","hóngsè","red"],["的","de","possessive"],["上衣","shàngyī","top"],["，","",""],["她","tā","she"],["问","wèn","ask"],["售货员","shòuhuòyuán","salesclerk"],["：","",""],["“","",""],["这","zhè","this"],["件","jiàn","piece"],["多少","duōshao","how much",8],["钱","qián","money"],["？","",""],["能","néng","can",9],["便宜","piányi","cheap"],["一","yī","one"],["点","diǎn","little"],["吗","ma","question particle"],["？","",""],["”","",""]],
+    [["售货员","shòuhuòyuán","salesclerk"],["说","shuō","say"],["：","",""],["“","",""],["一","yī","one",10],["百","bǎi","hundred"],["元","yuán","yuan"],["，","",""],["已经","yǐjīng","already"],["最","zuì","most"],["便宜","piányi","cheap"],["了","le","particle"],["。","",""],["”","",""]],
+    [["朋友","péngyou","friend"],["觉得","juéde","feel"],["太","tài","too",11],["贵","guì","expensive"],["了","le","particle"],["，","",""],["没有","méiyǒu","did not",12],["买","mǎi","buy"],["。","",""]],
+    [["我","wǒ","I"],["又","yòu","again"],["看中","kànzhòng","take a fancy to"],["了","le","particle"],["一","yī","one"],["双","shuāng","pair"],["鞋子","xiézi","shoes"],["，","",""],["很","hěn","very",13],["便宜","piányi","cheap"],["，","",""],["也","yě","also",14],["很","hěn","very"],["舒服","shūfu","comfortable"],["。","",""]],
+    [["我","wǒ","I"],["试","shì","try"],["了","le","particle"],["试","shì","try"],["，","",""],["非常","fēicháng","very",15],["满意","mǎnyì","satisfied"],["，","",""],["就","jiù","then"],["买","mǎi","buy"],["了","le","particle"],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","go"],["了","le","particle"],["地下","dìxià","underground"],["一","yī","one"],["层","céng","floor"],["吃饭","chīfàn","eat"],["。","",""]],
+    [["那里","nàlǐ","there"],["有","yǒu","have"],["好多","hǎoduō","many"],["餐厅","cāntīng","restaurant"],["，","",""],["我们","wǒmen","we"],["选","xuǎn","choose"],["了","le","particle"],["一","yī","one"],["家","jiā","measure word for shops"],["吃","chī","eat"],["面条","miàntiáo","noodles"],["。","",""]],
+    [["饭后","fànhòu","after meal"],["我们","wǒmen","we"],["喝","hē","drink"],["了","le","particle"],["一","yī","one"],["杯","bēi","cup"],["咖啡","kāfēi","coffee"],["，","",""],["休息","xiūxi","rest"],["了","le","particle"],["一会儿","yíhuìr","a while"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["五","wǔ","five"],["点","diǎn","o'clock"],["我们","wǒmen","we"],["才","cái","only then"],["回","huí","return"],["家","jiā","home"],["，","",""],["今天","jīntiān","today"],["真","zhēn","really"],["开心","kāixīn","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "连接“我”和“朋友”，表示共同。",
+    "2": "表示两个人同时做一件事。",
+    "3": "表示动作的顺序。",
+    "4": "表示起点。",
+    "5": "表示动作的方向。",
+    "6": "表示数字。",
+    "7": "指示地点。",
+    "8": "询问价格。",
+    "9": "表示可能性。",
+    "10": "数字。",
+    "11": "表示程度过高。",
+    "12": "表示否定。",
+    "13": "表示程度。",
+    "14": "表示同样。",
+    "15": "表示程度很高。"
+  },
+  "translation": "Today is Saturday. I go to the mall with my friend. We first take the subway and start from home. When we arrive at the mall, we go up to the second floor. There are many clothes there. My friend takes a fancy to a red top and asks the salesclerk, 'How much is this? Can it be a little cheaper?' The salesclerk says, 'One hundred yuan, it's already the cheapest.' My friend thinks it's too expensive and doesn't buy it. I take a fancy to a pair of shoes; they are very cheap and also very comfortable. I try them on, I am very satisfied, so I buy them. Then we go to the basement level to eat. There are many restaurants there; we choose one to eat noodles. After the meal we drink a cup of coffee and rest for a while. We don't go home until five o'clock in the afternoon. Today is really happy."
+}

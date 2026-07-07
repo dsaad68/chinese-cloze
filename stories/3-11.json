@@ -1,0 +1,39 @@
+{
+  "id": "3-11",
+  "level": 3,
+  "title": "超市购物",
+  "titlePinyin": "chāoshì gòuwù",
+  "topicEn": "Shopping at the supermarket",
+  "sentences": [
+    [["今天","jīntiān","today"],["天气","tiānqì","weather",1],["很","hěn","very"],["好","hǎo","good"],["。","",""]],
+    [["我","wǒ","I"],["和","hé","and"],["妈妈","māma","mother"],["一起","yīqǐ","together",2],["去","qù","to go"],["超市","chāoshì","supermarket",3],["。","",""]],
+    [["超市","chāoshì","supermarket"],["里","lǐ","inside"],["有","yǒu","there is"],["很","hěn","very"],["多","duō","many",4],["水果","shuǐguǒ","fruit"],["。","",""]],
+    [["我们","wǒmen","we"],["买","mǎi","to buy",5],["了","le","(past particle)",6],["苹果","píngguǒ","apple"],["、","",""],["香蕉","xiāngjiāo","banana"],["和","hé","and"],["一","yī","one"],["个","gè","(measure word)",7],["大","dà","big",8],["西瓜","xīguā","watermelon"],["。","",""]],
+    [["妈妈","māma","mother"],["看","kàn","to look"],["我","wǒ","me"],["，","",""],["说","shuō","to say"],["：","",""],["“","",""],["你","nǐ","you"],["想","xiǎng","to want",9],["吃","chī","to eat"],["什么","shénme","what",10],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","to say",11],["：","",""],["“","",""],["我","wǒ","I"],["想","xiǎng","to want"],["吃","chī","to eat"],["西瓜","xīguā","watermelon"],["。","",""],["”","",""]],
+    [["妈妈","māma","mother"],["看","kàn","to look"],["了","le","(past particle)"],["看","kàn","to look"],["，","",""],["说","shuō","to say"],["：","",""],["“","",""],["这","zhè","this",12],["个","gè","(measure word)"],["西瓜","xīguā","watermelon"],["很","hěn","very"],["好","hǎo","good"],["。","",""],["”","",""]],
+    [["我们","wǒmen","we"],["买","mǎi","to buy"],["了","le","(past particle)"],["一","yī","one"],["个","gè","(measure word)"],["。","",""]],
+    [["后来","hòulái","later",13],["我们","wǒmen","we"],["去","qù","to go"],["菜","cài","vegetable"],["市场","shìchǎng","market",14],["，","",""],["买","mǎi","to buy"],["了","le","(past particle)"],["白菜","báicài","cabbage"],["和","hé","and"],["胡萝卜","húluóbo","carrot"],["。","",""]],
+    [["我们","wǒmen","we"],["一共","yīgòng","total"],["用","yòng","to spend"],["了","le","(past particle)"],["五","wǔ","five"],["十","shí","ten"],["元","yuán","yuan"],["。","",""]],
+    [["回家","huíjiā","go home"],["后","hòu","after"],["，","",""],["我","wǒ","I"],["帮","bāng","to help"],["妈妈","māma","mother"],["洗","xǐ","to wash"],["菜","cài","vegetable"],["，","",""],["妈妈","māma","mother"],["做","zuò","to make"],["了","le","(past particle)"],["饭","fàn","rice/meal",15],["。","",""]],
+    [["我们","wǒmen","we"],["一块儿","yīkuàir","together"],["吃","chī","to eat"],["晚饭","wǎnfàn","dinner"],["，","",""],["今天","jīntiān","today"],["真","zhēn","really"],["开心","kāixīn","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "It fits as the subject describing the weather condition.",
+    "2": "It indicates that the mother and I went together.",
+    "3": "It is the destination where they shopped.",
+    "4": "It quantifies the amount of fruit.",
+    "5": "It is the main action of purchasing.",
+    "6": "It marks the completion of the buying action.",
+    "7": "It is the measure word for watermelon.",
+    "8": "It describes the size of the watermelon.",
+    "9": "It expresses the desire to eat something.",
+    "10": "It asks for the specific food item.",
+    "11": "It introduces the speech of the speaker.",
+    "12": "It points to the specific watermelon.",
+    "13": "It shows the sequence of events after buying the watermelon.",
+    "14": "It specifies the type of market for vegetables.",
+    "15": "It indicates the meal that the mother made."
+  },
+  "translation": "Today the weather was very good. My mother and I went to the supermarket together. There were a lot of fruits in the supermarket. We bought apples, bananas, and a big watermelon. Mother looked at me and said, \"What do you want to eat?\" I said, \"I want to eat watermelon.\" Mother looked at it and said, \"This watermelon is very good.\" We bought one. Later we went to the market and bought cabbage and carrots. We spent fifty yuan in total. After returning home, I helped my mother wash the vegetables, and she made a meal. We ate dinner together. Today we are really happy."
+}

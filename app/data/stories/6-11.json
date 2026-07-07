@@ -1,0 +1,37 @@
+{
+  "id": "6-11",
+  "level": 6,
+  "title": "周末计划",
+  "titlePinyin": "zhōumò jìhuà",
+  "topicEn": "Weekend Plan",
+  "sentences": [
+    [["这","zhè","this",1],["个","gè","measure word"],["周末","zhōumò","weekend"],["，","",""],["我","wǒ","I"],["跟","gēn","with",2],["朋友","péngyǒu","friend"],["会","huì","will",3],["一块儿","yīkuàir","together",4],["去","qù","to go"],["公园","gōngyuán","park"],["玩","wán","to play"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",5],["在","zài","at"],["公园","gōngyuán","park"],["门口","ménkǒu","entrance"],["见面","jiànmiàn","to meet"],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["走","zǒu","to walk"],["进","jìn","into"],["公园","gōngyuán","park"],["里","lǐ","inside",6],["。","",""]],
+    [["公园","gōngyuán","park"],["有","yǒu","have"],["很","hěn","very",7],["多","duō","many"],["美丽","měilì","beautiful"],["的","de","'s",8],["花","huā","flower"],["。","",""]],
+    [["我们","wǒmen","we"],["拍","pāi","to take"],["了","le","(completed)",9],["很","hěn","very"],["多","duō","many"],["照片","zhàopiàn","photo"],["。","",""]],
+    [["中午","zhōngwǔ","noon"],["，","",""],["我们","wǒmen","we"],["去","qù","to go"],["了","le","(completed)"],["一","yī","one",10],["家","jiā","(measure for restaurant)",11],["餐厅","cāntīng","restaurant"],["。","",""]],
+    [["我","wǒ","I"],["点","diǎn","to order"],["了","le","(completed)"],["一","yī","one"],["碗","wǎn","bowl of"],["面条","miàntiáo","noodles"],["，","",""],["他","tā","he"],["没","méi","did not",12],["点","diǎn","to order"],["炒饭","chǎofàn","fried rice"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["，","",""],["我们","wǒmen","we"],["去","qù","to go"],["了","le","(completed)"],["书店","shūdiàn","bookstore"],["。","",""]],
+    [["我","wǒ","I"],["买","mǎi","to buy"],["了","le","(completed)"],["一","yī","one"],["本","běn","(measure for books)",13],["小说","xiǎoshuō","novel"],["，","",""],["他","tā","he"],["也","yě","also",14],["买","mǎi","to buy"],["了","le","(completed)"],["一","yī","one"],["本","běn","(measure for books)"],["杂志","zázhì","magazine"],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","to go"],["了","le","(completed)"],["咖啡馆","kāfēiguǎn","café"],["，","",""],["每人","měirén","each person"],["喝","hē","to drink"],["了","le","(completed)"],["一","yī","one"],["杯","bēi","cup of",15],["咖啡","kāfēi","coffee"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "This refers to the specific weekend being talked about.",
+    "2": "跟 introduces the person you are with, indicating accompaniment.",
+    "3": "会 expresses future intent or willingness.",
+    "4": "一块儿 means 'together', emphasizing joint action.",
+    "5": "先 indicates the first action in a sequence.",
+    "6": "里 indicates the inside location of the park.",
+    "7": "很 is a degree adverb modifying 'many'.",
+    "8": "的 links the adjective 'beautiful' to the noun 'flowers'.",
+    "9": "了 marks the completion of the action of taking photos.",
+    "10": "一 is the number one used before a measure word.",
+    "11": "家 is a measure word for establishments like restaurants.",
+    "12": "没 negates the action of ordering, indicating it did not happen.",
+    "13": "本 is a measure word for bound items like books.",
+    "14": "也 indicates that the same action applies to another person.",
+    "15": "杯 is a measure word for cups of liquid."
+  },
+  "translation": "This weekend, I will go to the park with my friends together. We first meet at the park entrance. Then we walk into the park. The park has many beautiful flowers. We took many photos. At noon, we went to a restaurant. I ordered a bowl of noodles; he did not order fried rice. In the afternoon, we went to a bookstore. I bought a novel; he also bought a magazine. Then we went to a café, and each of us drank a cup of coffee."
+}

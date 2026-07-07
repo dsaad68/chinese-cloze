@@ -1,0 +1,37 @@
+{
+  "id": "3-10",
+  "level": 3,
+  "title": "和妈妈一起做饭",
+  "titlePinyin": "hé māma yīqǐ zuò fàn",
+  "topicEn": "Cooking with Mom",
+  "sentences": [
+    [["今天","jīntiān","today"],["，","",""],["我","wǒ","I"],["跟","gēn","with",1],["妈妈","māma","mother"],["从","cóng","from",2],["超市","chāoshì","supermarket"],["回家","huíjiā","go home"],["后","hòu","after"],["，","",""],["我们","wǒmen","we"],["一块儿","yīkuàir","together",3],["在","zài","at",4],["厨房","chúfáng","kitchen"],["做饭","zuòfàn","cook"],["。","",""]],
+    [["妈妈","māma","mother"],["会","huì","can",5],["做","zuò","make"],["鱼","yú","fish"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",6],["洗","xǐ","wash"],["了","le","(past participle)",7],["鱼","yú","fish"],["。","",""]],
+    [["我","wǒ","I"],["切","qiē","cut"],["了","le","(past participle)"],["鱼","yú","fish"],["，","",""],["还","hái","also",8],["切","qiē","cut"],["了","le","(past participle)"],["一","yī","one",9],["块","kuài","piece",10],["豆腐","dòufu","tofu"],["。","",""]],
+    [["妈妈","māma","mother"],["问","wèn","ask"],["我","wǒ","me"],["放","fàng","put"],["了","le","(particle)"],["多少","duōshǎo","how many",11],["鸡蛋","jīdàn","egg"],["，","",""],["我","wǒ","I"],["说","shuō","say"],["两","liǎng","two",12],["个","gè","(measure word)"],["。","",""]],
+    [["她","tā","she"],["又","yòu","again"],["问","wèn","ask"],["放","fàng","put"],["了","le","(particle)"],["几","jǐ","how many",13],["块","kuài","piece"],["豆腐","dòufu","tofu"],["，","",""],["我","wǒ","I"],["说","shuō","say"],["一","yī","one"],["块","kuài","piece"],["。","",""]],
+    [["我们","wǒmen","we"],["再","zài","again",14],["做","zuò","make"],["了","le","(particle)"],["汤","tāng","soup"],["，","",""],["汤","tāng","soup"],["里","lǐ","inside",15],["有","yǒu","have"],["西红柿","xīhóngshì","tomato"],["和","hé","and"],["鸡蛋","jīdàn","egg"],["。","",""]],
+    [["爸爸","bàba","father"],["回家","huíjiā","go home"],["后","hòu","after"],["，","",""],["我们","wǒmen","we"],["都","dōu","all"],["不","bù","not"],["做饭","zuòfàn","cook"],["了","le","(particle)"],["，","",""],["开始","kāishǐ","start"],["吃","chī","eat"],["。","",""]],
+    [["爸爸","bàba","father"],["说","shuō","say"],["这","zhè","this"],["鱼","yú","fish"],["真","zhēn","really"],["好吃","hǎochī","delicious"],["。","",""]],
+    [["今天","jīntiān","today"],["大家","dàjiā","everyone"],["都","dōu","all"],["很","hěn","very"],["开心","kāixīn","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "‘跟’表示伴随，这里指和妈妈一起。",
+    "2": "‘从’引出起点，表示从超市出发。",
+    "3": "‘一块儿’表示一起做某事。",
+    "4": "‘在’表示地点，在厨房。",
+    "5": "‘会’表示能力，妈妈会做鱼。",
+    "6": "‘先’表示时间顺序，先洗鱼。",
+    "7": "‘了’是动态助词，表示动作完成。",
+    "8": "‘还’表示附加，还切了豆腐。",
+    "9": "‘一’是数词，表示数量一。",
+    "10": "‘块’是量词，用于豆腐。",
+    "11": "‘多少’是疑问代词，询问数量。",
+    "12": "‘两’是数词，表示数量二。",
+    "13": "‘几’是疑问代词，询问数量（用于10以下）。",
+    "14": "‘再’是副词，表示动作重复。",
+    "15": "‘里’是方位名词，表示里面。"
+  },
+  "translation": "Today, I went home from the supermarket with my mother. We cooked together in the kitchen. Mother can cook fish. We first washed the fish. I cut the fish, and also cut a piece of tofu. Mother asked me how many eggs I put, I said two. She asked again how many pieces of tofu I put, I said one. Then we made soup. The soup has tomatoes and eggs inside. After father came home, we all stopped cooking and started eating. Father said this fish is really delicious. Today everyone is very happy."
+}

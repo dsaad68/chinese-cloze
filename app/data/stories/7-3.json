@@ -1,0 +1,40 @@
+{
+  "id": "7-3",
+  "level": 7,
+  "title": "菜市场买菜",
+  "titlePinyin": "cài shì chǎng mǎi cài",
+  "topicEn": "Shopping at the market",
+  "sentences": [
+    [["今天","jīn tiān","today"],["早上","zǎo shang","morning"],["，","",""],["我","wǒ","I"],["从","cóng","from",1],["家里","jiā lǐ","home"],["出发","chū fā","set out"],["，","",""],["和","hé","and",2],["妈妈","mā ma","mom"],["一块儿","yī kuàir","together",3],["去","qù","go"],["一","yī","one"],["家","jiā","(measure for shops)",4],["菜市场","cài shì chǎng","vegetable market"],["买菜","mǎi cài","buy vegetables"],["。","",""]],
+    [["我们","wǒ men","we"],["先","xiān","first"],["在","zài","at"],["蔬菜摊","shū cài tān","vegetable stall"],["前","qián","front",5],["停下","tíng xià","stop"],["，","",""],["买","mǎi","buy"],["了","le","(past particle)"],["三","sān","three"],["个","gè","(measure word)",6],["黄瓜","huáng guā","cucumber"],["和","hé","and"],["两","liǎng","two"],["块","kuài","(measure for pieces)",7],["豆腐","dòu fu","tofu"],["。","",""]],
+    [["妈妈","mā ma","mom"],["问","wèn","ask"],["老板","lǎo bǎn","boss"],["：","",""],["‘","",""],["这些","zhè xiē","these"],["菜","cài","vegetables"],["怎么","zěn me","how",8],["卖","mài","sell"],["？","",""],["’","",""]],
+    [["老板","lǎo bǎn","boss"],["说","shuō","say"],["：","",""],["‘","",""],["一共","yī gòng","total"],["十","shí","ten",9],["块","kuài","yuan"],["。","",""],["’","",""]],
+    [["妈妈","mā ma","mom"],["觉得","jué de","feel"],["太贵","tài guì","too expensive"],["了","le","(particle)"],["，","",""],["就","jiù","then"],["跟","gēn","with"],["他","tā","him"],["讲价","jiǎng jià","bargain"],["。","",""]],
+    [["最后","zuì hòu","finally"],["我们","wǒ men","we"],["用","yòng","use"],["了","le","(particle)"],["八","bā","eight"],["块","kuài","yuan"],["买","mǎi","buy"],["下来","xià lai","down (result complement)"],["。","",""]],
+    [["然后","rán hòu","then"],["我们","wǒ men","we"],["去","qù","go"],["了","le","(particle)"],["卖","mài","sell"],["鱼","yú","fish"],["的","de","(possessive)"],["摊位","tān wèi","stall"],["。","",""]],
+    [["那里","nà lǐ","there"],["有","yǒu","there is"],["好多","hǎo duō","many"],["鱼","yú","fish"],["，","",""],["我","wǒ","I"],["没有","méi yǒu","did not",10],["选","xuǎn","choose"],["小","xiǎo","small"],["的","de","(nominalizer)"],["，","",""],["选","xuǎn","choose"],["了","le","(particle)"],["一","yī","one"],["个","gè","(measure)"],["大","dà","big"],["的","de","(nominalizer)"],["。","",""]],
+    [["妈妈","mā ma","mom"],["很","hěn","very"],["满意","mǎn yì","satisfied"],["，","",""],["说","shuō","say"],["：","",""],["‘","",""],["今晚","jīn wǎn","tonight"],["我们","wǒ men","we"],["做","zuò","make"],["红烧鱼","hóng shāo yú","braised fish"],["，","",""],["我","wǒ","I"],["会","huì","can",11],["做","zuò","cook"],["。","",""],["’","",""]],
+    [["回家","huí jiā","go home"],["后","hòu","after"],["，","",""],["妈妈","mā ma","mom"],["正在","zhèng zài","is (doing)",12],["厨房","chú fáng","kitchen"],["里","lǐ","inside"],["忙碌","máng lù","busy"],["，","",""],["我","wǒ","I"],["仔细","zǐ xì","carefully"],["地","de","(adverbial suffix)",13],["把","bǎ","(disposal marker)"],["菜","cài","vegetables"],["洗","xǐ","wash"],["干净","gān jìng","clean"],["。","",""]],
+    [["她","tā","she"],["先","xiān","first"],["做","zuò","cook"],["了","le","(particle)"],["鱼","yú","fish"],["，","",""],["再","zài","again",14],["做","zuò","make"],["了","le","(particle)"],["半","bàn","half",15],["锅","guō","pot"],["汤","tāng","soup"],["。","",""]],
+    [["半","bàn","half"],["小时","xiǎo shí","hour"],["后","hòu","later"],["，","",""],["我们","wǒ men","we"],["一起","yī qǐ","together"],["吃","chī","eat"],["了","le","(particle)"],["晚饭","wǎn fàn","dinner"],["。","",""]],
+    [["这","zhè","this"],["顿","dùn","(measure for meals)"],["饭","fàn","meal"],["真","zhēn","really"],["好吃","hǎo chī","delicious"],["，","",""],["我们","wǒ men","we"],["都","dōu","all"],["吃","chī","eat"],["了","le","(particle)"],["很多","hěn duō","a lot"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "引出动作的起点，这里指从家里出发。",
+    "2": "连接并列成分，这里指和妈妈一起。",
+    "3": "表示一起做某事。",
+    "4": "用作量词，修饰店铺。",
+    "5": "方位名词，表示摊位的前面。",
+    "6": "通用量词，用于黄瓜。",
+    "7": "量词，用于豆腐或货币。",
+    "8": "疑问代词，询问方式。",
+    "9": "数字，表示数量。",
+    "10": "否定副词，表示没有做某事。",
+    "11": "能愿动词，表示有能力。",
+    "12": "时间副词，表示动作正在进行。",
+    "13": "结构助词，连接状语和动词。",
+    "14": "频率副词，表示又一次。",
+    "15": "数字，表示一半。"
+  },
+  "translation": "This morning, I set out from home and went to a vegetable market with my mom. We first stopped in front of a vegetable stall, bought three cucumbers and two pieces of tofu. Mom asked the boss, 'How are these vegetables sold?' The boss said, 'Ten yuan in total.' Mom thought it was too expensive, so she bargained with him. In the end, we used eight yuan to buy them. Then we went to the fish stall. There were many fish. I didn't choose small ones; I chose a big one. Mom was very satisfied and said, 'Tonight we'll make braised fish. I can cook.' After returning home, Mom was busy in the kitchen. I carefully washed the vegetables. She first cooked the fish, then made half a pot of soup. Half an hour later, we had dinner together. This meal was really delicious, and we all ate a lot."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "5-4",
+  "level": 5,
+  "title": "周末的家庭日",
+  "titlePinyin": "zhōumò de jiātíng rì",
+  "topicEn": "Family weekend",
+  "sentences": [
+    [["周末","zhōumò","weekend"],["，","",""],["我们","wǒmen","we"],["一","yī","one",1],["家","jiā","[measure for family]",2],["人","rén","people"],["在","zài","at"],["家","jiā","home"],["里","lǐ","inside",3],["。","",""]],
+    [["妈妈","māma","mother"],["在","zài","at"],["厨房","chúfáng","kitchen"],["里","lǐ","in"],["做","zuò","to cook"],["饭","fàn","rice/meal"],["，","",""],["爸爸","bàba","father"],["从","cóng","from",4],["市场","shìchǎng","market"],["回来","huílái","to return"],["了","le","[perfective]",5],["。","",""]],
+    [["我","wǒ","I"],["帮忙","bāngmáng","to help"],["洗菜","xǐcài","to wash vegetables"],["，","",""],["弟弟","dìdi","younger brother"],["不","bù","not"],["会","huì","can",6],["做饭","zuòfàn","to cook"],["，","",""],["他","tā","he",7],["在","zài","is"],["看","kàn","to watch"],["电视","diànshì","TV"],["。","",""]],
+    [["后来","hòulái","later"],["妈妈","māma","mother"],["叫","jiào","to call"],["我们","wǒmen","us"],["吃","chī","to eat"],["饭","fàn","meal"],["。","",""]],
+    [["我们","wǒmen","we"],["吃","chī","ate"],["了","le","[perfective]"],["饭","fàn","meal"],["，","",""],["菜","cài","dishes"],["很","hěn","very",8],["香","xiāng","delicious"],["。","",""]],
+    [["我","wǒ","I"],["吃","chī","ate"],["了","le","[perfective]"],["很多","hěnduō","a lot of"],["菜","cài","dishes"],["，","",""],["弟弟","dìdi","younger brother"],["吃","chī","ate"],["了","le","[perfective]"],["两","liǎng","two",9],["块","kuài","[measure for pieces]",10],["肉","ròu","meat"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["，","",""],["我们","wǒmen","we"],["一起","yīqǐ","together",11],["打扫","dǎsǎo","to clean"],["卫生","wèishēng","hygiene/cleaning"],["。","",""]],
+    [["妈妈","māma","mother"],["让","ràng","to let"],["我","wǒ","me"],["擦","cā","to wipe"],["桌子","zhuōzi","table"],["，","",""],["我","wǒ","I"],["用","yòng","used"],["了","le","[perfective]"],["两","liǎng","two"],["块","kuài","[measure]"],["布","bù","cloth"],["。","",""]],
+    [["爸爸","bàba","father"],["先","xiān","first",12],["扫","sǎo","to sweep"],["了","le","[perfective]"],["前","qián","front",13],["，","",""],["再","zài","then/again"],["扫","sǎo","swept"],["后","hòu","back",14],["。","",""]],
+    [["弟弟","dìdi","younger brother"],["倒","dào","to dump"],["垃圾","lājī","trash"],["，","",""],["他","tā","he"],["去","qù","went"],["了","le","[perfective]"],["外","wài","outside",15],["面","miàn","side"],["。","",""]],
+    [["我们","wǒmen","we"],["都","dōu","all"],["很","hěn","very"],["开心","kāixīn","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "一 is a numeral indicating quantity.",
+    "2": "家 is a measure word for family units.",
+    "3": "里 is a directional noun meaning inside.",
+    "4": "从 is a preposition indicating starting point.",
+    "5": "了 is an aspect particle indicating completion.",
+    "6": "会 is a modal verb expressing ability.",
+    "7": "他 is a personal pronoun referring to the younger brother.",
+    "8": "很 is a degree adverb modifying the adjective.",
+    "9": "两 is a numeral meaning two.",
+    "10": "块 is a measure word for pieces (e.g., meat).",
+    "11": "一起 is an adverb of scope meaning together.",
+    "12": "先 is a time adverb indicating first.",
+    "13": "前 is a directional noun meaning front.",
+    "14": "后 is a directional noun meaning back.",
+    "15": "外 is a directional noun meaning outside."
+  },
+  "translation": "On the weekend, our family was at home. Mother was cooking in the kitchen, Father came back from the market. I helped wash vegetables. My younger brother can't cook, he was watching TV. Later, Mother called us to eat. We ate the meal, the dishes were very delicious. I ate a lot of vegetables, my younger brother ate two pieces of meat. In the afternoon, we cleaned the house together. Mother had me wipe the table, I used two cloths. Father first swept the front, then swept the back. My younger brother dumped the trash, he went outside. We were all very happy."
+}

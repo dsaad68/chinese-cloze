@@ -1,0 +1,43 @@
+{
+  "id": "3-8",
+  "level": 3,
+  "title": "小明的周末",
+  "titlePinyin": "Xiǎo Míng de zhōumò",
+  "topicEn": "Xiao Ming's weekend",
+  "sentences": [
+    [["小明","Xiǎo Míng","Xiao Ming"],["和","hé","and",1],["他","tā","he"],["的","de","'s"],["朋友","péngyǒu","friend"],["一块儿","yīkuàir","together"],["去","qù","go"],["公园","gōngyuán","park"],["玩","wán","play"],["。",".","."]],
+    [["他们","tāmen","they"],["在","zài","at",2],["公园","gōngyuán","park"],["里","lǐ","inside"],["看到","kàndào","see"],["很多","hěnduō","many",3],["花","huā","flower"],["。",".","."]],
+    [["小明","Xiǎo Míng","Xiao Ming"],["说","shuō","say"],["：“","„","„"],["这些","zhèxiē","these",4],["花","huā","flower"],["真","zhēn","really"],["漂亮","piàoliang","beautiful"],["！","!","!"],["”","”","”"]],
+    [["他","tā","he"],["想","xiǎng","want"],["拍","pāi","take"],["几","jǐ","several",5],["张","zhāng","(measure for photos)"],["照片","zhàopiàn","photo"],["。",".","."]],
+    [["朋友","péngyǒu","friend"],["问","wèn","ask"],["：“","„","„"],["谁","shuí","who",6],["会","huì","can"],["拍照","pāizhào","take a photo"],["？","?","?"],["”","”","”"]],
+    [["小明","Xiǎo Míng","Xiao Ming"],["说","shuō","say"],["：“","„","„"],["我","wǒ","I",7],["会","huì","can"],["。",".","."],["”","”","”"]],
+    [["然后","ránhòu","then"],["他们","tāmen","they"],["一起","yīqǐ","together"],["在","zài","at"],["公园","gōngyuán","park"],["里","lǐ","inside"],["走","zǒu","walk"],["了","le","(perfective)",8],["一","yī","one"],["会儿","huìr","while"],["。",".","."]],
+    [["中午","zhōngwǔ","noon"],["，",",",","],["他们","tāmen","they"],["去","qù","go"],["附近","fùjìn","nearby"],["的","de","'s"],["一","yī","one",9],["家","jiā","(measure for restaurants)"],["饭馆","fànguǎn","restaurant"],["吃饭","chīfàn","eat"],["。",".","."]],
+    [["小明","Xiǎo Míng","Xiao Ming"],["点","diǎn","order"],["了","le","(perfective)"],["一碗","yīwǎn","a bowl of",10],["牛肉面","niúròumiàn","beef noodles"],["。",".","."]],
+    [["朋友","péngyǒu","friend"],["说","shuō","say"],["：“","„","„"],["这","zhè","this",11],["面","miàn","noodle"],["很","hěn","very"],["好吃","hǎochī","delicious"],["！","!","!"],["”","”","”"]],
+    [["小明","Xiǎo Míng","Xiao Ming"],["也","yě","also"],["觉得","juéde","feel"],["非常","fēicháng","very",12],["好吃","hǎochī","delicious"],["。",".","."]],
+    [["吃完饭","chīwánfàn","finish eating"],["，",",",","],["他们","tāmen","they"],["又","yòu","again"],["去","qù","go"],["了","le","(perfective)"],["超市","chāoshì","supermarket",13],["。",".","."]],
+    [["小明","Xiǎo Míng","Xiao Ming"],["想","xiǎng","want"],["买","mǎi","buy"],["一些","yīxiē","some",14],["水果","shuǐguǒ","fruit"],["。",".","."]],
+    [["他","tā","he"],["问","wèn","ask"],["：“","„","„"],["苹果","píngguǒ","apple"],["多少","duōshao","how much",15],["钱","qián","money"],["一斤","yījīn","per jin"],["？","?","?"],["”","”","”"]],
+    [["店员","diànyuán","shop assistant"],["说","shuō","say"],["：“","„","„"],["五","wǔ","five"],["块","kuài","yuan"],["一斤","yījīn","per jin"],["。",".","."],["”","”","”"]],
+    [["小明","Xiǎo Míng","Xiao Ming"],["买","mǎi","buy"],["了","le","(perfective)"],["两斤","liǎngjīn","two jin"],["苹果","píngguǒ","apple"],["，",",",","],["然后","ránhòu","then"],["高高兴兴","gāogāoxìngxìng","happily"],["地","de","(adverbial)"],["回家","huíjiā","go home"],["了","le","(perfective)"],["。",".","."]]
+  ],
+  "explanations": {
+    "1": "'和' connects Xiao Ming and his friend together.",
+    "2": "'在' indicates the location where they saw flowers.",
+    "3": "'很多' means 'many', describing the flowers.",
+    "4": "'这些' refers to the flowers near them.",
+    "5": "'几' asks or indicates an indefinite small number.",
+    "6": "'谁' asks about the person who can take photos.",
+    "7": "'我' is the first-person pronoun answering who can do it.",
+    "8": "'了' marks the completion of the action 'walk'.",
+    "9": "'一' is the numeral used before the measure word '家' to mean 'a'.",
+    "10": "'一碗' is a measure phrase meaning 'a bowl of'.",
+    "11": "'这' points to the noodle being talked about.",
+    "12": "'非常' is an adverb meaning 'very', emphasizing deliciousness.",
+    "13": "'超市' is the place they went after eating.",
+    "14": "'一些' means 'some', indicating an indefinite quantity.",
+    "15": "'多少' asks about the price."
+  },
+  "translation": "Xiao Ming and his friend go to the park together. They see many flowers in the park. Xiao Ming says, “These flowers are really beautiful!” He wants to take several photos. The friend asks, “Who can take a photo?” Xiao Ming says, “I can.” Then they walk together in the park for a while. At noon, they go to a nearby restaurant to eat. Xiao Ming orders a bowl of beef noodles. The friend says, “This noodle is very delicious!” Xiao Ming also finds it very delicious. After eating, they go to the supermarket. Xiao Ming wants to buy some fruit. He asks, “How much are the apples per jin?” The shop assistant says, “Five yuan per jin.” Xiao Ming buys two jin of apples, and then happily goes home."
+}

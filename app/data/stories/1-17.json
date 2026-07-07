@@ -1,0 +1,42 @@
+{
+  "id": "1-17",
+  "level": 1,
+  "title": "小明的周末",
+  "titlePinyin": "Xiǎo Míng de zhōu mò",
+  "topicEn": "Xiao Ming's Weekend",
+  "sentences": [
+    [["今天","jīn tiān","today"],["是","shì","is"],["星期天","xīng qī tiān","Sunday"],["，","",""],["小明","xiǎo míng","Xiao Ming"],["不","bù","not"],["去","qù","go"],["学校","xué xiào","school"],["。","",""]],
+    [["早上","zǎo shang","morning"],["，","",""],["他","tā","he"],["和","hé","and"],["妈妈","mā ma","mom"],["一起","yī qǐ","together"],["去","qù","go"],["超市","chāo shì","supermarket"],["。","",""]],
+    [["超市里","chāo shì lǐ","in the supermarket"],["有","yǒu","there are"],["很多","hěn duō","many"],["人","rén","people"],["。","",""]],
+    [["他们","tā men","they"],["买","mǎi","buy"],["了","le","(past)"],["一个","yī gè","one"],["苹果","píng guǒ","apple"],["和","hé","and"],["两","liǎng","two",1],["杯","bēi","cup"],["牛奶","niú nǎi","milk"],["。","",""]],
+    [["妈妈","mā ma","mom"],["问","wèn","ask"],["：“","",""],["你","nǐ","you"],["想","xiǎng","want"],["吃","chī","eat"],["什么","shén me","what"],["？”","",""]],
+    [["小明","xiǎo míng","Xiao Ming"],["说","shuō","say"],["：“","",""],["我","wǒ","I"],["想","xiǎng","want"],["吃","chī","eat"],["饺子","jiǎo zi","dumpling"],["。”","",""]],
+    [["回家","huí jiā","go home"],["以后","yǐ hòu","after"],["，","",""],["妈妈","mā ma","mom"],["做","zuò","cook"],["了","le","(past)"],["午饭","wǔ fàn","lunch"],["。","",""]],
+    [["小明","xiǎo míng","Xiao Ming"],["吃","chī","eat"],["了","le","(past)"],["三","sān","three",2],["个","gè","(measure)"],["饺子","jiǎo zi","dumpling"],["。","",""]],
+    [["下午","xià wǔ","afternoon"],["，","",""],["他","tā","he"],["在","zài","at"],["房间","fáng jiān","room"],["里","lǐ","inside"],["看","kàn","read"],["一本","yī běn","one"],["书","shū","book"],["。","",""]],
+    [["书","shū","book"],["有","yǒu","have"],["十","shí","ten",3],["页","yè","page"],["。","",""]],
+    [["他","tā","he"],["看","kàn","read"],["了","le","(past)"],["半","bàn","half",4],["个","gè","(measure)"],["小时","xiǎo shí","hour"],["。","",""]],
+    [["然后","rán hòu","then"],["，","",""],["他","tā","he"],["给","gěi","to"],["朋友","péng yǒu","friend"],["打","dǎ","make"],["电话","diàn huà","phone call"],["。","",""]],
+    [["朋友","péng yǒu","friend"],["说","shuō","say"],["：“","",""],["我们","wǒ men","we"],["一","yī","one",5],["块","kuài","(together)"],["儿","r","(suffix)"],["去","qù","go"],["公园","gōng yuán","park"],["玩","wán","play"],["吧","ba","(suggestion)"],["。”","",""]],
+    [["小明","xiǎo míng","Xiao Ming"],["说","shuō","say"],["：“","",""],["好","hǎo","good"],["！","",""],["我们","wǒ men","we"],["现在","xiàn zài","now"],["去","qù","go"],["。”","",""]],
+    [["在","zài","at"],["公园","gōng yuán","park"],["里","lǐ","inside"],["，","",""],["他们","tā men","they"],["看","kàn","see"],["到","dào","arrive"],["了","le","(past)"],["四","sì","four",6],["朵","duǒ","(measure for flower)"],["花","huā","flower"],["。","",""]],
+    [["花","huā","flower"],["很","hěn","very"],["漂亮","piào liang","beautiful"],["。","",""]],
+    [["小明","xiǎo míng","Xiao Ming"],["很","hěn","very"],["高兴","gāo xìng","happy"],["。","",""]],
+    [["晚上","wǎn shang","evening"],["，","",""],["爸爸","bà ba","dad"],["回家","huí jiā","come home"],["了","le","(past)"],["。","",""]],
+    [["小明","xiǎo míng","Xiao Ming"],["对","duì","to"],["爸爸","bà ba","dad"],["说","shuō","say"],["：“","",""],["今天","jīn tiān","today"],["我","wǒ","I"],["非常","fēi cháng","very",7],["开心","kāi xīn","happy"],["。”","",""]],
+    [["爸爸","bà ba","dad"],["笑","xiào","smile"],["了","le","(past)"],["。","",""]],
+    [["他","tā","he"],["说","shuō","say"],["：“","",""],["明天","míng tiān","tomorrow"],["是","shì","is"],["星期一","xīng qī yī","Monday"],["，","",""],["你","nǐ","you"],["要","yào","must"],["去","qù","go"],["上学","shàng xué","go to school"],["了","le","(change)"],["。”","",""]],
+    [["小明","xiǎo míng","Xiao Ming"],["说","shuō","say"],["：“","",""],["我","wǒ","I"],["知道","zhī dào","know"],["，","",""],["我","wǒ","I"],["会","huì","will"],["早","zǎo","early"],["点","diǎn","a little"],["儿","r","(suffix)"],["睡","shuì","sleep"],["。”","",""]],
+    [["他","tā","he"],["洗","xǐ","wash"],["了","le","(past)"],["脸","liǎn","face"],["和","hé","and"],["脚","jiǎo","feet"],["，","",""],["就","jiù","then"],["上","shàng","get on"],["床","chuáng","bed"],["睡觉","shuì jiào","sleep"],["了","le","(past)"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "“两”用于量词前，表示数量。",
+    "2": "吃了三个饺子，数字修饰量词。",
+    "3": "书有十页，数字表示数量。",
+    "4": "看了半个小时，表示一半时间。",
+    "5": "“一块儿”是固定搭配，表示一起。",
+    "6": "看到四朵花，数字修饰量词。",
+    "7": "“非常”是程度副词，修饰开心。"
+  },
+  "translation": "Today is Sunday. Xiao Ming doesn't go to school. In the morning, he and his mom go to the supermarket together. There are many people in the supermarket. They buy one apple and two cups of milk. Mom asks: \"What do you want to eat?\" Xiao Ming says: \"I want to eat dumplings.\" After returning home, Mom cooks lunch. Xiao Ming eats three dumplings. In the afternoon, he reads a book in his room. The book has ten pages. He reads for half an hour. Then he makes a phone call to his friend. The friend says: \"Let's go to the park and play together!\" Xiao Ming says: \"Great! Let's go now.\" In the park, they see four flowers. The flowers are very beautiful. Xiao Ming is very happy. In the evening, Dad comes home. Xiao Ming says to Dad: \"I am very happy today.\" Dad smiles. He says: \"Tomorrow is Monday, you must go to school.\" Xiao Ming says: \"I know, I will sleep a little early.\" He washes his face and feet, then gets into bed and sleeps."
+}

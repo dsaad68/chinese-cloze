@@ -1,0 +1,41 @@
+{
+  "id": "3-3",
+  "level": 3,
+  "title": "去超市",
+  "titlePinyin": "qù chāo shì",
+  "topicEn": "Going to the supermarket",
+  "sentences": [
+    [["今天","jīn tiān","today"],["我","wǒ","I"],["和","hé","and",1],["妈妈","mā ma","mom"],["去","qù","to go"],["超市","chāo shì","supermarket"],["。","",""]],
+    [["妈妈","mā ma","mom"],["问","wèn","to ask"],["我","wǒ","I"],["想要","xiǎng yào","to want"],["什么","shén me","what",2],["水果","shuǐ guǒ","fruit"],["。","",""]],
+    [["我","wǒ","I"],["说","shuō","to say"],["我","wǒ","I"],["想","xiǎng","to want"],["吃","chī","to eat",3],["苹果","píng guǒ","apple"],["。","",""]],
+    [["妈妈","mā ma","mom"],["说","shuō","to say"],["好","hǎo","okay"],["，","",""],["我们","wǒ men","we"],["买","mǎi","to buy"],["两","liǎng","two",4],["斤","jīn","jin (unit)"],["。","",""]],
+    [["我们","wǒ men","we"],["还","hái","also",5],["买","mǎi","to buy"],["了","le","(past particle)"],["牛奶","niú nǎi","milk"],["和","hé","and"],["面包","miàn bāo","bread"],["。","",""]],
+    [["超市","chāo shì","supermarket"],["很","hěn","very",6],["大","dà","big"],["，","",""],["有","yǒu","there are"],["很多","hěn duō","many"],["人","rén","people"],["。","",""]],
+    [["我们","wǒ men","we"],["在","zài","at"],["超市","chāo shì","supermarket"],["里","lǐ","inside",7],["走","zǒu","to walk"],["。","",""]],
+    [["妈妈","mā ma","mom"],["让","ràng","to let",8],["我","wǒ","I"],["拿","ná","to take"],["一","yī","one"],["盒","hé","box (measure word)"],["牛奶","niú nǎi","milk"],["。","",""]],
+    [["回","huí","to return"],["家","jiā","home"],["后","hòu","after",9],["，","",""],["妈妈","mā ma","mom"],["做","zuò","to make"],["午饭","wǔ fàn","lunch"],["。","",""]],
+    [["我","wǒ","I"],["帮","bāng","to help",10],["她","tā","she"],["洗","xǐ","to wash"],["菜","cài","vegetable"],["。","",""]],
+    [["我们","wǒ men","we"],["都","dōu","all",11],["觉得","jué de","to think",12],["午饭","wǔ fàn","lunch"],["很","hěn","very"],["好吃","hǎo chī","delicious"],["。","",""]],
+    [["超市","chāo shì","supermarket"],["前","qián","front",13],["面","miàn","side"],["有","yǒu","there is"],["书店","shū diàn","bookstore"],["。","",""]],
+    [["我","wǒ","I"],["看","kàn","to read"],["了","le","(past particle)"],["那","nà","that",14],["本","běn","(measure word for books)"],["书","shū","book"],["。","",""]],
+    [["我们","wǒ men","we"],["从","cóng","from",15],["超市","chāo shì","supermarket"],["回家","huí jiā","return home"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "连接'我'和'妈妈'，表示两个人一起行动。",
+    "2": "疑问代词，妈妈询问我想要的水果种类。",
+    "3": "动词，表示吃苹果的动作。",
+    "4": "数词，表示苹果的具体斤数。",
+    "5": "副词，表示除了苹果之外另外买了其他东西。",
+    "6": "程度副词，修饰'大'，强调超市很大。",
+    "7": "方位名词，表示超市的内部空间。",
+    "8": "能愿动词，表示妈妈允许我拿牛奶。",
+    "9": "方位名词，表示回家之后的时间点。",
+    "10": "动词，表示我帮助妈妈洗菜。",
+    "11": "范围副词，表示我们所有人一致认为。",
+    "12": "动词，表示我们的看法或感受。",
+    "13": "方位名词，表示超市的前面位置。",
+    "14": "指示代词，特指前面提到的书。",
+    "15": "介词，表示回家的起点是超市。"
+  },
+  "translation": "Today I went to the supermarket with my mom. Mom asked me what fruit I wanted. I said I wanted to eat apples. Mom said okay, we bought two jin. We also bought milk and bread. The supermarket was very big, and there were many people. We walked inside the supermarket. Mom let me take a box of milk. After returning home, Mom made lunch. I helped her wash vegetables. We all thought lunch was very delicious. There is a bookstore in front of the supermarket. I read that book. We returned home from the supermarket."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7-11",
+  "level": 7,
+  "title": "周末公园之行",
+  "titlePinyin": "zhōu mò gōng yuán zhī xíng",
+  "topicEn": "A weekend trip to the park",
+  "sentences": [
+    [["星期天","xīng qī tiān","Sunday"],["，","",""],["我们","wǒ men","we"],["一家人","yī jiā rén","whole family"],["一块儿","yī kuài r","together",1],["去","qù","go"],["郊外","jiāo wài","outskirts"],["公园","gōng yuán","park"],["玩","wán","play"],["，","",""],["公园","gōng yuán","park"],["里","lǐ","inside"],["的","de","(structural particle)"],["设施","shè shī","facilities"],["一应俱全","yī yīng jù quán","everything necessary is available",2],["。","",""]],
+    [["从","cóng","from",3],["家","jiā","home"],["出发","chū fā","set out"],["，","",""],["开车","kāi chē","drive a car"],["半","bàn","half"],["小时","xiǎo shí","hour"],["就","jiù","then"],["到","dào","arrive"],["了","le","(aspect particle)"],["。","",""]],
+    [["公园","gōng yuán","park"],["里","lǐ","inside"],["花草","huā cǎo","flowers and grass"],["茂盛","mào shèng","lush"],["，","",""],["风景","fēng jǐng","scenery"],["很","hěn","very",4],["优美","yōu měi","beautiful"],["。","",""]],
+    [["妈妈","mā ma","mother"],["非常","fēi cháng","very"],["喜欢","xǐ huān","like"],["花","huā","flower"],["，","",""],["她","tā","she"],["常常","cháng cháng","often",5],["东","dōng","east",6],["看看","kàn kan","look"],["，","",""],["西","xī","west",7],["看看","kàn kan","look"],["，","",""],["拍","pāi","take (photo)"],["了","le","(aspect)"],["好多","hǎo duō","many"],["照片","zhào piàn","photo"],["。","",""]],
+    [["公园","gōng yuán","park"],["里","lǐ","inside"],["也","yě","also",8],["有","yǒu","have"],["一个","yī gè","one (measure)"],["湖","hú","lake"],["，","",""],["爸爸","bà ba","father"],["和","hé","and"],["我","wǒ","I"],["在","zài","at"],["湖边","hú biān","lakeside"],["散步","sàn bù","take a walk"],["。","",""]],
+    [["忽然","hū rán","suddenly"],["，","",""],["我","wǒ","I"],["听到","tīng dào","hear"],["一声","yī shēng","a sound"],["鸟叫","niǎo jiào","bird call"],["。","",""]],
+    [["抬头","tái tóu","look up"],["一看","yī kàn","look and see"],["，","",""],["一只","yī zhī","one (for animal)"],["小鸟","xiǎo niǎo","small bird"],["从","cóng","from"],["树","shù","tree"],["上","shàng","on"],["掉","diào","fall"],["了","le","(aspect)"],["下来","xià lái","down"],["。","",""]],
+    [["这","zhè","this"],["只","zhǐ","(measure for animal)"],["小鸟","xiǎo niǎo","small bird"],["一动不动","yī dòng bù dòng","motionless",9],["，","",""],["没有","méi yǒu","without",10],["力气","lì qì","strength"],["，","",""],["好像","hǎo xiàng","seem"],["受伤","shòu shāng","injured"],["了","le","(aspect)"],["。","",""]],
+    [["我","wǒ","I"],["问","wèn","ask"],["爸爸","bà ba","father"],["：","",""],["“","",""],["我们","wǒ men","we"],["怎么","zěn me","how",11],["救","jiù","save"],["它","tā","it"],["？","",""],["”","",""],["爸爸","bà ba","father"],["说","shuō","say"],["：","",""],["“","",""],["先","xiān","first",12],["喂","wèi","feed"],["它","tā","it"],["几","jǐ","several"],["口","kǒu","mouthful (measure)",13],["水","shuǐ","water"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["马上","mǎ shàng","immediately"],["跑","pǎo","run"],["过去","guò qù","over"],["，","",""],["轻轻地","qīng qīng de","gently",14],["把","bǎ","(disposal marker)"],["它","tā","it"],["拿","ná","take"],["起来","qǐ lái","up"],["。","",""]],
+    [["回","huí","return"],["到","dào","to"],["家","jiā","home"],["，","",""],["我","wǒ","I"],["喂","wèi","feed"],["它","tā","it"],["一","yī","one"],["块","kuài","piece (measure)"],["面包","miàn bāo","bread"],["。","",""]],
+    [["它","tā","it"],["吃","chī","eat"],["的","de","(structural particle)"],["一干二净","yī gān èr jìng","completely clean (eat up)"],["。","",""]],
+    [["第","dì","(ordinal prefix)"],["二","èr","two"],["天","tiān","day"],["，","",""],["它","tā","it"],["完全","wán quán","completely"],["恢复","huī fù","recover"],["了","le","(aspect)"],["精神","jīng shén","spirit"],["。","",""]],
+    [["我们","wǒ men","we"],["放","fàng","set free"],["它","tā","it"],["飞","fēi","fly"],["回","huí","back"],["蓝天","lán tiān","blue sky"],["里","lǐ","in"],["，","",""],["它","tā","it"],["能","néng","can",15],["飞","fēi","fly"],["了","le","(aspect)"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "协同副词，表示一起做某事。",
+    "2": "成语，表示所有需要的东西都有。",
+    "3": "介词，引出起点或来源。",
+    "4": "程度副词，修饰形容词优美。",
+    "5": "频率副词，表示经常。",
+    "6": "方位名词，表示方向。",
+    "7": "方位名词，与东相对。",
+    "8": "关联副词，表示同样。",
+    "9": "成语，形容完全静止。",
+    "10": "否定副词，表示不具有。",
+    "11": "疑问代词，询问方式。",
+    "12": "时间副词，表示顺序在前。",
+    "13": "名量词，用于水的量。",
+    "14": "副词，修饰动作的轻柔方式，含结构助词'地'。",
+    "15": "能愿动词，表示能力或可能。"
+  },
+  "translation": "On Sunday, our whole family went together to a park on the outskirts. The facilities in the park were all available. We set out from home and arrived after half an hour's drive. Inside the park, flowers and grass were lush and the scenery was very beautiful. Mom really likes flowers, so she often looked east and west, taking many photos. There is also a lake in the park; Dad and I took a walk by the lake. Suddenly, I heard a bird call. I looked up and saw a small bird fall from a tree. This little bird was motionless, without strength, seemingly injured. I asked Dad: 'How can we save it?' Dad said: 'First feed it a few mouthfuls of water.' I immediately ran over and gently picked it up. When I got home, I fed it a piece of bread. It ate it all up. The next day, it completely recovered its spirit. We set it free to fly back into the blue sky, and it could fly."
+}

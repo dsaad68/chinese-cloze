@@ -1,0 +1,40 @@
+{
+  "id": "3-12",
+  "level": 3,
+  "title": "去公园玩",
+  "titlePinyin": "Qù Gōngyuán Wán",
+  "topicEn": "Going to the park",
+  "sentences": [
+    [["今天","jīntiān","today"],["是","shì","is"],["周末","zhōumò","weekend"],["，","",""],["天气","tiānqì","weather"],["很","hěn","very"],["好","hǎo","good"],["。","",""]],
+    [["我","wǒ","I"],["和","hé","and"],["朋友","péngyǒu","friend"],["一起","yìqǐ","together",1],["坐","zuò","ride"],["公交车","gōngjiāochē","bus"],["去","qù","go"],["公园","gōngyuán","park"],["玩","wán","play"],["。","",""]],
+    [["在","zài","at"],["车上","chēshàng","on the bus"],["，","",""],["我","wǒ","I"],["看见","kànjiàn","see"],["一","yī","one"],["个","gè","measure word"],["小","xiǎo","little",2],["孩子","háizi","child"],["在","zài","in the process of",3],["看书","kànshū","read a book"],["。","",""]],
+    [["到了","dàole","arrived"],["公园","gōngyuán","park"],["，","",""],["我们","wǒmen","we"],["在","zài","at"],["左","zuǒ","left",4],["边","biān","side"],["找到","zhǎodào","find"],["了","le","...ed"],["一","yī","one"],["张","zhāng","measure word for flat objects"],["椅子","yǐzi","chair"],["。","",""]],
+    [["我们","wǒmen","we"],["拍","pāi","take a photo"],["了","le","...ed",5],["照片","zhàopiàn","photo"],["，","",""],["然后","ránhòu","then"],["坐","zuò","sit"],["在","zài","at"],["那","nà","that",6],["椅子","yǐzi","chair"],["上","shàng","on"],["休息","xiūxi","rest"],["。","",""]],
+    [["中午","zhōngwǔ","noon"],["我们","wǒmen","we"],["吃","chī","eat"],["一些","yìxiē","some",7],["面包","miànbāo","bread"],["和","hé","and"],["水果","shuǐguǒ","fruit"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["我们","wǒmen","we"],["回","huí","return",8],["家","jiā","home"],["。","",""]],
+    [["今天","jīntiān","today"],["玩","wán","play"],["得","de","particle"],["很","hěn","very",9],["开心","kāixīn","happy"],["。","",""]],
+    [["我们","wǒmen","we"],["看见","kànjiàn","see"],["一","yī","one"],["只","zhǐ","measure word for animals"],["猫","māo","cat"],["在","zài","at"],["树","shù","tree"],["上","shàng","on"],["，","",""],["它","tā","it"],["会","huì","can",10],["爬树","páshù","climb trees"],["。","",""]],
+    [["我们","wǒmen","we"],["跟","gēn","with",11],["它","tā","it"],["玩","wán","play"],["了","le","...ed"],["一会儿","yíhuìr","a while"],["。","",""]],
+    [["后来","hòulái","later"],["我们","wǒmen","we"],["去","qù","go"],["了","le","...ed"],["一个","yígè","a"],["东","dōng","east",12],["边","biān","side"],["的","de","'s"],["小店","xiǎodiàn","small shop"],["。","",""]],
+    [["我","wǒ","I"],["买","mǎi","buy"],["了","le","...ed"],["一","yī","one"],["杯","bēi","cup",13],["水","shuǐ","water"],["，","",""],["朋友","péngyǒu","friend"],["买","mǎi","buy"],["了","le","...ed"],["冰激凌","bīngjīlíng","ice cream"],["。","",""]],
+    [["我们","wǒmen","we"],["都","dōu","all",14],["很","hěn","very"],["开心","kāixīn","happy"],["，","",""],["今天","jīntiān","today"],["真","zhēn","really",15],["是","shì","is"],["一个","yígè","a"],["好日子","hǎorìzi","good day"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Indicates that the speaker and friend went together.",
+    "2": "Describes the child as young or little.",
+    "3": "Indicates the ongoing action of reading.",
+    "4": "Specifies the direction as left side.",
+    "5": "Marks the completion of taking photos.",
+    "6": "Refers to the specific chair previously mentioned.",
+    "7": "Indicates an unspecified amount of bread and fruit.",
+    "8": "Means 'return' as in going back home.",
+    "9": "Degree adverb modifying 'happy'.",
+    "10": "Expresses ability: the cat can climb trees.",
+    "11": "Introduces the companion (the cat) for playing.",
+    "12": "Indicates the direction east (east side).",
+    "13": "Measure word for a cup of water.",
+    "14": "Means 'all' to emphasize everyone.",
+    "15": "Degree adverb emphasizing that the day is truly good."
+  },
+  "translation": "Today is the weekend, the weather is very good. My friend and I go to the park together by bus. On the bus, I see a little child reading a book. When we arrive at the park, we find a chair on the left side. We take a photo, then sit on that chair to rest. At noon we eat some bread and fruit. In the afternoon we go home. Today we had a lot of fun. We see a cat in a tree; it can climb trees. We play with it for a while. Later we go to a small shop on the east side. I buy a cup of water, and my friend buys ice cream. We are all very happy; today is really a good day."
+}

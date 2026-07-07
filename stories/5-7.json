@@ -1,0 +1,40 @@
+{
+  "id": "5-7",
+  "level": 5,
+  "title": "买书",
+  "titlePinyin": "mǎi shū",
+  "topicEn": "Shopping for books",
+  "sentences": [
+    [["今天","jīn tiān","today"],["下午","xià wǔ","afternoon",1],["，","",""],["我","wǒ","I"],["和","hé","and",2],["朋友","péng yǒu","friend"],["一起","yī qǐ","together",3],["去","qù","go"],["商店","shāng diàn","store"],["买","mǎi","buy",4],["书","shū","book"],["。","",""]],
+    [["商店","shāng diàn","store"],["在","zài","at"],["学校","xué xiào","school",5],["的","de","(possession)"],["北部","běi bù","northern part",6],["。","",""]],
+    [["我们","wǒ men","we"],["到","dào","arrive"],["商店","shāng diàn","store"],["，","",""],["看见","kàn jiàn","see"],["一些","yī xiē","some"],["书","shū","book"],["。","",""]],
+    [["我","wǒ","I"],["想","xiǎng","want"],["买","mǎi","buy"],["一","yī","one"],["本","běn","(measure for books)"],["关于","guān yú","about"],["历史","lì shǐ","history"],["的","de","(possession)"],["书","shū","book"],["，","",""],["朋友","péng yǒu","friend"],["想","xiǎng","want"],["买","mǎi","buy"],["一","yī","one"],["本","běn","(measure for books)"],["小说","xiǎo shuō","novel"],["。","",""]],
+    [["他","tā","he",7],["问","wèn","ask"],["我","wǒ","I"],["：","",""],["“","",""],["你","nǐ","you"],["最","zuì","most"],["爱","ài","love"],["什么","shén me","what",8],["书","shū","book"],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["我","wǒ","I"],["还","hái","still",9],["没","méi","not (yet)",10],["决定","jué dìng","decide"],["。","",""],["看看","kàn kàn","take a look"],["再","zài","again",11],["说","shuō","say"],["。","",""],["”","",""]],
+    [["后来","hòu lái","later"],["我","wǒ","I"],["看到","kàn dào","see"],["一","yī","one"],["本","běn","(measure)"],["很","hěn","very",12],["厚","hòu","thick"],["的","de","(possession)"],["书","shū","book"],["，","",""],["是","shì","is"],["红","hóng","red"],["的","de","(possession)"],["。","",""]],
+    [["朋友","péng yǒu","friend"],["说","shuō","say"],["：","",""],["“","",""],["那","nà","that",13],["本","běn","(measure)"],["书","shū","book"],["很","hěn","very"],["好","hǎo","good"],["。","",""],["我","wǒ","I"],["能","néng","can",14],["看看","kàn kàn","take a look"],["吗","ma","(question)"],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["可以","kě yǐ","okay"],["。","",""],["我","wǒ","I"],["认为","rèn wéi","think"],["内容","nèi róng","content"],["不错","bù cuò","not bad"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["就","jiù","then"],["买","mǎi","buy"],["了","le","(completion)",15],["那","nà","that"],["本","běn","(measure)"],["书","shū","book"],["。","",""]],
+    [["我们","wǒ men","we"],["一起","yī qǐ","together"],["去","qù","go"],["付","fù","pay"],["钱","qián","money"],["。","",""]],
+    [["我","wǒ","I"],["给","gěi","give"],["他","tā","he"],["一","yī","one"],["百","bǎi","hundred"],["元","yuán","yuan"],["，","",""],["他","tā","he"],["找","zhǎo","give change"],["我","wǒ","I"],["四","sì","four"],["十","shí","ten"],["元","yuán","yuan"],["。","",""]],
+    [["我们","wǒ men","we"],["离开","lí kāi","leave"],["商店","shāng diàn","store"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "表示具体时间，指当天下午。",
+    "2": "连接并列成分‘我’和‘朋友’。",
+    "3": "表示共同行动，与‘去’搭配。",
+    "4": "表示购物动作，与‘书’搭配。",
+    "5": "指商店所在位置。",
+    "6": "方位名词，表示方向。",
+    "7": "指代朋友，作主语。",
+    "8": "疑问代词，询问书类型。",
+    "9": "表示未完成，与‘没’呼应。",
+    "10": "否定副词，与‘还’连用表示尚未。",
+    "11": "时间副词，表示动作重复。",
+    "12": "程度副词，修饰形容词‘厚’。",
+    "13": "指示代词，指代那本书。",
+    "14": "能愿动词，表示能力或请求。",
+    "15": "动态助词，表示动作完成。"
+  },
+  "translation": "This afternoon, I went to the store with my friend to buy a book. The store is in the northern part of the school. We arrived at the store and saw some books. I wanted to buy a book about history, and my friend wanted to buy a novel. He asked me, 'What kind of book do you like best?' I said, 'I haven't decided yet. Let me look some more and then talk.' Later I saw a very thick book that was red. My friend said, 'That book is very good. Can I take a look?' I said, 'Okay. I think the content is not bad.' So I bought that book. We went to pay together. I gave him one hundred yuan, and he gave me forty yuan change. We left the store."
+}

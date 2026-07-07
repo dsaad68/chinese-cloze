@@ -1,0 +1,42 @@
+{
+  "id": "1-22",
+  "level": 1,
+  "title": "我的星期天",
+  "titlePinyin": "wǒ de xīngqītiān",
+  "topicEn": "My Sunday",
+  "sentences": [
+    [["今天","jīntiān","today"],["是","shì","is"],["星期天","xīngqītiān","Sunday"],["。","",""]],
+    [["我","wǒ","I",1],["早上","zǎoshang","morning"],["八","bā","eight",2],["点","diǎn","o'clock"],["起床","qǐchuáng","get up"],["，","",""],["先","xiān","first"],["吃","chī","eat"],["面包","miànbāo","bread"],["，","",""],["还","hái","also",3],["喝","hē","drink"],["一","yī","one",4],["杯","bēi","cup",5],["牛奶","niúnǎi","milk"],["。","",""]],
+    [["我","wǒ","I"],["跟","gēn","with"],["我","wǒ","I"],["朋友","péngyǒu","friend"],["一起","yīqǐ","together",6],["去","qù","go"],["商店","shāngdiàn","store"],["。","",""]],
+    [["我","wǒ","I"],["的","de","possessive"],["朋友","péngyǒu","friend"],["是","shì","is"],["谁","shuí","who",7],["？","",""],["他","tā","he"],["是","shì","is"],["我","wǒ","I"],["的","de","possessive"],["同学","tóngxué","classmate"],["。","",""]],
+    [["我们","wǒmen","we",8],["在","zài","at"],["商店","shāngdiàn","store"],["里","lǐ","inside",9],["买","mǎi","buy"],["了","le","perfective"],["一些","yīxiē","some"],["水果","shuǐguǒ","fruit"],["和","hé","and"],["两","liǎng","two",10],["个","gè","measure word",11],["鸡蛋","jīdàn","egg"],["，","",""],["这","zhè","this",12],["家","jiā","measure word for store",13],["商店","shāngdiàn","store"],["很","hěn","very",14],["大","dà","big"],["。","",""]],
+    [["中午","zhōngwǔ","noon"],["妈妈","māma","mother"],["问","wèn","ask"],["我","wǒ","I"],["：","",""],["“","",""],["你","nǐ","you",15],["吃","chī","eat"],["面包","miànbāo","bread"],["还是","háishì","or"],["面条","miàntiáo","noodles"],["？","",""],["”","",""],["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["我","wǒ","I"],["吃","chī","eat"],["面条","miàntiáo","noodles"],["。","",""],["”","",""]],
+    [["妈妈","māma","mother"],["会","huì","can",16],["做","zuò","make"],["面条","miàntiáo","noodles"],["，","",""],["我们","wǒmen","we"],["吃","chī","eat"],["了","le","perfective"],["面条","miàntiáo","noodles"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["我们","wǒmen","we"],["从","cóng","from"],["商店","shāngdiàn","store"],["回","huí","return"],["家","jiā","home"],["，","",""],["晚上","wǎnshang","evening"],["我","wǒ","I"],["不","bù","not",17],["看","kàn","watch/read"],["电视","diànshì","TV"],["，","",""],["我","wǒ","I"],["也","yě","also"],["看","kàn","read"],["一","yī","one"],["本","běn","measure word for books",18],["书","shū","book"],["。","",""]],
+    [["十","shí","ten",19],["点","diǎn","o'clock"],["我","wǒ","I"],["在","zài","at"],["床","chuáng","bed"],["上","shàng","on",20],["睡觉","shuìjiào","sleep"],["。","",""]],
+    [["我们","wǒmen","we"],["都","dōu","all"],["非常","fēicháng","very"],["高兴","gāoxìng","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "The subject 'I' is needed to start the sentence about the daily routine.",
+    "2": "The time 'eight o'clock' is specified using the number 八.",
+    "3": "还 indicates 'also' to link the actions of eating and drinking.",
+    "4": "The numeral 一 is used before the measure word 杯 to indicate 'one cup'.",
+    "5": "杯 is a measure word for drinks, used with milk.",
+    "6": "一起 means 'together', showing the action is done with a friend.",
+    "7": "谁 is an interrogative pronoun asking about the identity of the friend.",
+    "8": "我们 is the subject pronoun referring to the speaker and the friend.",
+    "9": "里 indicates location, meaning 'inside the store'.",
+    "10": "两 is used as the numeral for 'two' before a measure word.",
+    "11": "个 is a general measure word for countable nouns like eggs.",
+    "12": "这 is a demonstrative pronoun pointing to the specific store.",
+    "13": "家 is a measure word for stores or businesses.",
+    "14": "很 is an adverb of degree modifying the adjective 大.",
+    "15": "你 is the second person pronoun used in the mother's question.",
+    "16": "会 is a modal verb indicating ability, 'can make noodles'.",
+    "17": "不 is a negation adverb used to deny the action of watching TV.",
+    "18": "本 is a measure word for books, used with 一.",
+    "19": "十 is the numeral for 'ten' indicating the hour.",
+    "20": "上 indicates the location 'on the bed'."
+  },
+  "translation": "Today is Sunday. I got up at eight in the morning. First I ate bread, and also drank a cup of milk. I went to the store together with my friend. Who is my friend? He is my classmate. We bought some fruit and two eggs inside the store. This store is very big. At noon, my mother asked me: 'Do you eat bread or noodles?' I said: 'I eat noodles.' Mother can make noodles. We ate noodles. In the afternoon we returned home from the store. In the evening, I don't watch TV; I also read a book. At ten o'clock I sleep on the bed. We are all very happy."
+}

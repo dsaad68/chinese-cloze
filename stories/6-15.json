@@ -1,0 +1,41 @@
+{
+  "id": "6-15",
+  "level": 6,
+  "title": "周末购物",
+  "titlePinyin": "zhōumò gòuwù",
+  "topicEn": "Weekend Shopping",
+  "sentences": [
+    [["今天","jīntiān","today"],["是","shì","to be"],["星期六","xīngqīliù","Saturday"],["，","",""],["天气","tiānqì","weather"],["很","hěn","very"],["好","hǎo","good"],["，","",""],["我","wǒ","I"],["和","hé","and"],["我","wǒ","my"],["的","de","'s"],["朋友","péngyou","friend"],["小王","xiǎowáng","Xiao Wang"],["常常","chángcháng","often"],["一起","yīqǐ","together",1],["去","qù","to go"],["一","yī","one"],["家","jiā","(measure for shops)"],["很","hěn","very"],["大","dà","big"],["的","de","'s"],["超市","chāoshì","supermarket"],["购物","gòuwù","shopping"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",2],["去","qù","to go"],["了","le","(past)"],["超市","chāoshì","supermarket"],["里","lǐ","inside",3],["的","de","'s"],["水果区","shuǐguǒqū","fruit section"],["，","",""],["那里","nàlǐ","there"],["的","de","'s"],["水果","shuǐguǒ","fruit"],["都","dōu","all",4],["很","hěn","very",5],["新鲜","xīnxiān","fresh"],["。","",""]],
+    [["我","wǒ","I"],["买","mǎi","to buy"],["了","le","(past)"],["三","sān","three"],["个","gè","(measure)"],["苹果","píngguǒ","apple"],["和","hé","and"],["一","yī","one"],["杯","bēi","cup/glass"],["酸奶","suānnǎi","yogurt"],["。","",""]],
+    [["然后","ránhòu","then"],["，","",""],["我们","wǒmen","we"],["去","qù","to go"],["了","le","(past)"],["饮料区","yǐnliàoqū","drink section"],["，","",""],["我","wǒ","I"],["想","xiǎng","want"],["要","yào","want"],["一","yī","one"],["瓶","píng","bottle"],["可乐","kělè","cola"],["。","",""]],
+    [["但是","dànshì","but"],["小王","xiǎowáng","Xiao Wang"],["问","wèn","ask"],["我","wǒ","me"],["喜欢","xǐhuān","like"],["哪","nǎ","which",6],["种","zhǒng","kind"],["饮料","yǐnliào","drink"],["，","",""],["他","tā","he"],["建议","jiànyì","suggest"],["我","wǒ","me"],["买","mǎi","buy"],["果汁","guǒzhī","juice"],["，","",""],["而","ér","but"],["不","bù","not"],["是","shì","is"],["别的","biéde","other"],["饮料","yǐnliào","drink"],["。","",""]],
+    [["我","wǒ","I"],["问","wèn","ask"],["小王","xiǎowáng","Xiao Wang"],["：","",""],["“","",""],["你","nǐ","you"],["想","xiǎng","want"],["喝","hē","drink"],["可乐","kělè","cola"],["还是","háishì","or"],["果汁","guǒzhī","juice"],["？","",""],["”","",""]],
+    [["他","tā","he"],["回答","huídá","reply"],["说","shuō","say"],["：","",""],["“","",""],["我","wǒ","I"],["喝","hē","drink"],["水","shuǐ","water"],["就","jiù","then"],["行","xíng","okay"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["看","kàn","look"],["了","le","(past)"],["看","kàn","look"],["果汁","guǒzhī","juice"],["的","de","'s"],["价格","jiàgé","price"],["，","",""],["觉得","juéde","feel"],["太","tài","too",7],["贵","guì","expensive"],["了","le","(sentence end)"],["，","",""],["所以","suǒyǐ","so"],["什么","shénme","what",8],["也","yě","also"],["没","méi","not"],["买","mǎi","buy"],["。","",""]],
+    [["我们","wǒmen","we"],["又","yòu","again"],["去","qù","go"],["了","le","(past)"],["零食区","língshíqū","snack section"],["，","",""],["那里","nàlǐ","there"],["有","yǒu","have"],["几","jǐ","several",9],["种","zhǒng","kind"],["饼干","bǐnggān","cookies"],["，","",""],["那","nà","that"],["些","xiē","(plural)"],["饼干","bǐnggān","cookies"],["看起来","kànqǐlái","look"],["很","hěn","very"],["好吃","hǎochī","tasty"],["。","",""]],
+    [["我","wǒ","I"],["选","xuǎn","choose"],["了","le","(past)"],["几","jǐ","several"],["块","kuài","piece"],["巧克力","qiǎokèlì","chocolate"],["，","",""],["小王","xiǎowáng","Xiao Wang"],["也","yě","also"],["买","mǎi","buy"],["了","le","(past)"],["一","yī","one"],["包","bāo","pack"],["薯片","shǔpiàn","potato chips"],["。","",""]],
+    [["最后","zuìhòu","finally"],["，","",""],["我们","wǒmen","we"],["去","qù","go"],["了","le","(past)"],["收银台","shōuyíntái","cashier"],["，","",""],["他们","tāmen","they"],["都","dōu","all"],["在","zài","at"],["收银台","shōuyíntái","cashier"],["前","qián","in front of",10],["排队","páiduì","queue"],["，","",""],["我们","wǒmen","we"],["也","yě","also"],["能","néng","can",11],["用","yòng","use"],["手机","shǒujī","mobile phone"],["支付","zhīfù","pay"],["。","",""]],
+    [["从","cóng","from"],["超市","chāoshì","supermarket"],["外","wài","outside",12],["，","",""],["我们","wǒmen","we"],["很","hěn","very"],["快","kuài","fast"],["地","de","(adverbial)"],["一块儿","yīkuàir","together"],["回家","huíjiā","go home"],["。","",""]],
+    [["在","zài","on"],["路","lù","road"],["上","shàng","on",13],["，","",""],["我","wǒ","I"],["跟","gēn","with"],["小王","xiǎowáng","Xiao Wang"],["开心","kāixīn","happily"],["地","de","(adverbial)"],["聊","liáo","chat"],["了","le","(past)"],["很多","hěnduō","a lot"],["，","",""],["约定","yuēdìng","agree"],["下次","xiàcì","next time"],["还","hái","still"],["会","huì","will",14],["再","zài","again",15],["来","lái","come"],["。","",""]],
+    [["这","zhè","this"],["个","gè","(measure)"],["周末","zhōumò","weekend"],["真","zhēn","really"],["开心","kāixīn","happy"],["！","",""]]
+  ],
+  "explanations": {
+    "1": "Indicates joint action for going together.",
+    "2": "Shows the sequence of first going to the fruit section.",
+    "3": "Specifies the location inside the supermarket.",
+    "4": "Emphasizes that all fruits are fresh.",
+    "5": "Modifies the adjective 'fresh' to indicate degree.",
+    "6": "Question word asking about the type of drink.",
+    "7": "Shows the degree of expensiveness, leading to not buying.",
+    "8": "In '什么也没买' means 'nothing', indicating no purchase.",
+    "9": "Indicates an unspecified number of kinds of cookies.",
+    "10": "Indicates the position in front of the cashier.",
+    "11": "Indicates ability to pay with a mobile phone.",
+    "12": "Specifies the location outside the supermarket.",
+    "13": "Used in '在路上' meaning 'on the road'.",
+    "14": "Indicates future intention to come again.",
+    "15": "Indicates repetition of the action 'come'."
+  },
+  "translation": "Today is Saturday, the weather is nice. My friend Xiao Wang and I often go to a very big supermarket together to shop. We first went to the fruit section inside the supermarket. The fruits there were all very fresh. I bought three apples and a cup of yogurt. Then we went to the drink section; I wanted a bottle of cola. But Xiao Wang asked me which kind of drink I liked; he suggested I buy juice instead of other drinks. I asked Xiao Wang, 'Do you want cola or juice?' He replied, 'I'll just drink water.' I looked at the price of the juice and thought it was too expensive, so I didn't buy anything. We then went to the snack section; there were several kinds of cookies, and those cookies looked very tasty. I chose a few pieces of chocolate, and Xiao Wang also bought a pack of potato chips. Finally, we went to the cashier. They were all queuing in front of the cashier; we could also pay with our mobile phones. From outside the supermarket, we quickly went home together. On the way, I chatted happily with Xiao Wang, and we agreed to come again next time. This weekend was really fun!"
+}

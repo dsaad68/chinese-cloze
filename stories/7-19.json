@@ -1,0 +1,38 @@
+{
+  "id": "7-19",
+  "level": 7,
+  "title": "图书馆的一天",
+  "titlePinyin": "tú shū guǎn de yī tiān",
+  "topicEn": "A day at the library",
+  "sentences": [
+    [["昨天","zuó tiān","yesterday"],["下午","xià wǔ","afternoon"],["，","，",","],["我","wǒ","I"],["和","hé","and",1],["朋友","péng yǒu","friend"],["一起","yī qǐ","together",2],["从","cóng","from",3],["家","jiā","home"],["里","lǐ","inside",4],["去","qù","go"],["图书馆","tú shū guǎn","library"],["。","。","."]],
+    [["路上","lù shàng","on the way"],["，","，",","],["我","wǒ","I"],["遇见","yù jiàn","meet"],["了","le","(past)"],["一个","yī gè","a",5],["朋友","péng yǒu","friend"],["。","。","."]],
+    [["我们","wǒ men","we"],["一起","yī qǐ","together"],["走","zǒu","walk"],["了","le","(past)"],["进去","jìn qù","go in"],["。","。","."]],
+    [["图书馆","tú shū guǎn","library"],["里","lǐ","inside"],["非常","fēi cháng","very",6],["安静","ān jìng","quiet"],["。","。","."]],
+    [["我们","wǒ men","we"],["找","zhǎo","look for"],["了","le","(past)"],["两","liǎng","two",7],["本","běn","(measure for books)",8],["书","shū","book"],["。","。","."]],
+    [["然后","rán hòu","then"],["坐","zuò","sit"],["在","zài","at",9],["窗边","chuāng biān","by the window"],["看","kàn","read"],["书","shū","book"],["。","。","."]],
+    [["后来","hòu lái","later"],["，","，",","],["我","wǒ","I"],["问","wèn","ask"],["他","tā","him",10],["：","：",":"],["“","“","\""],["你","nǐ","you"],["什么","shén me","what",11],["时候","shí hòu","time"],["回家","huí jiā","go home"],["？","？","?"],["”","”","\""]],
+    [["他","tā","he"],["说","shuō","say"],["：","：",":"],["“","“","\""],["我","wǒ","I"],["还","hái","still",12],["没","méi","not yet",13],["决定","jué dìng","decide"],["。","。","."],["”","”","\""]],
+    [["我们","wǒ men","we"],["一直","yī zhí","continuously",14],["看","kàn","read"],["到","dào","until"],["下午","xià wǔ","afternoon"],["五点","wǔ diǎn","five o'clock"],["。","。","."]],
+    [["然后","rán hòu","then"],["一起","yī qǐ","together"],["回家","huí jiā","go home"],["了","le","(past)"],["。","。","."]],
+    [["今天","jīn tiān","today"],["真","zhēn","really",15],["是","shì","is"],["一个","yī gè","a"],["好日子","hǎo rì zi","good day"],["。","。","."]]
+  ],
+  "explanations": {
+    "1": "Connects the subject ‘我’ and ‘朋友’.",
+    "2": "Cooperative adverb meaning ‘together’.",
+    "3": "Introduces the starting point of the action.",
+    "4": "Location noun indicating inside the home.",
+    "5": "Numeral-measure word phrase meaning ‘a’.",
+    "6": "Degree adverb modifying ‘安静’.",
+    "7": "Numeral used before the measure word ‘本’.",
+    "8": "Measure word for books.",
+    "9": "Introduces the location ‘窗边’.",
+    "10": "Third-person pronoun as object of ‘问’.",
+    "11": "Interrogative pronoun asking about time.",
+    "12": "Means ‘still’ in the negative construction ‘还没’.",
+    "13": "Negates the action ‘决定’.",
+    "14": "Indicates the duration of the reading action.",
+    "15": "Degree adverb emphasizing the quality of the day."
+  },
+  "translation": "Yesterday afternoon, I went from home to the library together with a friend. On the way, I met a friend. We walked in together. The library inside was very quiet. We found two books. Then we sat by the window and read. Later, I asked him: 'What time are you going home?' He said: 'I haven't decided yet.' We read continuously until five o'clock in the afternoon. Then we went home together. Today is really a good day."
+}

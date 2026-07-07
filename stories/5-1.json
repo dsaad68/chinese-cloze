@@ -1,0 +1,40 @@
+{
+  "id": "5-1",
+  "level": 5,
+  "title": "周末购物",
+  "titlePinyin": "zhōu mò gòu wù",
+  "topicEn": "Weekend Shopping",
+  "sentences": [
+    [["今天","jīn tiān","today"],["周末","zhōu mò","weekend",1],["，","",""],["我","wǒ","I"],["和","hé","and"],["我","wǒ","my"],["的","de","possessive",2],["朋友","péng yǒu","friend"],["一起","yī qǐ","together"],["去","qù","go"],["了","le","aspect particle",3],["超市","chāo shì","supermarket"],["。","",""]],
+    [["我们","wǒ men","we"],["先","xiān","first",4],["到","dào","arrive"],["了","le","aspect particle"],["水果区","shuǐ guǒ qū","fruit area"],["，","",""],["里","lǐ","inside",5],["有","yǒu","have"],["很多","hěn duō","many"],["水果","shuǐ guǒ","fruit"],["，","",""],["比如","bǐ rú","for example"],["苹果","píng guǒ","apple"],["和","hé","and"],["香蕉","xiāng jiāo","banana"],["。","",""]],
+    [["朋友","péng yǒu","friend"],["问","wèn","ask"],["我","wǒ","me"],["：","",""],["“","",""],["你","nǐ","you"],["会","huì","will; can",6],["买","mǎi","buy"],["什么","shén me","what",7],["水果","shuǐ guǒ","fruit"],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["我","wǒ","I"],["想","xiǎng","want"],["买","mǎi","buy"],["几","jǐ","how many",8],["个","gè","(measure word)"],["橙子","chéng zi","orange"],["。","",""],["”","",""]],
+    [["我们","wǒ men","we"],["接着","jiē zhe","then"],["走","zǒu","walk"],["到","dào","to"],["了","le","aspect particle"],["饮料区","yǐn liào qū","drink area"],["，","",""],["我","wǒ","I"],["看见","kàn jiàn","see"],["很多","hěn duō","many"],["种","zhǒng","kind"],["饮料","yǐn liào","drink"],["，","",""],["有","yǒu","have"],["牛奶","niú nǎi","milk"],["、","",""],["果汁","guǒ zhī","juice"],["和","hé","and"],["水","shuǐ","water"],["。","",""]],
+    [["朋友","péng yǒu","friend"],["说","shuō","say"],["：","",""],["“","",""],["我","wǒ","I"],["最","zuì","most"],["喜欢","xǐ huān","like"],["喝","hē","drink"],["牛奶","niú nǎi","milk"],["，","",""],["你","nǐ","you"],["能","néng","can",9],["帮","bāng","help"],["我","wǒ","me"],["拿","ná","get"],["一","yī","one",10],["杯","bēi","cup",11],["吗","ma","question particle",12],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["回答","huí dá","answer"],["：","",""],["“","",""],["当然","dāng rán","of course"],["可以","kě yǐ","can; OK"],["。","",""],["”","",""]],
+    [["然后","rán hòu","then"],["我们","wǒ men","we"],["去","qù","go"],["了","le","aspect particle"],["零食区","líng shí qū","snack area"],["，","",""],["那里","nà lǐ","there"],["有","yǒu","have"],["饼干","bǐng gān","cookie"],["和","hé","and"],["巧克力","qiǎo kè lì","chocolate"],["。","",""]],
+    [["朋友","péng yǒu","friend"],["说","shuō","say"],["：","",""],["“","",""],["我们","wǒ men","we"],["买","mǎi","buy"],["一","yī","one"],["块","kuài","piece",13],["巧克力","qiǎo kè lì","chocolate"],["吧","ba","suggestion particle"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["同意","tóng yì","agree"],["了","le","aspect particle"],["。","",""]],
+    [["最后","zuì hòu","finally"],["我们","wǒ men","we"],["走","zǒu","walk"],["到","dào","to"],["收银台","shōu yín tái","cashier counter"],["前","qián","front",14],["付钱","fù qián","pay"],["。","",""]],
+    [["收银员","shōu yín yuán","cashier"],["说","shuō","say"],["：","",""],["“","",""],["一共","yí gòng","total"],["五十","wǔ shí","fifty"],["元","yuán","yuan"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["付","fù","pay"],["了","le","aspect particle"],["钱","qián","money"],["，","",""],["然后","rán hòu","then"],["我们","wǒ men","we"],["都","dōu","all",15],["回家","huí jiā","go home"],["了","le","aspect particle"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "表示时间，指星期六和星期日。",
+    "2": "表示所属关系。",
+    "3": "表示动作完成。",
+    "4": "表示顺序。",
+    "5": "表示方位，内部。",
+    "6": "表示能力或可能性。",
+    "7": "疑问代词，询问事物。",
+    "8": "疑问代词，询问数量。",
+    "9": "表示能力或允许。",
+    "10": "数词，表示一个。",
+    "11": "量词，用于饮料。",
+    "12": "疑问语气词，用于一般疑问句。",
+    "13": "量词，用于块状物品。",
+    "14": "方位名词，表示正面。",
+    "15": "范围副词，表示全部。"
+  },
+  "translation": "Today is weekend, I went to the supermarket with my friend. We first arrived at the fruit area. Inside there are many fruits, such as apples and bananas. My friend asked me: 'What fruit will you buy?' I said: 'I want to buy a few oranges.' Then we walked to the drink area. I saw many kinds of drinks, including milk, juice, and water. My friend said: 'I like milk the most, can you help me get a cup?' I replied: 'Of course.' Then we went to the snack area, where there are cookies and chocolate. My friend said: 'Let's buy a piece of chocolate.' I agreed. Finally we walked to the front of the cashier counter to pay. The cashier said: 'Total is fifty yuan.' I paid the money, and then we all went home."
+}

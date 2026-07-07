@@ -1,0 +1,42 @@
+{
+  "id": "7-4",
+  "level": 7,
+  "title": "公园一日游",
+  "titlePinyin": "gōng yuán yī rì yóu",
+  "topicEn": "A Day at the Park",
+  "sentences": [
+    [["上","shàng","previous"],["个","gè","measure word"],["星","xīng","star/week"],["期","qī","period"],["天","tiān","day"],["早","zǎo","early"],["上","shàng","morning"],["，","",""],["我","wǒ","I"],["和","hé","and"],["爸","bà","dad"],["爸","bà","dad"],["、","",""],["妈","mā","mom"],["妈","mā","mom"],["一","yī","one"],["块","kuài","piece",1],["儿","ér","child"],["去","qù","go"],["了","le","perfective",2],["公","gōng","public"],["园","yuán","garden"],["。","",""]],
+    [["天","tiān","sky/weather"],["气","qì","air"],["很","hěn","very",3],["好","hǎo","good"],["，","",""],["阳","yáng","sun"],["光","guāng","light"],["明","míng","bright"],["媚","mèi","beautiful"],["。","",""]],
+    [["公","gōng","public"],["园","yuán","garden"],["里","lǐ","inside",4],["有","yǒu","have"],["很","hěn","very"],["多","duō","many"],["花","huā","flower"],["和","hé","and"],["树","shù","tree"],["。","",""]],
+    [["我","wǒ","I"],["们","men","plural"],["先","xiān","first",5],["在","zài","at"],["湖","hú","lake"],["边","biān","side"],["散","sàn","stroll"],["步","bù","walk"],["，","",""],["然","rán","then"],["后","hòu","after"],["坐","zuò","sit"],["在","zài","at"],["长","cháng","long"],["椅","yǐ","chair"],["上","shàng","on"],["休","xiū","rest"],["息","xī","rest"],["。","",""]],
+    [["我","wǒ","I"],["正","zhèng","just now",6],["看","kàn","see"],["见","jiàn","see"],["一","yī","one"],["只","zhǐ","measure for animals",7],["小","xiǎo","small"],["鸟","niǎo","bird"],["在","zài","at"],["树","shù","tree"],["上","shàng","on"],["唱","chàng","sing"],["歌","gē","song"],["。","",""]],
+    [["妈","mā","mom"],["妈","mā","mom"],["拿","ná","take"],["出","chū","out"],["两","liǎng","two"],["杯","bēi","cup",8],["果","guǒ","fruit"],["汁","zhī","juice"],["，","",""],["我","wǒ","I"],["们","men","plural"],["喝","hē","drink"],["了","le","perfective"],["起","qǐ","rise"],["来","lái","come"],["。","",""]],
+    [["爸","bà","dad"],["爸","bà","dad"],["问","wèn","ask"],["我","wǒ","I"],["想","xiǎng","want"],["不","bù","not",9],["想","xiǎng","want"],["划","huá","row"],["船","chuán","boat"],["。","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["好","hǎo","good"],["呀","ya","exclamation"],["！","",""],["”","",""]],
+    [["我","wǒ","I"],["们","men","plural"],["租","zū","rent"],["了","le","perfective"],["一","yī","one"],["条","tiáo","measure for long objects",10],["小","xiǎo","small"],["船","chuán","boat"],["。","",""]],
+    [["湖","hú","lake"],["面","miàn","surface"],["上","shàng","on",11],["波","bō","wave"],["光","guāng","light"],["粼","lín","glimmering"],["粼","lín","glimmering"],["，","",""],["真","zhēn","really",12],["漂","piào","beautiful"],["亮","liàng","pretty"],["。","",""]],
+    [["我","wǒ","I"],["划","huá","row"],["了","le","perfective"],["一","yī","one"],["会","huì","moment"],["儿","ér","suffix"],["，","",""],["感","gǎn","feel"],["觉","jué","sense"],["累","lèi","tired"],["了","le","perfective"],["。","",""]],
+    [["妈","mā","mom"],["妈","mā","mom"],["说","shuō","say"],["：","",""],["“","",""],["我","wǒ","I"],["们","men","plural"],["回","huí","return"],["家","jiā","home"],["吧","ba","suggestion"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["很","hěn","very"],["开","kāi","happy"],["心","xīn","joyful"],["，","",""],["因","yīn","because"],["为","wèi","for"],["今","jīn","today"],["天","tiān","day"],["过","guò","pass"],["得","de","particle"],["很","hěn","very"],["好","hǎo","good"],["。","",""]],
+    [["我","wǒ","I"],["们","men","plural"],["还","hái","also",13],["看","kàn","see"],["到","dào","arrive"],["了","le","perfective"],["几","jǐ","several",14],["只","zhǐ","measure for animals"],["鸭","yā","duck"],["子","zǐ","suffix"],["。","",""]],
+    [["我","wǒ","I"],["们","men","plural"],["都","dōu","all",15],["觉","jué","feel"],["得","de","particle"],["这","zhè","this"],["次","cì","time"],["出","chū","go out"],["游","yóu","travel"],["很","hěn","very"],["愉","yú","happy"],["快","kuài","joyful"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "'块' is a measure word used with '一' to form '一块儿', meaning 'together'.",
+    "2": "'了' indicates the completion of the action of going to the park.",
+    "3": "'很' is an adverb modifying '好' to express 'very good' weather.",
+    "4": "'里' is a location noun meaning 'inside the park'.",
+    "5": "'先' indicates the first action of walking by the lake before sitting.",
+    "6": "'正' describes an ongoing action of seeing the bird.",
+    "7": "'只' is a measure word for small animals like birds.",
+    "8": "'杯' is a measure word for cups of juice.",
+    "9": "'不' negates the verb '想' in the phrase '想不想' to form a question.",
+    "10": "'条' is a measure word for long, thin objects like boats.",
+    "11": "'上' indicates the surface of the lake.",
+    "12": "'真' emphasizes the beauty of the scene.",
+    "13": "'还' adds additional information about seeing ducks.",
+    "14": "'几' is an interrogative pronoun used to ask about an unspecified number.",
+    "15": "'都' refers to all family members sharing the feeling."
+  },
+  "translation": "Last Sunday morning, my dad, mom, and I went to the park together. The weather was very good, bright and sunny. There were many flowers and trees inside the park. We first took a walk by the lake, then sat on a bench to rest. I just saw a little bird singing in a tree. Mom took out two cups of juice, and we drank them. Dad asked me if I wanted to row a boat. I said, \"Great!\" We rented a small boat. The lake's surface was sparkling, really beautiful. I rowed for a while and felt tired. Mom said, \"Let's go home.\" I was very happy because today was good. We also saw several ducks. We all felt this outing was very enjoyable."
+}

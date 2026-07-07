@@ -1,0 +1,38 @@
+{
+  "id": "3-17",
+  "level": 3,
+  "title": "小明的早上",
+  "titlePinyin": "Xiǎo Míng de zǎo shang",
+  "topicEn": "Morning Routine",
+  "sentences": [
+    [["小明","Xiǎo Míng","Xiaoming"],["今天","jīn tiān","today"],["早上","zǎo shang","morning"],["七","qī","seven",1],["点","diǎn","o'clock"],["起床","qǐ chuáng","get up"],["。","",""]],
+    [["他","tā","he"],["先","xiān","first",2],["刷牙","shuā yá","brush teeth"],["，","",""],["然后","rán hòu","then"],["洗脸","xǐ liǎn","wash face"],["。","",""]],
+    [["他","tā","he"],["常","cháng","often",3],["吃","chī","eat"],["面包","miàn bāo","bread"],["和","hé","and"],["牛奶","niú nǎi","milk"],["。","",""]],
+    [["今天","jīn tiān","today"],["他","tā","he"],["喝","hē","drink"],["了","le","[completed action]",4],["一","yī","one",5],["杯","bēi","cup",6],["牛奶","niú nǎi","milk"],["，","",""],["吃","chī","eat"],["了","le","[completed action]"],["一","yī","one"],["个","gè","[measure word]"],["面包","miàn bāo","bread"],["。","",""]],
+    [["他","tā","he"],["八","bā","eight"],["点","diǎn","o'clock"],["从","cóng","from",7],["家","jiā","home"],["出门","chū mén","go out"],["。","",""]],
+    [["他","tā","he"],["坐","zuò","take/sit",8],["公交车","gōng jiāo chē","bus"],["去","qù","go"],["学校","xué xiào","school"],["。","",""]],
+    [["在","zài","at",9],["学校","xué xiào","school"],["，","",""],["他","tā","he"],["上课","shàng kè","attend class"],["。","",""]],
+    [["中午","zhōng wǔ","noon"],["他","tā","he"],["和","hé","with",10],["同学","tóng xué","classmate"],["一起","yì qǐ","together",11],["吃","chī","eat"],["午饭","wǔ fàn","lunch"],["。","",""]],
+    [["下午","xià wǔ","afternoon"],["他","tā","he"],["回","huí","return",12],["家","jiā","home"],["做","zuò","do",13],["作业","zuò yè","homework"],["。","",""]],
+    [["他","tā","he"],["晚上","wǎn shang","evening"],["看","kàn","watch",14],["电视","diàn shì","TV"],["。","",""]],
+    [["他","tā","he"],["十","shí","ten"],["点","diǎn","o'clock"],["睡","shuì","sleep",15],["。","",""]]
+  ],
+  "explanations": {
+    "1": "表示时间，七点。",
+    "2": "表示顺序，先刷牙。",
+    "3": "表示频率，常吃面包。",
+    "4": "动态助词，表示动作完成。",
+    "5": "表示数量，一杯牛奶。",
+    "6": "量词，用于饮料。",
+    "7": "表示起点，从家出门。",
+    "8": "表示乘坐交通工具。",
+    "9": "表示地点，在学校。",
+    "10": "表示伴随，和同学一起吃。",
+    "11": "表示共同做某事。",
+    "12": "表示返回，回家。",
+    "13": "表示进行某项活动，做作业。",
+    "14": "表示观看，看电视。",
+    "15": "表示睡觉，十点睡。"
+  },
+  "translation": "Xiaoming gets up at seven in the morning. He first brushes his teeth, then washes his face. He often eats bread and milk. Today he drinks a cup of milk and eats a piece of bread. He leaves home at eight. He takes the bus to school. At school, he has class. At noon, he eats lunch with classmates. In the afternoon, he goes home to do homework. In the evening, he watches TV. He sleeps at ten."
+}

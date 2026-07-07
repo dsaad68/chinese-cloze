@@ -1,0 +1,39 @@
+{
+  "id": "6-10",
+  "level": 6,
+  "title": "周末公园游玩",
+  "titlePinyin": "zhōumò gōngyuán yóuwán",
+  "topicEn": "Weekend Park Outing",
+  "sentences": [
+    [["昨天","zuótiān","yesterday",1],["是","shì","is"],["星期六","xīngqīliù","Saturday"],["，","",""],["我","wǒ","I"],["和","hé","and",2],["我","wǒ","my"],["的","de","(possessive)"],["好","hǎo","good"],["朋友","péngyou","friend"],["小张","Xiǎo Zhāng","Xiao Zhang"],["一起","yīqǐ","together",3],["去","qù","go"],["公园","gōngyuán","park"],["玩","wán","play"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",4],["在","zài","at"],["公园","gōngyuán","park"],["门口","ménkǒu","entrance",5],["见面","jiànmiàn","meet"],["，","",""],["然后","ránhòu","then"],["一起","yīqǐ","together"],["走进","zǒujìn","walk into"],["公园","gōngyuán","park"],["里","lǐ","inside"],["。","",""]],
+    [["公园","gōngyuán","park"],["里","lǐ","inside",6],["有","yǒu","have"],["很多","hěnduō","many"],["花","huā","flowers"],["和","hé","and"],["树","shù","trees"],["，","",""],["非常","fēicháng","very",7],["漂亮","piàoliang","beautiful"],["。","",""]],
+    [["我们","wǒmen","we"],["沿","yán","along"],["着","zhe","(progressive)"],["小路","xiǎolù","path"],["散步","sànbù","walk"],["，","",""],["一会儿","yīhuìr","a while",8],["就","jiù","then",9],["到","dào","arrive"],["了","le","(perfective)"],["湖边","húbiān","lakeside"],["。","",""]],
+    [["湖边","húbiān","lakeside"],["有","yǒu","there is"],["人","rén","people"],["在","zài","(progressive)"],["划船","huáchuán","rowing"],["，","",""],["看","kàn","look"],["起来","qǐlái","(upward)"],["很","hěn","very"],["有趣","yǒuqù","interesting"],["。","",""]],
+    [["我们","wǒmen","we"],["也","yě","also",10],["想","xiǎng","want"],["试试","shìshi","try"],["，","",""],["就","jiù","then"],["去","qù","go"],["租","zū","rent"],["了","le","(perfective)"],["一条","yītiáo","one (for boat)",11],["船","chuán","boat"],["。","",""]],
+    [["我们","wǒmen","we"],["划","huá","row"],["了","le","(perfective)"],["一","yī","one"],["个","gè","(measure word)",12],["小时","xiǎoshí","hour"],["，","",""],["累","lèi","tired"],["极","jí","extremely"],["了","le","(change of state)"],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["上岸","shàng'àn","go ashore"],["，","",""],["去","qù","go"],["吃","chī","eat"],["午饭","wǔfàn","lunch"],["。","",""]],
+    [["我们","wǒmen","we"],["点","diǎn","order"],["了","le","(perfective)"],["两碗","liǎngwǎn","two bowls",13],["面条","miàntiáo","noodles"],["和","hé","and"],["一杯","yībēi","one cup"],["果汁","guǒzhī","juice"],["。","",""]],
+    [["吃","chī","eat"],["完","wán","finish"],["后","hòu","after"],["，","",""],["我们","wǒmen","we"],["又","yòu","again",14],["去","qù","go"],["了","le","(perfective)"],["游乐场","yóulèchǎng","playground"],["。","",""]],
+    [["我们","wǒmen","we"],["玩","wán","play"],["了","le","(perfective)"],["过山车","guòshānchē","roller coaster"],["，","",""],["非常","fēicháng","very"],["刺激","cìjī","exciting"],["。","",""]],
+    [["最后","zuìhòu","finally",15],["我们","wǒmen","we"],["依依不舍","yīyībùshě","reluctant to part"],["地","de","(adverbial)"],["回","huí","return"],["家","jiā","home"],["了","le","(perfective)"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "表示时间，引出故事发生的时间。",
+    "2": "连接“我”和“朋友”，表示并列关系。",
+    "3": "表示动作的共同进行，与“去”搭配。",
+    "4": "表示顺序，首先做某事。",
+    "5": "表示具体地点，在公园入口处。",
+    "6": "方位名词，表示公园的内部。",
+    "7": "程度副词，修饰“漂亮”，加强语气。",
+    "8": "时间名词，表示短时间后。",
+    "9": "关联副词，表示紧接着发生。",
+    "10": "表示同样，我们也想试试。",
+    "11": "数量短语，修饰“船”，表示一条船。",
+    "12": "名量词，用于“小时”，表示一个时间段。",
+    "13": "数量短语，修饰“面条”，表示两碗面条。",
+    "14": "频率副词，表示再一次做某事。",
+    "15": "时间副词，表示最终的动作。"
+  },
+  "translation": "Yesterday was Saturday. I went to the park with my good friend Xiao Zhang. First we met at the park entrance, then walked into the park together. There were many flowers and trees inside the park, it was very beautiful. We walked along the path and soon arrived at the lakeside. Some people were rowing on the lake, it looked very interesting. We also wanted to try, so we went to rent a boat. We rowed for one hour, extremely tired. Then we went ashore to have lunch. We ordered two bowls of noodles and a cup of juice. After eating, we went to the playground again. We played on the roller coaster, it was very exciting. Finally we reluctantly went home."
+}

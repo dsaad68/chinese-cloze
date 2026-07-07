@@ -1,0 +1,41 @@
+{
+  "id": "5-8",
+  "level": 5,
+  "title": "上学的一天",
+  "titlePinyin": "Shàngxué de yī tiān",
+  "topicEn": "A Day at School",
+  "sentences": [
+    [["今天","jīntiān","today"],["早上","zǎoshang","morning"],["，","",""],["我","wǒ","I"],["从","cóng","from",1],["家里","jiālǐ","home"],["出发","chūfā","set out"],["去","qù","go"],["学校","xuéxiào","school"],["。","",""]],
+    [["学校","xuéxiào","school"],["外","wài","outside",2],["人","rén","people"],["很","hěn","very"],["多","duō","many"],["。","",""]],
+    [["我","wǒ","I"],["在","zài","at"],["教室","jiàoshì","classroom"],["前","qián","front",3],["遇到","yùdào","meet"],["了","le","(particle)"],["同学","tóngxué","classmate"],["小李","xiǎo Lǐ","Xiao Li"],["。","",""]],
+    [["他","tā","he"],["问","wèn","ask"],["我","wǒ","me"],["：","",""],["“","",""],["你","nǐ","you"],["今天","jīntiān","today"],["有","yǒu","have"],["什么","shénme","what",4],["课","kè","class"],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["有","yǒu","have"],["，","",""],["上午","shàngwǔ","morning"],["有","yǒu","have"],["两","liǎng","two",5],["节","jié","(measure word)"],["数学课","shùxué kè","math class"],["。","",""],["”","",""]],
+    [["他","tā","he"],["说","shuō","say"],["：","",""],["“","",""],["我","wǒ","I"],["下午","xiàwǔ","afternoon"],["没有","méiyǒu","not have",6],["课","kè","class"],["，","",""],["我们","wǒmen","we"],["一块儿","yīkuàir","together"],["去","qù","go"],["看","kàn","watch"],["电影","diànyǐng","movie"],["吧","ba","(particle)"],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["好","hǎo","okay"],["，","",""],["但是","dànshì","but"],["我","wǒ","I"],["要","yào","want"],["先","xiān","first",7],["回家","huíjiā","go home"],["吃饭","chīfàn","eat"],["。","",""],["”","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["一块儿","yīkuàir","together",8],["去","qù","go"],["了","le","(particle)",9],["食堂","shítáng","cafeteria"],["。","",""]],
+    [["食堂","shítáng","cafeteria"],["里","lǐ","inside",10],["有","yǒu","there is"],["很","hěn","very",11],["多","duō","many"],["好吃","hǎochī","delicious"],["的","de","(particle)"],["东西","dōngxī","things"],["。","",""]],
+    [["我们","wǒmen","we"],["每人","měi rén","each person"],["吃","chī","eat"],["了","le","(particle)"],["一","yī","one"],["块","kuài","piece",12],["面包","miànbāo","bread"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["我","wǒ","I"],["回家","huíjiā","go home"],["看书","kànshū","read"],["。","",""]],
+    [["我","wǒ","I"],["常常","chángcháng","often",13],["在","zài","at"],["书房","shūfáng","study"],["里","lǐ","inside"],["看书","kànshū","read"],["。","",""]],
+    [["今天","jīntiān","today"],["我","wǒ","I"],["还","hái","also",14],["看","kàn","read"],["了","le","(particle)"],["一","yī","one"],["本","běn","(measure word for books)"],["有趣","yǒuqù","interesting"],["的","de","(particle)"],["书","shū","book"],["。","",""]],
+    [["我","wǒ","I"],["姐姐","jiějie","elder sister"],["也","yě","also",15],["回家","huíjiā","go home"],["了","le","(particle)"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "引出时间处所，表示起点。",
+    "2": "方位名词，表示外面。",
+    "3": "方位名词，表示前面。",
+    "4": "疑问代词，询问具体内容。",
+    "5": "数词，表示数量。",
+    "6": "否定副词，表示不存在。",
+    "7": "时间副词，表示顺序优先。",
+    "8": "范围副词，表示共同行动。",
+    "9": "动态助词，表示动作完成。",
+    "10": "方位名词，表示内部。",
+    "11": "程度副词，表示程度高。",
+    "12": "名量词，用于块状物品。",
+    "13": "频率副词，表示经常。",
+    "14": "关联副词，表示递进或补充。",
+    "15": "关联副词，表示同样。"
+  },
+  "translation": "This morning, I set out from home to go to school. There were many people outside the school. I met my classmate Xiao Li in front of the classroom. He asked me, \"What classes do you have today?\" I said, \"I have two math classes in the morning.\" He said, \"I have no class in the afternoon. Shall we go see a movie together?\" I said, \"Okay, but I need to go home first to eat.\" Then we went to the cafeteria together. There were many delicious things in the cafeteria. Each of us ate a piece of bread. In the afternoon, I went home to read. I often read in the study. Today I also read an interesting book. My elder sister also came home."
+}

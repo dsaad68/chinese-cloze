@@ -1,0 +1,38 @@
+{
+  "id": "6-4",
+  "level": 6,
+  "title": "超市购物",
+  "titlePinyin": "chāoshì gòuwù",
+  "topicEn": "Shopping at the Supermarket",
+  "sentences": [
+    [["今天","jīntiān","today"],["早上","zǎoshang","morning",1],["，","",""],["我","wǒ","I"],["和","hé","and",2],["妈妈","māma","mother"],["一起","yīqǐ","together",3],["去","qù","to go"],["超市","chāoshì","supermarket"],["买","mǎi","to buy"],["东西","dōngxi","things"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",4],["看","kàn","to look"],["了","le","(perfective particle)"],["看","kàn","to look"],["蔬菜","shūcài","vegetables"],["区","qū","area"],["。","",""]],
+    [["我们","wǒmen","we"],["到","dào","to arrive"],["了","le","(perfective particle)"],["超市","chāoshì","supermarket"],["外面","wàimiàn","outside",5],["，","",""],["先","xiān","first"],["拿","ná","to take"],["了","le","(perfective particle)"],["购物车","gòuwùchē","shopping cart"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["里面","lǐmiàn","inside",6],["有","yǒu","there is/are"],["很多","hěnduō","many"],["商品","shāngpǐn","goods"],["，","",""],["我","wǒ","I"],["最","zuì","most",7],["喜欢","xǐhuān","to like"],["的","de","(possessive/attributive)"],["水果","shuǐguǒ","fruit"],["在","zài","at/in",8],["左边","zuǒbiān","left side"],["。","",""]],
+    [["妈妈","māma","mother"],["问","wèn","to ask"],["：","",""],["“","",""],["你","nǐ","you"],["要","yào","want"],["买","mǎi","to buy"],["多少","duōshǎo","how many",9],["苹果","píngguǒ","apple"],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","to say"],["：","",""],["“","",""],["买","mǎi","to buy"],["五","wǔ","five",10],["个","gè","(general measure word)",11],["吧","ba","(suggestion particle)"],["。","",""],["”","",""]],
+    [["我们","wǒmen","we"],["又","yòu","again",12],["买","mǎi","to buy"],["了","le","(perfective particle)"],["牛奶","niúnǎi","milk"],["和","hé","and"],["面包","miànbāo","bread"],["。","",""]],
+    [["妈妈","māma","mother"],["想","xiǎng","to want"],["买","mǎi","to buy"],["一些","yīxiē","some",13],["西红柿","xīhóngshì","tomato"],["，","",""],["但是","dànshì","but",14],["没有","méiyǒu","there is not"],["了","le","(change of state)"],["。","",""]],
+    [["付钱","fùqián","to pay"],["的","de","(attributive)"],["时候","shíhou","time/moment"],["，","",""],["我","wǒ","I"],["发现","fāxiàn","to discover"],["前面","qiánmiàn","in front",15],["排队","páiduì","to queue"],["的","de","(attributive)"],["人","rén","people"],["很多","hěnduō","many"],["。","",""]],
+    [["我们","wǒmen","we"],["等","děng","to wait"],["了","le","(perfective particle)"],["十","shí","ten"],["分钟","fēnzhōng","minute"],["。","",""]],
+    [["然后","ránhòu","then"],["，","",""],["我们","wǒmen","we"],["一起","yīqǐ","together"],["走","zǒu","to walk"],["回","huí","to return"],["家","jiā","home"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "表示一天中的时间，指上午较早的时刻。",
+    "2": "连接词，连接'我'和'妈妈'。",
+    "3": "副词，表示共同行动。",
+    "4": "时间副词，表示动作的先后顺序。",
+    "5": "方位名词，指超市的外部。",
+    "6": "方位名词，指超市的内部。",
+    "7": "程度副词，表示最高程度。",
+    "8": "介词，表示地点位置。",
+    "9": "疑问代词，询问数量。",
+    "10": "数字，表示数量。",
+    "11": "名量词，用于苹果。",
+    "12": "频率副词，表示重复动作。",
+    "13": "指示代词，表示不定数量。",
+    "14": "转折连词，表示相反的情况。",
+    "15": "方位名词，指排队的位置。"
+  },
+  "translation": "This morning, my mother and I went to the supermarket together to buy things. We first looked at the vegetable area. We arrived outside the supermarket, first took a shopping cart. Inside the supermarket there were many goods. My favorite fruit was on the left side. Mother asked: \"How many apples do you want to buy?\" I said: \"Buy five.\" We also bought milk and bread. Mother wanted to buy some tomatoes, but there were none. When paying, I discovered there were many people queuing in front. We waited for ten minutes. Then we walked home together."
+}

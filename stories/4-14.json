@@ -1,0 +1,41 @@
+{
+  "id": "4-14",
+  "level": 4,
+  "title": "去公园玩",
+  "titlePinyin": "qù gōngyuán wán",
+  "topicEn": "Going to the Park",
+  "sentences": [
+    [["这","zhè","this"],["个","gè","measure word"],["周末","zhōumò","weekend"],["，","",""],["天气","tiānqì","weather"],["很","hěn","very",1],["好","hǎo","good"],["。","",""]],
+    [["我","wǒ","I"],["和","hé","and",2],["爸爸","bàba","dad"],["妈妈","māma","mom"],["一起","yīqǐ","together"],["去","qù","go"],["公园","gōngyuán","park"],["玩","wán","play"],["。","",""]],
+    [["公园","gōngyuán","park"],["在","zài","in"],["城市","chéngshì","city"],["里","lǐ","inside",3],["，","",""],["走路","zǒulù","walk"],["二十","èrshí","twenty"],["分钟","fēnzhōng","minutes"],["就","jiù","then"],["到","dào","arrive"],["了","le","particle"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",4],["在","zài","at"],["公园","gōngyuán","park"],["门口","ménkǒu","entrance"],["拍照","pāizhào","take photos"],["。","",""]],
+    [["爸爸","bàba","dad"],["会","huì","can",5],["拍照","pāizhào","take photos"],["，","",""],["他","tā","he"],["拍","pāi","take"],["了","le","particle",6],["很多","hěnduō","many"],["好看","hǎokàn","beautiful"],["的","de","structural particle",7],["照片","zhàopiàn","photos"],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["进入","jìnrù","enter"],["公园","gōngyuán","park"],["，","",""],["看见","kànjiàn","see"],["了","le","particle"],["很多","hěnduō","many",8],["花","huā","flowers"],["。","",""]],
+    [["那些","nàxiē","those",9],["花","huā","flower"],["真","zhēn","really",10],["漂亮","piàoliang","beautiful"],["！","",""],["我","wǒ","I"],["闻","wén","smell"],["了","le","particle"],["闻","wén","smell"],["。","",""]],
+    [["妈妈","māma","mom"],["问","wèn","ask"],["我","wǒ","me"],["：","",""],["‘","",""],["你","nǐ","you"],["最","zuì","most"],["喜欢","xǐhuān","like"],["什么","shénme","what",11],["花","huā","flower"],["？","",""],["’","",""]],
+    [["我","wǒ","I"],["回答","huídá","answer"],["：","",""],["‘","",""],["我","wǒ","I"],["喜欢","xǐhuān","like"],["红","hóng","red"],["花","huā","flower"],["，","",""],["也","yě","also",12],["喜欢","xǐhuān","like"],["白","bái","white"],["花","huā","flower"],["’","",""]],
+    [["我们","wǒmen","we"],["在","zài","on"],["草地","cǎodì","grass"],["上","shàng","on",13],["坐","zuò","sit"],["下","xià","down",14],["，","",""],["吃","chī","eat"],["了","le","particle"],["午饭","wǔfàn","lunch"],["。","",""]],
+    [["午饭","wǔfàn","lunch"],["有","yǒu","have"],["面包","miànbāo","bread"],["、","",""],["牛奶","niúnǎi","milk"],["和","hé","and"],["水果","shuǐguǒ","fruit"],["，","",""],["没有","méiyǒu","do not have",15],["肉","ròu","meat"],["。","",""]],
+    [["我","wǒ","I"],["吃","chī","eat"],["了","le","particle"],["很多","hěnduō","many"],["，","",""],["非常","fēicháng","very"],["开心","kāixīn","happy"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["回家","huíjiā","go home"],["以后","yǐhòu","after"],["，","",""],["我","wǒ","I"],["写","xiě","write"],["了","le","particle"],["日记","rìjì","diary"],["。","",""]],
+    [["今天","jīntiān","today"],["太","tài","too"],["快乐","kuàilè","happy"],["了","le","particle"],["！","",""]]
+  ],
+  "explanations": {
+    "1": "Adverb of degree indicating 'very'.",
+    "2": "Conjunction linking two nouns.",
+    "3": "Locative noun indicating inside the city.",
+    "4": "Time adverb indicating the first action.",
+    "5": "Modal verb indicating ability.",
+    "6": "Dynamic particle marking completed action.",
+    "7": "Structural particle linking adjective to noun.",
+    "8": "Quantifier indicating a large number.",
+    "9": "Demonstrative pronoun referring to plural objects far away.",
+    "10": "Adverb of degree emphasizing the adjective.",
+    "11": "Interrogative pronoun asking for specific information.",
+    "12": "Adverb indicating addition.",
+    "13": "Locative noun indicating position on the grass.",
+    "14": "Locative noun indicating downward movement.",
+    "15": "Negative adverb indicating absence."
+  },
+  "translation": "This weekend, the weather was very good. My dad, mom, and I went to the park together. The park is inside the city, and it takes twenty minutes on foot to get there. First, we took photos at the park entrance. Dad can take photos; he took many beautiful pictures. Then we entered the park and saw many flowers. Those flowers were really beautiful! I smelled them. Mom asked me: 'What flower do you like most?' I answered: 'I like red flowers, and also white flowers.' We sat down on the grass and had lunch. Lunch had bread, milk, and fruit, but no meat. I ate a lot and was very happy. After going home in the afternoon, I wrote a diary. Today was so happy!"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6-8",
+  "level": 6,
+  "title": "超市购物",
+  "titlePinyin": "chāo shì gòu wù",
+  "topicEn": "Supermarket Shopping",
+  "sentences": [
+    [["昨天","zuótiān","yesterday"],["下午","xiàwǔ","afternoon"],["，","",""],["我","wǒ","I"],["从","cóng","from",1],["家里","jiālǐ","home"],["出发","chūfā","set out"],["去","qù","go"],["超市","chāoshì","supermarket"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["里","lǐ","inside",2],["人","rén","people"],["很多","hěnduō","many"],["。","",""]],
+    [["我","wǒ","I"],["先","xiān","first",3],["进","jìn","enter"],["了","le","particle"],["水果区","shuǐguǒqū","fruit area"],["。","",""]],
+    [["那里","nàlǐ","there"],["有","yǒu","have"],["苹果","píngguǒ","apple"],["、","",""],["香蕉","xiāngjiāo","banana"],["和","hé","and",4],["葡萄","pútao","grape"],["，","",""],["它们","tāmen","they"],["都","dōu","all",5],["很","hěn","very"],["新鲜","xīnxiān","fresh"],["。","",""]],
+    [["我","wǒ","I"],["买","mǎi","buy"],["了","le","particle"],["三","sān","three",6],["斤","jīn","jin"],["苹果","píngguǒ","apple"],["和","hé","and"],["一","yī","one"],["串","chuàn","bunch"],["葡萄","pútao","grape"],["。","",""]],
+    [["然后","ránhòu","then"],["我","wǒ","I"],["去","qù","go"],["饮料区","yǐnliàoqū","drink area"],["，","",""],["拿","ná","take"],["了","le","particle"],["一","yī","one"],["杯","bēi","cup",7],["酸奶","suānnǎi","yogurt"],["，","",""],["还","hái","also",8],["买","mǎi","buy"],["了","le","particle"],["一","yī","one"],["块","kuài","piece"],["面包","miànbāo","bread"],["。","",""]],
+    [["在","zài","at"],["付款处","fùkuǎnchù","payment area"],["，","",""],["我","wǒ","I"],["遇到","yùdào","meet"],["了","le","particle",9],["朋友","péngyou","friend"],["小王","Xiǎo Wáng","Xiao Wang"],["。","",""]],
+    [["他","tā","he"],["告诉","gàosu","tell"],["我","wǒ","me"],["他","tā","he"],["不","bù","not",10],["是","shì","be"],["很","hěn","very",11],["忙","máng","busy"],["。","",""]],
+    [["我们","wǒmen","we"],["决定","juédìng","decide"],["一起","yìqǐ","together",12],["回家","huíjiā","go home"],["。","",""]],
+    [["路上","lùshang","on the way"],["我们","wǒmen","we"],["买","mǎi","buy"],["了","le","particle"],["两","liǎng","two"],["块","kuài","piece",13],["冰淇淋","bīngqílín","ice cream"],["。","",""]],
+    [["今天","jīntiān","today"],["天气","tiānqì","weather"],["很","hěn","very"],["热","rè","hot"],["，","",""],["吃","chī","eat"],["冰淇淋","bīngqílín","ice cream"],["真","zhēn","really",14],["舒服","shūfu","comfortable"],["。","",""]],
+    [["我们","wǒmen","we"],["走","zǒu","walk"],["了","le","particle"],["没","méi","not"],["多远","duōyuǎn","far"],["就","jiù","then"],["到","dào","arrive"],["家","jiā","home"],["了","le","particle"],["。","",""]],
+    [["我","wǒ","I"],["问","wèn","ask"],["他","tā","him"],["明天","míngtiān","tomorrow"],["还","hái","still"],["能","néng","can",15],["见面","jiànmiàn","meet"],["吗","ma","question particle"],["？","",""]],
+    [["他","tā","he"],["说","shuō","say"],["可以","kěyǐ","okay"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "引出起点，符合句子语境。",
+    "2": "表示方位，指超市内部。",
+    "3": "时间副词，表示动作的先后顺序。",
+    "4": "连接词，连接并列的名词。",
+    "5": "范围副词，表示全部。",
+    "6": "数词，表示苹果的数量。",
+    "7": "名量词，用于酸奶等饮品。",
+    "8": "关联副词，表示追加或进一步。",
+    "9": "动态助词，表示动作完成。",
+    "10": "否定副词，用于否定状态。",
+    "11": "程度副词，修饰形容词的程度。",
+    "12": "协同副词，表示共同行动。",
+    "13": "名量词，用于块状物品。",
+    "14": "程度副词，加强语气。",
+    "15": "能愿动词，表示可能性。"
+  },
+  "translation": "Yesterday afternoon, I set out from home to go to the supermarket. There were many people in the supermarket. I first entered the fruit section. There were apples, bananas, and grapes, and they were all very fresh. I bought three jin of apples and a bunch of grapes. Then I went to the drink section, took a cup of yogurt, and also bought a piece of bread. At the checkout, I met my friend Xiao Wang. He told me that he was not very busy. We decided to go home together. On the way, we bought two pieces of ice cream. The weather is very hot today, eating ice cream is really comfortable. We hadn't walked far before we arrived home. I asked him if we could meet again tomorrow. He said yes."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6-13",
+  "level": 6,
+  "title": "一次周末购物",
+  "titlePinyin": "yī cì zhōu mò gòu wù",
+  "topicEn": "Weekend Shopping",
+  "sentences": [
+    [["周末","zhōumò","weekend"],["我","wǒ","I"],["和","hé","and"],["朋友","péngyǒu","friend"],["一起","yīqǐ","together"],["去","qù","go"],["了","le","[perfective]"],["一","yī","one"],["家","jiā","(measure for store)",1],["超市","chāoshì","supermarket"],["。","",""]],
+    [["我们","wǒmen","we"],["从","cóng","from"],["家","jiā","home"],["里","lǐ","inside",2],["出发","chūfā","set out"],["，","",""],["坐","zuò","take"],["车","chē","car"],["到","dào","arrive"],["了","le","[perfective]"],["那里","nàlǐ","there"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["门口","ménkǒu","entrance"],["有","yǒu","there are"],["很","hěn","very",3],["多","duō","many"],["人","rén","people"],["，","",""],["里面","lǐmiàn","inside"],["也","yě","also"],["很","hěn","very"],["热闹","rènào","lively"],["。","",""]],
+    [["朋友","péngyǒu","friend"],["问","wèn","ask"],["我","wǒ","me"],["：","",""],["“","",""],["你","nǐ","you"],["想","xiǎng","want"],["买","mǎi","buy"],["什么","shénme","what",4],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["我","wǒ","I"],["想","xiǎng","want"],["买","mǎi","buy"],["一些","yīxiē","some"],["水果","shuǐguǒ","fruit"],["和","hé","and"],["蔬菜","shūcài","vegetables"],["。","",""],["”","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",5],["去","qù","go"],["了","le","[perfective]"],["水果区","shuǐguǒqū","fruit section"],["，","",""],["那里","nàlǐ","there"],["有","yǒu","there are"],["苹果","píngguǒ","apple"],["、","",""],["香蕉","xiāngjiāo","banana"],["和","hé","and"],["橘子","júzi","orange"],["。","",""]],
+    [["我","wǒ","I"],["觉得","juéde","think"],["这些","zhèxiē","these",6],["苹果","píngguǒ","apple"],["很","hěn","very"],["新鲜","xīnxiān","fresh"],["，","",""],["就","jiù","then"],["问","wèn","ask"],["：","",""],["“","",""],["这个","zhège","this",7],["多少","duōshao","how much"],["钱","qián","money"],["？","",""],["”","",""]],
+    [["朋友","péngyǒu","friend"],["说","shuō","say"],["：","",""],["“","",""],["两","liǎng","two",8],["块","kuài","(yuan)"],["钱","qián","money"],["一","yī","one"],["斤","jīn","jin"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["就","jiù","then"],["买","mǎi","buy"],["了","le","[perfective]"],["两","liǎng","two"],["个","gè","(general measure)",9],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","go"],["了","le","[perfective]"],["蔬菜区","shūcàiqū","vegetable section"],["，","",""],["朋友","péngyǒu","friend"],["非常","fēicháng","very",10],["喜欢","xǐhuān","like"],["吃","chī","eat"],["西红柿","xīhóngshì","tomato"],["，","",""],["她","tā","she"],["会","huì","can"],["买","mǎi","buy"],["很多","hěnduō","many"],["。","",""]],
+    [["她","tā","she"],["还","hái","also",11],["买","mǎi","buy"],["了","le","[perfective]"],["一些","yīxiē","some"],["黄瓜","huángguā","cucumber"],["，","",""],["我","wǒ","I"],["也","yě","also",12],["买","mǎi","buy"],["了","le","[perfective]"],["一些","yīxiē","some"],["白菜","báicài","cabbage"],["。","",""]],
+    [["朋友","péngyǒu","friend"],["又","yòu","again"],["说","shuō","say"],["：","",""],["“","",""],["那些","nàxiē","those",13],["白菜","báicài","cabbage"],["很","hěn","very"],["便宜","piányi","cheap"],["，","",""],["你","nǐ","you"],["可以","kěyǐ","can"],["多","duō","more"],["买","mǎi","buy"],["一点","yīdiǎn","some"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["好","hǎo","good"],["，","",""],["我","wǒ","I"],["就","jiù","then"],["买","mǎi","buy"],["了","le","[perfective]"],["半","bàn","half",14],["斤","jīn","jin"],["。","",""],["”","",""]],
+    [["最后","zuìhòu","finally"],["，","",""],["我们","wǒmen","we"],["一起","yīqǐ","together"],["去","qù","go"],["结账","jiézhàng","checkout"],["。","",""],["我","wǒ","I"],["没有","méiyǒu","did not",15],["带","dài","bring"],["现金","xiànjīn","cash"],["，","",""],["所以","suǒyǐ","so"],["用","yòng","use"],["手机","shǒujī","phone"],["付","fù","pay"],["了","le","[perfective]"],["钱","qián","money"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "‘家’ is a measure word for shops like supermarkets.",
+    "2": "‘里’ is a location noun meaning inside, used with ‘从…出发’.",
+    "3": "‘很’ is an adverb of degree modifying ‘多’.",
+    "4": "‘什么’ is a question pronoun asking about items to buy.",
+    "5": "‘先’ is a time adverb indicating sequence.",
+    "6": "‘这些’ is a demonstrative pronoun referring to the apples.",
+    "7": "‘这个’ is a demonstrative pronoun asking about the price of a specific apple.",
+    "8": "‘两’ is the cardinal number used before measure words.",
+    "9": "‘个’ is a common measure word for apples.",
+    "10": "‘非常’ is an adverb of degree meaning very much.",
+    "11": "‘还’ is an adverb meaning in addition.",
+    "12": "‘也’ indicates that the speaker does the same action as the friend.",
+    "13": "‘那些’ is a demonstrative pronoun pointing to the cabbages.",
+    "14": "‘半’ means half, used with a measure word.",
+    "15": "‘没有’ is a negative adverb for past actions."
+  },
+  "translation": "On the weekend, I went to a supermarket with my friend. We set out from home and took a car to get there. There were many people at the supermarket entrance; inside it was also very lively. My friend asked me: 'What do you want to buy?' I said: 'I want to buy some fruit and vegetables.' First we went to the fruit section; there were apples, bananas, and oranges. I thought these apples were very fresh, so I asked: 'How much is this one?' My friend said: 'Two yuan per jin.' So I bought two of them. Then we went to the vegetable section; my friend likes to eat tomatoes very much; she will buy a lot. She also bought some cucumbers, and I also bought some cabbage. My friend said again: 'Those cabbages are very cheap, you can buy a bit more.' I said: 'Okay, I'll buy half a jin.' Finally, we checked out together. I didn't bring cash, so I paid by phone."
+}

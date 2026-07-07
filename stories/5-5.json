@@ -1,0 +1,40 @@
+{
+  "id": "5-5",
+  "level": 5,
+  "title": "周末去公园",
+  "titlePinyin": "zhōu mò qù gōng yuán",
+  "topicEn": "A weekend trip to the park",
+  "sentences": [
+    [["今天","jīn tiān","today"],["是","shì","is"],["周末","zhōu mò","weekend"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["朋友","péng yǒu","friend"],["一块儿","yī kuài er","together",2],["去","qù","go"],["公园","gōng yuán","park"],["。","",""]],
+    [["公园","gōng yuán","park"],["里","lǐ","inside",3],["有","yǒu","have"],["很多","hěn duō","many",4],["花","huā","flower"],["。","",""]],
+    [["湖","hú","lake",5],["上","shàng","on"],["有","yǒu","have"],["几","jǐ","how many",6],["只","zhī","(measure word for animals)"],["鸭子","yā zi","duck"],["。","",""]],
+    [["朋友","péng yǒu","friend"],["会","huì","can",7],["拍照","pāi zhào","take photos"],["。","",""]],
+    [["他","tā","he"],["拍","pāi","take",8],["了","le","(past tense marker)"],["很多","hěn duō","many"],["照片","zhào piàn","photo",9],["。","",""]],
+    [["然后","rán hòu","then"],["我们","wǒ men","we"],["去","qù","go"],["树","shù","tree",10],["后","hòu","behind"],["休息","xiū xi","rest",11],["。","",""]],
+    [["树","shù","tree"],["后","hòu","behind"],["有","yǒu","have"],["一","yī","one",12],["块","kuài","piece (measure word)",13],["草地","cǎo dì","lawn"],["。","",""]],
+    [["我","wǒ","I"],["在","zài","at",14],["那里","nà lǐ","there"],["吃","chī","eat",15],["午饭","wǔ fàn","lunch"],["。","",""]],
+    [["我","wǒ","I"],["带","dài","bring"],["了","le","(past tense)"],["两","liǎng","two"],["个","gè","(measure word)"],["面包","miàn bāo","bread"],["和","hé","and"],["一","yī","one"],["瓶","píng","bottle"],["水","shuǐ","water"],["。","",""]],
+    [["朋友","péng yǒu","friend"],["带","dài","bring"],["了","le","(past tense)"],["水果","shuǐ guǒ","fruit"],["。","",""]],
+    [["我们","wǒ men","we"],["一直","yī zhí","all along"],["玩","wán","play"],["到","dào","until"],["下午","xià wǔ","afternoon"],["。","",""]],
+    [["然后","rán hòu","then"],["一起","yī qǐ","together"],["回家","huí jiā","go home"],["。","",""]],
+    [["今天","jīn tiān","today"],["真","zhēn","really"],["开心","kāi xīn","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Connects 'I' and 'friend' to show companionship.",
+    "2": "Indicates that the action is done together.",
+    "3": "Indicates location inside the park.",
+    "4": "Describes a large quantity of flowers.",
+    "5": "Refers to the body of water in the park.",
+    "6": "Question word for an unspecified number of ducks.",
+    "7": "Modal verb indicating ability to take photos.",
+    "8": "Verb meaning to take a photo.",
+    "9": "Noun referring to the pictures taken.",
+    "10": "Noun indicating where they rested.",
+    "11": "Verb describing the action of resting.",
+    "12": "Number indicating one piece of lawn.",
+    "13": "Measure word for a piece of land.",
+    "14": "Preposition indicating location where eating happened.",
+    "15": "Verb describing the action of having lunch."
+  },
+  "translation": "Today is the weekend. I and my friend go to the park together. There are many flowers inside the park. On the lake there are a few ducks. My friend can take photos. He takes many photos. Then we go to a tree behind which we rest. Behind the tree there is a piece of lawn. I eat lunch there. I bring two pieces of bread and a bottle of water. My friend brings fruit. We play until the afternoon. Then we go home together. Today is really happy."
+}

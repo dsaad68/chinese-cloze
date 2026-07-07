@@ -1,0 +1,39 @@
+{
+  "id": "3-6",
+  "level": 3,
+  "title": "去超市买东西",
+  "titlePinyin": "qù chāo shì mǎi dōng xi",
+  "topicEn": "Shopping",
+  "sentences": [
+    [["今天","jīntiān","today"],["我","wǒ","I"],["和","hé","and"],["妈妈","māma","mom"],["去","qù","go"],["超市","chāoshì","supermarket"],["买","mǎi","buy"],["东西","dōngxi","things"],["。","",""]],
+    [["在","zài","at",1],["超市","chāoshì","supermarket"],["里","lǐ","inside",2],["有","yǒu","have"],["很","hěn","very"],["多","duō","many"],["人","rén","people"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",3],["去","qù","go"],["了","le","(completion)",4],["水果","shuǐguǒ","fruit"],["那里","nàlǐ","there",5],["。","",""]],
+    [["妈妈","māma","mom"],["问","wèn","ask"],[":","",""],["\"","",""],["你","nǐ","you"],["想","xiǎng","want"],["买","mǎi","buy"],["什么","shénme","what",6],["?","",""],["\"","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],[":","",""],["\"","",""],["我","wǒ","I"],["想","xiǎng","want"],["买","mǎi","buy"],["苹果","píngguǒ","apple"],["和","hé","and"],["香蕉","xiāngjiāo","banana"],["。","",""],["\"","",""]],
+    [["妈妈","māma","mom"],["买","mǎi","buy"],["了","le","(completion)"],["两","liǎng","two",7],["个","gè","(general measure)",8],["苹果","píngguǒ","apple"],["和","hé","and"],["半","bàn","half",9],["斤","jīn","jin (unit)",10],["香蕉","xiāngjiāo","banana"],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","go"],["了","le","(completion)"],["奶茶","nǎichá","milk tea"],["那里","nàlǐ","there"],["。","",""]],
+    [["妈妈","māma","mom"],["问","wèn","ask"],[":","",""],["\"","",""],["你","nǐ","you"],["能","néng","can",11],["喝","hē","drink"],["奶茶","nǎichá","milk tea"],["吗","ma","(question)"],["?","",""],["\"","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],[":","",""],["\"","",""],["能","néng","can"],[",","",""],["我","wǒ","I"],["很","hěn","very",12],["想","xiǎng","want"],["喝","hē","drink"],["。","",""],["\"","",""]],
+    [["妈妈","māma","mom"],["就","jiù","then"],["给","gěi","give"],["我","wǒ","I"],["买","mǎi","buy"],["了","le","(completion)"],["一","yī","one",13],["杯","bēi","cup",14],["奶茶","nǎichá","milk tea"],["。","",""]],
+    [["我们","wǒmen","we"],["一共","yīgòng","in total",15],["花","huā","spend"],["了","le","(completion)"],["四十","sìshí","forty"],["元","yuán","yuan"],["。","",""]],
+    [["回","huí","return"],["家","jiā","home"],["后","hòu","after"],[",","",""],["我","wǒ","I"],["觉得","juéde","feel"],["很","hěn","very"],["开心","kāixīn","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Indicates the location where the event takes place.",
+    "2": "Indicates being inside the supermarket.",
+    "3": "Shows the sequence of actions (first).",
+    "4": "Marks the completion of the action 'go'.",
+    "5": "Refers to the place where the fruit is.",
+    "6": "Used to ask about the thing to buy.",
+    "7": "Used before a measure word to mean 'two'.",
+    "8": "A common measure word for apples.",
+    "9": "Means half, used with '斤' to indicate half a jin.",
+    "10": "A measure word for weight.",
+    "11": "Expresses ability or permission.",
+    "12": "An adverb modifying '想' to strengthen the desire.",
+    "13": "The number one used before '杯'.",
+    "14": "A measure word for cups.",
+    "15": "Sums up the total amount spent."
+  },
+  "translation": "Today I went to the supermarket with my mom to buy things. In the supermarket there were many people. First we went to the fruit area. Mom asked: \"What do you want to buy?\" I said: \"I want to buy apples and bananas.\" Mom bought two apples and half a jin of bananas. Then we went to the milk tea area. Mom asked: \"Can you drink milk tea?\" I said: \"Can, I very much want to drink.\" Mom then bought me one cup of milk tea. We spent forty yuan in total. After returning home, I felt very happy."
+}

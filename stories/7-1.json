@@ -1,0 +1,39 @@
+{
+  "id": "7-1",
+  "level": 7,
+  "title": "超市购物",
+  "titlePinyin": "chāo shì gòu wù",
+  "topicEn": "Shopping at the Supermarket",
+  "sentences": [
+    [["今天","jīntiān","today"],["上午","shàngwǔ","morning",1],["，","",""],["我","wǒ","I"],["和","hé","and"],["妈妈","māma","mom"],["去","qù","go"],["超市","chāoshì","supermarket"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["里","lǐ","inside",2],["有","yǒu","have; there is"],["多少","duōshǎo","how many",3],["人","rén","people",4],["？","",""]],
+    [["我","wǒ","I"],["能","néng","can",5],["在","zài","at; in"],["哪里","nǎlǐ","where",6],["找到","zhǎodào","find",7],["水果","shuǐguǒ","fruit"],["？","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",8],["买","mǎi","buy"],["了","le","(completed action marker)"],["苹果","píngguǒ","apple"],["。","",""]],
+    [["妈妈","māma","mom"],["会","huì","can; be able to",9],["煮","zhǔ","cook (by boiling)"],["苹果","píngguǒ","apple"],["。","",""]],
+    [["她","tā","she",10],["常常","chángcháng","often",11],["煮","zhǔ","cook (by boiling)"],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","go"],["海鲜","hǎixiān","seafood",12],["区","qū","area",13],["。","",""]],
+    [["那里","nàlǐ","there"],["的","de","(possessive/descriptive particle)"],["鱼","yú","fish"],["很","hěn","very"],["新鲜","xīnxiān","fresh"],["。","",""]],
+    [["爸爸","bàba","dad"],["喜欢","xǐhuān","like"],["鱼","yú","fish"],["，","",""],["但","dàn","but"],["他","tā","he"],["今天","jīntiān","today"],["没","méi","didn't"],["来","lái","come"],["。","",""]],
+    [["最后","zuìhòu","finally"],["我们","wǒmen","we"],["买","mǎi","buy"],["了","le","(completed action marker)"],["几","jǐ","several; how many",14],["块","kuài","piece (measure word)"],["面包","miànbāo","bread",15],["。","",""]],
+    [["一共","yígòng","in total"],["花费","huāfèi","spend"],["五十","wǔshí","fifty"],["元","yuán","yuan (Chinese currency)"],["。","",""]],
+    [["我","wǒ","I"],["和","hé","and"],["妈妈","māma","mom"],["很","hěn","very"],["开心","kāixīn","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "表示具体时间，与‘今天’搭配使用。",
+    "2": "方位名词，表示超市的内部空间。",
+    "3": "疑问代词，用来询问数量。",
+    "4": "名词，指超市中的人群。",
+    "5": "能愿动词，表示能力或可能性。",
+    "6": "疑问代词，询问地点。",
+    "7": "动词，表示寻找的结果。",
+    "8": "时间副词，表示顺序优先。",
+    "9": "能愿动词，表示掌握某种技能。",
+    "10": "人称代词，指代妈妈。",
+    "11": "频率副词，表示动作经常发生。",
+    "12": "名词，指海产品。",
+    "13": "名词，表示超市中的分区。",
+    "14": "疑问代词，表示不确定的数量。",
+    "15": "名词，一种食品。"
+  },
+  "translation": "This morning, my mom and I went to the supermarket. How many people are in the supermarket? Where can I find the fruit? We first bought some apples. Mom knows how to cook apples. She often cooks them. Then we went to the seafood section. The fish there was very fresh. Dad likes fish, but he didn't come today. Finally, we bought a few pieces of bread. It cost fifty yuan in total. My mom and I were very happy."
+}

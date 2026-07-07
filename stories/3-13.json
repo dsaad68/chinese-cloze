@@ -1,0 +1,39 @@
+{
+  "id": "3-13",
+  "level": 3,
+  "title": "周末去超市",
+  "titlePinyin": "zhōumò qù chāoshì",
+  "topicEn": "Going to the supermarket on a weekend",
+  "sentences": [
+    [["今天","jīntiān","today"],["下午","xiàwǔ","afternoon"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["我","wǒ","my"],["的","de","possessive particle",2],["朋友","péngyǒu","friend"],["一起","yīqǐ","together",3],["去","qù","go"],["超市","chāoshì","supermarket"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",4],["去","qù","go"],["水果","shuǐguǒ","fruit"],["区","qū","area"],["。","",""]],
+    [["水果","shuǐguǒ","fruit"],["区","qū","area"],["在","zài","at"],["超市","chāoshì","supermarket"],["的","de","possessive particle"],["左","zuǒ","left",5],["边","biān","side"],["。","",""]],
+    [["那","nà","that",6],["里","lǐ","inside"],["有","yǒu","have"],["很多","hěnduō","many"],["水果","shuǐguǒ","fruit"],["。","",""]],
+    [["我","wǒ","I"],["买","mǎi","buy"],["了","le","past tense marker",7],["三","sān","three",8],["个","gè","measure word",9],["苹果","píngguǒ","apple"],["和","hé","and"],["两","liǎng","two",10],["杯","bēi","cup",11],["酸奶","suānnǎi","yogurt"],["。","",""]],
+    [["我","wǒ","my"],["的","de","possessive particle"],["朋友","péngyǒu","friend"],["买","mǎi","buy"],["了","le","past tense marker"],["什么","shénme","what",12],["？","",""]],
+    [["他","tā","he"],["买","mǎi","buy"],["了","le","past tense marker"],["一","yī","one",13],["杯","bēi","cup"],["咖啡","kāfēi","coffee"],["和","hé","and"],["一","yī","a"],["块","kuài","piece",14],["面包","miànbāo","bread"],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","go"],["牛奶","niúnǎi","milk"],["区","qū","area"],["。","",""]],
+    [["我们","wǒmen","we"],["能","néng","can",15],["喝","hē","drink"],["牛奶","niúnǎi","milk"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["里","lǐ","inside"],["人","rén","people"],["很多","hěnduō","many"],["，","",""],["但是","dànshì","but"],["不","bù","not"],["吵","chǎo","noisy"],["。","",""]],
+    [["我们","wǒmen","we"],["太","tài","too"],["高兴","gāoxìng","happy"],["了","le","particle"],["。","",""]],
+    [["我们","wǒmen","we"],["从","cóng","from"],["超市","chāoshì","supermarket"],["出来","chūlái","come out"],["，","",""],["一起","yīqǐ","together"],["回家","huíjiā","go home"],["了","le","particle"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "连接'我'和'朋友'，表示一起做事。",
+    "2": "用在'我'和'朋友'之间，表示所属关系。",
+    "3": "表示两个人同时做一件事。",
+    "4": "表示动作的顺序，首先去水果区。",
+    "5": "方位名词，表示水果区在超市的左侧。",
+    "6": "指示代词，指代之前提到的水果区。",
+    "7": "动态助词，表示'买'这个动作已经完成。",
+    "8": "数词，表示苹果的数量。",
+    "9": "名量词，用于苹果这类物品。",
+    "10": "数词，表示酸奶的杯数。",
+    "11": "名量词，用于酸奶这类杯装物品。",
+    "12": "疑问代词，用来询问朋友买了什么东西。",
+    "13": "数词，表示咖啡的数量。",
+    "14": "名量词，用于面包这类块状物品。",
+    "15": "能愿动词，表示有能力或可以喝牛奶。"
+  },
+  "translation": "This afternoon, I went to the supermarket with my friend. We first went to the fruit area. The fruit area is on the left side of the supermarket. There were many fruits there. I bought three apples and two cups of yogurt. What did my friend buy? He bought a cup of coffee and a piece of bread. Then we went to the milk area. We can drink milk. There were many people in the supermarket, but it was not noisy. We were very happy. We came out of the supermarket and went home together."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2-10",
+  "level": 2,
+  "title": "周末购物",
+  "titlePinyin": "zhōumò gòuwù",
+  "topicEn": "Weekend shopping",
+  "sentences": [
+    [["今天","jīntiān","today"],["星期","xīngqī","week"],["六","liù","six",1],["，","",""],["我","wǒ","I"],["和","hé","and",2],["妈妈","māma","mother"],["一起","yīqǐ","together",3],["去","qù","go"],["超市","chāoshì","supermarket"],["买","mǎi","buy"],["东西","dōngxi","things"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["很","hěn","very",4],["大","dà","big"],["，","",""],["里面","lǐmiàn","inside"],["都","dōu","all",5],["有","yǒu","have"],["水果","shuǐguǒ","fruit"],["、","",""],["菜","cài","vegetable"],["和","hé","and"],["肉","ròu","meat"],["。","",""]],
+    [["我们","wǒmen","we"],["买","mǎi","buy"],["了","le","(completed action)",6],["几","jǐ","how many"],["个","gè","(measure word)",7],["苹果","píngguǒ","apple"],["、","",""],["面包","miànbāo","bread"],["，","",""],["还","hái","also",8],["买","mǎi","buy"],["了","le","(completed action)"],["一","yī","one"],["杯","bēi","cup"],["牛奶","niúnǎi","milk"],["。","",""]],
+    [["妈妈","māma","mother"],["问","wèn","ask"],["我","wǒ","I"],["要","yào","want"],["茶","chá","tea"],["还是","háishì","or",9],["水","shuǐ","water"],["，","",""],["我","wǒ","I"],["说","shuō","say"],["不","bù","not",10],["要","yào","want"],["，","",""],["因为","yīnwèi","because"],["我","wǒ","I"],["不","bù","not"],["喜欢","xǐhuān","like"],["茶","chá","tea"],["。","",""]],
+    [["我们","wǒmen","we"],["再","zài","again",11],["去","qù","go"],["买","mǎi","buy"],["鱼","yú","fish"],["和","hé","and"],["鸡蛋","jīdàn","egg"],["。","",""]],
+    [["回","huí","return"],["家","jiā","home"],["后","hòu","after",12],["，","",""],["妈妈","māma","mother"],["会","huì","can",13],["做","zuò","make"],["午饭","wǔfàn","lunch"],["。","",""]],
+    [["她","tā","she",14],["做","zuò","make"],["的","de","(possessive)",15],["饺子","jiǎozi","dumpling"],["非常","fēicháng","very"],["好吃","hǎochī","delicious"],["。","",""]],
+    [["我","wǒ","I"],["和","hé","and"],["爸爸","bàba","father"],["也","yě","also"],["一起","yīqǐ","together"],["吃","chī","eat"],["了","le","(completed action)"],["很","hěn","very"],["多","duō","much",16],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["我","wǒ","I"],["在","zài","at",17],["家","jiā","home"],["看","kàn","read"],["那","nà","that",18],["本","běn","(measure word for books)",19],["书","shū","book"],["，","",""],["弟弟","dìdi","younger brother"],["正在","zhèngzài","in the process of"],["房间","fángjiān","room"],["里","lǐ","in",20],["睡觉","shuìjiào","sleep"],["。","",""]],
+    [["晚上","wǎnshàng","evening"],["我们","wǒmen","we"],["看","kàn","watch"],["电视","diànshì","TV"],["。","",""]],
+    [["今天","jīntiān","today"],["真","zhēn","really"],["高兴","gāoxìng","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "It indicates the day of the week, Saturday.",
+    "2": "It connects the subject 'I' and 'mother'.",
+    "3": "It shows the action is done together with mother.",
+    "4": "It modifies the adjective 'big' to indicate the degree.",
+    "5": "It emphasizes that everything inside the supermarket exists.",
+    "6": "It indicates the completion of the buying action.",
+    "7": "It is the measure word for apples.",
+    "8": "It adds another item purchased.",
+    "9": "It presents a choice between tea and water.",
+    "10": "It negates the desire to buy the drink.",
+    "11": "It indicates doing the action again (going to buy fish and eggs).",
+    "12": "It indicates the time sequence after returning home.",
+    "13": "It expresses the ability to cook lunch.",
+    "14": "It refers to the mother who made the dumplings.",
+    "15": "It shows that the dumplings belong to her (the ones she made).",
+    "16": "It quantifies the large amount of food eaten.",
+    "17": "It indicates the location where the action takes place (at home).",
+    "18": "It specifies a particular book.",
+    "19": "It is the measure word for books.",
+    "20": "It indicates the location inside the room."
+  },
+  "translation": "Today is Saturday. I go to the supermarket with my mother to buy things. The supermarket is very big. Inside, there are fruits, vegetables, and meat. We bought several apples and bread, and also bought a cup of milk. Mother asked me if I wanted tea or water. I said no, because I don't like tea. Then we went to buy fish and eggs. After returning home, mother can make lunch. She made dumplings. They are very delicious. My father and I also ate a lot together. In the afternoon, I was at home reading that book. My younger brother was sleeping in the room. In the evening, we watched TV. Today is really happy."
+}

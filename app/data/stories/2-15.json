@@ -1,0 +1,43 @@
+{
+  "id": "2-15",
+  "level": 2,
+  "title": "周末去超市",
+  "titlePinyin": "zhōu mò qù chāo shì",
+  "topicEn": "Going to the supermarket on weekend",
+  "sentences": [
+    [["今天","jīn tiān","today"],["是","shì","to be"],["星期天","xīng qī tiān","Sunday",1],["。","",""]],
+    [["我","wǒ","I"],["和","hé","and"],["妈妈","mā ma","mother"],["一起","yì qǐ","together",2],["去","qù","to go"],["超市","chāo shì","supermarket",3],["买","mǎi","to buy"],["东西","dōng xi","things",4],["。","",""]],
+    [["超市","chāo shì","supermarket"],["在","zài","at, in"],["我们","wǒ men","we, us"],["家","jiā","home, family"],["旁边","páng biān","beside, next to",5],["，","",""],["我们","wǒ men","we, us",6],["走","zǒu","to walk",7],["路","lù","road"],["去","qù","to go"],["。","",""]],
+    [["超市","chāo shì","supermarket"],["里","lǐ","inside, in",8],["有","yǒu","to have, there is"],["很","hěn","very",9],["多","duō","many, much",10],["人","rén","person, people",11],["。","",""]],
+    [["我们","wǒ men","we, us"],["先","xiān","first",12],["买","mǎi","to buy"],["水果","shuǐ guǒ","fruit"],["，","",""],["妈妈","mā ma","mother"],["买","mǎi","to buy"],["了","le","(past tense marker)"],["苹果","píng guǒ","apple",13],["和","hé","and"],["香蕉","xiāng jiāo","banana",14],["。","",""]],
+    [["我们","wǒ men","we, us"],["再","zài","again, then",15],["去","qù","to go"],["买","mǎi","to buy"],["牛奶","niú nǎi","milk"],["，","",""],["牛奶","niú nǎi","milk",16],["在","zài","at, in"],["超市","chāo shì","supermarket"],["里","lǐ","inside, in"],["。","",""]],
+    [["我","wǒ","I"],["拿","ná","to take, to hold"],["了","le","(past tense marker)"],["一","yī","one",17],["杯","bēi","cup, glass (measure word)",18],["牛奶","niú nǎi","milk"],["。","",""]],
+    [["我们","wǒ men","we, us"],["还","hái","also, still",19],["要","yào","to want, will"],["买","mǎi","to buy"],["面包","miàn bāo","bread",20],["，","",""],["面包","miàn bāo","bread"],["在","zài","at, in"],["面包","miàn bāo","bread"],["店","diàn","shop, store"],["旁边","páng biān","beside, next to"],["。","",""]],
+    [["我们","wǒ men","we, us"],["买","mǎi","to buy"],["了","le","(past tense marker)"],["面包","miàn bāo","bread"],["和","hé","and"],["鸡蛋","jī dàn","egg"],["。","",""]],
+    [["我们","wǒ men","we, us"],["就","jiù","then, at once"],["回","huí","to return"],["家","jiā","home"],["了","le","(past tense marker)"],["，","",""],["我","wǒ","I"],["帮","bāng","to help"],["妈妈","mā ma","mother"],["拿","ná","to take, to carry"],["东西","dōng xi","things"],["。","",""]],
+    [["今天","jīn tiān","today"],["真","zhēn","really, truly"],["高兴","gāo xìng","happy, glad"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "表示具体的一天，符合周末语境。",
+    "2": "表示和妈妈共同行动，符合语境。",
+    "3": "表示购物地点，与去超市搭配。",
+    "4": "表示购买的物品，与买搭配。",
+    "5": "方位名词，表示位置邻近。",
+    "6": "人称代词，指代说话人和妈妈。",
+    "7": "动词，表示步行去超市。",
+    "8": "方位名词，表示超市内部。",
+    "9": "程度副词，修饰多，表示人很多。",
+    "10": "形容词，表示数量大。",
+    "11": "名词，指超市里的人。",
+    "12": "时间副词，表示顺序。",
+    "13": "名词，一种水果，与香蕉并列。",
+    "14": "名词，另一种水果。",
+    "15": "副词，表示动作继续或重复。",
+    "16": "名词，饮品，在超市里。",
+    "17": "数词，表示数量。",
+    "18": "名量词，用于杯装物品。",
+    "19": "副词，表示追加需求。",
+    "20": "名词，食品，需要购买。"
+  },
+  "translation": "Today is Sunday. I go to the supermarket with my mom to buy things. The supermarket is next to our home; we walk there. There are many people in the supermarket. We first buy fruit; mom buys apples and bananas. Then we go to buy milk; the milk is in the supermarket. I take a cup of milk. We also want to buy bread; the bread is next to the bakery. We buy bread and eggs. Then we go home; I help mom carry things. Today is really happy."
+}

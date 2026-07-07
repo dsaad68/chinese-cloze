@@ -1,0 +1,40 @@
+{
+  "id": "6-1",
+  "level": 6,
+  "title": "公园散步",
+  "titlePinyin": "Gōngyuán sànbù",
+  "topicEn": "A walk in the park",
+  "sentences": [
+    [["今天","jīntiān","today"],["下午","xiàwǔ","afternoon"],["我","wǒ","I"],["跟","gēn","with",1],["朋友","péngyǒu","friend"],["一起","yīqǐ","together"],["去","qù","go"],["了","le","(particle)",2],["公园","gōngyuán","park"],["。","","period"]],
+    [["我们","wǒmen","we"],["从","cóng","from",3],["家","jiā","home"],["出发","chūfā","depart"],["，","","comma"],["走","zǒu","walk"],["了","le","(particle)"],["半","bàn","half",4],["个","gè","measure word"],["小时","xiǎoshí","hour"],["就","jiù","just"],["到","dào","arrive"],["了","le","(particle)"],["。","","period"]],
+    [["公园","gōngyuán","park"],["里","lǐ","inside",5],["有","yǒu","there is"],["很多","hěnduō","many"],["花","huā","flowers"],["，","","comma"],["湖","hú","lake"],["前","qián","front"],["有","yǒu","there is"],["一个","yīgè","a"],["长椅","chángyǐ","bench"],["。","","period"]],
+    [["我们","wǒmen","we"],["先","xiān","first",6],["在","zài","at"],["湖边","húbiān","lakeside"],["走","zǒu","walk"],["了","le","(particle)"],["走","zǒu","walk"],["，","","comma"],["后来","hòulái","later"],["又","yòu","again"],["往","wǎng","towards"],["东","dōng","east"],["去","qù","go"],["了","le","(particle)"],["树林","shùlín","woods"],["。","","period"]],
+    [["那里","nàlǐ","there"],["很","hěn","very"],["安静","ānjìng","quiet"],["，","","comma"],["我们","wǒmen","we"],["正在","zhèngzài","in the process of"],["树","shù","tree"],["下","xià","under"],["看","kàn","read"],["一","yī","one"],["本","běn","measure for books",7],["书","shū","book"],["，","","comma"],["我","wǒ","I"],["能","néng","can",8],["看到","kàndào","see"],["湖","hú","lake"],["。","","period"]],
+    [["朋友","péngyǒu","friend"],["带","dài","bring"],["了","le","(particle)"],["三","sān","three"],["块","kuài","piece"],["蛋糕","dàngāo","cake"],["，","","comma"],["我","wǒ","I"],["没","méi","did not",9],["吃","chī","eat"],["太","tài","too"],["多","duō","much"],["，","","comma"],["只","zhǐ","only"],["吃","chī","eat"],["了","le","(particle)"],["一","yī","one"],["块","kuài","piece"],["。","","period"]],
+    [["蛋糕","dàngāo","cake"],["非常","fēicháng","very"],["好吃","hǎochī","delicious"],["，","","comma"],["我","wǒ","I"],["也","yě","also",10],["吃","chī","eat"],["了","le","(particle)"],["一","yī","one"],["块","kuài","piece"],["，","","comma"],["还","hái","also"],["喝","hē","drink"],["了","le","(particle)"],["两","liǎng","two",11],["杯","bēi","cup"],["果汁","guǒzhī","juice"],["。","","period"]],
+    [["这","zhè","this",12],["时","shí","time"],["，","","comma"],["我","wǒ","I"],["看见","kànjiàn","see"],["一","yī","one"],["只","zhī","measure for birds"],["小鸟","xiǎoniǎo","bird"],["在","zài","in"],["树","shù","tree"],["上","shàng","on"],["高兴","gāoxìng","happy"],["地","de","(adverbial suffix)",13],["唱歌","chànggē","sing"],["。","","period"]],
+    [["朋友","péngyǒu","friend"],["问","wèn","ask"],["我","wǒ","me"],["是","shì","is"],["往","wǎng","towards"],["东","dōng","east"],["还是","háishì","or",14],["往","wǎng","towards"],["西","xī","west"],["，","","comma"],["我","wǒ","I"],["说","shuō","say"],["往","wǎng","towards"],["东","dōng","east"],["。","","period"]],
+    [["我","wǒ","I"],["问","wèn","ask"],["他","tā","him"],["带","dài","bring"],["了","le","(particle)"],["什么","shénme","what",15],["吃","chī","eat"],["的","de","(particle)"],["，","","comma"],["他","tā","he"],["笑","xiào","laugh"],["了","le","(particle)"],["笑","xiào","laugh"],["。","","period"]],
+    [["我们","wǒmen","we"],["沿着","yánzhe","along"],["小路","xiǎolù","path"],["走","zǒu","walk"],["到","dào","to"],["了","le","(particle)"],["南","nán","south"],["门","mén","gate"],["，","","comma"],["然后","ránhòu","then"],["再","zài","again"],["回家","huíjiā","go home"],["。","","period"]],
+    [["我","wǒ","I"],["常常","chángcháng","often"],["跟","gēn","with"],["朋友","péngyǒu","friend"],["一起","yīqǐ","together"],["来","lái","come"],["这里","zhèlǐ","here"],["。","","period"]],
+    [["今天","jīntiān","today"],["真","zhēn","really"],["是","shì","is"],["最","zuì","most"],["快乐","kuàilè","happy"],["的","de","(particle)"],["一","yī","one"],["天","tiān","day"],["！","","exclamation"]]
+  ],
+  "explanations": {
+    "1": "引出对象，表示陪同",
+    "2": "动态助词，表示动作完成",
+    "3": "引出时间处所，表示起点",
+    "4": "数词，表示一半",
+    "5": "方位名词，表示内部",
+    "6": "时间副词，表示顺序",
+    "7": "名量词，用于书",
+    "8": "能愿动词，表示可能",
+    "9": "否定副词，表示未发生",
+    "10": "关联副词，表示同样",
+    "11": "数词，表示数量二",
+    "12": "指示代词，指代当前时刻",
+    "13": "结构助词，连接状语和动词",
+    "14": "连接词，表示选择",
+    "15": "疑问代词，询问事物"
+  },
+  "translation": "This afternoon, I went to the park with a friend. We set out from home and after half an hour we arrived. There were many flowers in the park, and in front of the lake there was a bench. First we walked by the lake, then later we went east to the woods. It was very quiet there; we were reading a book under a tree, and I could see the lake. My friend brought three pieces of cake; I didn't eat too much, only one piece. The cake was very delicious; I also ate one piece and drank two glasses of juice. At this moment, I saw a bird happily singing in a tree. My friend asked me whether to go east or west; I said east. I asked him what food he had brought, and he smiled. We walked along the path to the south gate, then went home. I often come here with my friend. Today is really the happiest day!"
+}

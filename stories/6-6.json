@@ -1,0 +1,39 @@
+{
+  "id": "6-6",
+  "level": 6,
+  "title": "周末购物",
+  "titlePinyin": "zhōumò gòuwù",
+  "topicEn": "Weekend Shopping",
+  "sentences": [
+    [["今天","jīntiān","today"],["是","shì","is"],["周末","zhōumò","weekend"],["，","",""],["我","wǒ","I"],["和","hé","and"],["家人","jiārén","family members"],["一起","yīqǐ","together"],["去","qù","go"],["了","le","(past particle)"],["家","jiā","family/house (measure word)",1],["超市","chāoshì","supermarket"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["里","lǐ","inside",2],["有","yǒu","have/there is"],["很多","hěnduō","many"],["人","rén","people"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",3],["进","jìn","enter"],["了","le","(past)"],["水果","shuǐguǒ","fruit"],["区","qū","area"],["，","",""],["然后","ránhòu","then"],["去","qù","go"],["了","le","(past)"],["蔬菜","shūcài","vegetables"],["区","qū","area"],["。","",""]],
+    [["那里","nàlǐ","there"],["有","yǒu","have"],["新鲜","xīnxiān","fresh"],["的","de","(modifier)"],["西红柿","xīhóngshì","tomato"],["和","hé","and",4],["黄瓜","huángguā","cucumber"],["。","",""]],
+    [["妈妈","māma","mom"],["问","wèn","ask"],["我","wǒ","I"],["想","xiǎng","want"],["吃","chī","eat"],["什么","shénme","what",5],["。","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["想","xiǎng","want"],["吃","chī","eat"],["鱼","yú","fish"],["，","",""],["爸爸","bàba","dad"],["说","shuō","say"],["：","",""],["“","",""],["我们","wǒmen","we"],["买","mǎi","buy"],["一","yī","one"],["块","kuài","piece (measure word)",6],["鱼","yú","fish"],["了","le","(past particle)",7],["。","",""],["”","",""]],
+    [["后来","hòulái","later"],["，","",""],["我们","wǒmen","we"],["还","hái","also",8],["买","mǎi","buy"],["了","le","(past)"],["面包","miànbāo","bread"],["，","",""],["也","yě","also",9],["买","mǎi","buy"],["了","le","(past)"],["牛奶","niúnǎi","milk"],["，","",""],["我","wǒ","I"],["买","mǎi","buy"],["了","le","(past)"],["一","yī","one"],["杯","bēi","cup (measure word)"],["果汁","guǒzhī","juice"],["，","",""],["妈妈","māma","mom"],["也","yě","also"],["买","mǎi","buy"],["了","le","(past)"],["一","yī","one"],["杯","bēi","cup (measure word)"],["咖啡","kāfēi","coffee"],["。","",""]],
+    [["从","cóng","from",10],["超市","chāoshì","supermarket"],["出来","chūlái","come out"],["，","",""],["我们","wǒmen","we"],["去","qù","go"],["了","le","(past)"],["旁边","pángbiān","beside"],["的","de","(possessive)"],["公园","gōngyuán","park"],["。","",""]],
+    [["公园","gōngyuán","park"],["那儿","nàr","there",11],["有","yǒu","have"],["小朋友","xiǎopéngyǒu","children"],["在","zài","in the process of",12],["玩耍","wánshuǎ","play"],["。","",""]],
+    [["我","wǒ","I"],["和","hé","and"],["弟弟","dìdi","younger brother"],["开心","kāixīn","happy"],["地","de","(adverbial suffix)",13],["跑","pǎo","run"],["了","le","(past)"],["过去","guòqù","over to"],["。","",""]],
+    [["我们","wǒmen","we"],["玩","wán","play"],["得","de","(complement marker)"],["非常","fēicháng","very",14],["开心","kāixīn","happy"],["。","",""]],
+    [["我们","wǒmen","we"],["都","dōu","all",15],["饿","è","hungry"],["了","le","(past)"],["，","",""],["然后","ránhòu","then"],["我们","wǒmen","we"],["回家","huíjiā","go home"],["做饭","zuòfàn","cook"],["了","le","(past)"],["，","",""],["妈妈","māma","mom"],["做","zuò","make"],["的","de","(possessive)"],["饭","fàn","meal"],["很","hěn","very"],["好吃","hǎochī","delicious"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "量词，用于商店或家庭，与‘一’搭配表示一家超市。",
+    "2": "方位名词，表示‘在…内部’。",
+    "3": "时间副词，表示动作的顺序。",
+    "4": "连词，连接并列的名词。",
+    "5": "疑问代词，用于提问具体事物。",
+    "6": "量词，用于块状物品，如鱼块。",
+    "7": "动态助词，表示动作完成。",
+    "8": "关联副词，表示‘另外’或‘同时’。",
+    "9": "关联副词，表示同样的情况。",
+    "10": "介词，引出动作的起点或来源。",
+    "11": "指示代词，指代处所。",
+    "12": "时间副词，表示正在进行的动作。",
+    "13": "结构助词，连接状语和中心语，表示方式。",
+    "14": "程度副词，表示程度高。",
+    "15": "范围副词，表示全部。"
+  },
+  "translation": "Today is the weekend. My family and I went to a supermarket together. There were many people in the supermarket. We first entered the fruit section, then went to the vegetable section. There were fresh tomatoes and cucumbers there. Mom asked what I wanted to eat. I said I wanted to eat fish. Dad said, 'Let's buy a piece of fish.' Later, we also bought bread and milk. I bought a cup of juice, and Mom also bought a cup of coffee. Coming out of the supermarket, we went to the park nearby. There were children playing in the park. My younger brother and I happily ran over. We had a lot of fun. We were all hungry. Then we went home to cook. The meal Mom cooked was very delicious."
+}

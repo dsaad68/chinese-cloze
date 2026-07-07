@@ -1,0 +1,39 @@
+{
+  "id": "7-14",
+  "level": 7,
+  "title": "市场采购",
+  "titlePinyin": "Shìchǎng Cǎigòu",
+  "topicEn": "Market Shopping",
+  "sentences": [
+    [["昨天","zuótiān","yesterday"],["是","shì","is"],["周末","zhōumò","weekend"],["，","","comma"],["我","wǒ","I",1],["和","hé","and"],["妈妈","māma","mom"],["一起","yìqǐ","together",2],["去","qù","go"],["市场","shìchǎng","market"],["。","","period"]],
+    [["市场","shìchǎng","market"],["里","lǐ","inside",3],["人","rén","people"],["很","hěn","very",4],["多","duō","many"],["。","","period"]],
+    [["我们","wǒmen","we"],["先","xiān","first",5],["去","qù","go"],["了","le","(past tense marker)",6],["水果摊","shuǐguǒtān","fruit stall"],["前","qián","front",7],["。","","period"]],
+    [["妈妈","māma","mom"],["问","wèn","ask"],["我","wǒ","me"],["：","","colon"],["“","","left quotation mark"],["你","nǐ","you",8],["想","xiǎng","want"],["吃","chī","eat"],["什么","shénme","what",9],["？","","question mark"],["”","","right quotation mark"]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","","colon"],["“","","left quotation mark"],["我","wǒ","I"],["想","xiǎng","want"],["吃","chī","eat"],["苹果","píngguǒ","apple"],["。","","period"],["”","","right quotation mark"]],
+    [["妈妈","māma","mom"],["买","mǎi","buy"],["了","le","(past tense marker)"],["三","sān","three",10],["个","gè","(measure word)",11],["苹果","píngguǒ","apple"],["。","","period"]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","go"],["了","le","(past tense marker)"],["蔬菜区","shūcàiqū","vegetable area"],["。","","period"]],
+    [["那里","nàlǐ","there",12],["有","yǒu","have"],["白菜","báicài","cabbage"],["、","","enumeration comma"],["萝卜","luóbo","radish"],["和","hé","and"],["西红柿","xīhóngshì","tomato"],["。","","period"]],
+    [["我们","wǒmen","we"],["买","mǎi","buy"],["了","le","(past tense marker)"],["几","jǐ","how many",13],["个","gè","(measure word)"],["西红柿","xīhóngshì","tomato"],["。","","period"]],
+    [["妈妈","māma","mom"],["还","hái","also",14],["问","wèn","ask"],["：","","colon"],["“","","left quotation mark"],["还","hái","still"],["需要","xūyào","need"],["别的","biéde","other"],["吗","ma","(question particle)"],["？","","question mark"],["”","","right quotation mark"]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","","colon"],["“","","left quotation mark"],["不","bù","not",15],["需要","xūyào","need"],["了","le","(change of state)"],["。","","period"],["”","","right quotation mark"]],
+    [["最后","zuìhòu","finally"],["我们","wǒmen","we"],["回家","huíjiā","go home"],["。","","period"]]
+  ],
+  "explanations": {
+    "1": "第一人称代词，用作句子的主语。",
+    "2": "范围副词，表示共同行动。",
+    "3": "方位名词，表示在市场内部。",
+    "4": "程度副词，修饰‘多’，表示程度高。",
+    "5": "时间副词，表示动作的先后顺序。",
+    "6": "动态助词，表示动作已完成。",
+    "7": "方位名词，表示在水果摊的前面。",
+    "8": "第二人称代词，指被问的人。",
+    "9": "疑问代词，询问具体事物。",
+    "10": "数词，表示苹果的数量。",
+    "11": "名量词，用于苹果等个体物品。",
+    "12": "指示代词，指代蔬菜区的位置。",
+    "13": "疑问代词，询问数量。",
+    "14": "关联副词，表示补充或进一步。",
+    "15": "否定副词，表示否定需要。"
+  },
+  "translation": "Yesterday was the weekend. My mom and I went to the market together. The market had many people inside. We first went to the fruit stall. Mom asked me: \"What do you want to eat?\" I said: \"I want to eat apples.\" Mom bought three apples. Then we went to the vegetable area. There were cabbage, radish, and tomatoes. We bought a few tomatoes. Mom also asked: \"Do you need anything else?\" I said: \"No, I don't need anything.\" Finally we went home."
+}

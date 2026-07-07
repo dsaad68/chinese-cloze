@@ -1,0 +1,41 @@
+{
+  "id": "4-8",
+  "level": 4,
+  "title": "公园的一天",
+  "titlePinyin": "Gōngyuán de yī tiān",
+  "topicEn": "A day in the park",
+  "sentences": [
+    [["这个","zhè ge","this"],["周末","zhōumò","weekend"],["天气","tiānqì","weather"],["很","hěn","very"],["好","hǎo","good"],["。","",""]],
+    [["我","wǒ","I"],["和","hé","and"],["朋友","péngyou","friend"],["一块儿","yīkuàir","together"],["去","qù","go"],["公园","gōngyuán","park"],["玩","wán","play"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first"],["在","zài","at"],["公园","gōngyuán","park"],["里","lǐ","inside",1],["走","zǒu","walk"],["了","le","(particle)",2],["走","zǒu","walk"],["，","",""],["然后","ránhòu","then"],["看见","kànjiàn","see"],["一","yī","one"],["个","gè","(measure word)"],["小","xiǎo","small"],["湖","hú","lake"],["。","",""]],
+    [["湖","hú","lake"],["东","dōng","east",3],["有","yǒu","have"],["很多","hěnduō","many"],["花","huā","flower"],["，","",""],["颜色","yánsè","color"],["真","zhēn","really",4],["漂亮","piàoliang","beautiful"],["。","",""]],
+    [["我们","wǒmen","we"],["拍","pāi","take (photo)"],["了","le","(particle)"],["很多","hěnduō","many"],["照片","zhàopiàn","photo"],["。","",""]],
+    [["之后","zhīhòu","afterwards"],["我们","wǒmen","we"],["坐","zuò","sit"],["在","zài","at"],["树","shù","tree"],["下","xià","under",5],["休息","xiūxi","rest"],["。","",""]],
+    [["朋友","péngyou","friend"],["问","wèn","ask"],["我","wǒ","me"],["：","",""],["“","",""],["你","nǐ","you"],["想","xiǎng","want"],["喝","hē","drink"],["水","shuǐ","water"],["还是","háishì","or",6],["饮料","yǐnliào","beverage"],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["好","hǎo","okay"],["，","",""],["我们","wǒmen","we"],["去","qù","go"],["找","zhǎo","look for"],["一","yī","a"],["个","gè","(measure word)"],["商店","shāngdiàn","shop"],["，","",""],["但是","dànshì","but"],["不","bù","not"],["知道","zhīdào","know"],["怎么","zěnme","how",7],["去","qù","go"],["。","",""],["”","",""]],
+    [["朋友","péngyou","friend"],["说","shuō","say"],["：","",""],["“","",""],["我们","wǒmen","we"],["问","wèn","ask"],["一","yī","a"],["个","gè","(measure word)"],["人","rén","person"],["吧","ba","(suggestion particle)"],["。","",""],["”","",""]],
+    [["我们","wǒmen","we"],["看见","kànjiàn","see"],["一","yī","a"],["个","gè","(measure word)"],["老人","lǎorén","old person"],["正在","zhèngzài","in the process of"],["散步","sànbù","take a walk"],["，","",""],["朋友","péngyou","friend"],["问","wèn","ask"],["他","tā","him"],["：","",""],["“","",""],["你","nǐ","you"],["能","néng","can",8],["告诉","gàosu","tell"],["我","wǒ","me"],["商店","shāngdiàn","shop"],["在","zài","at"],["哪里","nǎlǐ","where"],["吗","ma","(question particle)"],["？","",""],["”","",""]],
+    [["老人","lǎorén","old person"],["说","shuō","say"],["：","",""],["“","",""],["商店","shāngdiàn","shop"],["在","zài","at"],["公园","gōngyuán","park"],["的","de","(possessive)",9],["南边","nánbiān","south side"],["，","",""],["从","cóng","from",10],["这儿","zhèr","here"],["往","wǎng","toward"],["前","qián","forward",11],["走","zǒu","walk"],["五","wǔ","five"],["分钟","fēnzhōng","minutes"],["就","jiù","then"],["到","dào","arrive"],["了","le","(particle)"],["。","",""],["”","",""]],
+    [["我们","wǒmen","we"],["谢谢","xièxie","thank"],["他","tā","him"],["，","",""],["然后","ránhòu","then"],["高兴","gāoxìng","happy"],["地","de","(adverbial)",12],["往","wǎng","toward"],["南","nán","south",13],["走","zǒu","walk"],["。","",""]],
+    [["我们","wǒmen","we"],["买","mǎi","buy"],["了","le","(particle)"],["两","liǎng","two"],["个","gè","(measure word)"],["冰淇淋","bīngqílín","ice cream"],["，","",""],["一共","yīgòng","altogether"],["花","huā","spend"],["了","le","(particle)"],["十","shí","ten"],["元","yuán","yuan"],["，","",""],["我们","wǒmen","we"],["都","dōu","all",14],["很","hěn","very"],["开心","kāixīn","happy"],["。","",""]],
+    [["我们","wǒmen","we"],["下次","xiàcì","next time"],["还","hái","still"],["要","yào","will"],["再","zài","again",15],["来","lái","come"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Indicates location inside the park.",
+    "2": "Completes the verb 'walk' to indicate a short action.",
+    "3": "Indicates direction: east of the lake.",
+    "4": "Intensifies the adjective 'beautiful'.",
+    "5": "Indicates location under the tree.",
+    "6": "Connects two alternatives in a choice question.",
+    "7": "Asks about the manner of going.",
+    "8": "Expresses ability (can).",
+    "9": "Possessive particle linking 'park' and 'south side'.",
+    "10": "Introduces the starting point.",
+    "11": "Indicates direction forward.",
+    "12": "Adverbial particle turning 'happy' into an adverb.",
+    "13": "Indicates direction south.",
+    "14": "Indicates all (subject) share the same state.",
+    "15": "Indicates repetition of an action in the future."
+  },
+  "translation": "This weekend the weather was very good. My friend and I went to the park together. We first walked around in the park a bit, then saw a small lake. To the east of the lake there were many flowers, and the colors were really beautiful. We took a lot of photos. Afterwards we sat under a tree to rest. My friend asked me, 'Do you want to drink water or a beverage?' I said, 'Okay, let's go find a shop, but I don't know how to get there.' My friend said, 'Let's ask someone.' We saw an old man taking a walk, and my friend asked him, 'Can you tell me where the shop is?' The old man said, 'The shop is to the south of the park. From here, walk forward for five minutes and you'll arrive.' We thanked him, then happily walked south. We bought two ice creams, spending ten yuan in total. We were all very happy. We will come again next time."
+}

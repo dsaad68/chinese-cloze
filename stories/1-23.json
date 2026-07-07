@@ -1,0 +1,43 @@
+{
+  "id": "1-23",
+  "level": 1,
+  "title": "买东西",
+  "titlePinyin": "mǎi dōngxi",
+  "topicEn": "Shopping",
+  "sentences": [
+    [["今天","jīntiān","today"],["星期天","xīngqītiān","Sunday"],["，","",""],["我","wǒ","I",1],["和","hé","and",2],["妈妈","māma","mom"],["一起","yìqǐ","together",3],["从","cóng","from",4],["家","jiā","home"],["去","qù","to go"],["超市","chāoshì","supermarket"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["里","lǐ","inside",5],["有","yǒu","there are"],["很","hěn","very"],["多","duō","many"],["人","rén","people"],["，","",""],["我们","wǒmen","we"],["在","zài","at, in",6],["超市","chāoshì","supermarket"],["里","lǐ","inside"],["买","mǎi","to buy"],["东西","dōngxi","things"],["。","",""]],
+    [["妈妈","māma","mom"],["买","mǎi","to buy"],["了","le","past particle",7],["苹果","píngguǒ","apple"],["和","hé","and"],["牛奶","niúnǎi","milk"],["，","",""],["苹果","píngguǒ","apple"],["多少","duōshao","how much",8],["钱","qián","money"],["？","",""]],
+    [["一","yī","one",9],["个","gè","measure word",10],["苹果","píngguǒ","apple"],["两","liǎng","two"],["块","kuài","measure word for yuan",11],["五","wǔ","five"],["，","",""],["妈妈","māma","mom"],["买","mǎi","to buy"],["了","le","past particle"],["三","sān","three",12],["个","gè","measure word"],["苹果","píngguǒ","apple"],["。","",""]],
+    [["牛奶","niúnǎi","milk"],["一","yī","one"],["杯","bēi","cup"],["三","sān","three"],["块","kuài","measure word for yuan"],["，","",""],["妈妈","māma","mom"],["给","gěi","to give"],["了","le","past particle"],["十","shí","ten",13],["块","kuài","measure word for yuan"],["。","",""]],
+    [["店员","diànyuán","shop assistant"],["找","zhǎo","to give change"],["我","wǒ","me"],["五","wǔ","five"],["块","kuài","measure word"],["五","wǔ","five"],["，","",""],["我","wǒ","I"],["看见","kànjiàn","to see"],["面包","miànbāo","bread"],["。","",""]],
+    [["这","zhè","this",14],["个","gè","measure word"],["面包","miànbāo","bread"],["很","hěn","very"],["好吃","hǎochī","delicious"],["，","",""],["我","wǒ","I"],["说","shuō","to say"],["我","wǒ","I"],["想","xiǎng","to want"],["再","zài","again",15],["买","mǎi","to buy"],["一","yī","one"],["个","gè","measure word"],["面包","miànbāo","bread"],["。","",""]],
+    [["妈妈","māma","mom"],["同意","tóngyì","to agree"],["了","le","past particle"],["，","",""],["我们","wǒmen","we"],["买","mǎi","to buy"],["了","le","past particle"],["面包","miànbāo","bread"],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["回家","huíjiā","go home"],["，","",""],["我","wǒ","I"],["吃","chī","to eat"],["了","le","past particle"],["面包","miànbāo","bread"],["和","hé","and"],["苹果","píngguǒ","apple"],["。","",""]],
+    [["我","wǒ","I"],["喝","hē","to drink"],["了","le","past particle"],["牛奶","niúnǎi","milk"],["，","",""],["也","yě","also",16],["会","huì","can",17],["喝","hē","to drink"],["水","shuǐ","water"],["，","",""],["苹果","píngguǒ","apple"],["和","hé","and"],["牛奶","niúnǎi","milk"],["都","dōu","all",18],["很","hěn","very"],["好","hǎo","good"],["。","",""]],
+    [["我","wǒ","I"],["不","bù","not",19],["累","lèi","tired"],["，","",""],["我","wǒ","I"],["很","hěn","very",20],["高兴","gāoxìng","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Indicates the speaker, 'I'.",
+    "2": "Connects 'I' and 'mom' as a conjunction 'and'.",
+    "3": "Means 'together', describing the action done jointly.",
+    "4": "Indicates the starting point 'from' home.",
+    "5": "A location word meaning 'inside', indicating the supermarket interior.",
+    "6": "Indicates the location of the action 'at' the supermarket.",
+    "7": "A particle indicating completed action (past tense).",
+    "8": "A question word 'how much' asking about price.",
+    "9": "Number 'one', used before measure word '个'.",
+    "10": "A common measure word for individual items like apples.",
+    "11": "Measure word for yuan (Chinese money).",
+    "12": "Number 'three', indicating the quantity of apples bought.",
+    "13": "Number 'ten', indicating the amount of money given.",
+    "14": "Demonstrative pronoun 'this', referring to the bread.",
+    "15": "Adverb 'again', expressing a repeated action.",
+    "16": "Adverb 'also', adding another action.",
+    "17": "Modal verb 'can', indicating ability.",
+    "18": "Adverb 'all', referring to both apples and milk.",
+    "19": "Negative adverb 'not', negating the predicate 'tired'.",
+    "20": "Degree adverb 'very', modifying the adjective 'happy'."
+  },
+  "translation": "Today is Sunday. My mom and I went to the supermarket together from home. There were many people in the supermarket, and we were buying things there. Mom bought apples and milk. How much were the apples? One apple cost 2.5 yuan, so mom bought three apples. Milk was 3 yuan per cup, and mom gave 10 yuan. The shop assistant gave me 5.5 yuan in change. I saw some bread. This bread was very delicious, so I said I wanted to buy another one. Mom agreed, and we bought the bread. Then we went home. I ate the bread and an apple. I drank milk and I can also drink water. Both the apples and milk were very good. I am not tired; I am very happy."
+}

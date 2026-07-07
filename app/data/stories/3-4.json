@@ -1,0 +1,40 @@
+{
+  "id": "3-4",
+  "level": 3,
+  "title": "去超市买东西",
+  "titlePinyin": "qù chāoshì mǎi dōngxi",
+  "topicEn": "Shopping at the Supermarket",
+  "sentences": [
+    [["今天","jīntiān","today"],["天气","tiānqì","weather"],["很","hěn","very"],["好","hǎo","good"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["妈妈","māma","mother"],["从","cóng","from",2],["家","jiā","home"],["出发","chūfā","depart"],["去","qù","go"],["超市","chāoshì","supermarket"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["在","zài","at"],["家","jiā","home"],["的","de","'s",3],["东边","dōngbian","east side"],["，","",""],["我们","wǒmen","we"],["走","zǒu","walk"],["了","le","(completed action marker)",4],["十","shí","ten"],["分钟","fēnzhōng","minute"],["就","jiù","then"],["到","dào","arrive"],["了","le","(completed)"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["里","lǐ","inside",5],["有","yǒu","have"],["很","hěn","very"],["多","duō","many"],["人","rén","people"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",6],["买","mǎi","buy"],["水果","shuǐguǒ","fruit"],["。","",""]],
+    [["妈妈","māma","mother"],["问","wèn","ask"],["我","wǒ","I"],["：","",""],["“","",""],["你","nǐ","you"],["要","yào","want"],["苹果","píngguǒ","apple"],["还是","háishì","or",7],["西瓜","xīguā","watermelon"],["？","",""],["”","",""]],
+    [["妈妈","māma","mother"],["又","yòu","again"],["问","wèn","ask"],["：","",""],["“","",""],["您","nín","you (polite)",8],["要","yào","want"],["买","mǎi","buy"],["多少","duōshǎo","how many",9],["西瓜","xīguā","watermelon"],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["买","mǎi","buy"],["两","liǎng","two",10],["个","gè","(measure word)",11],["西瓜","xīguā","watermelon"],["。","",""],["”","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["再","zài","again",12],["去","qù","go"],["买","mǎi","buy"],["牛奶","niúnǎi","milk"],["和","hé","and"],["酸奶","suānnǎi","yogurt"],["。","",""]],
+    [["妈妈","māma","mother"],["问","wèn","ask"],["我","wǒ","I"],["：","",""],["“","",""],["我们","wǒmen","we"],["能","néng","can",13],["买","mǎi","buy"],["酸奶","suānnǎi","yogurt"],["吗","ma","(question particle)"],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["可以","kěyǐ","okay"],["。","",""],["”","",""]],
+    [["我们","wǒmen","we"],["买","mǎi","buy"],["了","le","(completed)"],["两","liǎng","two"],["杯","bēi","cup"],["酸奶","suānnǎi","yogurt"],["，","",""],["还","hái","also"],["买","mǎi","buy"],["了","le","(completed)"],["牛奶","niúnǎi","milk"],["。","",""]],
+    [["酸奶","suānnǎi","yogurt"],["也","yě","also",14],["不","bù","not",15],["便宜","piányi","cheap"],["。","",""]],
+    [["最后","zuìhòu","finally"],["我们","wǒmen","we"],["买完","mǎiwán","finish buying"],["东西","dōngxi","things"],["，","",""],["一起","yīqǐ","together"],["开心","kāixīn","happy"],["地","de","(adverbial)"],["回家","huíjiā","go home"],["了","le","(completed)"],["。","",""],["一共","yīgòng","in total"],["花","huā","spend"],["了","le","(completed)"],["五十","wǔshí","fifty"],["块","kuài","(yuan)"],["钱","qián","money"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "'和' connects '我' and '妈妈', showing they go together.",
+    "2": "'从' indicates the starting point '家'.",
+    "3": "'的' shows possession, linking '家' and '东边'.",
+    "4": "'了' indicates the action '走' is completed.",
+    "5": "'里' indicates the location inside the supermarket.",
+    "6": "'先' shows the order of actions, buying fruit first.",
+    "7": "'还是' is used in a choice question between apples and watermelon.",
+    "8": "'您' is a polite form to address the mother.",
+    "9": "'多少' asks about the quantity of watermelon.",
+    "10": "'两' is the numeral for two, used before a measure word.",
+    "11": "'个' is a common measure word for objects like watermelon.",
+    "12": "'再' indicates doing something again or later, here buying milk.",
+    "13": "'能' expresses ability or permission, asking if they can buy yogurt.",
+    "14": "'也' means 'also', connecting the idea that yogurt is not cheap too.",
+    "15": "'不' negates the adjective '便宜', meaning 'not cheap'."
+  },
+  "translation": "Today the weather is very nice. My mother and I set off from home to go to the supermarket. The supermarket is to the east of our home. We walked for ten minutes and then arrived. There are many people inside the supermarket. We first buy fruit. Mother asks me, \"Do you want apples or watermelon?\" Then she asks, \"How many watermelons do you want?\" I say, \"Buy two watermelons.\" Then we go to buy milk and yogurt. Mother asks me, \"Can we buy yogurt?\" I say, \"Okay.\" We buy two cups of yogurt and also buy milk. The yogurt isn't cheap either. Finally, we finish buying things and go happily home together. We spent fifty yuan in total."
+}

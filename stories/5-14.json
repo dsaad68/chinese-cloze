@@ -1,0 +1,39 @@
+{
+  "id": "5-14",
+  "level": 5,
+  "title": "购物的一天",
+  "titlePinyin": "gòu wù de yī tiān",
+  "topicEn": "A Day of Shopping",
+  "sentences": [
+    [["今天","jīn tiān","today"],["下午","xià wǔ","afternoon"],["，","",""],["我","wǒ","I"],["从","cóng","from",1],["我","wǒ","I"],["的","de","(possessive)",2],["家","jiā","home"],["出发","chū fā","to set out"],["去","qù","to go"],["超市","chāo shì","supermarket"],["。","",""]],
+    [["超市","chāo shì","supermarket"],["里","lǐ","inside",3],["人","rén","people"],["很","hěn","very"],["多","duō","many"],["。","",""]],
+    [["我们","wǒ men","we"],["先","xiān","first",4],["去","qù","to go"],["了","le","(past tense)",5],["水果区","shuǐ guǒ qū","fruit section"],["。","",""]],
+    [["妈妈","mā ma","mom"],["问","wèn","to ask"],["我","wǒ","I"],["想要","xiǎng yào","would like"],["吃","chī","to eat"],["什么","shén me","what",6],["水果","shuǐ guǒ","fruit"],["。","",""]],
+    [["我","wǒ","I"],["说","shuō","to say"],["我","wǒ","I"],["想","xiǎng","to want"],["吃","chī","to eat"],["苹果","píng guǒ","apple"],["。","",""]],
+    [["于是","yú shì","so"],["妈妈","mā ma","mom"],["买","mǎi","to buy"],["了","le","(past tense)"],["几","jǐ","how many",7],["斤","jīn","catty (unit)"],["苹果","píng guǒ","apple"],["。","",""]],
+    [["然后","rán hòu","then"],["我们","wǒ men","we"],["去","qù","to go"],["了","le","(past tense)"],["蔬菜区","shū cài qū","vegetable section"],["，","",""],["那里","nà lǐ","there"],["有","yǒu","to have"],["白菜","bái cài","cabbage"],["和","hé","and"],["西红柿","xī hóng shì","tomato"],["。","",""]],
+    [["妈妈","mā ma","mom"],["还","hái","also",8],["买","mǎi","to buy"],["了","le","(past tense)"],["别的","bié de","other",9],["蔬菜","shū cài","vegetables"],["，","",""],["我们","wǒ men","we"],["还","hái","also"],["买","mǎi","to buy"],["了","le","(past tense)"],["一","yī","one"],["块","kuài","piece (measure word)",10],["肉","ròu","meat"],["。","",""]],
+    [["结账","jié zhàng","to check out"],["的","de","(possessive)"],["时候","shí hòu","time"],["，","",""],["我","wǒ","I"],["付","fù","to pay"],["了","le","(past tense)"],["钱","qián","money"],["，","",""],["但","dàn","but"],["妈妈","mā ma","mom"],["发现","fā xiàn","to discover"],["没有","méi yǒu","did not",11],["带","dài","to bring"],["钱包","qián bāo","wallet"],["，","",""],["她","tā","she"],["很","hěn","very"],["难过","nán guò","sad"],["。","",""]],
+    [["我","wǒ","I"],["说","shuō","to say"],["别","bié","don't",12],["担心","dān xīn","to worry"],["，","",""],["我","wǒ","I"],["有","yǒu","to have"],["钱","qián","money"],["，","",""],["我","wǒ","I"],["会","huì","will (can)",13],["付","fù","to pay"],["的","de","(particle)"],["。","",""]],
+    [["妈妈","mā ma","mom"],["笑","xiào","to smile"],["了","le","(past tense)"],["，","",""],["最后","zuì hòu","finally"],["我们","wǒ men","we"],["回","huí","to return"],["家","jiā","home"],["了","le","(past tense)"],["。","",""]],
+    [["我","wǒ","I"],["觉得","jué de","to feel"],["今天","jīn tiān","today"],["很","hěn","very",14],["愉快","yú kuài","happy"],["，","",""],["妈妈","mā ma","mom"],["也","yě","also",15],["觉得","jué de","to feel"],["很","hěn","very"],["开心","kāi xīn","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "表示起点，从家出发。",
+    "2": "结构助词，表示所属关系。",
+    "3": "方位名词，表示超市内部。",
+    "4": "时间副词，表示顺序。",
+    "5": "动态助词，表示动作完成。",
+    "6": "疑问代词，用于询问事物。",
+    "7": "疑问代词，询问数量。",
+    "8": "关联副词，表示追加。",
+    "9": "指示代词，表示另外的。",
+    "10": "名量词，用于块状物品。",
+    "11": "否定副词，表示未发生。",
+    "12": "否定副词，表示劝阻。",
+    "13": "能愿动词，表示有能力或意愿。",
+    "14": "程度副词，修饰形容词。",
+    "15": "关联副词，表示同样。"
+  },
+  "translation": "This afternoon, I set out from my home to go to the supermarket. There were many people inside the supermarket. We first went to the fruit section. Mom asked me what fruit I wanted to eat. I said I wanted to eat apples. So Mom bought a few catties of apples. Then we went to the vegetable section, where there were cabbage and tomatoes. Mom also bought other vegetables, and we also bought a piece of meat. At checkout, I paid, but Mom discovered she hadn't brought her wallet, and she was very sad. I said, \"Don't worry, I have money. I will pay.\" Mom smiled, and finally we went home. I felt very happy today, and Mom felt happy too."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "6-9",
+  "level": 6,
+  "title": "周末购物",
+  "titlePinyin": "zhōu mò gòu wù",
+  "topicEn": "Weekend Shopping",
+  "sentences": [
+    [["我们","wǒmen","we"],["从","cóng","from",1],["家","jiā","home"],["里","lǐ","inside"],["出发","chūfā","to set out"],["，","",""],["和","hé","and/with",2],["我","wǒ","I/me"],["的","de","possessive particle",3],["朋友","péngyǒu","friend"],["一起","yīqǐ","together",4],["去","qù","to go"],["了","le","past tense particle",5],["超市","chāoshì","supermarket"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["里","lǐ","inside"],["人","rén","people"],["很","hěn","very"],["多","duō","many"],["，","",""],["我们","wǒmen","we"],["推","tuī","to push"],["着","zhe","progressive particle"],["购物车","gòuwùchē","shopping cart"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",6],["买","mǎi","to buy"],["了","le","past particle"],["水果","shuǐguǒ","fruit"],["。","",""]],
+    [["我们","wǒmen","we"],["看","kàn","to look"],["了","le","past particle"],["苹果","píngguǒ","apple"],["和","hé","and"],["香蕉","xiāngjiāo","banana"],["，","",""],["犹豫","yóuyù","to hesitate"],["买","mǎi","to buy"],["苹果","píngguǒ","apple"],["还是","háishì","or",7],["香蕉","xiāngjiāo","banana"],["。","",""]],
+    [["最后","zuìhòu","finally"],["我们","wǒmen","we"],["买","mǎi","to buy"],["了","le","past particle"],["几","jǐ","several",8],["个","gè","classifier"],["苹果","píngguǒ","apple"],["和","hé","and"],["香蕉","xiāngjiāo","banana"],["。","",""]],
+    [["然后","ránhòu","then"],["，","",""],["我们","wǒmen","we"],["去","qù","to go"],["了","le","past particle"],["蔬菜","shūcài","vegetables"],["区","qū","area"],["，","",""],["买","mǎi","to buy"],["了","le","past particle"],["白菜","báicài","cabbage"],["和","hé","and"],["西红柿","xīhóngshì","tomato"],["。","",""]],
+    [["我们","wǒmen","we"],["逛","guàng","to stroll"],["了","le","past particle"],["半","bàn","half",9],["个","gè","classifier"],["小时","xiǎoshí","hour"],["。","",""]],
+    [["在","zài","at"],["收银台","shōuyíntái","checkout counter"],["，","",""],["我们","wǒmen","we"],["遇到","yùdào","to meet"],["了","le","past particle"],["一","yī","one"],["个","gè","classifier"],["同学","tóngxué","classmate"],["。","",""]],
+    [["那","nà","that",10],["同学","tóngxué","classmate"],["也","yě","also",11],["在","zài","in the process of"],["买","mǎi","to buy"],["东西","dōngxi","things"],["。","",""]],
+    [["我们","wǒmen","we"],["聊","liáo","to chat"],["了","le","past particle"],["一会儿","yīhuìr","a little while"],["。","",""]],
+    [["我们","wǒmen","we"],["没","méi","not",12],["买","mǎi","to buy"],["太","tài","too"],["多","duō","much"],["东西","dōngxi","things"],["，","",""],["只","zhǐ","only"],["付","fù","to pay"],["了","le","past particle"],["五十","wǔshí","fifty"],["块","kuài","classifier for money",13],["钱","qián","money"],["。","",""]],
+    [["然后","ránhòu","then"],["，","",""],["我们","wǒmen","we"],["愉快","yúkuài","happy"],["地","de","adverbial suffix",14],["离开","líkāi","to leave"],["了","le","past particle"],["超市","chāoshì","supermarket"],["。","",""]],
+    [["我们","wǒmen","we"],["觉得","juéde","to feel"],["今天","jīntiān","today"],["很","hěn","very",15],["愉快","yúkuài","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "引入出发的起点，用在‘从……出发’结构中",
+    "2": "引出同伴，表示‘和……一起’",
+    "3": "连接定语和中心语，表示所属关系",
+    "4": "表示协同动作，强调共同进行",
+    "5": "表示动作完成，用于过去时",
+    "6": "表示时间顺序，指最早做某事",
+    "7": "用于选择疑问句，连接两个选项",
+    "8": "疑问代词，表示不确定的数量",
+    "9": "数词，表示二分之一",
+    "10": "指示代词，指代前文提到的人物",
+    "11": "表示同样，用于陈述相同情况",
+    "12": "否定副词，否定动作的发生",
+    "13": "货币单位量词，相当于‘元’",
+    "14": "结构助词，连接状语和动词",
+    "15": "程度副词，修饰形容词表示程度高"
+  },
+  "translation": "We set out from home and went to the supermarket with my friend. There were many people in the supermarket; we pushed a shopping cart. We first bought some fruit. We looked at apples and bananas, hesitating whether to buy apples or bananas. Finally we bought several apples and bananas. Then we went to the vegetable section and bought cabbage and tomatoes. We shopped for half an hour. At the checkout counter, we met a classmate. That classmate was also shopping. We chatted for a while. We didn't buy too many things, only paid fifty kuai. Then we happily left the supermarket. We felt that today was very pleasant."
+}

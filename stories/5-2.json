@@ -1,0 +1,41 @@
+{
+  "id": "5-2",
+  "level": 5,
+  "title": "周末的购物",
+  "titlePinyin": "zhōu mò de gòu wù",
+  "topicEn": "Weekend Shopping",
+  "sentences": [
+    [["我们","wǒ men","we"],["一家","yī jiā","a family"],["三口","sān kǒu","three people"],["人","rén","people"],["在","zài","at"],["星期六","xīng qī liù","Saturday"],["上午","shàng wǔ","morning"],["一块儿","yī kuài r","together"],["去","qù","to go"],["超市","chāo shì","supermarket"],["。","",""]],
+    [["超市","chāo shì","supermarket"],["里","lǐ","inside",1],["有","yǒu","there is"],["很多","hěn duō","many"],["东西","dōng xī","things"],["。","",""]],
+    [["我","wǒ","I"],["想","xiǎng","want"],["买","mǎi","to buy"],["一","yī","one"],["本","běn","volume",2],["书","shū","book"],["，","",""],["妈妈","mā ma","mom"],["想","xiǎng","want"],["买","mǎi","to buy"],["一","yī","one"],["些","xiē","some",3],["水果","shuǐ guǒ","fruit"],["。","",""]],
+    [["爸爸","bà ba","dad"],["也","yě","also"],["想","xiǎng","want"],["买","mǎi","to buy"],["一","yī","one"],["块","kuài","piece",4],["蛋糕","dàn gāo","cake"],["。","",""]],
+    [["那","nà","that",5],["儿","r","place"],["有","yǒu","there is"],["一个","yī gè","a"],["新","xīn","new"],["蛋糕店","dàn gāo diàn","cake shop"],["。","",""]],
+    [["爸爸","bà ba","dad"],["问","wèn","ask"],["：","",""],["“","",""],["这个","zhè gè","this"],["蛋糕","dàn gāo","cake"],["多少","duō shǎo","how much",6],["钱","qián","money"],["？","",""],["”","",""]],
+    [["店员","diàn yuán","clerk"],["说","shuō","said"],["：","",""],["“","",""],["二十","èr shí","twenty",7],["元","yuán","yuan"],["。","",""],["”","",""]],
+    [["爸爸","bà ba","dad"],["觉得","jué de","think"],["很","hěn","very",8],["贵","guì","expensive"],["，","",""],["但是","dàn shì","but"],["还是","hái shì","still"],["买","mǎi","to buy"],["了","le","ASP",9],["一","yī","one"],["块","kuài","piece"],["。","",""]],
+    [["然后","rán hòu","then"],["，","",""],["妈妈","mā ma","mom"],["说","shuō","said"],["：","",""],["“","",""],["我们","wǒ men","we"],["还","hái","still",10],["要","yào","need"],["买","mǎi","to buy"],["一","yī","one"],["杯","bēi","cup"],["果汁","guǒ zhī","juice"],["。","",""],["”","",""]],
+    [["她","tā","she"],["指","zhǐ","point"],["了","le","ASP"],["左边","zuǒ biān","left side",11],["，","",""],["说","shuō","said"],["：","",""],["“","",""],["果汁","guǒ zhī","juice"],["在","zài","at"],["那儿","nà r","there"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["和","hé","and"],["爸爸","bà ba","dad"],["一起","yī qǐ","together",12],["走","zǒu","walk"],["过","guò","past"],["去","qù","go"],["。","",""]],
+    [["果汁","guǒ zhī","juice"],["的","de","'s",13],["价钱","jià qián","price"],["不","bù","not",14],["高","gāo","high"],["，","",""],["我们","wǒ men","we"],["很","hěn","very"],["快","kuài","quickly"],["就","jiù","then"],["决定","jué dìng","decide"],["买","mǎi","to buy"],["这","zhè","this"],["杯","bēi","cup"],["。","",""]],
+    [["买","mǎi","buy"],["完","wán","finish"],["东西","dōng xi","things"],["，","",""],["我们","wǒ men","we"],["从","cóng","from",15],["超市","chāo shì","supermarket"],["出来","chū lái","come out"],["。","",""]],
+    [["今天","jīn tiān","today"],["的","de","'s"],["购物","gòu wù","shopping"],["非常","fēi cháng","very"],["开心","kāi xīn","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "方位名词，表示超市内部空间。",
+    "2": "名量词，用于书籍。",
+    "3": "指示代词，表示不确定数量。",
+    "4": "名量词，用于蛋糕等块状物。",
+    "5": "指示代词，指代较远的蛋糕店。",
+    "6": "疑问代词，询问价格。",
+    "7": "数词，表示价格。",
+    "8": "程度副词，强调贵的程度。",
+    "9": "动态助词，表示动作完成。",
+    "10": "关联副词，表示补充需要。",
+    "11": "方位名词，指示方向。",
+    "12": "协同副词，表示共同行动。",
+    "13": "结构助词，表示所属关系。",
+    "14": "否定副词，否定价格高。",
+    "15": "引出处所的介词。"
+  },
+  "translation": "Our family of three went to the supermarket together on Saturday morning. There were many things in the supermarket. I wanted to buy a book, Mom wanted to buy some fruit, and Dad also wanted to buy a piece of cake. There was a new cake shop over there. Dad asked, 'How much is this cake?' The clerk said, 'Twenty yuan.' Dad thought it was very expensive, but he still bought one piece. Then Mom said, 'We still need to buy a cup of juice.' She pointed to the left and said, 'The juice is over there.' Dad and I walked over together. The price of the juice was not high, so we quickly decided to buy this cup. After buying things, we came out of the supermarket. Today's shopping was very happy."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6-16",
+  "level": 6,
+  "title": "去公园",
+  "titlePinyin": "qù gōng yuán",
+  "topicEn": "Going to the park",
+  "sentences": [
+    [["今天","jīn tiān","today"],["上午","shàng wǔ","morning",1],["，","",""],["我","wǒ","I"],["和","hé","and"],["家人","jiā rén","family members"],["一起","yī qǐ","together",2],["从","cóng","from",3],["家里","jiā lǐ","home"],["出发","chū fā","start out"],["，","",""],["去","qù","go"],["公园","gōng yuán","park"],["。","",""]],
+    [["公园","gōng yuán","park"],["里","lǐ","inside",4],["有","yǒu","have"],["很多","hěn duō","many",5],["美丽","měi lì","beautiful"],["的","de","(structural particle)",6],["花","huā","flower"],["和","hé","and"],["树","shù","tree"],["。","",""]],
+    [["我们","wǒ men","we"],["先","xiān","first",7],["在","zài","at"],["湖边","hú biān","lakeside"],["散步","sàn bù","take a walk"],["。","",""]],
+    [["然后","rán hòu","then"],["我们","wǒ men","we"],["在","zài","at"],["草地","cǎo dì","lawn"],["上","shàng","on"],["野餐","yě cān","picnic"],["。","",""]],
+    [["我","wǒ","I"],["吃","chī","eat",8],["了","le","(perfective)"],["面包","miàn bāo","bread"],["和","hé","and"],["水果","shuǐ guǒ","fruit",9],["。","",""]],
+    [["我","wǒ","I"],["也","yě","also",10],["喝","hē","drink"],["了","le","(perfective)"],["一","yī","one"],["杯","bēi","cup (measure word)",11],["水","shuǐ","water"],["。","",""]],
+    [["下午","xià wǔ","afternoon",12],["，","",""],["我们","wǒ men","we"],["回家","huí jiā","go home",13],["。","",""]],
+    [["到","dào","arrive"],["家","jiā","home"],["后","hòu","after",14],["，","",""],["我","wǒ","I"],["休息","xiū xi","rest"],["了","le","(perfective)"],["一会儿","yī huìr","a while"],["。","",""]],
+    [["晚上","wǎn shàng","evening"],["，","",""],["我们","wǒ men","we"],["全家","quán jiā","whole family"],["看","kàn","watch"],["电视","diàn shì","TV"],["。","",""]],
+    [["爸爸","bà ba","dad"],["会","huì","can (know how to)",15],["放","fàng","fly (release)"],["风筝","fēng zheng","kite"],["，","",""],["但是","dàn shì","but"],["风","fēng","wind"],["不","bù","not"],["大","dà","big"],["。","",""]],
+    [["妹妹","mèi mei","younger sister"],["不","bù","not"],["能","néng","can"],["放","fàng","fly"],["，","",""],["所以","suǒ yǐ","so"],["她","tā","she"],["玩","wán","play"],["玩具","wán jù","toy"],["。","",""]],
+    [["妈妈","mā ma","mom"],["带","dài","bring"],["了","le","(perfective)"],["苹果","píng guǒ","apple"],["，","",""],["非常","fēi cháng","very"],["新鲜","xīn xiān","fresh"],["。","",""]],
+    [["我","wǒ","I"],["觉得","jué de","feel"],["今天","jīn tiān","today"],["真","zhēn","really"],["高兴","gāo xìng","happy"],["。","",""]],
+    [["这","zhè","this"],["是","shì","is"],["一个","yī gè","a"],["美好","měi hǎo","wonderful"],["的","de","(structural particle)"],["周末","zhōu mò","weekend"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "It indicates the time of the activity, fitting the context of a morning trip.",
+    "2": "It shows that the speaker and family members acted together, common in daily routine.",
+    "3": "It introduces the starting point ‘home’, required for describing departure.",
+    "4": "It is a location noun indicating the inside of the park, naturally used with ‘park’.",
+    "5": "It describes the quantity of flowers and trees, a common way to express abundance.",
+    "6": "It links the adjective ‘beautiful’ to the noun ‘flowers’, a basic grammatical structure.",
+    "7": "It orders actions chronologically, showing the first thing they did after arriving.",
+    "8": "It is the main verb for consuming food, fitting the picnic context.",
+    "9": "It is a common food item eaten during a picnic, matching the scenario.",
+    "10": "It connects the action of drinking to the previous action of eating, showing parallelism.",
+    "11": "It is the measure word for drinks in a cup, appropriate for water.",
+    "12": "It marks the time when they returned home, continuing the timeline.",
+    "13": "It describes the action of returning to home, a natural end to the park trip.",
+    "14": "It indicates the sequence ‘after arriving home’, used with time expressions.",
+    "15": "It expresses ability, fitting the context of knowing how to fly a kite."
+  },
+  "translation": "This morning, I went to the park together with my family, starting from home. There are many beautiful flowers and trees inside the park. We first took a walk by the lake. Then we had a picnic on the lawn. I ate bread and fruit. I also drank a cup of water. In the afternoon, we went home. After arriving home, I rested for a while. In the evening, our whole family watched TV. Dad can fly a kite, but the wind is not strong. Younger sister cannot fly it, so she played with toys. Mom brought some apples, which are very fresh. I feel really happy today. This is a wonderful weekend."
+}

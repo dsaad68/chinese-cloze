@@ -1,0 +1,39 @@
+{
+  "id": "5-12",
+  "level": 5,
+  "title": "周末游园",
+  "titlePinyin": "zhōu mò yóu yuán",
+  "topicEn": "A weekend day at the park",
+  "sentences": [
+    [["今天","jīntiān","today"],["是","shì","is"],["周末","zhōumò","weekend"],["，","","comma"],["我","wǒ","I"],["和","hé","and"],["朋友","péngyǒu","friend"],["一起","yīqǐ","together"],["去","qù","go"],["了","le","(past)"],["公园","gōngyuán","park"],["。","","period"]],
+    [["我们","wǒmen","we"],["早上","zǎoshang","morning"],["先","xiān","first"],["去","qù","go"],["了","le","(past)"],["公园","gōngyuán","park"],["东","dōng","east",1],["边","biān","side"],["的","de","of"],["一","yī","one"],["个","gè","measure word",2],["湖","hú","lake"],["。","","period"]],
+    [["湖","hú","lake"],["里","lǐ","inside",3],["有","yǒu","have"],["很多","hěnduō","many"],["鱼","yú","fish"],["，","","comma"],["还有","háiyǒu","also have"],["花","huā","flower"],["。","","period"]],
+    [["这","zhè","this",4],["花","huā","flower"],["非常","fēicháng","very"],["漂亮","piàoliang","beautiful"],["。","","period"]],
+    [["我们","wǒmen","we"],["走","zǒu","walk"],["了","le","(past)"],["很久","hěnjǐu","long time"],["，","","comma"],["有点","yǒudiǎn","a bit"],["累","lèi","tired"],["了","le","(past)",5],["，","","comma"],["就","jiù","then"],["在","zài","at"],["湖","hú","lake"],["边","biān","side"],["的","de","of"],["椅子","yǐzi","chair"],["上","shàng","on",6],["休息","xiūxi","rest"],["。","","period"]],
+    [["我们","wǒmen","we"],["坐","zuò","sit"],["在","zài","at"],["椅子","yǐzi","chair"],["前","qián","in front of",7],["，","","comma"],["树","shù","tree"],["下","xià","under",8],["很","hěn","very",9],["凉快","liángkuai","cool"],["。","","period"]],
+    [["午饭","wǔfàn","lunch"],["后","hòu","after",10],["我们","wǒmen","we"],["去","qù","go"],["了","le","(past)"],["公园","gōngyuán","park"],["南","nán","south",11],["边","biān","side"],["的","de","of"],["餐厅","cāntīng","restaurant"],["吃","chī","eat"],["午饭","wǔfàn","lunch"],["。","","period"]],
+    [["午饭","wǔfàn","lunch"],["很","hěn","very"],["好吃","hǎochī","delicious"],["。","","period"]],
+    [["下午","xiàwǔ","afternoon"],["我们","wǒmen","we"],["租","zū","rent"],["了","le","(past)"],["一","yī","one",12],["辆","liàng","measure word for vehicles"],["自行车","zìxíngchē","bicycle"],["，","","comma"],["我","wǒ","I"],["会","huì","can",13],["骑车","qíchē","ride a bike"],["，","","comma"],["我们","wǒmen","we"],["一起","yīqǐ","together"],["骑车","qíchē","ride a bike"],["绕","rào","go around"],["公园","gōngyuán","park"],["一","yī","one"],["圈","quān","lap"],["。","","period"]],
+    [["我们","wǒmen","we"],["能","néng","can",14],["看到","kàndào","see"],["很多","hěnduō","many"],["风景","fēngjǐng","scenery"],["，","","comma"],["什么","shénme","everything",15],["都","dōu","all"],["好看","hǎokàn","beautiful"],["。","","period"]],
+    [["傍晚","bàngwǎn","evening"],["时候","shíhòu","time"],["我们","wǒmen","we"],["回","huí","return"],["家","jiā","home"],["了","le","(past)"],["。","","period"]],
+    [["今天","jīntiān","today"],["真是","zhēnshì","truly"],["快乐","kuàilè","happy"],["的","de","possessive"],["一天","yītiān","a day"],["！","","exclamation"]]
+  ],
+  "explanations": {
+    "1": "Indicates the direction where the lake is located.",
+    "2": "Measure word for 'lake'.",
+    "3": "Indicates location inside the lake.",
+    "4": "Points to the flowers mentioned.",
+    "5": "Indicates completion of the action 'tired'.",
+    "6": "Indicates the position on the bench.",
+    "7": "Indicates the position in front of the bench.",
+    "8": "Indicates the position under the tree.",
+    "9": "Intensifies the adjective 'cool'.",
+    "10": "Indicates the time after lunch.",
+    "11": "Indicates the direction of the restaurant.",
+    "12": "Number one used with measure word '辆'.",
+    "13": "Expresses ability to ride a bike.",
+    "14": "Expresses possibility to see scenery.",
+    "15": "Used as an indefinite pronoun meaning 'everything'."
+  },
+  "translation": "Today is the weekend. My friend and I went to the park together. In the morning, we first went to a lake on the east side of the park. There were many fish in the lake, and also flowers. These flowers were very beautiful. We walked for a long time, got a bit tired, and then rested on the benches by the lake. We sat in front of the benches, under the trees it was very cool. After lunch, we went to a restaurant on the south side of the park to eat lunch. The lunch was very delicious. In the afternoon, we rented a bicycle. I can ride a bike, and we rode together around the park. We could see many scenery, everything looked beautiful. In the evening, we went home. Today was truly a happy day!"
+}

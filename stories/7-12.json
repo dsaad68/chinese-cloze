@@ -1,0 +1,40 @@
+{
+  "id": "7-12",
+  "level": 7,
+  "title": "我的早晨",
+  "titlePinyin": "wǒ de zǎo chén",
+  "topicEn": "A morning routine",
+  "sentences": [
+    [["我","wǒ","I"],["每天","měi tiān","every day"],["早上","zǎo shang","morning"],["六","liù","six"],["点","diǎn","o'clock"],["半","bàn","half",1],["起床","qǐ chuáng","get up"],["。","",""]],
+    [["我","wǒ","I"],["先","xiān","first",2],["去","qù","go"],["卫生间","wèi shēng jiān","bathroom"],["洗脸","xǐ liǎn","wash face"],["刷牙","shuā yá","brush teeth"],["。","",""]],
+    [["然后","rán hòu","then"],["我","wǒ","I"],["在","zài","at",3],["厨房","chú fáng","kitchen"],["里","lǐ","inside",4],["做","zuò","do"],["早饭","zǎo fàn","breakfast"],["。","",""]],
+    [["今天","jīn tiān","today"],["早上","zǎo shang","morning"],["我","wǒ","I"],["做","zuò","make"],["了","le","(particle)"],["两","liǎng","two",5],["个","gè","(measure word)",6],["鸡蛋","jī dàn","egg"],["和","hé","and",7],["一","yī","one",8],["块","kuài","piece",9],["面包","miàn bāo","bread"],["。","",""]],
+    [["我","wǒ","I"],["把","bǎ","(particle)"],["食物","shí wù","food"],["放","fàng","put"],["在","zài","at"],["桌子","zhuō zi","table"],["上","shàng","on",10],["。","",""]],
+    [["我","wǒ","I"],["一边","yī biān","while"],["吃","chī","eat"],["一边","yī biān","while"],["看","kàn","watch"],["手机","shǒu jī","phone"],["。","",""]],
+    [["这","zhè","this",11],["时","shí","time"],["电话","diàn huà","telephone"],["响","xiǎng","ring"],["了","le","(particle)",12],["，","",""],["是","shì","is"],["妈妈","mā ma","mother"],["打","dǎ","call"],["来","lái","come"],["的","de","(particle)",13],["。","",""]],
+    [["她","tā","she",14],["问","wèn","ask"],["我","wǒ","me"],["今天","jīn tiān","today"],["有","yǒu","have"],["什么","shén me","what",15],["安排","ān pái","plan"],["。","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["我","wǒ","I"],["会","huì","will"],["去","qù","go"],["公司","gōng sī","company"],["上班","shàng bān","work"],["。","",""]],
+    [["她","tā","she"],["祝","zhù","wish"],["我","wǒ","me"],["工作","gōng zuò","work"],["顺利","shùn lì","smooth"],["。","",""]],
+    [["我","wǒ","I"],["吃","chī","eat"],["完","wán","finish"],["后","hòu","after"],["把","bǎ","(particle)"],["碗","wǎn","bowl"],["洗","xǐ","wash"],["干净","gān jìng","clean"],["，","",""],["然后","rán hòu","then"],["穿","chuān","wear"],["上","shàng","on"],["外套","wài tào","coat"],["出门","chū mén","go out"],["。","",""]],
+    [["我","wǒ","I"],["走","zǒu","walk"],["到","dào","arrive"],["楼下","lóu xià","downstairs"],["看见","kàn jiàn","see"],["邻居","lín jū","neighbor"],["在","zài","-ing"],["遛狗","liù gǒu","walk dog"],["，","",""],["我们","wǒ men","we"],["互相","hù xiāng","each other"],["打招呼","dǎ zhāo hu","greet"],["，","",""],["然后","rán hòu","then"],["一起","yī qǐ","together"],["走","zǒu","walk"],["到","dào","arrive"],["地铁站","dì tiě zhàn","subway station"],["。","",""]],
+    [["今天","jīn tiān","today"],["路上","lù shàng","on the road"],["很","hěn","very"],["顺利","shùn lì","smooth"],["，","",""],["没有","méi yǒu","no"],["堵车","dǔ chē","traffic jam"],["，","",""],["我","wǒ","I"],["从","cóng","from"],["家里","jiā lǐ","home"],["出发","chū fā","depart"],["只","zhǐ","only"],["用","yòng","use"],["了","le","(particle)"],["三十","sān shí","thirty"],["分钟","fēn zhōng","minutes"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "半表示时间的一半，用于六点半",
+    "2": "先表示时间顺序，表示首先做某事",
+    "3": "在表示动作发生的地点或时间",
+    "4": "里表示方位，指厨房内部",
+    "5": "两表示数量，用于两个鸡蛋",
+    "6": "个是最常用的名量词，修饰鸡蛋",
+    "7": "和连接并列的词语，如鸡蛋和面包",
+    "8": "一表示数量，用于一块面包",
+    "9": "块是名量词，用于块状物品如面包",
+    "10": "上表示方位，指桌子表面",
+    "11": "这是指示代词，指代当时的时间",
+    "12": "了表示动作完成，电话响了",
+    "13": "的表示所属或修饰关系，打来的",
+    "14": "她是人称代词，指代妈妈",
+    "15": "什么是疑问代词，用于询问内容"
+  },
+  "translation": "I get up at six thirty every morning. I first go to the bathroom to wash my face and brush my teeth. Then I cook breakfast in the kitchen. This morning I made two eggs and a piece of bread. I put the food on the table. I eat while looking at my phone. At this moment the phone rang; it was my mother calling. She asked me what plans I have today. I said I will go to the company to work. She wished me a smooth work day. After eating, I washed the dishes clean, then put on my coat and went out. I walked downstairs and saw a neighbor walking the dog. We greeted each other, then walked together to the subway station. Today the road was very smooth, no traffic jams; I left home and arrived at the company in just thirty minutes."
+}

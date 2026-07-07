@@ -1,0 +1,37 @@
+{
+  "id": "7-7",
+  "level": 7,
+  "title": "逛超市",
+  "titlePinyin": "guàng chāoshì",
+  "topicEn": "Shopping at the Supermarket",
+  "sentences": [
+    [["今天","jīntiān","today"],["这","zhè","this",1],["超市","chāoshì","supermarket"],["很","hěn","very",2],["大","dà","big"],["。","","period"]],
+    [["我","wǒ","I",3],["和","hé","and",4],["妈妈","māma","mother"],["一块儿","yīkuàir","together",5],["去","qù","go"],["超市","chāoshì","supermarket"],["。","","period"]],
+    [["超市","chāoshì","supermarket"],["里","lǐ","inside",6],["有","yǒu","have"],["很多","hěnduō","many"],["人","rén","people"],["。","","period"]],
+    [["我们","wǒmen","we"],["先","xiān","first",7],["买","mǎi","buy"],["了","le","(completed action)",8],["水果","shuǐguǒ","fruit"],["，","","comma"],["还","hái","also",9],["买","mǎi","buy"],["了","le","(completed action)"],["蔬菜","shūcài","vegetables"],["。","","period"]],
+    [["妈妈","māma","mother"],["问","wèn","ask"],["我","wǒ","I"],["想","xiǎng","want"],["吃","chī","eat"],["什么","shénme","what",10],["，","","comma"],["我","wǒ","I"],["说","shuō","say"],["想","xiǎng","want"],["吃","chī","eat"],["西红柿","xīhóngshì","tomato"],["。","","period"]],
+    [["我们","wǒmen","we"],["从","cóng","from",11],["水果区","shuǐguǒqū","fruit section"],["走","zǒu","walk"],["到","dào","to"],["蔬菜区","shūcàiqū","vegetable section"],["，","","comma"],["碰到","pèngdào","meet"],["了","le","(completed action)"],["邻居","línjū","neighbor"],["。","","period"]],
+    [["邻居","línjū","neighbor"],["正在","zhèngzài","in the process of",12],["买","mǎi","buy"],["牛奶","niúnǎi","milk"],["。","","period"]],
+    [["我们","wǒmen","we"],["聊","liáo","chat"],["了","le","(completed action)"],["一会儿","yīhuìr","a while"],["天","tiān","day"],["。","","period"]],
+    [["最后","zuìhòu","finally"],["我们","wǒmen","we"],["买","mǎi","buy"],["了","le","(completed action)"],["一","yī","one",13],["个","gè","(measure word)",14],["冰淇淋","bīngqílín","ice cream"],["，","","comma"],["然后","ránhòu","then"],["回家","huíjiā","go home"],["了","le","(completed action)"],["。","","period"]],
+    [["今天","jīntiān","today"],["真","zhēn","really",15],["开心","kāixīn","happy"],["！","","exclamation"]]
+  ],
+  "explanations": {
+    "1": "'这'是指示代词，指代这家超市。",
+    "2": "'很'是程度副词，修饰'大'表示程度。",
+    "3": "'我'是人称代词，表示说话者自己。",
+    "4": "'和'是连词，连接'我'和'妈妈'。",
+    "5": "'一块儿'是范围副词，表示一起行动。",
+    "6": "'里'是方位名词，表示超市的内部。",
+    "7": "'先'是时间副词，表示顺序在前。",
+    "8": "'了'是动态助词，表示动作已完成。",
+    "9": "'还'是关联副词，表示另外的动作。",
+    "10": "'什么'是疑问代词，用于提问。",
+    "11": "'从'是介词，引出起点。",
+    "12": "'正在'是时间副词，表示动作正在进行。",
+    "13": "'一'是数词，表示数量。",
+    "14": "'个'是名量词，用于冰淇淋等物品。",
+    "15": "'真'是程度副词，表示程度高。"
+  },
+  "translation": "Today this supermarket is very big. My mother and I went to the supermarket together. There are many people in the supermarket. We first bought fruit, and also bought vegetables. Mom asked me what I wanted to eat, and I said I wanted to eat tomatoes. We walked from the fruit section to the vegetable section and met a neighbor. The neighbor was buying milk. We chatted for a while. Finally, we bought an ice cream and then went home. Today is really happy!"
+}

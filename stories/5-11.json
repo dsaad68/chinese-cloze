@@ -1,0 +1,40 @@
+{
+  "id": "5-11",
+  "level": 5,
+  "title": "超市购物",
+  "titlePinyin": "chāoshì gòuwù",
+  "topicEn": "Supermarket Shopping",
+  "sentences": [
+    [["今天","jīntiān","today"],["下午","xiàwǔ","afternoon"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["一","yī","one"],["个","gè","measure word for people/objects",2],["朋友","péngyǒu","friend"],["一起","yīqǐ","together",3],["去","qù","go"],["超市","chāoshì","supermarket"],["买","mǎi","buy"],["东西","dōngxī","things"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["在","zài","at"],["学校","xuéxiào","school"],["的","de","possessive particle"],["东","dōng","east",4],["边","biān","side"],["，","",""],["我们","wǒmen","we"],["从","cóng","from",5],["学校","xuéxiào","school"],["坐","zuò","take (transport)"],["公交车","gōngjiāochē","bus"],["去","qù","go"],["。","",""]],
+    [["到","dào","arrive"],["了","le","completed action marker",6],["超市","chāoshì","supermarket"],["，","",""],["我们","wǒmen","we"],["先","xiān","first",7],["去","qù","go"],["了","le","completed action marker"],["水果","shuǐguǒ","fruit"],["区","qū","section"],["。","",""]],
+    [["那儿","nàr","there",8],["有","yǒu","there is/are"],["苹果","píngguǒ","apple"],["、","",""],["香蕉","xiāngjiāo","banana"],["和","hé","and"],["橘子","júzi","orange"],["。","",""]],
+    [["朋友","péngyǒu","friend"],["说","shuō","say"],["他","tā","he"],["想","xiǎng","want"],["买","mǎi","buy"],["一些","yīxiē","some"],["苹果","píngguǒ","apple"],["。","",""]],
+    [["我","wǒ","I"],["问","wèn","ask"],["他","tā","he"],["要","yào","want"],["多少","duōshǎo","how many",9],["，","",""],["他","tā","he"],["说","shuō","say"],["两","liǎng","two",10],["斤","jīn","jin (unit)"],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["又","yòu","again"],["去","qù","go"],["了","le","completed action marker"],["饮料","yǐnliào","beverage"],["区","qū","section"],["。","",""]],
+    [["我","wǒ","I"],["拿","ná","take"],["了","le","completed action marker"],["一","yī","one"],["个","gè","measure word"],["可乐","kělè","cola"],["，","",""],["朋友","péngyǒu","friend"],["拿","ná","take"],["了","le","completed action marker"],["一","yī","one"],["杯","bēi","cup (measure word)",11],["咖啡","kāfēi","coffee"],["。","",""]],
+    [["在","zài","at"],["收银台","shōuyíntái","checkout"],["，","",""],["我们","wǒmen","we"],["排队","páiduì","queue"],["付钱","fùqián","pay"],["。","",""]],
+    [["一共","yīgòng","in total"],["花","huā","spend"],["了","le","completed action marker"],["五十","wǔshí","fifty"],["块","kuài","unit of money (yuan)",12],["钱","qián","money"],["。","",""]],
+    [["朋友","péngyǒu","friend"],["说","shuō","say"],["他","tā","he"],["没","méi","did not",13],["带","dài","bring"],["钱包","qiánbāo","wallet"],["，","",""],["我","wǒ","I"],["先","xiān","first"],["帮","bāng","help"],["他","tā","he"],["付","fù","pay"],["了","le","completed action marker"],["。","",""]],
+    [["他","tā","he"],["说","shuō","say"],["谢谢","xièxie","thanks"],["，","",""],["明天","míngtiān","tomorrow"],["再","zài","again",14],["还","huán","repay"],["我","wǒ","me"],["。","",""]],
+    [["我们","wǒmen","we"],["高高兴兴","gāogāoxìngxìng","happily"],["地","de","adverbial particle",15],["回家","huíjiā","go home"],["了","le","completed action marker"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "和 is used as a preposition to indicate 'with', connecting the subject 'I' and 'a friend'.",
+    "2": "个 is a common measure word, used here with '一' to form '一个朋友' (a friend).",
+    "3": "一起 is an adverb meaning 'together', indicating the action is done jointly.",
+    "4": "东 is a direction noun, indicating the supermarket is located east of the school.",
+    "5": "从 introduces the starting point 'from school' for the action of taking the bus.",
+    "6": "了 is a dynamic particle indicating the completion of the action 'arrive'.",
+    "7": "先 is a time adverb meaning 'first', indicating the sequence of actions.",
+    "8": "那儿 is a demonstrative pronoun referring to a specific place (the fruit section).",
+    "9": "多少 is an interrogative pronoun used to ask about quantity.",
+    "10": "两 is the number two used before a measure word (斤) to express quantity.",
+    "11": "杯 is a measure word for cupfuls, used with coffee.",
+    "12": "块 is a colloquial measure word for money, equivalent to 'yuan'.",
+    "13": "没 is a negative adverb used to negate the verb '带' (bring), indicating past absence.",
+    "14": "再 is an adverb meaning 'again', indicating a future repeated action (repay).",
+    "15": "地 is a structural particle that turns an adjective into an adverb, modifying the verb '回家'."
+  },
+  "translation": "This afternoon, I went to the supermarket with a friend to buy things. The supermarket is east of the school, and we took the bus from school. After arriving at the supermarket, we first went to the fruit section. There were apples, bananas, and oranges there. My friend said he wanted to buy some apples. I asked him how many, and he said two jin. Then we went to the beverage section. I took a cola, and my friend took a cup of coffee. At the checkout, we queued to pay. It cost fifty kuai in total. My friend said he didn't bring his wallet, so I paid for him first. He said thank you and that he would pay me back tomorrow. We happily went home."
+}

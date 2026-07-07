@@ -1,0 +1,40 @@
+{
+  "id": "5-6",
+  "level": 5,
+  "title": "去超市购物",
+  "titlePinyin": "qù chāoshì gòuwù",
+  "topicEn": "Going to the supermarket",
+  "sentences": [
+    [["今天","jīntiān","today"],["上午","shàngwǔ","morning"],["十","shí","ten"],["点","diǎn","o'clock"],["，","",""],["小明","xiǎomíng","Xiaoming"],["从","cóng","from",1],["家","jiā","home"],["。","",""]],
+    [["他","tā","he"],["先","xiān","first",2],["去","qù","go"],["了","le","(past marker)"],["附近","fùjìn","nearby"],["超市","chāoshì","supermarket"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["里","lǐ","inside",3],["的","de","(possessive)",4],["商品","shāngpǐn","goods"],["很","hěn","very"],["多","duō","many"],["。","",""]],
+    [["他","tā","he"],["走","zǒu","walk"],["到","dào","to"],["水果","shuǐguǒ","fruit"],["区","qū","area"],["前","qián","front"],["，","",""],["看到","kàndào","see"],["一些","yīxiē","some",5],["苹果","píngguǒ","apple"],["。","",""]],
+    [["他","tā","he"],["非常","fēicháng","very",6],["喜欢","xǐhuān","like"],["苹果","píngguǒ","apple"],["。","",""]],
+    [["他","tā","he"],["问","wèn","ask"],["售货员","shòuhuòyuán","shop assistant"],["：","",""],["“","",""],["这","zhè","this",7],["苹果","píngguǒ","apple"],["多少","duōshǎo","how much"],["钱","qián","money"],["一","yī","one"],["斤","jīn","jin (unit)"],["？","",""],["”","",""]],
+    [["售货员","shòuhuòyuán","shop assistant"],["说","shuō","say"],["：","",""],["“","",""],["五","wǔ","five"],["块","kuài","(unit of money)",8],["一","yī","one"],["斤","jīn","jin"],["。","",""],["”","",""]],
+    [["小明","xiǎomíng","Xiaoming"],["说","shuō","say"],["：","",""],["“","",""],["我","wǒ","I"],["买","mǎi","buy"],["三","sān","three",9],["个","gè","(measure word)"],["。","",""],["”","",""]],
+    [["之后","zhīhòu","after that"],["他","tā","he"],["又","yòu","again",10],["买","mǎi","buy"],["了","le","(past marker)"],["一","yī","one"],["杯","bēi","cup",11],["牛奶","niúnǎi","milk"],["。","",""]],
+    [["他","tā","he"],["会","huì","can",12],["用","yòng","use"],["手机","shǒujī","mobile phone"],["付","fù","pay"],["钱","qián","money"],["。","",""]],
+    [["最后","zuìhòu","finally"],["他","tā","he"],["付","fù","pay"],["了","le","(past marker)",13],["钱","qián","money"],["。","",""]],
+    [["回家","huíjiā","go home"],["后","hòu","after"],["，","",""],["妈妈","māma","mom"],["很","hěn","very",14],["高兴","gāoxìng","happy"],["。","",""]],
+    [["小明","xiǎomíng","Xiaoming"],["说","shuō","say"],["：","",""],["“","",""],["我","wǒ","I"],["今天","jīntiān","today"],["买","mǎi","buy"],["了","le","(past marker)"],["苹果","píngguǒ","apple"],["和","hé","and",15],["牛奶","niúnǎi","milk"],["。","",""],["”","",""]]
+  ],
+  "explanations": {
+    "1": "Indicates the starting point of movement.",
+    "2": "Indicates the sequence, meaning 'first'.",
+    "3": "Direction word indicating 'inside'.",
+    "4": "Structural particle indicating possession or modification.",
+    "5": "Indefinite quantity, meaning 'some'.",
+    "6": "Degree adverb meaning 'very'.",
+    "7": "Demonstrative pronoun referring to something near.",
+    "8": "Measure word for money, equivalent to 'yuan' in colloquial Chinese.",
+    "9": "Number three.",
+    "10": "Adverb indicating repetition or addition.",
+    "11": "Measure word for cup-like containers.",
+    "12": "Modal verb indicating ability or possibility.",
+    "13": "Aspect particle indicating completion of an action.",
+    "14": "Degree adverb meaning 'very'.",
+    "15": "Conjunction used to connect nouns."
+  },
+  "translation": "This morning at ten o'clock, Xiaoming set off from home. He first went to a nearby supermarket. There were many goods in the supermarket. He walked to the fruit section and saw some apples. He liked apples very much. He asked the shop assistant: \"How much is this apple per jin?\" The shop assistant said: \"Five yuan per jin.\" Xiaoming said: \"I'll buy three.\" Then he also bought a cup of milk. He can pay with his phone. Finally he paid. After returning home, Mom was very happy. Xiaoming said: \"Today I bought apples and milk.\""
+}

@@ -1,0 +1,39 @@
+{
+  "id": "3-2",
+  "level": 3,
+  "title": "周末家庭晚餐",
+  "titlePinyin": "zhōu mò jiā tíng wǎn cān",
+  "topicEn": "Weekend Family Dinner",
+  "sentences": [
+    [["星期六","xīng qī liù","Saturday"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["家人","jiā rén","family"],["一块儿","yī kuài r","together",2],["去","qù","go"],["吃饭","chī fàn","eat"],["。","",""]],
+    [["我们","wǒ men","we"],["去","qù","go"],["了","le","(particle)",3],["一","yī","one"],["个","gè","(measure word)"],["中国","zhōng guó","China"],["餐厅","cān tīng","restaurant"],["。","",""]],
+    [["餐厅","cān tīng","restaurant"],["在","zài","at",4],["商场","shāng chǎng","mall"],["里面","lǐ miàn","inside"],["，","",""],["左边","zuǒ biān","left side",5],["有","yǒu","have",6],["一","yī","one"],["个","gè","(measure word)"],["超市","chāo shì","supermarket"],["。","",""]],
+    [["我们","wǒ men","we"],["先","xiān","first",7],["点","diǎn","order"],["了","le","(particle)"],["两","liǎng","two",8],["杯","bēi","cup",9],["茶","chá","tea"],["。","",""]],
+    [["然后","rán hòu","then"],["我","wǒ","I"],["妈妈","mā ma","mother"],["要","yào","want"],["了","le","(particle)"],["一","yī","one"],["份","fèn","portion",10],["面条","miàn tiáo","noodles"],["。","",""]],
+    [["爸爸","bà ba","dad"],["喜欢","xǐ huān","like"],["吃","chī","eat"],["米饭","mǐ fàn","rice"],["，","",""],["所以","suǒ yǐ","so"],["他","tā","he"],["点","diǎn","order"],["了","le","(particle)"],["一","yī","one"],["碗","wǎn","bowl"],["。","",""]],
+    [["我","wǒ","I"],["妹妹","mèi mei","younger sister"],["还","hái","still",11],["小","xiǎo","young"],["，","",""],["她","tā","she"],["不会","bù huì","cannot",12],["用","yòng","use",13],["筷子","kuài zi","chopsticks"],["。","",""]],
+    [["所以","suǒ yǐ","so"],["，","",""],["我们","wǒ men","we"],["用","yòng","use"],["勺子","sháo zi","spoon"],["帮","bāng","help"],["她","tā","her"],["。","",""]],
+    [["吃","chī","eat"],["完","wán","finish"],["饭","fàn","meal"],["，","",""],["我们","wǒ men","we"],["一起","yī qǐ","together"],["去","qù","go"],["散步","sàn bù","take a walk"],["。","",""]],
+    [["外面","wài miàn","outside",14],["很","hěn","very"],["凉快","liáng kuai","cool"],["，","",""],["我们","wǒ men","we"],["走","zǒu","walk"],["了","le","(particle)"],["半","bàn","half"],["个","gè","(measure word)"],["小时","xiǎo shí","hour"],["。","",""]],
+    [["回家","huí jiā","go home"],["以后","yǐ hòu","after"],["，","",""],["我","wǒ","I"],["马上","mǎ shàng","immediately"],["做","zuò","do"],["作业","zuò yè","homework"],["。","",""]],
+    [["这个","zhè ge","this"],["周末","zhōu mò","weekend"],["真","zhēn","really",15],["快乐","kuài lè","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Connects 'I' and 'family' as companions.",
+    "2": "Indicates the action is done together with family.",
+    "3": "Marks completion of the action 'go'.",
+    "4": "Indicates the location of the restaurant.",
+    "5": "Indicates the position of the supermarket relative to the restaurant.",
+    "6": "Expresses existence of a supermarket.",
+    "7": "Indicates the order of actions, ordering tea first.",
+    "8": "Quantifies the number of cups of tea.",
+    "9": "Measure word for cups of tea.",
+    "10": "Measure word for a portion of noodles.",
+    "11": "Indicates the sister is still young.",
+    "12": "Expresses inability to use chopsticks.",
+    "13": "Verb indicating the action of using chopsticks.",
+    "14": "Indicates the location outside the restaurant.",
+    "15": "Intensifier expressing how happy the weekend is."
+  },
+  "translation": "On Saturday, my family and I went to eat together. We went to a Chinese restaurant. The restaurant is inside the mall, and there is a supermarket on the left. We first ordered two cups of tea. Then my mother ordered a portion of noodles. Dad likes to eat rice, so he ordered a bowl. My younger sister is still young, she cannot use chopsticks. So we helped her with spoons. After eating, we went for a walk together. Outside it was very cool, we walked for half an hour. After returning home, I immediately did my homework. This weekend is really happy."
+}

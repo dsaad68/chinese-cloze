@@ -1,0 +1,38 @@
+{
+  "id": "5-15",
+  "level": 5,
+  "title": "周末公园游",
+  "titlePinyin": "zhōumò gōngyuán yóu",
+  "topicEn": "A Weekend Park Trip",
+  "sentences": [
+    [["今天","jīntiān","today"],["是","shì","is"],["周末","zhōumò","weekend"],["。","",""]],
+    [["我","wǒ","I",1],["和","hé","and",2],["丈夫","zhàngfu","husband"],["、","",""],["女儿","nǚ'ér","daughter"],["一起","yìqǐ","together",3],["去","qù","to go"],["了","le","(completed action marker)",4],["公园","gōngyuán","park"],["。","",""]],
+    [["我们","wǒmen","we",5],["从","cóng","from",6],["家","jiā","home"],["里","lǐ","inside",7],["出发","chūfā","to set out"],["。","",""]],
+    [["坐","zuò","to take (transport)"],["地铁","dìtiě","subway"],["很","hěn","very",8],["快","kuài","fast"],["就","jiù","then"],["到","dào","to arrive"],["了","le","(completed action marker)"],["。","",""]],
+    [["公园","gōngyuán","park"],["有","yǒu","to have"],["什么","shénme","what",9],["颜色","yánsè","color"],["的","de","(possessive/modifier)"],["花","huā","flower"],["都","dōu","all"],["有","yǒu","to have"],["。","",""]],
+    [["这","zhè","this",10],["朵","duǒ","(measure for flowers)"],["花","huā","flower"],["是","shì","is"],["红色","hóngsè","red"],["的","de","(modifier)"],["，","",""],["那","nà","that",11],["朵","duǒ","(measure for flowers)"],["花","huā","flower"],["是","shì","is"],["黄色","huángsè","yellow"],["的","de","(modifier)"],["。","",""]],
+    [["我们","wǒmen","we"],["在","zài","(progressive action marker)",12],["湖","hú","lake"],["边","biān","side"],["散步","sànbù","to take a walk"],["。","",""]],
+    [["还","hái","also",13],["拍","pāi","to take (photo)"],["了","le","(completed action marker)"],["很多","hěnduō","many"],["照片","zhàopiàn","photo"],["。","",""]],
+    [["他","tā","he",14],["觉得","juéde","to feel"],["很","hěn","very"],["开心","kāixīn","happy"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["我们","wǒmen","we"],["回家","huíjiā","to go home"],["。","",""]],
+    [["路上","lùshàng","on the road"],["也","yě","also",15],["看到","kàndào","to see"],["了","le","(completed action marker)"],["许多","xǔduō","many"],["风景","fēngjǐng","scenery"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "第一人称代词，作为主语，表明叙述者。",
+    "2": "连接词，连接并列成分'我'和'丈夫、女儿'。",
+    "3": "范围副词，表示共同行动。",
+    "4": "动态助词，表示动作'去'已经完成。",
+    "5": "第一人称复数代词，指包括叙述者在内的多人。",
+    "6": "介词，引出动作的起点'家'。",
+    "7": "方位名词，表示'家'的内部。",
+    "8": "程度副词，修饰形容词'快'。",
+    "9": "疑问代词，在此表示泛指'任何颜色'。",
+    "10": "指示代词，指近处的花。",
+    "11": "指示代词，指远处的花。",
+    "12": "时间副词，表示动作'散步'正在进行。",
+    "13": "关联副词，表示追加另一动作'拍照片'。",
+    "14": "第三人称代词，指代'丈夫'。",
+    "15": "关联副词，表示同样情况，'看到风景'也是如此。"
+  },
+  "translation": "Today is the weekend. I went to the park together with my husband and daughter. We set out from home. We took the subway and arrived very quickly. The park has flowers of every color. This flower is red, and that flower is yellow. We were taking a walk by the lake. We also took many photos. He felt very happy. In the afternoon we went home. On the way, we also saw a lot of scenery."
+}

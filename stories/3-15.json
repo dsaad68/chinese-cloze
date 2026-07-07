@@ -1,0 +1,41 @@
+{
+  "id": "3-15",
+  "level": 3,
+  "title": "去图书馆",
+  "titlePinyin": "qù túshūguǎn",
+  "topicEn": "going to the library",
+  "sentences": [
+    [["今天","jīntiān","today"],["上午","shàngwǔ","morning"],["我","wǒ","I"],["从","cóng","from",1],["家","jiā","home"],["出发","chūfā","to set off"],["去","qù","to go"],["图书馆","túshūguǎn","library"],["。","","."]],
+    [["我","wǒ","I"],["和","hé","and",2],["朋友","péngyou","friend"],["一起","yìqǐ","together",3],["走","zǒu","to walk"],["。","","."]],
+    [["图书馆","túshūguǎn","library"],["里","lǐ","inside",4],["有","yǒu","there is"],["很多","hěnduō","many"],["书","shū","book"],["。","","."]],
+    [["我","wǒ","I"],["借","jiè","to borrow"],["了","le","(perfective)",5],["一","yī","one",6],["本","běn","(measure for books)"],["中文书","zhōngwénshū","Chinese book"],["，","",","],["他","tā","he"],["借","jiè","to borrow"],["了","le","(perfective)"],["一","yī","one"],["本","běn","(measure for books)",7],["英语书","yīngyǔshū","English book"],["。","","."]],
+    [["我","wǒ","I"],["不","bù","not",8],["喜欢","xǐhuān","to like"],["英语书","yīngyǔshū","English book"],["。","","."]],
+    [["我们","wǒmen","we"],["坐","zuò","to sit"],["在","zài","at"],["窗边","chuāngbiān","by the window"],["看书","kànshū","to read"],["。","","."]],
+    [["看书","kànshū","to read"],["的","de","(attr)",9],["时候","shíhou","time"],["，","",","],["我","wǒ","I"],["很","hěn","very",10],["高兴","gāoxìng","happy"],["。","","."]],
+    [["朋友","péngyou","friend"],["也","yě","also",11],["觉得","juéde","to feel"],["很","hěn","very"],["开心","kāixīn","happy"],["。","","."]],
+    [["中午","zhōngwǔ","noon"],["我们","wǒmen","we"],["在","zài","at"],["图书馆","túshūguǎn","library"],["旁边","pángbiān","next to"],["吃饭","chīfàn","to eat"],["。","","."]],
+    [["我","wǒ","I"],["吃","chī","to eat"],["了","le","(perfective)"],["一","yī","one"],["个","gè","(measure)"],["面包","miànbāo","bread"],["，","",","],["他","tā","he"],["吃","chī","to eat"],["了","le","(perfective)"],["一","yī","one"],["碗","wǎn","(measure for bowls)"],["面条","miàntiáo","noodles"],["。","","."]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["回","huí","to return"],["学校","xuéxiào","school"],["上课","shàngkè","to attend class"],["。","","."]],
+    [["下午","xiàwǔ","afternoon"],["我们","wǒmen","we"],["还","hái","still",12],["有","yǒu","to have"],["课","kè","class"],["。","","."]],
+    [["晚上","wǎnshàng","evening"],["回家","huíjiā","go home"],["后","hòu","after"],["，","",","],["我","wǒ","I"],["先","xiān","first",13],["做","zuò","to do"],["了","le","(perfective)"],["作业","zuòyè","homework"],["，","",","],["再","zài","then",14],["看","kàn","to watch"],["电视","diànshì","TV"],["。","","."]],
+    [["今天","jīntiān","today"],["真","zhēn","really",15],["是","shì","is"],["充实","chōngshí","fulfilling"],["的","de","(attr)"],["一天","yìtiān","a day"],["。","","."]]
+  ],
+  "explanations": {
+    "1": "Indicates the starting point of the action.",
+    "2": "Connects 'I' and 'friend' together.",
+    "3": "Shows that the action is done jointly.",
+    "4": "Indicates location within the library.",
+    "5": "Marks the completed action of borrowing.",
+    "6": "Number needed before the measure word '本'.",
+    "7": "Measure word for books after the number.",
+    "8": "Negates the verb 'like'.",
+    "9": "Links the verb phrase '看书' to '时候'.",
+    "10": "Degree adverb modifying the adjective 'happy'.",
+    "11": "Shows that the friend shares the same feeling.",
+    "12": "Indicates that there are additional classes.",
+    "13": "Shows the first action in a sequence.",
+    "14": "Introduces the next action after the first.",
+    "15": "Intensifies the adjective, meaning 'truly'."
+  },
+  "translation": "This morning I set off from home to go to the library. I walked with my friend. There were many books inside the library. I borrowed a Chinese book, and he borrowed an English book. I don't like English books. We sat by the window to read. While reading, I was very happy. My friend also felt very happy. At noon we ate next to the library. I ate a bread roll, and he ate a bowl of noodles. Then we went back to school for class. In the afternoon we still had class. After going home in the evening, I first did my homework, then watched TV. Today was truly a fulfilling day."
+}

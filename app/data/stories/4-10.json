@@ -1,0 +1,37 @@
+{
+  "id": "4-10",
+  "level": 4,
+  "title": "去超市购物",
+  "titlePinyin": "qù chāo shì gòu wù",
+  "topicEn": "Going to the supermarket",
+  "sentences": [
+    [["今天","jīntiān","today"],["我","wǒ","I"],["和","hé","and",1],["我","wǒ","I"],["的","de","possessive"],["朋友","péngyou","friend"],["一起","yīqǐ","together",2],["去","qù","to go"],["超市","chāoshì","supermarket"],["。","",""]],
+    [["我们","wǒmen","we"],["都","dōu","all",3],["想","xiǎng","to want"],["买","mǎi","to buy"],["一些","yīxiē","some",4],["水果","shuǐguǒ","fruit"],["和","hé","and"],["蔬菜","shūcài","vegetables"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",5],["去","qù","to go"],["看看","kànkan","to have a look"],["苹果","píngguǒ","apple"],["和","hé","and"],["香蕉","xiāngjiāo","banana"],["，","",""],["苹果","píngguǒ","apple"],["很","hěn","very",6],["贵","guì","expensive"],["但是","dànshì","but"],["香蕉","xiāngjiāo","banana"],["很","hěn","very"],["便宜","piányi","cheap"],["，","",""],["所以","suǒyǐ","so",7],["我们","wǒmen","we"],["不","bù","not",8],["买","mǎi","to buy"],["苹果","píngguǒ","apple"],["，","",""],["只","zhǐ","only",9],["买","mǎi","to buy"],["香蕉","xiāngjiāo","banana"],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","to go"],["买","mǎi","to buy"],["牛奶","niúnǎi","milk"],["，","",""],["牛奶","niúnǎi","milk"],["在","zài","at"],["冰箱","bīngxiāng","refrigerator"],["里","lǐ","inside",10],["。","",""]],
+    [["我们","wǒmen","we"],["拿","ná","to take"],["了","le","perfective",11],["两","liǎng","two",12],["杯","bēi","cup",13],["牛奶","niúnǎi","milk"],["，","",""],["还","hái","also"],["在","zài","at"],["那里","nàlǐ","there"],["买","mǎi","to buy"],["了","le","perfective"],["面包","miànbāo","bread"],["。","",""]],
+    [["最后","zuìhòu","finally"],["我们","wǒmen","we"],["去","qù","to go"],["结账","jiézhàng","to checkout"],["，","",""],["在","zài","at"],["出口","chūkǒu","exit"],["我们","wǒmen","we"],["看见","kànjiàn","to see"],["了","le","perfective"],["同学","tóngxué","classmate"],["小","xiǎo","young/pref."],["李","lǐ","Li (surname)"],["。","",""]],
+    [["我们","wǒmen","we"],["付","fù","to pay"],["了","le","perfective"],["钱","qián","money"],["。","",""]],
+    [["他","tā","he"],["问","wèn","to ask"],["我们","wǒmen","we"],["买","mǎi","to buy"],["了","le","perfective"],["什么","shénme","what",14],["，","",""],["我们","wǒmen","we"],["告诉","gàosu","to tell"],["他","tā","him"],["我们","wǒmen","we"],["买","mǎi","to buy"],["了","le","perfective"],["水果","shuǐguǒ","fruit"],["、","",""],["牛奶","niúnǎi","milk"],["和","hé","and"],["面包","miànbāo","bread"],["。","",""]],
+    [["我们","wǒmen","we"],["跟","gēn","with"],["他","tā","him"],["说","shuō","to say"],["再见","zàijiàn","goodbye"],["，","",""],["然后","ránhòu","then"],["从","cóng","from",15],["超市","chāoshì","supermarket"],["回家","huíjiā","to go home"],["。","",""]],
+    [["今天","jīntiān","today"],["我们","wǒmen","we"],["非常","fēicháng","very"],["开心","kāixīn","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Connects two nouns to show togetherness.",
+    "2": "Indicates the action is done jointly.",
+    "3": "Indicates both people want to buy.",
+    "4": "Indicates an unspecified quantity.",
+    "5": "Shows the sequence of actions.",
+    "6": "Modifies the adjective 'expensive'.",
+    "7": "Introduces a result based on previous reason.",
+    "8": "Negates the verb 'buy' to indicate not buying apples.",
+    "9": "Restricts the action to only buying bananas.",
+    "10": "A location word indicating the milk is inside the fridge.",
+    "11": "Indicates completion of the action 'take'.",
+    "12": "Indicates the quantity of cups.",
+    "13": "A measure word for cups of milk.",
+    "14": "An interrogative pronoun used in the question.",
+    "15": "Indicates the starting point of the return journey."
+  },
+  "translation": "Today my friend and I went to the supermarket together. We both wanted to buy some fruit and vegetables. We first went to look at apples and bananas; apples were very expensive but bananas were very cheap, so we didn't buy apples, only bought bananas. Then we went to buy milk; the milk was in the fridge. We took two cups of milk, and also bought bread there. Finally we went to checkout; at the exit we saw our classmate Xiao Li. We paid. He asked what we bought; we told him we bought fruit, milk and bread. We said goodbye to him, then went home from the supermarket. Today we were very happy."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7-6",
+  "level": 7,
+  "title": "做晚饭",
+  "titlePinyin": "zuò wǎnfàn",
+  "topicEn": "Making dinner with family",
+  "sentences": [
+    [["今天","jīntiān","today"],["晚上","wǎnshang","evening"],["，","","comma"],["我","wǒ","I"],["和","hé","and",1],["爸爸","bàba","dad"],["一起","yīqǐ","together",2],["做","zuò","to make"],["晚饭","wǎnfàn","dinner"],["。","","period"]],
+    [["爸爸","bàba","dad"],["会","huì","can",3],["炒菜","chǎocài","stir-fry"],["，","","comma"],["我","wǒ","I"],["会","huì","can"],["煮饭","zhǔfàn","cook rice"],["。","","period"]],
+    [["我们","wǒmen","we"],["先","xiān","first",4],["从","cóng","from",5],["冰箱","bīngxiāng","fridge"],["里","lǐ","inside",6],["拿出","náchū","take out"],["蔬菜","shūcài","vegetables"],["和","hé","and"],["肉","ròu","meat"],["。","","period"]],
+    [["妈妈","māma","mom"],["问","wèn","ask"],["我们","wǒmen","us"],["：","","colon"],["“","","left quote"],["你们","nǐmen","you (plural)",7],["需要","xūyào","need"],["什么","shénme","what",8],["？","","question mark"],["”","","right quote"]],
+    [["爸爸","bàba","dad"],["说","shuō","say"],["：","","colon"],["“","","left quote"],["需要","xūyào","need"],["一些","yīxiē","some"],["盐","yán","salt"],["和","hé","and"],["油","yóu","oil"],["。","","period"],["”","","right quote"]],
+    [["我","wǒ","I"],["洗","xǐ","wash"],["了","le","(past tense)",9],["三","sān","three",10],["个","gè","(measure word)",11],["土豆","tǔdòu","potato"],["和","hé","and"],["两","liǎng","two",12],["根","gēn","(measure for long objects)"],["胡萝卜","húluóbo","carrot"],["。","","period"]],
+    [["爸爸","bàba","dad"],["切菜","qiēcài","cut vegetables"],["的","de","(attributive)"],["时候","shíhou","time"],["，","","comma"],["我","wǒ","I"],["在","zài","at"],["旁边","pángbiān","beside"],["看","kàn","watch"],["。","","period"]],
+    [["他","tā","he"],["切","qiē","cut"],["得","de","(complement particle)"],["很","hěn","very"],["快","kuài","fast"],["，","","comma"],["我","wǒ","I"],["很","hěn","very"],["佩服","pèifú","admire"],["。","","period"]],
+    [["后来","hòulái","later"],["我们","wǒmen","we"],["一起","yīqǐ","together"],["炒菜","chǎocài","stir-fry"],["。","","period"]],
+    [["这","zhè","this",13],["菜","cài","dish"],["很","hěn","very"],["香","xiāng","fragrant"],["，","","comma"],["我","wǒ","I"],["忍","rěn","endure"],["不","bù","not",14],["住","zhù","(can't help)"],["尝","cháng","taste"],["了","le","(past)"],["一","yī","one"],["口","kǒu","mouthful"],["。","","period"]],
+    [["妈妈","māma","mom"],["也","yě","also"],["说","shuō","say"],["好吃","hǎochī","delicious"],["。","","period"]],
+    [["我们","wǒmen","we"],["一","yī","one"],["家","jiā","family"],["人","rén","people"],["吃","chī","eat"],["得","de","(complement)"],["非常","fēicháng","very",15],["开心","kāixīn","happy"],["。","","period"]],
+    [["吃完","chīwán","finish eating"],["饭","fàn","meal"],["，","","comma"],["我","wǒ","I"],["主动","zhǔdòng","voluntarily"],["洗碗","xǐwǎn","wash dishes"],["。","","period"]],
+    [["妈妈","māma","mom"],["夸","kuā","praise"],["我","wǒ","me"],["长大","zhǎngdà","grow up"],["了","le","(change of state)"],["。","","period"]]
+  ],
+  "explanations": {
+    "1": "连接词，表示并列，连接‘我’和‘爸爸’。",
+    "2": "协同副词，表示共同做某事。",
+    "3": "能愿动词，表示有能力做某事。",
+    "4": "时间副词，表示次序在前。",
+    "5": "介词，表示动作的起点。",
+    "6": "方位名词，表示在冰箱内部。",
+    "7": "人称代词，指代听话的复数对象。",
+    "8": "疑问代词，用于询问事物。",
+    "9": "动态助词，表示动作已完成。",
+    "10": "数字，表示数量。",
+    "11": "名量词，用于土豆等一般物品。",
+    "12": "数字，表示数量。",
+    "13": "指示代词，指代当前提到的一道菜。",
+    "14": "否定副词，表示否定‘忍住’的动作。",
+    "15": "程度副词，表示程度很高。"
+  },
+  "translation": "Tonight, my dad and I are making dinner together. Dad can stir-fry, and I can cook rice. We first take out vegetables and meat from the fridge. Mom asks us: 'What do you need?' Dad says: 'Need some salt and oil.' I washed three potatoes and two carrots. While Dad was cutting vegetables, I watched beside him. He cuts very fast, and I admire him. Later, we stir-fried together. This dish is very fragrant; I couldn't help but taste a bite. Mom also said it was delicious. We, as a family, ate very happily. After finishing the meal, I voluntarily washed the dishes. Mom praised me for growing up."
+}

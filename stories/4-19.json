@@ -1,0 +1,43 @@
+{
+  "id": "4-19",
+  "level": 4,
+  "title": "去超市买东西",
+  "titlePinyin": "qù chāoshì mǎi dōngxi",
+  "topicEn": "Going to the supermarket to buy things",
+  "sentences": [
+    [["今天","jīntiān","today"],["早上","zǎoshang","morning"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["妈妈","māma","mom"],["一起","yīqǐ","together"],["去","qù","go"],["超市","chāoshì","supermarket"],["。","",""]],
+    [["我们","wǒmen","we"],["想","xiǎng","want"],["买","mǎi","buy"],["一些","yīxiē","some"],["水果","shuǐguǒ","fruit"],["，","",""],["还","hái","also",2],["要","yào","need"],["买","mǎi","buy"],["一","yī","one",3],["瓶","píng","bottle (measure word)"],["牛奶","niúnǎi","milk"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["里","lǐ","inside",4],["有","yǒu","have"],["很","hěn","very"],["多","duō","many"],["人","rén","people"],["。","",""]],
+    [["水果","shuǐguǒ","fruit"],["在","zài","at"],["右边","yòubiān","right side",5],["，","",""],["牛奶","niúnǎi","milk"],["在","zài","at"],["左边","zuǒbiān","left side"],["。","",""]],
+    [["妈妈","māma","mom"],["问","wèn","ask"],["我","wǒ","me"],["：","",""],["“","",""],["你","nǐ","you"],["想","xiǎng","want"],["吃","chī","eat"],["什么","shénme","what",6],["水果","shuǐguǒ","fruit"],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["我","wǒ","I"],["想","xiǎng","want"],["买","mǎi","buy"],["苹果","píngguǒ","apple"],["和","hé","and"],["香蕉","xiāngjiāo","banana"],["。","",""],["”","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",7],["去","qù","go"],["买","mǎi","buy"],["苹果","píngguǒ","apple"],["。","",""]],
+    [["苹果","píngguǒ","apple"],["一","yī","one"],["斤","jīn","jin (unit)"],["五","wǔ","five",8],["块","kuài","kuai (yuan)",9],["钱","qián","money"],["。","",""]],
+    [["我","wǒ","I"],["觉得","juéde","think"],["太","tài","too",10],["贵","guì","expensive"],["了","le","(particle)",11],["。","",""]],
+    [["妈妈","māma","mom"],["说","shuō","say"],["：","",""],["“","",""],["没","méi","not",12],["关系","guānxi","matter"],["，","",""],["我们","wǒmen","we"],["买","mǎi","buy"],["少","shǎo","few"],["一点","yīdiǎn","a little"],["。","",""],["”","",""]],
+    [["然后","ránhòu","then"],["，","",""],["我们","wǒmen","we"],["去","qù","go"],["买","mǎi","buy"],["牛奶","niúnǎi","milk"],["。","",""]],
+    [["牛奶","niúnǎi","milk"],["有","yǒu","have"],["两种","liǎngzhǒng","two kinds"],["：","",""],["大的","dà de","big one"],["和","hé","and"],["小的","xiǎo de","small one"],["。","",""]],
+    [["妈妈","māma","mom"],["问","wèn","ask"],["：","",""],["“","",""],["你","nǐ","you"],["能","néng","can",13],["喝","hē","drink"],["完","wán","finish"],["大的","dà de","big one"],["吗","ma","(question particle)",14],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["不","bù","not"],["能","néng","can"],["，","",""],["买","mǎi","buy"],["小的","xiǎo de","small one"],["吧","ba","(suggestion particle)",15],["。","",""],["”","",""]],
+    [["最后","zuìhòu","finally"],["，","",""],["我们","wǒmen","we"],["买了","mǎile","bought"],["一些","yīxiē","some"],["苹果","píngguǒ","apple"],["和","hé","and"],["一小瓶","yīxiǎopíng","one small bottle"],["牛奶","niúnǎi","milk"],["。","",""]],
+    [["回家","huíjiā","go home"],["以后","yǐhòu","after"],["，","",""],["我","wǒ","I"],["非常","fēicháng","very"],["开心","kāixīn","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "'和' connects two nouns, here '我' and '妈妈'.",
+    "2": "'还' indicates an additional item besides fruit.",
+    "3": "'一' is the numeral used with measure word '瓶'.",
+    "4": "'里' is a location noun meaning inside the supermarket.",
+    "5": "'右边' indicates the position where fruit is located.",
+    "6": "'什么' is a question word asking for the type of fruit.",
+    "7": "'先' shows the order of actions, going to buy apples first.",
+    "8": "'五' is the number for the price per jin.",
+    "9": "'块' is a measure word for money in spoken Chinese.",
+    "10": "'太' is used with '了' to indicate an excessive degree.",
+    "11": "'了' is a dynamic particle here indicating a change or exclamation.",
+    "12": "'没' negates '关系' meaning 'no matter'.",
+    "13": "'能' is an auxiliary verb expressing ability.",
+    "14": "'吗' turns the sentence into a yes/no question.",
+    "15": "'吧' makes a suggestion or softens the request."
+  },
+  "translation": "This morning, my mom and I went to the supermarket together. We wanted to buy some fruit, and also needed to buy one bottle of milk. There were many people inside the supermarket. The fruit was on the right side, the milk was on the left side. Mom asked me: \"What fruit do you want to eat?\" I said: \"I want to buy apples and bananas.\" We went to buy apples first. The apples were five kuai per jin. I thought it was too expensive. Mom said: \"Never mind, we will buy a little less.\" Then we went to buy milk. There were two kinds: a big one and a small one. Mom asked: \"Can you finish the big one?\" I said: \"No, let's buy the small one.\" Finally, we bought some apples and a small bottle of milk. After going home, I was very happy."
+}

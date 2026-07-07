@@ -1,0 +1,41 @@
+{
+  "id": "4-9",
+  "level": 4,
+  "title": "周末计划",
+  "titlePinyin": "Zhōumò Jìhuà",
+  "topicEn": "A Weekend Plan",
+  "sentences": [
+    [["小明","Xiǎo Míng","Xiao Ming (name)"],["和","hé","and",1],["小李","Xiǎo Lǐ","Xiao Li (name)"],["是","shì","to be"],["两","liǎng","two",2],["个","gè","measure word",3],["很","hěn","very"],["好","hǎo","good"],["的","de","attributive particle",4],["朋友","péngyou","friend"],["。","",""]],
+    [["他们","tāmen","they"],["打算","dǎsuàn","to plan"],["这","zhè","this",5],["个","gè","measure word"],["周末","zhōumò","weekend"],["一起","yīqǐ","together",6],["去","qù","to go"],["公园","gōngyuán","park"],["。","",""]],
+    [["小明","Xiǎo Míng","Xiao Ming"],["问","wèn","to ask"],["小李","Xiǎo Lǐ","Xiao Li"],["：","",""],["“","",""],["我们","wǒmen","we"],["什么","shénme","what",7],["时候","shíhou","time"],["去","qù","to go"],["？","",""],["”","",""]],
+    [["小李","Xiǎo Lǐ","Xiao Li"],["说","shuō","to say"],["：","",""],["“","",""],["星期六","xīngqīliù","Saturday"],["早上","zǎoshang","morning"],["八","bā","eight"],["点","diǎn","o'clock"],["怎么样","zěnmeyàng","how about",8],["？","",""],["”","",""]],
+    [["小明","Xiǎo Míng","Xiao Ming"],["觉得","juéde","to think"],["这","zhè","this"],["个","gè","measure word"],["时间","shíjiān","time"],["会","huì","will; can",9],["很","hěn","very"],["好","hǎo","good"],["。","",""]],
+    [["他们","tāmen","they"],["约定","yuēdìng","to agree on"],["在","zài","at",10],["公园","gōngyuán","park"],["门口","ménkǒu","entrance"],["见面","jiànmiàn","to meet"],["。","",""]],
+    [["那","nà","that",11],["天","tiān","day"],["天气","tiānqì","weather"],["很","hěn","very"],["好","hǎo","good"],["，","",""],["不","bù","not",12],["冷","lěng","cold"],["也","yě","also"],["不","bù","not"],["热","rè","hot"],["。","",""]],
+    [["他们","tāmen","they"],["在","zài","at"],["公园","gōngyuán","park"],["里","lǐ","inside",13],["走","zǒu","to walk"],["了","le","perfective aspect particle",14],["很","hěn","very"],["久","jiǔ","long (time)"],["。","",""]],
+    [["小明","Xiǎo Míng","Xiao Ming"],["看到","kàndào","to see"],["很多","hěnduō","many"],["花","huā","flower"],["，","",""],["非常","fēicháng","very"],["漂亮","piàoliang","beautiful"],["。","",""]],
+    [["小李","Xiǎo Lǐ","Xiao Li"],["说","shuō","to say"],["：","",""],["“","",""],["我们","wǒmen","we"],["找","zhǎo","to look for"],["个","gè","measure word"],["地方","dìfang","place"],["坐下","zuòxià","to sit down"],["休息","xiūxi","to rest"],["吧","ba","suggestion particle"],["。","",""],["”","",""]],
+    [["他们","tāmen","they"],["坐","zuò","to sit"],["在","zài","at"],["树下","shùxià","under the tree"],["高兴","gāoxìng","happy"],["地","de","adverbial particle",15],["聊天","liáotiān","to chat"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["他们","tāmen","they"],["一起","yīqǐ","together"],["去","qù","to go"],["吃","chī","to eat"],["了","le","perfective aspect particle"],["午饭","wǔfàn","lunch"],["。","",""]],
+    [["他们","tāmen","they"],["玩","wán","to play"],["得","de","complement particle"],["很","hěn","very"],["开心","kāixīn","happy"],["。","",""]],
+    [["小明","Xiǎo Míng","Xiao Ming"],["说","shuō","to say"],["：","",""],["“","",""],["下次","xiàcì","next time"],["我们","wǒmen","we"],["再","zài","again"],["一起","yīqǐ","together"],["来","lái","to come"],["。","",""],["”","",""]]
+  ],
+  "explanations": {
+    "1": "Connects two nouns together.",
+    "2": "Used before a measure word to mean 'two'.",
+    "3": "Common measure word for people and things.",
+    "4": "Links an adjective to a noun.",
+    "5": "Demonstrative pronoun indicating something near.",
+    "6": "Adverb meaning in company with others.",
+    "7": "Question word asking for information.",
+    "8": "Question phrase used to ask opinion or suggestion.",
+    "9": "Auxiliary verb expressing future or ability.",
+    "10": "Preposition indicating location.",
+    "11": "Demonstrative pronoun referring to something distant.",
+    "12": "Negation adverb placed before adjectives or verbs.",
+    "13": "Location noun meaning the interior of a place.",
+    "14": "Indicates completion of an action.",
+    "15": "Marks an adverb before a verb."
+  },
+  "translation": "Xiao Ming and Xiao Li are good friends. They plan to go to the park together this weekend. Xiao Ming asks Xiao Li, \"When will we go?\" Xiao Li says, \"How about Saturday morning at eight o'clock?\" Xiao Ming thinks this time will be good. They agree to meet at the park entrance. That day the weather is very good, neither cold nor hot. They walk in the park for a long time. Xiao Ming sees many flowers, very beautiful. Xiao Li says, \"Let's find a place to sit and rest.\" They sit under a tree chatting happily. In the afternoon, they go to eat lunch together. They have a lot of fun. Xiao Ming says, \"Next time we'll come together again.\""
+}

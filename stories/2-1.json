@@ -1,0 +1,42 @@
+{
+  "id": "2-1",
+  "level": 2,
+  "title": "去超市",
+  "titlePinyin": "qù chāo shì",
+  "topicEn": "Going to the supermarket",
+  "sentences": [
+    [["今天","jīn tiān","today",1],["早上","zǎo shang","morning",2],["，","",""],["我","wǒ","I",3],["起床","qǐ chuáng","get up",4],["后","hòu","after",5],["，","",""],["和","hé","and",6],["妈妈","mā ma","mom",7],["去","qù","go",8],["超市","chāo shì","supermarket",9],["买","mǎi","buy",10],["东西","dōng xi","things",11],["。","",""]],
+    [["我们","wǒ men","we",12],["坐","zuò","sit (ride)",13],["公交车","gōng jiāo chē","bus",14],["去","qù","go"],["。","",""]],
+    [["在","zài","at",15],["超市","chāo shì","supermarket"],["门口","mén kǒu","entrance",16],["，","",""],["我们","wǒ men","we"],["买","mǎi","buy"],["了","le","(past particle)",17],["一些","yī xiē","some",18],["水果","shuǐ guǒ","fruit",19],["和","hé","and"],["牛奶","niú nǎi","milk",20],["。","",""]],
+    [["超市","chāo shì","supermarket"],["里","lǐ","inside"],["有","yǒu","have"],["很","hěn","very"],["多","duō","many"],["人","rén","people"],["。","",""]],
+    [["我们","wǒ men","we"],["看","kàn","look"],["了","le","(past particle)"],["一些","yī xiē","some"],["东西","dōng xi","things"],["。","",""]],
+    [["中午","zhōng wǔ","noon"],["，","",""],["我们","wǒ men","we"],["回家","huí jiā","go home"],["吃","chī","eat"],["午饭","wǔ fàn","lunch"],["。","",""]],
+    [["我","wǒ","I"],["吃","chī","eat"],["了","le","(past particle)"],["面包","miàn bāo","bread"],["和","hé","and"],["鸡蛋","jī dàn","egg"],["。","",""]],
+    [["妈妈","mā ma","mom"],["吃","chī","eat"],["了","le","(past particle)"],["米饭","mǐ fàn","rice"],["和","hé","and"],["菜","cài","dish"],["。","",""]],
+    [["下午","xià wǔ","afternoon"],["，","",""],["我","wǒ","I"],["睡觉","shuì jiào","sleep"],["了","le","(past particle)"],["。","",""]],
+    [["今天","jīn tiān","today"],["我","wǒ","I"],["很","hěn","very"],["高兴","gāo xìng","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "This word sets the time of the story.",
+    "2": "It specifies the time of day when the action starts.",
+    "3": "The subject of the sentence is the speaker.",
+    "4": "This verb describes the first action after waking up.",
+    "5": "It indicates the sequence of events.",
+    "6": "It connects the subject with the companion.",
+    "7": "The person going with the speaker.",
+    "8": "The verb expressing movement to a place.",
+    "9": "The destination of the trip.",
+    "10": "The purpose of going to the supermarket.",
+    "11": "The object of the buying action.",
+    "12": "The subject of the second sentence, referring to the speaker and mom.",
+    "13": "The verb for taking a bus.",
+    "14": "The mode of transportation.",
+    "15": "A preposition indicating location.",
+    "16": "The specific location at the supermarket.",
+    "17": "It indicates the completion of the action.",
+    "18": "A quantifier indicating an indefinite amount.",
+    "19": "One of the items bought.",
+    "20": "Another item bought."
+  },
+  "translation": "This morning, after I got up, I went to the supermarket with my mom to buy things. We took the bus to go. At the supermarket entrance, we bought some fruit and milk. There were many people in the supermarket. We looked at some things. At noon, we went home to eat lunch. I ate bread and eggs. Mom ate rice and dishes. In the afternoon, I slept. Today I am very happy."
+}

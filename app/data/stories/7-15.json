@@ -1,0 +1,41 @@
+{
+  "id": "7-15",
+  "level": 7,
+  "title": "超市购物",
+  "titlePinyin": "chāoshì gòuwù",
+  "topicEn": "Supermarket Shopping",
+  "sentences": [
+    [["上个","shàng ge","last"],["周末","zhōumò","weekend"],["，","",""],["我","wǒ","I"],["跟","gēn","with",1],["家人","jiārén","family"],["一起","yīqǐ","together"],["去","qù","go"],["超市","chāoshì","supermarket"],["购物","gòuwù","shop"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",2],["从","cóng","from",3],["家里","jiālǐ","home"],["出发","chūfā","set out"],["。","",""]],
+    [["我们","wǒmen","we"],["在","zài","at"],["超市","chāoshì","supermarket"],["前","qián","front",4],["停好","tínghǎo","parked"],["车","chē","car"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["里","lǐ","inside",5],["有","yǒu","have"],["很多","hěnduō","many"],["人","rén","people"],["，","",""],["非常","fēicháng","very",6],["热闹","rènào","lively"],["。","",""]],
+    [["我们","wǒmen","we"],["推了","tuīle","pushed"],["一辆","yīliàng","one (vehicle)"],["购物车","gòuwùchē","shopping cart"],["，","",""],["左转","zuǒzhuǎn","turn left"],["去了","qùle","went"],["水果区","shuǐguǒqū","fruit section"],["。","",""]],
+    [["左","zuǒ","left",7],["是","shì","is"],["苹果","píngguǒ","apple"],["，","",""],["右","yòu","right",8],["是","shì","is"],["橙子","chéngzi","orange"],["，","",""],["我们","wǒmen","we"],["买了","mǎile","bought"],["那些","nàxiē","those"],["苹果","píngguǒ","apple"],["和","hé","and"],["这些","zhèxiē","these",9],["橙子","chéngzi","orange"],["。","",""]],
+    [["妈妈","māma","mom"],["很","hěn","very"],["会","huì","can",10],["挑选","tiāoxuǎn","select"],["水果","shuǐguǒ","fruit"],["，","",""],["她","tā","she"],["选了","xuǎnie","chose"],["最","zuì","most",11],["好","hǎo","good"],["的","de","(possessive marker)",12],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["还","hái","also",13],["去了","qùle","went"],["蔬菜区","shūcàiqū","vegetable section"],["，","",""],["买了","mǎile","bought"],["青菜","qīngcài","greens"],["和","hé","and"],["胡萝卜","húluóbo","carrot"],["。","",""]],
+    [["接着","jiēzhe","next"],["，","",""],["我们","wǒmen","we"],["去了","qùle","went"],["肉类区","ròulèiqū","meat section"],["，","",""],["买了","mǎile","bought"],["三","sān","three"],["块","kuài","piece (measure word)"],["牛肉","niúròu","beef"],["和","hé","and"],["两","liǎng","two"],["块","kuài","piece"],["鸡肉","jīròu","chicken"],["。","",""]],
+    [["妈妈","māma","mom"],["问","wèn","ask"],["我","wǒ","me"],["：","",""],["“","",""],["你","nǐ","you"],["想","xiǎng","want"],["喝","hē","drink"],["什么","shénme","what",14],["？","",""],["”","",""],["，","",""],["我","wǒ","I"],["选","xuǎn","chose"],["了","le","(perfective)"],["可乐","kělè","cola"],["和","hé","and"],["果汁","guǒzhī","juice"],["。","",""]],
+    [["妈妈","māma","mom"],["没有","méiyǒu","did not",15],["反对","fǎnduì","object"],["，","",""],["我们","wǒmen","we"],["便","biàn","then"],["再","zài","again"],["买了","mǎile","bought"],["那些","nàxiē","those"],["饮料","yǐnliào","drinks"],["。","",""]],
+    [["我们","wǒmen","we"],["把","bǎ","object marker"],["买","mǎi","bought"],["的","de","(possessive)"],["东西","dōngxi","things"],["都","dōu","all"],["放在","fàngzài","put on"],["购物车","gòuwùchē","shopping cart"],["上","shàng","on"],["。","",""]],
+    [["最后","zuìhòu","finally"],["，","",""],["我们","wǒmen","we"],["到","dào","arrive at"],["收银台","shōuyíntái","cashier"],["付钱","fùqián","pay"],["，","",""],["一共","yīgòng","in total"],["花了","huāle","spent"],["三百","sānbǎi","three hundred"],["多","duō","more than"],["元","yuán","yuan"],["。","",""]],
+    [["回家","huíjiā","go home"],["的","de","(possessive)"],["路","lù","road"],["上","shàng","on"],["，","",""],["我","wǒ","I"],["觉得","juéde","feel"],["很","hěn","very"],["累","lèi","tired"],["，","",""],["但是","dànshì","but"],["很","hěn","very"],["开心","kāixīn","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "引出对象，表示‘和……一起’。",
+    "2": "时间副词，表示动作的顺序。",
+    "3": "引出起点，表示‘从……出发’。",
+    "4": "方位名词，表示‘在……前面’。",
+    "5": "方位名词，表示‘在……里面’。",
+    "6": "程度副词，表示程度高。",
+    "7": "方位名词，表示左边。",
+    "8": "方位名词，表示右边。",
+    "9": "指示代词，指近处的复数事物。",
+    "10": "能愿动词，表示有能力做某事。",
+    "11": "程度副词，表示最高程度。",
+    "12": "结构助词，连接定语和中心语。",
+    "13": "关联副词，表示补充。",
+    "14": "疑问代词，用于提问。",
+    "15": "否定副词，表示否定。"
+  },
+  "translation": "Last weekend, I went grocery shopping with my family. We first set out from home. We parked the car in front of the supermarket. There were many people inside the supermarket, very lively. We pushed a shopping cart and turned left to go to the fruit section. On the left were apples, on the right were oranges, and we bought those apples and these oranges. Mom is very good at selecting fruits; she picked the best. Then we also went to the vegetable section and bought greens and carrots. Next, we went to the meat section and bought three pieces of beef and two pieces of chicken. Mom asked me what I wanted to drink, and I chose cola and juice. Mom didn't object, so we then bought those drinks. Finally, we went to the cashier to pay, spending over 300 yuan in total. On the way home, I felt very tired but very happy."
+}

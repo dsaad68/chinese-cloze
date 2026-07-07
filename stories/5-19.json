@@ -1,0 +1,40 @@
+{
+  "id": "5-19",
+  "level": 5,
+  "title": "周末游公园",
+  "titlePinyin": "Zhōu mò yóu gōng yuán",
+  "topicEn": "A weekend trip to the park",
+  "sentences": [
+    [["我","wǒ","I"],["跟","gēn","with",1],["妹妹","mèi mei","younger sister"],["一起","yī qǐ","together"],["去","qù","to go"],["公园","gōng yuán","park"],["。","",""]],
+    [["我们","wǒ men","we"],["先","xiān","first",2],["从","cóng","from",3],["公园","gōng yuán","park"],["大门","dà mén","main gate"],["前","qián","in front of",4],["拍照","pāi zhào","take photos"],["，","",""],["然后","rán hòu","then"],["走进","zǒu jìn","walk into"],["公园","gōng yuán","park"],["里面","lǐ miàn","inside"],["。","",""]],
+    [["公园","gōng yuán","park"],["里","lǐ","in",5],["有","yǒu","there are"],["很多","hěn duō","many"],["花","huā","flowers"],["，","",""],["非常","fēi cháng","very",6],["漂亮","piào liang","beautiful"],["。","",""]],
+    [["我们","wǒ men","we"],["看到","kàn dào","saw"],["了","le","[past]"],["那个","nà ge","that",7],["湖","hú","lake"],["，","",""],["湖","hú","lake"],["上","shàng","on",8],["有","yǒu","there are"],["几","jǐ","several",9],["条","tiáo","[measure for boats]"],["船","chuán","boats"],["，","",""],["它们","tā men","they"],["都","dōu","all",10],["很","hěn","very"],["好看","hǎo kàn","nice-looking"],["。","",""]],
+    [["湖","hú","lake"],["也","yě","also",11],["很","hěn","very"],["漂亮","piào liang","beautiful"],["。","",""]],
+    [["妹妹","mèi mei","younger sister"],["想","xiǎng","want to"],["坐","zuò","to sit"],["船","chuán","boat"],["，","",""],["但是","dàn shì","but"],["我","wǒ","I"],["没有","méi yǒu","did not",12],["带","dài","bring"],["很多","hěn duō","many"],["钱","qián","money"],["。","",""]],
+    [["我们","wǒ men","we"],["能","néng","can",13],["在","zài","at"],["湖边","hú biān","lakeside"],["散步","sàn bù","take a walk"],["。","",""]],
+    [["后来","hòu lái","later"],["，","",""],["我们","wǒ men","we"],["在","zài","at"],["一","yī","one"],["棵","kē","[measure for trees]"],["树","shù","tree"],["下","xià","under"],["休息","xiū xi","rest"],["了","le","[past]"],["半","bàn","half",14],["个","ge","[measure for hours]"],["小时","xiǎo shí","hour"],["，","",""],["还","hái","also"],["吃","chī","ate"],["了","le","[past]"],["一","yī","one"],["块","kuài","piece",15],["蛋糕","dàn gāo","cake"],["和","hé","and"],["两个","liǎng ge","two"],["苹果","píng guǒ","apples"],["，","",""],["但是","dàn shì","but"],["妹妹","mèi mei","younger sister"],["不","bù","not"],["喜欢","xǐ huān","like"],["吃","chī","eat"],["苹果","píng guǒ","apples"],["。","",""]],
+    [["下午","xià wǔ","afternoon"],["的","de","[possessive]"],["时候","shí hou","time"],["，","",""],["我们","wǒ men","we"],["一起","yī qǐ","together"],["回家","huí jiā","go home"],["了","le","[past]"],["。","",""]],
+    [["这个","zhè ge","this"],["周末","zhōu mò","weekend"],["，","",""],["我们","wǒ men","we"],["玩","wán","played"],["得","de","[complement]"],["很","hěn","very"],["开心","kāi xīn","happy"],["。","",""]],
+    [["公园","gōng yuán","park"],["里","lǐ","in"],["还","hái","also"],["有","yǒu","there is"],["一个","yī ge","a"],["小卖部","xiǎo mài bù","kiosk"],["，","",""],["我们","wǒ men","we"],["买","mǎi","bought"],["了","le","[past]"],["两","liǎng","two"],["杯","bēi","cup"],["水","shuǐ","water"],["。","",""]],
+    [["妹妹","mèi mei","younger sister"],["问","wèn","asked"],["我们","wǒ men","us"],["什么","shén me","what"],["时候","shí hou","time"],["再","zài","again"],["来","lái","come"],["玩","wán","play"],["。","",""]],
+    [["我","wǒ","I"],["觉得","jué de","think"],["这个","zhè ge","this"],["周末","zhōu mò","weekend"],["最","zuì","most"],["有意思","yǒu yì si","interesting"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "引出动作的对象，表示和妹妹一起去。",
+    "2": "时间副词，表示动作的先后顺序。",
+    "3": "引出地点，表示拍照的起始位置。",
+    "4": "方位名词，表示大门的前面。",
+    "5": "方位名词，表示公园的内部。",
+    "6": "程度副词，修饰形容词'漂亮'，表示程度高。",
+    "7": "指示代词，指代前面提到的湖。",
+    "8": "方位名词，表示湖的上面。",
+    "9": "疑问代词，表示不确定的数量。",
+    "10": "范围副词，表示全部。",
+    "11": "关联副词，表示同样。",
+    "12": "否定副词，表示对'带钱'的否定。",
+    "13": "能愿动词，表示有能力或可能。",
+    "14": "数字，表示一半的时间。",
+    "15": "名量词，用于蛋糕等块状物品。"
+  },
+  "translation": "Last weekend, my younger sister and I went to the park together. We first took photos in front of the park gate, then walked inside the park. There were many flowers in the park; they were very beautiful. We saw that lake, and on the lake there were several boats; they all looked very nice. The lake was also beautiful. My sister wanted to take a boat, but I didn't bring much money. We could take a walk by the lake. Later, we rested under a tree for half an hour, and also ate a piece of cake and two apples, but my sister doesn't like eating apples. In the afternoon, we went home together. This weekend, we had a great time. There was also a kiosk in the park, and we bought two cups of water. My sister asked us when we would come again to play. I think this weekend was the most interesting."
+}

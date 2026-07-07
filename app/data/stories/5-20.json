@@ -1,0 +1,37 @@
+{
+  "id": "5-20",
+  "level": 5,
+  "title": "购物",
+  "titlePinyin": "Gòuwù",
+  "topicEn": "Shopping with Mom",
+  "sentences": [
+    [["今天","jīntiān","today"],["我","wǒ","I"],["和","hé","and",1],["妈妈","māma","mother"],["一起","yìqǐ","together"],["去","qù","go"],["一","yī","one"],["家","jiā","[measure for store]"],["超市","chāoshì","supermarket"],["买","mǎi","buy"],["东西","dōngxi","things"],["，","",""],["我们","wǒmen","we"],["走进","zǒujìn","walk into"],["超市","chāoshì","supermarket"],["里","lǐ","inside",2],["，","",""],["先","xiān","first",3],["去","qù","go"],["了","le","[aspect particle]"],["水果区","shuǐguǒqū","fruit section"],["。","",""]],
+    [["那里","nàlǐ","there"],["有","yǒu","have"],["很多","hěnduō","many"],["水果","shuǐguǒ","fruit"],["，","",""],["那些","nàxiē","those",4],["水果","shuǐguǒ","fruit"],["很","hěn","very"],["新鲜","xīnxiān","fresh"],["，","",""],["有","yǒu","have"],["苹果","píngguǒ","apple"],["、","",""],["香蕉","xiāngjiāo","banana"],["和","hé","and"],["橘子","júzi","orange"],["。","",""]],
+    [["妈妈","māma","mother"],["问","wèn","ask"],["我","wǒ","me"],["：","",""],["“","",""],["你","nǐ","you"],["喜欢","xǐhuan","like"],["吃","chī","eat"],["什么","shénme","what",5],["水果","shuǐguǒ","fruit"],["？","",""],["”","",""],["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["我","wǒ","I"],["最","zuì","most",6],["喜欢","xǐhuan","like"],["吃","chī","eat"],["苹果","píngguǒ","apple"],["。","",""],["”","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["再","zài","again",7],["去","qù","go"],["了","le","[aspect]"],["蔬菜区","shūcàiqū","vegetable section"],["，","",""],["妈妈","māma","mother"],["买","mǎi","buy"],["了","le","[aspect]"],["三","sān","three"],["块","kuài","piece",8],["豆腐","dòufu","tofu"],["和","hé","and"],["两","liǎng","two"],["个","gè","[general measure]"],["白菜","báicài","cabbage"],["。","",""]],
+    [["我","wǒ","I"],["还","hái","also"],["会","huì","will",9],["在","zài","at"],["饮料区","yǐnliàoqū","beverage section"],["买","mǎi","buy"],["了","le","[aspect]",10],["一","yī","one"],["杯","bēi","cup"],["酸奶","suānnǎi","yogurt"],["，","",""],["我","wǒ","I"],["没有","méiyǒu","did not"],["买","mǎi","buy"],["果汁","guǒzhī","juice"],["。","",""]],
+    [["最后","zuìhòu","finally"],["，","",""],["我们","wǒmen","we"],["去","qù","go"],["收银台","shōuyíntái","cashier desk"],["付钱","fùqián","pay"],["，","",""],["收银员","shōuyínyuán","cashier"],["说","shuō","say"],["一共","yígòng","altogether"],["六","liù","six"],["十","shí","ten"],["块","kuài","[yuan]"],["。","",""]],
+    [["妈妈","māma","mother"],["给","gěi","give"],["了","le","[aspect]"],["她","tā","her",11],["一","yī","one"],["百","bǎi","hundred"],["块","kuài","[yuan]"],["，","",""],["她","tā","she"],["找","zhǎo","give change"],["了","le","[aspect]"],["四","sì","four"],["十","shí","ten"],["块","kuài","[yuan]"],["。","",""]],
+    [["我们","wǒmen","we"],["拿","ná","take"],["着","zhe","[continuous]"],["东西","dōngxi","things"],["从","cóng","from",12],["超市","chāoshì","supermarket"],["里","lǐ","inside"],["走","zǒu","walk"],["出来","chūlai","come out"],["，","",""],["在","zài","at"],["超市","chāoshì","supermarket"],["外","wài","outside",13],["我","wǒ","I"],["看到","kàndào","see"],["了","le","[aspect]"],["那","nà","that"],["个","gè","[measure]"],["同学","tóngxué","classmate"],["。","",""]],
+    [["他","tā","he"],["正在","zhèngzài","currently"],["和","hé","with"],["他","tā","his"],["的","de","(possessive)",14],["妈妈","māma","mother"],["说话","shuōhuà","talk"],["。","",""]],
+    [["我","wǒ","I"],["跟","gēn","with"],["他","tā","him"],["打招呼","dǎzhāohu","greet"],["，","",""],["然后","ránhòu","then"],["我们","wǒmen","we"],["一起","yìqǐ","together",15],["回家","huíjiā","go home"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Connects the two subjects 'I' and 'mother' to show they acted together.",
+    "2": "Spatial noun indicating the location inside the supermarket.",
+    "3": "Time adverb showing the first action in the sequence.",
+    "4": "Demonstrative pronoun referring to the specific fruits mentioned before.",
+    "5": "Interrogative pronoun used to ask about the type of fruit.",
+    "6": "Degree adverb expressing the highest level of preference.",
+    "7": "Frequency adverb indicating a repeated action (going to another section).",
+    "8": "Measure word used for piece-like food items such as tofu.",
+    "9": "Modal verb indicating a future intention or plan.",
+    "10": "Aspect particle marking the completion of the action 'buy'.",
+    "11": "Personal pronoun referring to the cashier, object of the verb 'give'.",
+    "12": "Preposition indicating the starting point of the movement 'come out'.",
+    "13": "Spatial noun indicating the location outside the supermarket.",
+    "14": "Possessive particle linking 'he' and 'mother' to show relationship.",
+    "15": "Range adverb indicating the joint action of going home."
+  },
+  "translation": "Today my mother and I went together to a supermarket to buy things. We walked into the supermarket and first went to the fruit section. There were many fruits; those fruits were very fresh, and there were apples, bananas, and oranges. Mom asked me: 'What fruit do you like to eat?' I said: 'I like apples the most.' Then we went again to the vegetable section; Mom bought three pieces of tofu and two cabbages. I also bought a cup of yogurt in the beverage section; I did not buy juice. Finally, we went to the cashier to pay; the cashier said the total was sixty yuan. Mom gave her one hundred yuan, and she gave back forty yuan. We took the things and came out from inside the supermarket; outside the supermarket I saw that classmate. He was currently talking with his mother. I greeted him, and then we went home together."
+}

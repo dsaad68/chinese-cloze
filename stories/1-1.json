@@ -1,0 +1,37 @@
+{
+  "id": "1-1",
+  "level": 1,
+  "title": "好吃的",
+  "titlePinyin": "Hǎochī de",
+  "topicEn": "Food",
+  "sentences": [
+    [["我","wǒ","I"],["今天","jīntiān","today"],["上午","shàngwǔ","morning"],["去","qù","go",1],["商店","shāngdiàn","store"],["。","",""]],
+    [["商店","shāngdiàn","store"],["里","lǐ","inside",2],["有","yǒu","have"],["很","hěn","very"],["多","duō","many"],["水果","shuǐguǒ","fruit"],["。","",""]],
+    [["我","wǒ","I"],["买","mǎi","buy"],["了","le","[past]"],["苹果","píngguǒ","apple"],["和","hé","and",3],["香蕉","xiāngjiāo","banana"],["。","",""]],
+    [["苹果","píngguǒ","apple"],["很","hěn","very"],["好吃","hǎochī","delicious",4],["，","",""],["香蕉","xiāngjiāo","banana"],["也","yě","also"],["很","hěn","very"],["好吃","hǎochī","delicious"],["。","",""]],
+    [["妈妈","māma","mom"],["在","zài","at"],["家","jiā","home"],["做","zuò","cook",5],["饭","fàn","meal/rice"],["。","",""]],
+    [["中午","zhōngwǔ","noon"],["我们","wǒmen","we",6],["吃","chī","eat"],["米饭","mǐfàn","rice"],["和","hé","and"],["菜","cài","dish"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["我","wǒ","I"],["喝","hē","drink",7],["牛奶","niúnǎi","milk"],["。","",""]],
+    [["牛奶","niúnǎi","milk"],["很","hěn","very"],["冷","lěng","cold",8],["。","",""]],
+    [["晚上","wǎnshang","evening",9],["我","wǒ","I"],["吃","chī","eat"],["面条儿","miàntiáor","noodles"],["。","",""]],
+    [["面条儿","miàntiáor","noodles"],["很","hěn","very"],["便宜","piányi","cheap",10],["。","",""]],
+    [["我","wǒ","I"],["吃","chī","eat"],["了","le","[past]"],["一","yī","one"],["个","gè","[measure]",11],["鸡蛋","jīdàn","egg"],["。","",""]],
+    [["鸡蛋","jīdàn","egg"],["很","hěn","very"],["大","dà","big",12],["。","",""]],
+    [["我","wǒ","I"],["很","hěn","very"],["高兴","gāoxìng","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "It is a verb meaning 'go', used with '商店' to indicate going to the store.",
+    "2": "It is a location noun meaning 'inside', indicating the fruits are inside the store.",
+    "3": "It is a conjunction meaning 'and', connecting the two fruits apples and bananas.",
+    "4": "It is an adjective meaning 'delicious', describing the apples.",
+    "5": "It is a verb meaning 'cook', used with '饭' to indicate cooking a meal.",
+    "6": "It is a pronoun meaning 'we', showing who eats lunch together.",
+    "7": "It is a verb meaning 'drink', used with '牛奶' to indicate drinking milk.",
+    "8": "It is an adjective meaning 'cold', describing the milk.",
+    "9": "It is a time word meaning 'evening', indicating when the eating happens.",
+    "10": "It is an adjective meaning 'cheap', describing the noodles.",
+    "11": "It is a measure word, required with number '一' to count eggs.",
+    "12": "It is an adjective meaning 'big', describing the egg."
+  },
+  "translation": "I went to the store this morning. There were many fruits inside the store. I bought apples and bananas. Apples are delicious, and bananas are also delicious. Mom cooks at home. At noon we eat rice and dishes. In the afternoon I drink milk. The milk is cold. In the evening I eat noodles. The noodles are cheap. I ate an egg. The egg is big. I am very happy."
+}

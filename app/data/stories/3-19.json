@@ -1,0 +1,40 @@
+{
+  "id": "3-19",
+  "level": 3,
+  "title": "购物的一天",
+  "titlePinyin": "gòu wù de yī tiān",
+  "topicEn": "Shopping for a gift",
+  "sentences": [
+    [["今天","jīn tiān","today"],["天气","tiān qì","weather"],["很","hěn","very",1],["好","hǎo","good"],["。","",""]],
+    [["我","wǒ","I"],["和","hé","and"],["朋友","péng yǒu","friend"],["一起","yī qǐ","together"],["从","cóng","from",2],["家里","jiā lǐ","home"],["出去","chū qù","go out"],["。","",""]],
+    [["我们","wǒ men","we"],["想","xiǎng","want"],["去","qù","go"],["商场","shāng chǎng","shopping mall"],["买","mǎi","buy"],["东西","dōng xī","things"],["。","",""]],
+    [["我们","wǒ men","we"],["想","xiǎng","want"],["给","gěi","give / for"],["妈妈","mā ma","mom"],["买","mǎi","buy"],["什么","shén me","what",3],["礼物","lǐ wù","gift"],["？","",""]],
+    [["我们","wǒ men","we"],["先","xiān","first"],["看","kàn","look at"],["衣服","yī fu","clothes"],["，","",""],["问","wèn","ask"],["多少","duō shǎo","how much",4],["钱","qián","money"],["。","",""],["但是","dàn shì","but"],["太","tài","too",5],["贵","guì","expensive"],["了","le","(change of state)"],["，","",""],["没有","méi yǒu","did not",6],["买","mǎi","buy"],["。","",""]],
+    [["后来","hòu lái","later"],["我们","wǒ men","we"],["去","qù","go"],["了","le","(past marker)",7],["二","èr","two",8],["楼","lóu","floor"],["，","",""],["商场","shāng chǎng","shopping mall"],["里","lǐ","inside",9],["有","yǒu","have"],["很多","hěn duō","many"],["书","shū","book"],["。","",""]],
+    [["我","wǒ","I"],["朋友","péng yǒu","friend"],["说","shuō","say"],["妈妈","mā ma","mom"],["喜欢","xǐ huān","like"],["看","kàn","read"],["书","shū","books"],["。","",""]],
+    [["所以","suǒ yǐ","so"],["我们","wǒ men","we"],["买","mǎi","buy"],["了","le","(past)"],["两","liǎng","two",10],["本","běn","(measure for books)",11],["书","shū","books"],["。","",""]],
+    [["一","yī","one",12],["本","běn","(measure)"],["是","shì","is"],["中文","zhōng wén","Chinese"],["书","shū","book"],["，","",""],["一","yī","one"],["本","běn","(measure)"],["是","shì","is"],["英文","yīng wén","English"],["书","shū","book"],["。","",""]],
+    [["然后","rán hòu","then"],["我们","wǒ men","we"],["还","hái","also",13],["去","qù","go"],["了","le","(past)"],["咖啡店","kā fēi diàn","coffee shop"],["，","",""],["喝","hē","drink"],["了","le","(past)"],["一","yī","one"],["杯","bēi","cup"],["咖啡","kā fēi","coffee"],["。","",""]],
+    [["我们","wǒ men","we"],["坐","zuò","sit"],["在","zài","at"],["窗边","chuāng biān","by the window"],["，","",""],["能","néng","can",14],["看到","kàn dào","see"],["商场","shāng chǎng","mall"],["外","wài","outside",15],["的","de","(possessive)"],["花园","huā yuán","garden"],["。","",""]],
+    [["下午","xià wǔ","afternoon"],["三","sān","three"],["点","diǎn","o'clock"],["我们","wǒ men","we"],["回家","huí jiā","go home"],["。","",""]],
+    [["妈妈","mā ma","mom"],["看到","kàn dào","saw"],["礼物","lǐ wù","gift"],["也","yě","also"],["很","hěn","very"],["开心","kāi xīn","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "很 is used as a degree adverb to modify the adjective 好 (good).",
+    "2": "从 introduces the starting place 家里 (home).",
+    "3": "什么 is an interrogative pronoun asking about the kind of gift.",
+    "4": "多少 asks about the price (money).",
+    "5": "太 indicates an excessive degree, used before 贵 (expensive).",
+    "6": "没有 negates the action 买 (buy) in the past.",
+    "7": "了 is a dynamic particle indicating the completion of the action 去 (go).",
+    "8": "二 is the numeral for the floor number (二楼 = second floor).",
+    "9": "里 is a location noun indicating inside the mall (商场里).",
+    "10": "两 is used before a measure word (本) to mean two books.",
+    "11": "本 is the measure word for books, used after the numeral 两.",
+    "12": "一 is the numeral used with 本 to mean 'one book'.",
+    "13": "还 is an additive adverb meaning 'in addition' (also went to the coffee shop).",
+    "14": "能 is a modal verb expressing ability (could see the garden).",
+    "15": "外 is a location noun meaning outside, used with 商场 (mall)."
+  },
+  "translation": "Today the weather was very good. My friend and I went out from home together. We wanted to go to the mall to buy things. We wanted to buy what gift for mom? We first looked at clothes and asked how much money. But they were too expensive, so we didn't buy. Later we went to the second floor, and inside the mall there were many books. My friend said mom likes reading books. So we bought two books. One is a Chinese book, one is an English book. Then we also went to a coffee shop and drank a cup of coffee. We sat by the window and could see the garden outside the mall. At 3 p.m. we went home. Mom saw the gifts and was very happy."
+}

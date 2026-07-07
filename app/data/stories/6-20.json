@@ -1,0 +1,36 @@
+{
+  "id": "6-20",
+  "level": 6,
+  "title": "周末公园之旅",
+  "titlePinyin": "zhōu mò gōng yuán zhī lǚ",
+  "topicEn": "Weekend trip to the park",
+  "sentences": [
+    [["上","shàng","last",1],["个","gè","measure word",2],["周末","zhōumò","weekend"],["，","",""],["我","wǒ","I",3],["和","hé","and",4],["朋友","péngyou","friend"],["一起","yīqǐ","together",5],["去","qù","to go"],["了","le","(past tense)",6],["公园","gōngyuán","park"],["。","",""]],
+    [["天气","tiānqì","weather"],["很","hěn","very",7],["好","hǎo","good"],["，","",""],["我们","wǒmen","we"],["玩","wán","play"],["得","de","particle"],["非常","fēicháng","extremely",8],["开心","kāixīn","happy"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",9],["在","zài","at"],["湖","hú","lake"],["边","biān","side"],["散步","sànbù","take a walk"],["，","",""],["然后","ránhòu","then"],["坐","zuò","sit"],["在","zài","on"],["草地","cǎodì","lawn"],["上","shàng","on"],["休息","xiūxi","rest"],["。","",""]],
+    [["那里","nàlǐ","there"],["有","yǒu","there are"],["很多","hěnduō","many"],["人","rén","people"],["，","",""],["有的","yǒude","some",10],["在","zài","(progressive)"],["放","fàng","fly"],["风筝","fēngzhēng","kite"],["，","",""],["有的","yǒude","some"],["在","zài","(progressive)"],["跑步","pǎobù","run"],["。","",""]],
+    [["中午","zhōngwǔ","noon"],["，","",""],["我们","wǒmen","we"],["在","zài","at"],["一","yī","one",11],["家","jiā","(measure)",12],["小","xiǎo","small"],["餐馆","cānguǎn","restaurant"],["吃","chī","eat"],["了","le","(past)"],["午饭","wǔfàn","lunch"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["，","",""],["我们","wǒmen","we"],["去","qù","go"],["了","le","(past)"],["动物园","dòngwùyuán","zoo"],["，","",""],["看","kàn","see"],["了","le","(past)"],["很多","hěnduō","many"],["动物","dòngwù","animals"],["。","",""]],
+    [["我","wǒ","I"],["最","zuì","most",13],["喜欢","xǐhuān","like"],["熊猫","xióngmāo","panda"],["，","",""],["它","tā","it"],["非常","fēicháng","very"],["可爱","kě'ài","cute"],["。","",""]],
+    [["我们","wǒmen","we"],["拍","pāi","take (photo)"],["了","le","(past)"],["很多","hěnduō","many"],["照片","zhàopiàn","photos"],["，","",""],["然后","ránhòu","then"],["坐","zuò","take (transport)"],["车","chē","car"],["回家","huíjiā","go home"],["。","",""]],
+    [["这","zhè","this",14],["一天","yītiān","one day"],["过","guò","pass"],["得","de","particle"],["真","zhēn","really"],["快","kuài","fast"],["，","",""],["我们","wǒmen","we"],["都","dōu","all",15],["很","hěn","very"],["累","lèi","tired"],["，","",""],["但是","dànshì","but"],["很","hěn","very"],["高兴","gāoxìng","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "方位名词，表示时间上的前一个，如'上个周末'。",
+    "2": "名量词，用于'周末'。",
+    "3": "人称代词，指说话人自己。",
+    "4": "连词，连接'我'和'朋友'。",
+    "5": "范围副词，表示共同行动。",
+    "6": "动态助词，表示动作完成。",
+    "7": "程度副词，修饰'好'。",
+    "8": "程度副词，修饰'开心'。",
+    "9": "时间副词，表示动作的先后顺序。",
+    "10": "指示代词，表示部分人。",
+    "11": "数词，表示数量。",
+    "12": "名量词，用于餐馆。",
+    "13": "程度副词，表示最高程度。",
+    "14": "指示代词，指代当天。",
+    "15": "范围副词，表示全部。"
+  },
+  "translation": "Last weekend, I went to the park with a friend. The weather was very good, and we had a great time. We first took a walk by the lake, then sat on the grass to rest. There were many people there, some flying kites, some running. At noon, we had lunch at a small restaurant. In the afternoon, we went to the zoo and saw many animals. I like pandas the most, they are very cute. We took many photos, then took a car home. This day passed really fast, we were all very tired, but very happy."
+}

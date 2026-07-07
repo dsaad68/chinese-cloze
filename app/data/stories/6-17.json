@@ -1,0 +1,42 @@
+{
+  "id": "6-17",
+  "level": 6,
+  "title": "周末购物",
+  "titlePinyin": "zhōumò gòuwù",
+  "topicEn": "Weekend Shopping",
+  "sentences": [
+    [["上","shàng","previous"],["周末","zhōumò","weekend"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["妈妈","māma","mother"],["一起","yīqǐ","together"],["从","cóng","from",2],["家里","jiālǐ","home"],["出发","chūfā","set out",3],["去","qù","go"],["购物","gòuwù","shopping"],["。","",""]],
+    [["我们","wǒmen","we"],["坐","zuò","ride",4],["公交车","gōngjiāochē","bus"],["到","dào","to arrive",5],["商场","shāngchǎng","mall"],["。","",""]],
+    [["商场","shāngchǎng","mall"],["里面","lǐmiàn","inside"],["人","rén","people"],["非常","fēicháng","very"],["多","duō","many"],["，","",""],["我们","wǒmen","we"],["先","xiān","first",6],["在","zài","at"],["二楼","èrlóu","second floor"],["的","de","possessive particle",7],["左边","zuǒbiān","left side"],["书店","shūdiàn","bookstore"],["看","kàn","look"],["了","le","aspect particle",8],["看","kàn","look"],["。","",""]],
+    [["有","yǒu","have"],["一本","yīběn","one [measure for books]"],["关于","guānyú","about"],["做饭","zuòfàn","cook"],["的","de","possessive particle"],["书","shū","book"],["，","",""],["是","shì","is"],["我","wǒ","I"],["最","zuì","most"],["喜欢","xǐhuān","like"],["的","de","nominalizer"],["，","",""],["因为","yīnwèi","because"],["我","wǒ","I"],["会","huì","can",9],["做饭","zuòfàn","cook"],["。","",""]],
+    [["妈妈","māma","mother"],["问","wèn","ask"],["我","wǒ","I"],["买","mǎi","buy"],["什么","shénme","what"],["书","shū","book"],["，","",""],["我","wǒ","I"],["说","shuō","say",10],["这","zhè","this"],["本书","běnshū","this book"],["真","zhēn","really"],["不","bù","not",11],["贵","guì","expensive"],["，","",""],["但","dàn","but"],["不","bù","not"],["需要","xūyào","need"],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","go",12],["了","le","aspect particle"],["这","zhè","this"],["家","jiā","measure for stores"],["超市","chāoshì","supermarket"],["的","de","possessive particle"],["地下一层","dìxiàyīcéng","basement floor"],["，","",""],["我","wǒ","I"],["常","cháng","often"],["来","lái","come"],["这","zhè","this"],["家","jiā","measure for stores"],["超市","chāoshì","supermarket"],["买","mǎi","buy"],["东西","dōngxi","things"],["。","",""]],
+    [["在","zài","at"],["超市","chāoshì","supermarket"],["里面","lǐmiàn","inside"],["，","",""],["我们","wǒmen","we"],["看见","kànjiàn","see"],["了","le","aspect particle"],["苹果","píngguǒ","apple"],["和","hé","and"],["香蕉","xiāngjiāo","banana"],["。","",""]],
+    [["妈妈","māma","mother"],["问","wèn","ask"],["我","wǒ","I"],["要","yào","want"],["苹果","píngguǒ","apple"],["还是","háishì","or"],["香蕉","xiāngjiāo","banana"],["。","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["要","yào","want"],["苹果","píngguǒ","apple"],["，","",""],["她","tā","she"],["又","yòu","again"],["问","wèn","ask"],["我","wǒ","I"],["买","mǎi","buy",13],["几个","jǐge","how many"],["，","",""],["我","wǒ","I"],["说","shuō","say"],["买","mǎi","buy"],["三个","sānge","three"],["。","",""]],
+    [["她","tā","she"],["又","yòu","again"],["买","mǎi","buy"],["了","le","aspect particle"],["四个","sìge","four"],["鸡蛋","jīdàn","egg"],["，","",""],["我们","wǒmen","we"],["没有","méiyǒu","did not"],["买","mǎi","buy"],["那些","nàxiē","those"],["香蕉","xiāngjiāo","banana"],["。","",""]],
+    [["我们","wǒmen","we"],["还","hái","also",14],["买","mǎi","buy"],["了","le","aspect particle"],["一块","yīkuài","a piece of"],["面包","miànbāo","bread"],["和","hé","and"],["一杯","yībēi","a glass of"],["牛奶","niúnǎi","milk"],["，","",""],["也","yě","also"],["买","mǎi","buy"],["了","le","aspect particle"],["半块","bànkuài","half a piece of"],["巧克力","qiǎokèlì","chocolate"],["。","",""]],
+    [["我们","wǒmen","we"],["正在","zhèngzài","in the process of"],["排队","páiduì","queue"],["付钱","fùqián","pay"],["。","",""]],
+    [["结账","jiézhàng","checkout"],["时","shí","time"],["，","",""],["收银员","shōuyínyuán","cashier"],["说","shuō","say"],["一共","yígòng","total"],["六十二元","liùshí'èr yuán","62 yuan"],["。","",""]],
+    [["妈妈","māma","mother"],["不","bù","not"],["能","néng","can"],["用","yòng","use"],["手机","shǒujī","mobile phone"],["支付","zhīfù","pay"],["，","",""],["所以","suǒyǐ","so"],["给","gěi","give"],["了","le","aspect particle"],["她","tā","her"],["一百元","yībǎi yuán","100 yuan"],["。","",""]],
+    [["她","tā","she"],["找","zhǎo","give change"],["了","le","aspect particle"],["三十八元","sānshíbā yuán","38 yuan"],["，","",""],["我们","wǒmen","we"],["拿着","názhe","holding"],["东西","dōngxi","things"],["都","dōu","all"],["很","hěn","very"],["高兴","gāoxìng","happy",15],["地","de","adverbial particle"],["回家","huíjiā","go home"],["了","le","aspect particle"],["，","",""],["决定","juédìng","decided"],["下次","xiàcì","next time"],["再","zài","again"],["来","lái","come"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "连接'我'和'妈妈'，表示共同行动。",
+    "2": "表示起点，从家里出发。",
+    "3": "表示开始一段行程。",
+    "4": "表示乘坐交通工具。",
+    "5": "表示到达目的地。",
+    "6": "表示顺序，先做某事。",
+    "7": "连接定语和中心语，表示所属。",
+    "8": "表示动作完成。",
+    "9": "表示有能力做某事。",
+    "10": "引出直接引语。",
+    "11": "否定副词，修饰'贵'。",
+    "12": "表示动作方向。",
+    "13": "表示购买行为。",
+    "14": "表示追加，另外。",
+    "15": "表示心情愉快。"
+  },
+  "translation": "Last weekend, my mother and I set out from home together to go shopping. We took the bus to the mall. The mall was very crowded, so we first looked around the bookstore on the left side of the second floor. There was a book about cooking that I liked the most because I can cook. Mother asked me what book I was buying, and I said this book was really not expensive, but I didn't need it. Then we went to the basement floor of this supermarket; I often come to this supermarket to buy things. Inside the supermarket, we saw apples and bananas. Mother asked me whether I wanted apples or bananas. I said I wanted apples, and she asked me how many to buy; I said three. She also bought four eggs, and we did not buy those bananas. We also bought a piece of bread and a glass of milk, and also bought half a piece of chocolate. We were queuing to pay. At checkout, the cashier said the total was 62 yuan. Mother could not use her phone to pay, so she gave her 100 yuan. She gave 38 yuan change. Holding our things, we all happily went home, deciding to come again next time."
+}

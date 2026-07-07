@@ -1,0 +1,40 @@
+{
+  "id": "6-14",
+  "level": 6,
+  "title": "公园一日游",
+  "titlePinyin": "Gōng yuán yī rì yóu",
+  "topicEn": "A day at the park",
+  "sentences": [
+    [["上个","shàng gè","last"],["周末","zhōu mò","weekend"],["，","",""],["我们","wǒ men","we",1],["一","yī","one",2],["家","jiā","(measure for family)"],["去","qù","to go"],["公园","gōng yuán","park"],["玩","wán","to play"],["。","",""]],
+    [["公园","gōng yuán","park"],["里","lǐ","inside"],["有","yǒu","to have"],["很多","hěn duō","many"],["花","huā","flower"],["和","hé","and"],["树","shù","tree"],["。","",""]],
+    [["我们","wǒ men","we"],["先","xiān","first"],["去","qù","to go"],["了","le","(perfective particle)"],["湖","hú","lake"],["边","biān","side"],["。","",""]],
+    [["湖","hú","lake"],["上","shàng","on",3],["有","yǒu","to have"],["一","yī","one"],["只","zhǐ","(measure for animals)"],["天鹅","tiān é","swan"],["。","",""]],
+    [["我们","wǒ men","we"],["在","zài","at"],["树","shù","tree"],["下","xià","under",4],["休息","xiū xi","to rest"],["，","",""],["妈妈","mā ma","mom"],["从","cóng","from"],["包","bāo","bag"],["里","lǐ","inside",5],["拿出","ná chū","to take out"],["水果","shuǐ guǒ","fruit"],["。","",""]],
+    [["我们","wǒ men","we"],["一起","yī qǐ","together"],["吃","chī","to eat"],["水果","shuǐ guǒ","fruit"],["。","",""]],
+    [["后来","hòu lái","later"],["，","",""],["爸爸","bà ba","dad"],["带","dài","to take"],["我","wǒ","I"],["去","qù","to go"],["划船","huá chuán","to row a boat"],["。","",""]],
+    [["我","wǒ","I"],["会","huì","can",6],["划船","huá chuán","to row a boat"],["。","",""]],
+    [["我们","wǒ men","we"],["玩","wán","to play"],["了","le","(perfective particle)"],["两","liǎng","two"],["个","gè","(measure word)",7],["小时","xiǎo shí","hour"],["。","",""]],
+    [["然后","rán hòu","then"],["，","",""],["我们","wǒ men","we"],["去","qù","to go"],["了","le","(perfective particle)"],["前","qián","front",8],["面","miàn","side"],["的","de","(possessive particle)"],["一","yī","one"],["家","jiā","(measure for shop)",9],["小","xiǎo","small"],["店","diàn","shop"],["，","",""],["买","mǎi","to buy"],["了","le","(perfective particle)"],["一","yī","one"],["块","kuài","(piece)",10],["蛋糕","dàn gāo","cake"],["。","",""]],
+    [["小","xiǎo","small"],["店","diàn","shop"],["后","hòu","behind",11],["面","miàn","side"],["有","yǒu","to have"],["一","yī","one"],["个","gè","(measure word)"],["花园","huā yuán","garden"],["，","",""],["左","zuǒ","left",12],["边","biān","side"],["是","shì","is"],["游乐场","yóu lè chǎng","playground"],["，","",""],["右","yòu","right",13],["边","biān","side"],["是","shì","is"],["花坛","huā tán","flower bed"],["，","",""],["我们","wǒ men","we"],["不","bù","not"],["知道","zhī dào","to know"],["那","nà","that"],["是","shì","is"],["什么","shén me","what",14],["花","huā","flower"],["。","",""]],
+    [["那里","nà lǐ","there",15],["有","yǒu","to have"],["很多","hěn duō","many"],["小朋友","xiǎo péng yǒu","children"],["，","",""],["我们","wǒ men","we"],["玩","wán","to play"],["得","de","(degree complement particle)"],["非常","fēi cháng","very"],["开心","kāi xīn","happy"],["。","",""]],
+    [["傍晚","bàng wǎn","evening"],["，","",""],["我们","wǒ men","we"],["回","huí","to return"],["家","jiā","home"],["了","le","(perfective particle)"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "人称代词，指说话者一家人。",
+    "2": "数词，用于‘一家’表示数量。",
+    "3": "方位名词，表示在湖的上面。",
+    "4": "方位名词，表示在树的下面。",
+    "5": "方位名词，表示在包的里面。",
+    "6": "能愿动词，表示有能力划船。",
+    "7": "名量词，用于‘两个小时’中的小时。",
+    "8": "方位名词，表示在小店的前面。",
+    "9": "名量词，用于商店。",
+    "10": "名量词，用于蛋糕。",
+    "11": "方位名词，表示在小店的后面。",
+    "12": "方位名词，表示左边。",
+    "13": "方位名词，表示右边。",
+    "14": "疑问代词，用于询问未知的花。",
+    "15": "指示代词，指有很多小朋友的地方。"
+  },
+  "translation": "Last weekend, my family and I went to the park. There were many flowers and trees in the park. We first went to the lake. There was a swan on the lake. We rested under a tree, and Mom took out fruit from her bag. We ate the fruit together. Later, Dad took me to row a boat. I can row a boat. We rowed for two hours. Then, we went to a small shop in front, bought a piece of cake. Behind the small shop there is a garden, on the left is a playground, on the right is a flower bed. We didn't know what that flower was. There were many children there, and we played very happily. In the evening, we went home."
+}

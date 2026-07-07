@@ -1,0 +1,43 @@
+name: Deploy PWA to GitHub Pages
+
+# Publishes ONLY the app/ folder (the self-contained PWA) to GitHub Pages,
+# served at https://<user>.github.io/<repo>/. Re-syncs stories from stories/
+# into app/data on every deploy so the live library is always current.
+#
+# Manual only: runs when you trigger it from the Actions tab (or `gh workflow run`).
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deploy; don't cancel an in-progress production deploy.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Sync stories into app/data
+        run: python3 app/sync_stories.py
+      - uses: actions/configure-pages@v5
+      - name: Upload app/ as the Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: app
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

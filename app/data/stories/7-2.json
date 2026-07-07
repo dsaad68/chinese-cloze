@@ -1,0 +1,38 @@
+{
+  "id": "7-2",
+  "level": 7,
+  "title": "周末购物",
+  "titlePinyin": "Zhōumò Gòuwù",
+  "topicEn": "Weekend Shopping",
+  "sentences": [
+    [["今天","jīntiān","today"],["周末","zhōumò","weekend"],["，","","comma"],["我","wǒ","I"],["和","hé","and"],["朋友","péngyǒu","friend"],["一起","yīqǐ","together",1],["去","qù","to go"],["逛街","guàngjiē","to go shopping"],["。","","period"]],
+    [["我们","wǒmen","we"],["先","xiān","first",2],["到","dào","to arrive"],["商场","shāngchǎng","shopping mall"],["。","","period"]],
+    [["我","wǒ","I"],["走进","zǒujìn","to walk into"],["一","yī","one"],["家","jiā","(measure for shops/families)"],["服装店","fúzhuāngdiàn","clothing store"],["，","","comma"],["看中","kànzhòng","to take a fancy to"],["一","yī","one"],["件","jiàn","(measure for clothing)",3],["衬衫","chènshān","shirt"],["。","","period"]],
+    [["这","zhè","this",4],["衬衫","chènshān","shirt"],["是","shì","to be"],["蓝色","lánsè","blue"],["的","de","(possessive/modifier particle)",5],["。","","period"]],
+    [["我","wǒ","I"],["问","wèn","to ask"],["售货员","shòuhuòyuán","salesperson"],["多少","duōshǎo","how much",6],["钱","qián","money"],["，","","comma"],["她","tā","she"],["说","shuō","to say"],["三百","sānbǎi","three hundred"],["元","yuán","yuan (currency)"],["。","","period"]],
+    [["我","wǒ","I"],["觉得","juéde","to feel/think"],["太","tài","too (excessively)",7],["贵","guì","expensive"],["，","","comma"],["朋友","péngyǒu","friend"],["却","què","but/however"],["认为","rènwéi","to think"],["很","hěn","very",8],["便宜","piányi","cheap"],["。","","period"]],
+    [["最后","zuìhòu","finally"],["我","wǒ","I"],["买","mǎi","to buy"],["了","le","(completion particle)",9],["它","tā","it"],["。","","period"]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","to go"],["楼下","lóuxià","downstairs"],["咖啡店","kāfēidiàn","cafe"],["，","","comma"],["点","diǎn","to order"],["一","yī","one"],["杯","bēi","cup (measure)",10],["拿铁","nátiě","latte"],["，","","comma"],["咖啡","kāfēi","coffee"],["非常","fēicháng","very (extremely)",11],["香","xiāng","fragrant"],["。","","period"]],
+    [["我们","wǒmen","we"],["坐","zuò","to sit"],["在","zài","at"],["窗边","chuāngbiān","by the window"],["看","kàn","to look at"],["外面","wàimiàn","outside",12],["风景","fēngjǐng","scenery"],["，","","comma"],["这时","zhèshí","at this moment"],["朋友","péngyǒu","friend"],["说","shuō","to say"],["我们","wǒmen","we"],["马上","mǎshàng","immediately",13],["回家","huíjiā","go home"],["吧","ba","(suggestive particle)"],["。","","period"]],
+    [["但","dàn","but"],["我","wǒ","I"],["还","hái","also/still",14],["想","xiǎng","to want"],["看","kàn","to watch"],["一","yī","one"],["场","chǎng","(measure for movie/show)"],["电影","diànyǐng","movie"],["，","","comma"],["于是","yúshì","so/thereupon"],["我们","wǒmen","we"],["去","qù","to go"],["电影院","diànyǐngyuàn","cinema"],["。","","period"]],
+    [["电影","diànyǐng","movie"],["精彩","jīngcǎi","wonderful"],["，","","comma"],["看","kàn","to watch"],["完","wán","to finish"],["电影","diànyǐng","movie"],["，","","comma"],["我们","wǒmen","we"],["高高兴兴","gāogāoxìngxìng","happily"],["地","de","(adverbial particle)",15],["回家","huíjiā","go home"],["。","","period"]]
+  ],
+  "explanations": {
+    "1": "表示共同做某事，这里指和朋友同时去逛街。",
+    "2": "表示时间顺序，先到商场。",
+    "3": "用于衬衫的量词，一件衬衫。",
+    "4": "指示代词，指代面前的衬衫。",
+    "5": "结构助词，连接定语'蓝色'和中心语'衬衫'。",
+    "6": "询问价格时使用的疑问代词。",
+    "7": "表示程度过高，'太贵'意为过于昂贵。",
+    "8": "程度副词，修饰形容词'便宜'。",
+    "9": "表示动作完成，'买了'表示购买行为结束。",
+    "10": "用于咖啡的量词，'一杯拿铁'。",
+    "11": "程度副词，强调咖啡很香。",
+    "12": "方位名词，指窗户的外面。",
+    "13": "时间副词，表示立刻回家。",
+    "14": "关联副词，表示除了回家还想看电影。",
+    "15": "结构助词，连接状语'高高兴兴'和动词'回家'。"
+  },
+  "translation": "Today is the weekend. My friend and I went shopping together. We first arrived at the mall. I walked into a clothing store and took a fancy to a shirt. This shirt is blue. I asked the salesperson how much it was. She said three hundred yuan. I thought it was too expensive, but my friend thought it was very cheap. Finally, I bought it. Then we went to a cafe downstairs and ordered a cup of latte. The coffee was very fragrant. We sat by the window looking at the outside scenery. At this moment, my friend said we should go home immediately. But I still wanted to watch a movie, so we went to the cinema. The movie was wonderful. After watching the movie, we happily went home."
+}

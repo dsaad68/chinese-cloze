@@ -1,0 +1,40 @@
+{
+  "id": "5-13",
+  "level": 5,
+  "title": "我的日常",
+  "titlePinyin": "wǒ de rì cháng",
+  "topicEn": "My daily routine",
+  "sentences": [
+    [["我","wǒ","I"],["每天","měi tiān","every day"],["早上","zǎo shang","morning"],["七点","qī diǎn","seven o'clock"],["起床","qǐ chuáng","get up",1],["。","",""]],
+    [["我","wǒ","I"],["先","xiān","first"],["刷牙","shuā yá","brush teeth",2],["洗脸","xǐ liǎn","wash face",3],["，","",""],["然后","rán hòu","then"],["吃","chī","eat"],["早饭","zǎo fàn","breakfast",4],["。","",""]],
+    [["我","wǒ","I"],["常","cháng","often",5],["喝","hē","drink"],["一","yī","one"],["杯","bēi","cup (measure word)",6],["牛奶","niú nǎi","milk",7],["，","",""],["吃","chī","eat"],["一","yī","one"],["个","gè","general measure word"],["面包","miàn bāo","bread",8],["。","",""]],
+    [["有时","yǒu shí","sometimes"],["我","wǒ","I"],["也","yě","also"],["吃","chī","eat"],["鸡蛋","jī dàn","egg",9],["。","",""]],
+    [["我","wǒ","I"],["也","yě","also"],["会","huì","can",10],["吃","chī","eat"],["一些","yī xiē","some",11],["水果","shuǐ guǒ","fruit"],["，","",""],["什么","shén me","what",12],["水果","shuǐ guǒ","fruit"],["都","dōu","all",13],["吃","chī","eat"],["。","",""]],
+    [["从","cóng","from",14],["上午","shàng wǔ","morning"],["九点","jiǔ diǎn","nine o'clock"],["开始","kāi shǐ","start",15],["，","",""],["我","wǒ","I"],["在","zài","at"],["办公室","bàn gōng shì","office"],["里","lǐ","inside"],["用","yòng","use"],["我","wǒ","I"],["的","de","'s (possesive)"],["电脑","diàn nǎo","computer"],["。","",""]],
+    [["中午","zhōng wǔ","noon"],["十二点","shí èr diǎn","twelve o'clock"],["，","",""],["我","wǒ","I"],["和","hé","and"],["同事","tóng shì","colleague"],["一起","yī qǐ","together"],["去","qù","go"],["食堂","shí táng","cafeteria"],["吃饭","chī fàn","eat (have a meal)"],["。","",""]],
+    [["我们","wǒ men","we"],["常常","cháng cháng","often"],["吃","chī","eat"],["米饭","mǐ fàn","rice"],["和","hé","and"],["菜","cài","dish, vegetables"],["，","",""],["那些","nà xiē","those"],["菜","cài","dish, vegetables"],["很","hěn","very"],["好吃","hǎo chī","delicious"],["。","",""]],
+    [["下午","xià wǔ","afternoon"],["五点","wǔ diǎn","five o'clock"],["下班","xià bān","get off work"],["。","",""]],
+    [["下班","xià bān","get off work"],["后","hòu","after"],["，","",""],["我","wǒ","I"],["有时","yǒu shí","sometimes"],["去","qù","go"],["公园","gōng yuán","park"],["慢慢","màn man","slowly"],["地","de","(adverbial suffix)"],["散步","sàn bù","take a walk"],["。","",""]],
+    [["晚上","wǎn shang","evening"],["七点","qī diǎn","seven o'clock"],["，","",""],["我","wǒ","I"],["在","zài","at"],["家","jiā","home"],["里","lǐ","inside"],["做","zuò","make"],["晚饭","wǎn fàn","dinner"],["。","",""]],
+    [["饭后","fàn hòu","after meal"],["我","wǒ","I"],["看","kàn","watch"],["一会儿","yī huìr","a while"],["电视","diàn shì","TV"],["。","",""]],
+    [["十点半","shí diǎn bàn","half past ten"],["左右","zuǒ yòu","about"],["，","",""],["我","wǒ","I"],["洗","xǐ","wash"],["了","le","(perfective marker)"],["澡","zǎo","bath"],["，","",""],["然后","rán hòu","then"],["睡觉","shuì jiào","sleep"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Denotes the morning action of getting out of bed.",
+    "2": "Part of morning hygiene routine.",
+    "3": "Another step in morning washing.",
+    "4": "The meal eaten in the morning.",
+    "5": "Frequency adverb modifying 'drink'.",
+    "6": "Quantifier for beverages like milk.",
+    "7": "Common breakfast drink.",
+    "8": "Common breakfast food.",
+    "9": "Another breakfast item.",
+    "10": "Modal verb indicating ability or habit.",
+    "11": "Indefinite quantity word.",
+    "12": "Interrogative pronoun used here for 'any'.",
+    "13": "Scope adverb meaning 'all'.",
+    "14": "Preposition marking the starting time.",
+    "15": "Verb indicating the beginning of an action."
+  },
+  "translation": "I get up at seven every morning. I first brush my teeth and wash my face, then eat breakfast. I often drink a cup of milk and eat a piece of bread. Sometimes I also eat eggs. I also eat some fruit, any fruit at all. Starting at nine in the morning, I use my computer in the office. At noon, I go to the cafeteria with my colleagues to eat. We often eat rice and dishes; those dishes are very delicious. I get off work at five in the afternoon. After work, I sometimes go to the park for a slow walk. At seven in the evening, I cook dinner at home. After dinner, I watch TV for a while. Around half past ten, I take a bath and then go to sleep."
+}

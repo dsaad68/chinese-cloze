@@ -1,0 +1,39 @@
+{
+  "id": "4-2",
+  "level": 4,
+  "title": "去餐厅吃饭",
+  "titlePinyin": "qù cān tīng chī fàn",
+  "topicEn": "Going to a restaurant for lunch",
+  "sentences": [
+    [["今天","jīn tiān","today"],["中午","zhōng wǔ","noon"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["朋友","péng yǒu","friend"],["一起","yī qǐ","together",2],["去","qù","go"],["一","yī","one"],["家","jiā","(measure for restaurants)"],["餐厅","cān tīng","restaurant"],["吃饭","chī fàn","eat"],["。","",""]],
+    [["这","zhè","this"],["家","jiā","(measure)"],["餐厅","cān tīng","restaurant"],["里","lǐ","inside",3],["有","yǒu","have"],["个","gè","(measure)",4],["超市","chāo shì","supermarket"],["。","",""]],
+    [["我们","wǒ men","we",5],["坐","zuò","sit"],["在","zài","at"],["左","zuǒ","left"],["边","biān","side"],["的","de","(possessive)",6],["桌子","zhuō zi","table"],["。","",""]],
+    [["服务员","fú wù yuán","waiter"],["先","xiān","first",7],["给","gěi","give"],["我们","wǒ men","us"],["倒","dào","pour"],["了","le","(past)",8],["水","shuǐ","water"],["。","",""]],
+    [["然后","rán hòu","then"],["我们","wǒ men","we"],["点","diǎn","order"],["了","le","(past)"],["两","liǎng","two",9],["个","gè","(measure)"],["菜","cài","dish"],["。","",""]],
+    [["我们","wǒ men","we"],["问","wèn","ask"],["服务员","fú wù yuán","waiter"],["有","yǒu","have"],["什么","shén me","what",10],["推荐","tuī jiàn","recommendation"],["。","",""]],
+    [["他","tā","he",11],["说","shuō","say"],["有","yǒu","have"],["几","jǐ","several"],["道","dào","(measure for dishes)"],["菜","cài","dish"],["很","hěn","very",12],["好吃","hǎo chī","delicious"],["。","",""]],
+    [["后来","hòu lái","later"],["，","",""],["菜","cài","dish"],["上","shàng","come up"],["来","lái","come"],["了","le","(past)"],["。","",""]],
+    [["我们","wǒ men","we"],["觉得","jué de","feel"],["不","bù","not",13],["太","tài","too"],["贵","guì","expensive"],["。","",""]],
+    [["一共","yī gòng","in total"],["八","bā","eight"],["十","shí","ten"],["块","kuài","(measure for yuan)",14],["。","",""]],
+    [["我们","wǒ men","we"],["付","fù","pay"],["了","le","(past)"],["钱","qián","money"],["。","",""]],
+    [["我们","wǒ men","we"],["还","hái","also"],["会","huì","will",15],["再","zài","again"],["来","lái","come"],["的","de","(modal particle)"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Connects the speaker and friend to indicate they went together.",
+    "2": "Shows that the action was done jointly with the friend.",
+    "3": "Indicates the location inside the restaurant where the supermarket is.",
+    "4": "Measure word for the supermarket.",
+    "5": "Subject pronoun referring to the speaker and friend.",
+    "6": "Possessive marker linking 'left side' to 'table'.",
+    "7": "Time adverb indicating the first action before ordering.",
+    "8": "Dynamic particle indicating completion of pouring water.",
+    "9": "Numeral indicating the quantity of dishes ordered.",
+    "10": "Question pronoun used to ask about recommendations.",
+    "11": "Pronoun referring to the waiter.",
+    "12": "Degree adverb intensifying the taste 'delicious'.",
+    "13": "Negation adverb to express 'not too expensive'.",
+    "14": "Measure word for currency (yuan) in the total amount.",
+    "15": "Modal verb expressing future intention to come again."
+  },
+  "translation": "Today at noon, I and my friend went together to a restaurant for lunch. This restaurant has a supermarket inside. We sat at a table on the left side. The waiter first poured water for us. Then we ordered two dishes. We asked the waiter what recommendations he had. He said there were several dishes that were very delicious. Later, the dishes came up. We felt it was not too expensive. It was eighty yuan in total. We paid. We will come again."
+}

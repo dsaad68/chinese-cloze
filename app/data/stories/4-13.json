@@ -1,0 +1,41 @@
+{
+  "id": "4-13",
+  "level": 4,
+  "title": "我的一天",
+  "titlePinyin": "wǒ de yī tiān",
+  "topicEn": "Daily Routine",
+  "sentences": [
+    [["今天","jīn tiān","today"],["早上","zǎo shang","morning"],["，","",""],["我","wǒ","I"],["七","qī","seven"],["点","diǎn","o'clock"],["起床","qǐ chuáng","get up",1],["。","",""]],
+    [["我","wǒ","I"],["不","bù","not"],["能","néng","can",2],["迟到","chí dào","be late"],["，","",""],["所以","suǒ yǐ","so",3],["很","hěn","very",4],["快","kuài","fast"],["去","qù","go"],["卫生间","wèi shēng jiān","bathroom"],["洗脸","xǐ liǎn","wash face"],["。","",""]],
+    [["然后","rán hòu","then"],["我","wǒ","I"],["吃","chī","eat"],["早饭","zǎo fàn","breakfast",5],["。","",""]],
+    [["我","wǒ","I"],["不","bù","not"],["知道","zhī dào","know"],["吃","chī","eat"],["什么","shén me","what",6],["，","",""],["妈妈","mā ma","mom"],["给","gěi","give"],["了","le","(past particle)",7],["我","wǒ","me"],["面包","miàn bāo","bread"],["和","hé","and",8],["牛奶","niú nǎi","milk"],["，","",""],["真","zhēn","really",9],["好吃","hǎo chī","delicious"],["。","",""]],
+    [["我","wǒ","I"],["喝","hē","drink"],["一","yī","one"],["杯","bēi","cup",10],["牛奶","niú nǎi","milk"],["，","",""],["吃","chī","eat"],["一","yī","one"],["块","kuài","piece",11],["面包","miàn bāo","bread"],["。","",""]],
+    [["八","bā","eight"],["点","diǎn","o'clock"],["，","",""],["我","wǒ","I"],["和","hé","and"],["朋友","péng yǒu","friend"],["一起","yì qǐ","together",12],["走路","zǒu lù","walk"],["去","qù","go"],["学校","xué xiào","school"],["。","",""]],
+    [["我们","wǒ men","we"],["坐","zuò","sit"],["在","zài","at"],["公交车","gōng jiāo chē","bus"],["上","shàng","on",13],["。","",""]],
+    [["在","zài","at"],["学校","xué xiào","school"],["前面","qián miàn","front"],["，","",""],["我们","wǒ men","we"],["遇到","yù dào","meet"],["了","le","(past particle)"],["这","zhè","this"],["位","wèi","(measure for persons)"],["老师","lǎo shī","teacher"],["。","",""]],
+    [["在","zài","at"],["学校","xué xiào","school"],["，","",""],["我们","wǒ men","we"],["正在","zhèng zài","in the process of",14],["上","shàng","attend"],["中文","zhōng wén","Chinese"],["课","kè","class"],["。","",""]],
+    [["在","zài","at"],["课堂","kè táng","classroom"],["上","shàng","on"],["，","",""],["我们","wǒ men","we"],["会","huì","can"],["说","shuō","speak"],["中文","zhōng wén","Chinese"],["，","",""],["老师","lǎo shī","teacher"],["也","yě","also",15],["会","huì","can"],["说","shuō","speak"],["中文","zhōng wén","Chinese"],["。","",""]],
+    [["中午","zhōng wǔ","noon"],["，","",""],["我们","wǒ men","we"],["都","dōu","all"],["在","zài","at"],["食堂","shí táng","dining hall"],["里","lǐ","inside"],["吃","chī","eat"],["午饭","wǔ fàn","lunch"],["。","",""]],
+    [["下午","xià wǔ","afternoon"],["，","",""],["我们","wǒ men","we"],["回家","huí jiā","go home"],["。","",""]],
+    [["晚上","wǎn shang","evening"],["，","",""],["我","wǒ","I"],["先","xiān","first"],["做","zuò","do"],["作业","zuò yè","homework"],["，","",""],["然后","rán hòu","then"],["看","kàn","watch"],["电视","diàn shì","TV"],["。","",""]],
+    [["十","shí","ten"],["点","diǎn","o'clock"],["，","",""],["我","wǒ","I"],["睡觉","shuì jiào","sleep"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Indicates the action of getting up in the morning.",
+    "2": "Modal verb expressing ability, here used with 不 to mean 'cannot'.",
+    "3": "Connects the reason (不能迟到) and the result (很快去洗脸).",
+    "4": "Degree adverb modifying 快 to mean 'very quickly'.",
+    "5": "Noun meaning breakfast, object of 吃.",
+    "6": "Interrogative pronoun used in 不知道 to ask about the thing he doesn't know.",
+    "7": "Dynamic particle marking completion of the action 给.",
+    "8": "Conjunction linking 面包 and 牛奶.",
+    "9": "Degree adverb meaning 'really', modifying 好吃.",
+    "10": "Measure word for cup/drink, used with 一.",
+    "11": "Measure word for piece/lump, used with 一 for bread.",
+    "12": "Adverb meaning 'together', modifying 走路.",
+    "13": "Location noun meaning 'on', indicating position on the bus.",
+    "14": "Time adverb indicating an action in progress.",
+    "15": "Adverb meaning 'also', showing the teacher also speaks Chinese."
+  },
+  "translation": "Today morning, I got up at seven. I cannot be late, so I quickly went to the bathroom to wash my face. Then I ate breakfast. I didn't know what to eat, so Mom gave me bread and milk, it was really delicious. I drank a glass of milk and ate a piece of bread. At eight, I walked to school together with my friend. We sat on the bus. In front of the school, we met this teacher. At school, we were having Chinese class. In the classroom, we can speak Chinese, and the teacher can also speak Chinese. At noon, we all ate lunch in the dining hall. In the afternoon, we went home. In the evening, I did my homework first, then watched TV. At ten, I went to sleep."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "6-18",
+  "level": 6,
+  "title": "我的日常生活",
+  "titlePinyin": "wǒ de rì cháng shēng huó",
+  "topicEn": "Daily Routine",
+  "sentences": [
+    [["今天","jīn tiān","today"],["早上","zǎo shang","morning"],["，","",""],["我","wǒ","I"],["会","huì","can",1],["从","cóng","from",2],["床","chuáng","bed"],["上","shàng","on",3],["起来","qǐlái","get up"],["。","",""]],
+    [["我","wǒ","I"],["先","xiān","first",4],["去","qù","go"],["洗手间","xǐshǒujiān","bathroom"],["刷牙","shuāyá","brush teeth"],["。","",""]],
+    [["我","wǒ","I"],["常常","chángcháng","often",5],["吃","chī","eat"],["一","yī","one",6],["个","gè","piece",7],["面包","miànbāo","bread"],["。","",""]],
+    [["今天","jīntiān","today"],["，","",""],["我","wǒ","I"],["吃","chī","eat"],["了","le","particle",8],["三","sān","three"],["个","gè","piece"],["面包","miànbāo","bread"],["和","hé","and"],["两","liǎng","two",9],["杯","bēi","cup",10],["牛奶","niúnǎi","milk"],["。","",""]],
+    [["我","wǒ","I"],["跟","gēn","with",11],["我","wǒ","my"],["的","de","'s"],["朋友","péngyǒu","friend"],["一起","yīqǐ","together"],["坐","zuò","sit"],["公交车","gōngjiāochē","bus"],["去","qù","go"],["公司","gōngsī","company"],["。","",""]],
+    [["我们","wǒmen","we"],["都","dōu","all",12],["很","hěn","very"],["早","zǎo","early"],["就","jiù","then"],["到","dào","arrive"],["了","le","particle"],["。","",""]],
+    [["我","wǒ","I"],["马上","mǎshàng","immediately",13],["开始","kāishǐ","start"],["工作","gōngzuò","work"],["。","",""]],
+    [["中午","zhōngwǔ","noon"],["，","",""],["我","wǒ","I"],["问","wèn","ask"],["他","tā","he",14],["吃","chī","eat"],["面包","miànbāo","bread"],["还是","háishì","or",15],["米饭","mǐfàn","rice"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["，","",""],["我","wǒ","I"],["继续","jìxù","continue"],["工作","gōngzuò","work"],["。","",""]],
+    [["五点","wǔ diǎn","five o'clock"],["，","",""],["我","wǒ","I"],["回","huí","return"],["家","jiā","home"],["了","le","particle"],["。","",""]],
+    [["晚上","wǎnshàng","evening"],["，","",""],["我","wǒ","I"],["看","kàn","watch"],["了","le","particle"],["很","hěn","very"],["长","cháng","long"],["时间","shíjiān","time"],["的","de","'s"],["电视","diànshì","TV"],["。","",""]],
+    [["我","wǒ","I"],["没有","méiyǒu","did not"],["吃","chī","eat"],["鸡蛋","jīdàn","egg"],["。","",""]],
+    [["十点","shí diǎn","ten o'clock"],["，","",""],["我","wǒ","I"],["上","shàng","get on"],["床","chuáng","bed"],["睡觉","shuìjiào","sleep"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "能愿动词，表示有能力或意愿，这里表示‘会起床’的意思。",
+    "2": "介词，引出动作的起点，这里表示从床上起来。",
+    "3": "方位名词，表示在床的表面，与‘床’组成‘床上’。",
+    "4": "时间副词，表示动作的顺序，这里表示先做刷牙的动作。",
+    "5": "频率副词，表示经常发生，这里表示经常吃面包。",
+    "6": "数词，与量词‘个’连用，表示数量。",
+    "7": "名量词，用于面包这样的个体事物。",
+    "8": "动态助词，表示动作完成，这里表示已经吃了。",
+    "9": "数词，用于计数，与‘杯’连用表示两杯。",
+    "10": "名量词，用于牛奶这样的液体，表示一杯的量。",
+    "11": "介词，引出共同做事的对象，这里表示和朋友一起。",
+    "12": "范围副词，表示全部，这里表示我们都很早。",
+    "13": "时间副词，表示紧接着发生，这里表示很快开始工作。",
+    "14": "人称代词，指代问话的对象，这里指朋友或同事。",
+    "15": "连接词，用于选择问句，连接两个选项面包和米饭。"
+  },
+  "translation": "This morning, I will get out of bed. I first go to the bathroom to brush my teeth. I often eat one piece of bread. Today, I ate three pieces of bread and two cups of milk. I go to the company by bus with my friend. We both arrived very early. I immediately started work. At noon, I asked him whether he wanted to eat bread or rice. In the afternoon, I continued working. At five o'clock, I went home. In the evening, I watched TV for a long time. I did not eat eggs. At ten o'clock, I got into bed to sleep."
+}

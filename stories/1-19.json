@@ -1,0 +1,42 @@
+{
+  "id": "1-19",
+  "level": 1,
+  "title": "我的一天",
+  "titlePinyin": "wǒ de yī tiān",
+  "topicEn": "A student's daily routine",
+  "sentences": [
+    [["今天","jīn tiān","today"],["早上","zǎo shang","morning"],["，","",""],["我","wǒ","I"],["七","qī","seven",1],["点","diǎn","o'clock"],["起床","qǐ chuáng","get up"],["，","",""],["我","wǒ","I"],["的","de","'s"],["书","shū","book"],["在","zài","in/at"],["床","chuáng","bed"],["上","shàng","on",2],["，","",""],["我","wǒ","I"],["的","de","'s"],["书包","shū bāo","schoolbag"],["在","zài","in/at"],["床","chuáng","bed"],["下","xià","under",3],["，","",""],["房间","fáng jiān","room"],["外边","wài biān","outside",4],["也","yě","also"],["有","yǒu","there is"],["一","yī","one"],["只","zhǐ","(measure for animals)",5],["猫","māo","cat"],["。","",""]],
+    [["我","wǒ","I"],["先","xiān","first",6],["跟","gēn","with"],["妈妈","mā ma","mom"],["和","hé","and",7],["爸爸","bà ba","dad"],["一起","yī qǐ","together"],["吃","chī","eat"],["早饭","zǎo fàn","breakfast"],["，","",""],["我","wǒ","I"],["家","jiā","family"],["有","yǒu","have"],["三","sān","three",8],["口","kǒu","(measure for family members)",9],["人","rén","people"],["，","",""],["我","wǒ","I"],["不","bù","not",10],["知道","zhī dào","know"],["吃","chī","eat"],["什么","shén me","what",11],["，","",""],["妈妈","mā ma","mom"],["给","gěi","give"],["我","wǒ","I"],["面包","miàn bāo","bread"],["。","",""]],
+    [["早饭","zǎo fàn","breakfast"],["我","wǒ","I"],["喝","hē","drink"],["了","le","(past particle)",12],["一","yī","one"],["杯","bēi","cup",13],["牛奶","niú nǎi","milk"],["，","",""],["吃","chī","eat"],["了","le","(past particle)"],["一","yī","one"],["个","gè","(general measure)",14],["鸡蛋","jī dàn","egg"],["和","hé","and"],["一","yī","one"],["块","kuài","piece",15],["面包","miàn bāo","bread"],["，","",""],["这个","zhè ge","this"],["鸡蛋","jī dàn","egg"],["很","hěn","very"],["好吃","hǎo chī","delicious"],["，","",""],["我","wǒ","I"],["还","hái","still"],["能","néng","can",16],["再","zài","again"],["吃","chī","eat"],["一","yī","one"],["个","gè","(general measure)"],["。","",""]],
+    [["上午","shàng wǔ","morning"],["我","wǒ","I"],["马上","mǎ shàng","immediately"],["从","cóng","from",17],["家","jiā","home"],["去","qù","go"],["学校","xué xiào","school"],["上课","shàng kè","attend class"],["，","",""],["我","wǒ","I"],["不","bù","not"],["知道","zhī dào","know"],["怎么","zěn me","how",18],["去","qù","go"],["学校","xué xiào","school"],["，","",""],["学校","xué xiào","school"],["在","zài","in/at"],["家","jiā","home"],["的","de","'s"],["左","zuǒ","left",19],["边","biān","side"],["，","",""],["一","yī","one"],["家","jiā","(measure for stores)"],["超市","chāo shì","supermarket"],["在","zài","in/at"],["家","jiā","home"],["的","de","'s"],["右","yòu","right",20],["边","biān","side"],["。","",""]],
+    [["我","wǒ","I"],["在","zài","in/at"],["一","yī","one"],["间","jiān","(measure for rooms)"],["教室","jiào shì","classroom"],["里","lǐ","inside"],["坐","zuò","sit"],["，","",""],["前","qián","front"],["和","hé","and"],["后","hòu","back"],["都","dōu","all"],["有","yǒu","have"],["那些","nà xiē","those"],["同学","tóng xué","classmates"],["，","",""],["他们","tā men","they"],["都","dōu","all"],["非常","fēi cháng","very"],["高兴","gāo xìng","happy"],["地","de","(adverb particle)"],["学习","xué xí","study"],["。","",""]],
+    [["下午","xià wǔ","afternoon"],["我","wǒ","I"],["和","hé","and"],["朋友","péng yǒu","friend"],["一块儿","yī kuàir","together"],["回","huí","return"],["家","jiā","home"],["，","",""],["我们","wǒ men","we"],["没有","méi yǒu","did not"],["坐","zuò","sit/ride"],["车","chē","car"],["，","",""],["我们","wǒ men","we"],["常常","cháng cháng","often"],["走路","zǒu lù","walk"],["回","huí","return"],["家","jiā","home"],["。","",""]],
+    [["回","huí","return"],["到","dào","arrive"],["家","jiā","home"],["后","hòu","after"],["，","",""],["我","wǒ","I"],["马上","mǎ shàng","immediately"],["写","xiě","write"],["两","liǎng","two"],["页","yè","page"],["作业","zuò yè","homework"],["。","",""]],
+    [["正在","zhèng zài","in the process of"],["写","xiě","write"],["作业","zuò yè","homework"],["的","de","'s"],["时候","shí hou","time"],["，","",""],["妈妈","mā ma","mom"],["在","zài","in/at"],["做","zuò","do/make"],["饭","fàn","rice/meal"],["。","",""]],
+    [["晚饭","wǎn fàn","dinner"],["我们","wǒ men","we"],["吃","chī","eat"],["了","le","(past particle)"],["米饭","mǐ fàn","rice"],["和","hé","and"],["西红柿","xī hóng shì","tomato"],["鸡蛋","jī dàn","egg"],["汤","tāng","soup"],["，","",""],["妈妈","mā ma","mom"],["会","huì","can (know how to)"],["做","zuò","make"],["这个","zhè ge","this"],["汤","tāng","soup"],["，","",""],["饭","fàn","rice"],["太","tài","too"],["好吃","hǎo chī","delicious"],["了","le","(particle)"],["。","",""]],
+    [["晚上","wǎn shang","evening"],["我","wǒ","I"],["看","kàn","watch"],["了","le","(past particle)"],["半","bàn","half"],["小时","xiǎo shí","hour"],["电视","diàn shì","TV"],["，","",""],["没","méi","not"],["看","kàn","watch"],["很多","hěn duō","a lot"],["，","",""],["然后","rán hòu","then"],["看","kàn","read"],["了","le","(past particle)"],["那","nà","that"],["本","běn","(measure for books)"],["书","shū","book"],["，","",""],["今天","jīn tiān","today"],["真","zhēn","really"],["开心","kāi xīn","happy"],["！","",""]]
+  ],
+  "explanations": {
+    "1": "Indicates the time when getting up.",
+    "2": "Location of the book on the bed.",
+    "3": "Location of the schoolbag under the bed.",
+    "4": "Location of the cat outside the room.",
+    "5": "Measure word for the cat.",
+    "6": "Adverb indicating the sequence of actions.",
+    "7": "Connects the two subjects 'mom' and 'dad'.",
+    "8": "Number indicating family members.",
+    "9": "Measure word for family members.",
+    "10": "Negates the verb 'know'.",
+    "11": "Question word in the indirect question.",
+    "12": "Indicates completed action of drinking.",
+    "13": "Measure word for milk.",
+    "14": "Measure word for egg.",
+    "15": "Measure word for bread.",
+    "16": "Modal verb indicating ability to eat another.",
+    "17": "Preposition indicating starting point.",
+    "18": "Question word in indirect question about the route.",
+    "19": "Direction of the school from home.",
+    "20": "Direction of the supermarket from home."
+  },
+  "translation": "This morning, I got up at seven. My book is on the bed, my schoolbag is under the bed, and there is also a cat outside the room. I first had breakfast with my mom and dad. My family has three people. I didn't know what to eat, so my mom gave me bread. For breakfast, I drank a cup of milk, ate an egg and a piece of bread. This egg is very tasty, and I can eat one more. In the morning, I immediately went to school from home. I didn't know how to get to school. The school is to the left of home, and a supermarket is to the right of home. I sit in a classroom, with classmates in front and behind. They all study very happily. In the afternoon, I went home together with my friend. We didn't take a car, we often walk home. After arriving home, I immediately wrote two pages of homework. While I was doing homework, mom was cooking. For dinner, we ate rice and tomato egg soup. Mom can make this soup, the food was too delicious. In the evening, I watched TV for half an hour, didn't watch much, then I read that book. Today is really happy!"
+}

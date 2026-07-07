@@ -1,0 +1,40 @@
+{
+  "id": "4-4",
+  "level": 4,
+  "title": "超市购物",
+  "titlePinyin": "chāo shì gòu wù",
+  "topicEn": "Supermarket shopping",
+  "sentences": [
+    [["今天","jīntiān","today"],["上午","shàngwǔ","morning"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["朋友","péngyǒu","friend"],["一块儿","yīkuàir","together",2],["去","qù","to go"],["超市","chāoshì","supermarket"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["在","zài","at"],["家","jiā","home"],["的","de","'s"],["西","xī","west",3],["边","biān","side"],["。","",""]],
+    [["我们","wǒmen","we"],["走","zǒu","to walk"],["了","le","-ed",4],["十","shí","ten"],["分钟","fēnzhōng","minutes"],["就","jiù","then"],["到","dào","to arrive"],["了","le","-ed"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["里","lǐ","inside"],["有","yǒu","there are"],["很","hěn","very"],["多","duō","many"],["人","rén","people"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first"],["买","mǎi","to buy"],["了","le","-ed"],["两","liǎng","two",5],["个","gè","measure word"],["西瓜","xīguā","watermelon"],["。","",""]],
+    [["西瓜","xīguā","watermelon"],["很","hěn","very",6],["新鲜","xīnxiān","fresh"],["，","",""],["妈妈","māma","mom"],["买","mǎi","to buy"],["了","le","-ed"],["三","sān","three",7],["斤","jīn","jin (unit)"],["。","",""]],
+    [["然后","ránhòu","then"],["又","yòu","again"],["买","mǎi","to buy"],["了","le","-ed"],["一些","yīxiē","some"],["蔬菜","shūcài","vegetables"],["。","",""]],
+    [["牛奶","niúnǎi","milk"],["也","yě","also"],["很","hěn","very"],["便宜","piányi","cheap"],["，","",""],["我","wǒ","I"],["买","mǎi","to buy"],["了","le","-ed"],["两","liǎng","two"],["盒","hé","carton"],["。","",""]],
+    [["后来","hòulái","later"],["我","wǒ","I"],["看见","kànjiàn","see"],["一","yī","one"],["个","gè","measure word",8],["新","xīn","new"],["的","de","'s",9],["玩具","wánjù","toy"],["，","",""],["非常","fēicháng","very",10],["喜欢","xǐhuān","to like"],["，","",""],["但是","dànshì","but"],["太","tài","too",11],["贵","guì","expensive"],["，","",""],["没有","méiyǒu","did not",12],["买","mǎi","to buy"],["。","",""]],
+    [["最后","zuìhòu","finally"],["我们","wǒmen","we"],["一起","yīqǐ","together",13],["回","huí","to return"],["家","jiā","home"],["了","le","-ed"],["。","",""]],
+    [["回家","huíjiā","go home"],["以后","yǐhòu","after"],["，","",""],["我","wǒ","I"],["帮","bāng","help"],["妈妈","māma","mom"],["做饭","zuòfàn","cook"],["。","",""]],
+    [["我们","wǒmen","we"],["高兴","gāoxìng","happy"],["地","de","-ly",14],["吃","chī","to eat"],["了","le","-ed"],["很多","hěnduō","a lot"],["，","",""],["真","zhēn","really"],["饱","bǎo","full"],["。","",""]],
+    [["妈妈","māma","mom"],["还","hái","also",15],["做","zuò","to make"],["了","le","-ed"],["一些","yīxiē","some"],["汤","tāng","soup"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Used to introduce the companion (friend) in the phrase 'with a friend'.",
+    "2": "Range/coordination adverb meaning 'together', indicating joint action.",
+    "3": "Direction noun indicating the west side of the home.",
+    "4": "Dynamic particle indicating completion of the action 'walked'.",
+    "5": "Numeral meaning 'two', used with the measure word '个' for watermelons.",
+    "6": "Degree adverb modifying 'fresh' to mean 'very fresh'.",
+    "7": "Numeral meaning 'three', used with the unit '斤'.",
+    "8": "Measure word for general objects, here for 'toy'.",
+    "9": "Structural particle linking the adjective 'new' to the noun 'toy'.",
+    "10": "Degree adverb emphasizing the level of liking, 'very much'.",
+    "11": "Degree adverb indicating excess, here 'too expensive'.",
+    "12": "Negative adverb used to negate the action 'buy' in the past.",
+    "13": "Coordination adverb meaning 'together' for the action of going home.",
+    "14": "Structural particle turning the adjective 'happy' into an adverb 'happily'.",
+    "15": "Related adverb meaning 'in addition', indicating mom also made soup."
+  },
+  "translation": "This morning, I went to the supermarket with a friend. The supermarket is to the west of home. We walked for ten minutes and arrived. There were many people in the supermarket. First, we bought two watermelons. The watermelons were very fresh, and mom bought three jin. Then we also bought some vegetables. Milk was also cheap, and I bought two cartons. Later I saw a new toy, liked it very much, but it was too expensive, so I didn't buy it. Finally, we went home together. After returning home, I helped mom cook. We happily ate a lot, really full. Mom also made some soup."
+}

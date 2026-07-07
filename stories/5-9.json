@@ -1,0 +1,40 @@
+{
+  "id": "5-9",
+  "level": 5,
+  "title": "公园的一天",
+  "titlePinyin": "Gōngyuán de yī tiān",
+  "topicEn": "A Day at the Park",
+  "sentences": [
+    [["昨天","zuótiān","yesterday"],["是","shì","is"],["周末","zhōumò","weekend"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["朋友","péngyou","friend"],["一起","yīqǐ","together",2],["去","qù","go"],["了","le","(particle indicating completion)",3],["公园","gōngyuán","park"],["。","",""]],
+    [["天气","tiānqì","weather"],["真","zhēn","really",4],["好","hǎo","good"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",5],["在","zài","at"],["草地","cǎodì","lawn"],["上","shàng","on",6],["放","fàng","fly"],["风筝","fēngzheng","kite"],["。","",""]],
+    [["风筝","fēngzheng","kite"],["飞","fēi","fly"],["得","de","(particle linking verb and complement)"],["很","hěn","very",7],["高","gāo","high"],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","go"],["湖边","húbiān","lakeside"],["走","zǒu","walk"],["了","le","(particle indicating completion)"],["一","yī","one",8],["圈","quān","circle (measure word)"],["。","",""]],
+    [["湖","hú","lake"],["里","lǐ","in",9],["有","yǒu","there are"],["鸭子","yāzi","ducks"],["。","",""]],
+    [["我们","wǒmen","we"],["拍","pāi","take (photo)"],["的","de","'s (modifier)",10],["照片","zhàopiàn","photo"],["很","hěn","very"],["漂亮","piàoliang","beautiful"],["。","",""]],
+    [["中午","zhōngwǔ","noon"],["我们","wǒmen","we"],["在","zài","at"],["树","shù","tree"],["下","xià","under",11],["吃","chī","eat"],["饭","fàn","meal"],["。","",""]],
+    [["我","wǒ","I"],["吃","chī","eat"],["了","le","(particle indicating completion)"],["三明治","sānmíngzhì","sandwich"],["，","",""],["朋友","péngyou","friend"],["吃","chī","eat"],["水果","shuǐguǒ","fruit"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["我们","wǒmen","we"],["坐","zuò","take (vehicle)"],["车","chē","car/bus"],["回家","huíjiā","go home"],["。","",""]],
+    [["大家","dàjiā","everyone"],["都","dōu","all",12],["很","hěn","very"],["开心","kāixīn","happy"],["。","",""]],
+    [["这个","zhège","this"],["周末","zhōumò","weekend"],["太","tài","too/extremely",13],["棒","bàng","great"],["了","le","(particle indicating completion)"],["！","",""]],
+    [["我","wǒ","I"],["希望","xīwàng","hope"],["下次","xiàcì","next time"],["还","hái","also/still",14],["能","néng","can",15],["来","lái","come"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "连接“我”和“朋友”，表示并列关系。",
+    "2": "表示共同做某事，与“和”搭配。",
+    "3": "表示动作“去”已经完成。",
+    "4": "强调天气好的程度。",
+    "5": "表示动作顺序，先做什么。",
+    "6": "方位名词，表示在草地表面。",
+    "7": "程度副词，修饰“高”，表示很高。",
+    "8": "数词，表示一圈的数量。",
+    "9": "方位名词，表示在湖的内部。",
+    "10": "结构助词，连接“拍”和“照片”。",
+    "11": "方位名词，表示在树的下方。",
+    "12": "范围副词，表示大家全部开心。",
+    "13": "程度副词，表示非常棒。",
+    "14": "关联副词，表示希望下次也来。",
+    "15": "能愿动词，表示能力或可能性。"
+  },
+  "translation": "Yesterday was the weekend. My friend and I went to the park together. The weather was really nice. We first flew kites on the grass. The kites flew very high. Then we went to the lakeside and took a walk. There were ducks in the lake. The photos we took were beautiful. At noon we ate under a tree. I ate a sandwich, and my friend ate fruit. In the afternoon we took a bus home. Everyone was very happy. This weekend was great! I hope I can come again next time."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "4-1",
+  "level": 4,
+  "title": "愉快的周末",
+  "titlePinyin": "yú kuài de zhōu mò",
+  "topicEn": "A pleasant weekend",
+  "sentences": [
+    [["周末","zhōu mò","weekend"],["，","",""],["天气","tiān qì","weather"],["很","hěn","very",1],["好","hǎo","good"],["，","",""],["我","wǒ","I"],["跟","gēn","with",2],["朋友","péng yǒu","friend"],["一起","yì qǐ","together",3],["去","qù","go"],["公园","gōng yuán","park"],["。","",""]],
+    [["公园","gōng yuán","park"],["里","lǐ","inside",4],["的","de","possessive",5],["花","huā","flower"],["和","hé","and"],["树","shù","tree"],["很","hěn","very"],["好看","hǎo kàn","pretty"],["。","",""]],
+    [["我们","wǒ men","we"],["坐","zuò","sit"],["在","zài","at"],["座位","zuò wèi","seat"],["上","shàng","on"],["交流","jiāo liú","communicate"],["。","",""]],
+    [["后来","hòu lái","later"],["，","",""],["我们","wǒ men","we"],["能","néng","can",6],["看见","kàn jiàn","see"],["一","yī","one"],["个","gè","(measure for person)",7],["孩子","hái zi","child"],["正在","zhèng zài","in the process of",8],["外边","wài biān","outside"],["跑","pǎo","run"],["。","",""]],
+    [["朋友","péng yǒu","friend"],["问","wèn","ask"],["我","wǒ","me"],["：","",""],["“","",""],["那","nà","that",9],["是","shì","is"],["谁","shuí","who",10],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["那","nà","that"],["是","shì","is"],["一","yī","one"],["个","gè","(measure)"],["孩子","hái zi","child"],["。","",""],["”","",""]],
+    [["中午","zhōng wǔ","noon"],["，","",""],["我们","wǒ men","we"],["先","xiān","first"],["从","cóng","from",11],["家里","jiā lǐ","home"],["带","dài","bring"],["了","le","aspect",12],["午饭","wǔ fàn","lunch"],["，","",""],["然后","rán hòu","then"],["我们","wǒ men","we"],["一起","yì qǐ","together"],["吃","chī","eat"],["了","le","aspect"],["午饭","wǔ fàn","lunch"],["，","",""],["我们","wǒ men","we"],["都","dōu","all"],["吃","chī","eat"],["得","de","complement"],["很","hěn","very"],["开心","kāi xīn","happy"],["。","",""]],
+    [["我们","wǒ men","we"],["不","bù","not",13],["知道","zhī dào","know"],["去","qù","go"],["图书馆","tú shū guǎn","library"],["还是","hái shì","or",14],["回家","huí jiā","go home"],["。","",""]],
+    [["最后","zuì hòu","finally"],["，","",""],["我们","wǒ men","we"],["去","qù","go"],["了","le","aspect"],["图书馆","tú shū guǎn","library"],["。","",""]],
+    [["图书馆","tú shū guǎn","library"],["里","lǐ","inside"],["非常","fēi cháng","very"],["安静","ān jìng","quiet"],["，","",""],["我们","wǒ men","we"],["看","kàn","read"],["了","le","aspect"],["一","yī","one"],["本","běn","(measure for books)"],["书","shū","book"],["。","",""]],
+    [["晚上","wǎn shàng","evening"],["，","",""],["我","wǒ","I"],["回家","huí jiā","go home"],["写","xiě","write"],["作业","zuò yè","homework"],["，","",""],["也","yě","also",15],["复习","fù xí","review"],["了","le","aspect"],["功课","gōng kè","lessons"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "表示程度，修饰‘好’。",
+    "2": "表示共同做某事，引出对象。",
+    "3": "表示共同做某事。",
+    "4": "方位名词，表示在公园内部。",
+    "5": "结构助词，表示所属关系。",
+    "6": "能愿动词，表示有能力看见。",
+    "7": "名量词，用于孩子。",
+    "8": "时间副词，表示动作正在进行。",
+    "9": "指示代词，指远处的事物。",
+    "10": "疑问代词，问人。",
+    "11": "介词，引出起点。",
+    "12": "动态助词，表示动作完成。",
+    "13": "否定副词，否定‘知道’。",
+    "14": "连接词，表示选择。",
+    "15": "关联副词，表示同样。"
+  },
+  "translation": "Weekend, the weather was very good. I went to the park with my friend. The flowers and trees inside the park were very pretty. We sat on a seat and chatted. Later, we could see a child running outside. My friend asked me: 'Who is that?' I said: 'That's a child.' At noon, we first brought lunch from home, then we ate lunch together, and we all ate happily. We didn't know whether to go to the library or go home. Finally, we went to the library. The library was very quiet, we read a book. In the evening, I went home to do homework and also reviewed my lessons."
+}

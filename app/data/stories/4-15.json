@@ -1,0 +1,37 @@
+{
+  "id": "4-15",
+  "level": 4,
+  "title": "去图书馆",
+  "titlePinyin": "qù túshūguǎn",
+  "topicEn": "Going to the Library",
+  "sentences": [
+    [["今天","jīntiān","today"],["下午","xiàwǔ","afternoon"],["，","",""],["我","wǒ","I",1],["和","hé","and",2],["朋友","péngyou","friend"],["一起","yīqǐ","together"],["去","qù","go"],["图书馆","túshūguǎn","library"],["。","",""]],
+    [["图书馆","túshūguǎn","library"],["里","lǐ","inside",3],["有","yǒu","have"],["很多","hěnduō","many"],["书","shū","book"],["。","",""]],
+    [["图书馆","túshūguǎn","library"],["前","qián","front",4],["有","yǒu","have"],["一","yī","one",5],["棵","kē","measure for trees"],["大树","dàshù","big tree"],["，","",""],["图书馆","túshūguǎn","library"],["后","hòu","back",6],["有","yǒu","have"],["一","yī","one"],["个","gè","measure"],["小花园","xiǎo huāyuán","small garden"],["。","",""]],
+    [["我","wǒ","I"],["找","zhǎo","look for"],["了","le","aspect particle",7],["一","yī","one"],["本","běn","measure for books"],["关于","guānyú","about"],["历史","lìshǐ","history"],["的","de","possessive particle",8],["书","shū","book"],["，","",""],["朋友","péngyou","friend"],["找","zhǎo","look for"],["了","le","aspect particle"],["一","yī","one"],["本","běn","measure"],["关于","guānyú","about"],["动物","dòngwù","animal"],["的","de","possessive particle"],["书","shū","book"],["。","",""]],
+    [["我们","wǒmen","we"],["坐","zuò","sit"],["在","zài","at"],["椅子","yǐzi","chair"],["上","shàng","on",9],["看","kàn","look"],["书","shū","book"],["。","",""]],
+    [["看","kàn","look"],["了","le","aspect particle"],["两","liǎng","two"],["个","gè","measure"],["小时","xiǎoshí","hour"],["，","",""],["我们","wǒmen","we"],["觉得","juéde","feel"],["太","tài","too",10],["累","lèi","tired"],["了","le","modal particle"],["，","",""],["不","bù","not",11],["想","xiǎng","want"],["再","zài","again"],["看","kàn","look"],["了","le","aspect particle"],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","go"],["了","le","aspect particle"],["图书馆","túshūguǎn","library"],["下","xià","under",12],["的","de","possessive particle"],["咖啡店","kāfēidiàn","coffee shop"],["，","",""],["喝","hē","drink"],["了","le","aspect particle"],["一","yī","one"],["杯","bēi","cup"],["咖啡","kāfēi","coffee"],["。","",""]],
+    [["这","zhè","this",13],["杯","bēi","cup"],["咖啡","kāfēi","coffee"],["很","hěn","very",14],["好","hǎo","good"],["喝","hē","drink"],["。","",""]],
+    [["那","nà","that",15],["本","běn","measure"],["书","shū","book"],["很","hěn","very"],["有","yǒu","have"],["意思","yìsi","interest"],["。","",""]],
+    [["我们","wǒmen","we"],["以后","yǐhòu","later"],["还","hái","still"],["会","huì","will"],["来","lái","come"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "First-person pronoun, subject of the sentence.",
+    "2": "Connects the subject 'I' and 'friend'.",
+    "3": "Indicates location inside the library.",
+    "4": "Indicates the front of the library.",
+    "5": "Number before a measure word, meaning 'one'.",
+    "6": "Indicates the back of the library.",
+    "7": "Completes the action of finding.",
+    "8": "Links the noun 'history' to 'book'.",
+    "9": "Indicates the position on the chair.",
+    "10": "Expresses excess degree before 'tired'.",
+    "11": "Negates the verb 'want'.",
+    "12": "Indicates the location under the library.",
+    "13": "Demonstrative pronoun referring to the coffee.",
+    "14": "Degree adverb modifying 'good'.",
+    "15": "Demonstrative pronoun referring to the book."
+  },
+  "translation": "This afternoon, I went to the library with my friend. There are many books in the library. In front of the library there is a big tree, and behind the library there is a small garden. I found a book about history, and my friend found a book about animals. We sat on chairs and read. After reading for two hours, we felt too tired and didn't want to read anymore. Then we went to the coffee shop under the library and had a cup of coffee. This cup of coffee was very good. That book was very interesting. We will come again later."
+}

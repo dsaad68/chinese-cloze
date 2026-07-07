@@ -1,0 +1,40 @@
+{
+  "id": "3-20",
+  "level": 3,
+  "title": "在公园的一天",
+  "titlePinyin": "zài gōngyuán de yī tiān",
+  "topicEn": "A Day in the Park",
+  "sentences": [
+    [["昨天","zuótiān","yesterday"],["是","shì","to be",1],["周末","zhōumò","weekend"],["，","",""],["天气","tiānqì","weather"],["很","hěn","very",2],["好","hǎo","good"],["。","",""]],
+    [["我","wǒ","I"],["和","hé","and",3],["妈妈","māma","mom"],["一起","yìqǐ","together",4],["去","qù","go"],["公园","gōngyuán","park"],["。","",""]],
+    [["公园","gōngyuán","park"],["里","lǐ","in",5],["有","yǒu","have/exist",6],["很多","hěnduō","many"],["花","huā","flower"],["和","hé","and"],["树","shù","tree"],["。","",""]],
+    [["我们","wǒmen","we"],["走","zǒu","walk",7],["了","le","particle (completed action)",8],["一会儿","yíhuìr","a while"],["，","",""],["然后","ránhòu","then"],["坐","zuò","sit"],["在","zài","at/on",9],["椅子","yǐzi","chair"],["上","shàng","on",10],["休息","xiūxi","rest"],["。","",""]],
+    [["我","wǒ","I"],["看见","kànjiàn","see",11],["一","yī","one"],["只","zhǐ","measure word for animals"],["小","xiǎo","small"],["猫","māo","cat"],["在","zài","at"],["树","shù","tree"],["上","shàng","on"],["。","",""]],
+    [["妈妈","māma","mom"],["给","gěi","give",12],["我","wǒ","me"],["拍","pāi","take (photo)",13],["了","le","particle (completed action)"],["一","yī","one"],["张","zhāng","measure word for flat objects",14],["照片","zhàopiàn","photo"],["。","",""]],
+    [["我们","wǒmen","we"],["玩","wán","play"],["得","de","particle (degree)"],["很","hěn","very"],["快乐","kuàilè","happy"],["。","",""]],
+    [["中午","zhōngwǔ","noon"],["的","de","possessive"],["时候","shíhou","time"],["，","",""],["我们","wǒmen","we"],["回","huí","return",15],["家","jiā","home"],["吃","chī","eat"],["饭","fàn","meal"],["了","le","particle (completed action)"],["。","",""]],
+    [["公园","gōngyuán","park"],["的","de","possessive"],["左边","zuǒbiān","left side"],["有","yǒu","have/exist"],["一","yī","one"],["个","gè","measure word"],["小","xiǎo","small"],["湖","hú","lake"],["。","",""]],
+    [["湖","hú","lake"],["里","lǐ","in"],["有","yǒu","have/exist"],["鱼","yú","fish"],["。","",""]],
+    [["我们","wǒmen","we"],["看","kàn","watch"],["了","le","particle (completed action)"],["很","hěn","very"],["久","jiǔ","long time"],["。","",""]],
+    [["后来","hòulái","later"],["，","",""],["我们","wǒmen","we"],["买","mǎi","buy"],["了","le","particle (completed action)"],["冰激凌","bīngjīlíng","ice cream"],["吃","chī","eat"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["两","liǎng","two"],["点","diǎn","o'clock"],["，","",""],["我们","wǒmen","we"],["回","huí","return"],["家","jiā","home"],["了","le","particle (completed action)"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Links the time to the weekend.",
+    "2": "Intensifies the adjective '好'.",
+    "3": "Connects '我' and '妈妈'.",
+    "4": "Indicates joint action.",
+    "5": "Shows location inside the park.",
+    "6": "States existence of flowers and trees.",
+    "7": "Describes the action of walking.",
+    "8": "Marks completion of walking.",
+    "9": "Indicates the location of sitting.",
+    "10": "Shows position on the chair.",
+    "11": "Resultative verb meaning to catch sight of something.",
+    "12": "Indicates the recipient of the action.",
+    "13": "Verb for taking a photograph.",
+    "14": "Appropriate measure word for '照片'.",
+    "15": "Verb meaning to go back home."
+  },
+  "translation": "Yesterday was the weekend, the weather was very good. I went to the park with my mom. There were many flowers and trees in the park. We walked for a while, then sat on a chair to rest. I saw a little cat in a tree. Mom took a photo for me. We had a lot of fun. At noon, we went home to eat. To the left of the park there is a small lake. There are fish in the lake. We watched for a long time. Later, we bought ice cream and ate it. At two o'clock in the afternoon, we went home."
+}

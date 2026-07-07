@@ -1,0 +1,38 @@
+{
+  "id": "7-9",
+  "level": 7,
+  "title": "周末去动物园",
+  "titlePinyin": "zhōu mò qù dòng wù yuán",
+  "topicEn": "Weekend trip to the zoo",
+  "sentences": [
+    [["上","shàng","last (in time)",1],["个","gè","general measure word"],["周末","zhōu mò","weekend"],["，","",""],["我","wǒ","I",2],["和","hé","and"],["我","wǒ","I"],["的","de","possessive particle",3],["朋友","péng yǒu","friend"],["们","men","plural suffix"],["一起","yī qǐ","together",4],["去","qù","to go"],["了","le","particle indicating completed action",5],["动物园","dòng wù yuán","zoo"],["。","",""]],
+    [["我们","wǒ men","we"],["几","jǐ","several",6],["个","gè","measure word"],["人","rén","person"],["一","yī","one"],["早","zǎo","early"],["就","jiù","then"],["出发","chū fā","to set off"],["，","",""],["先","xiān","first",7],["坐","zuò","to sit/take (transport)"],["地铁","dì tiě","subway"],["到","dào","to arrive"],["了","le","particle"],["动物园","dòng wù yuán","zoo"],["。","",""]],
+    [["动物园","dòng wù yuán","zoo"],["里","lǐ","in",8],["有","yǒu","to have"],["很","hěn","very",9],["多","duō","many"],["动物","dòng wù","animal"],["，","",""],["很","hěn","very"],["有趣","yǒu qù","interesting"],["。","",""]],
+    [["我","wǒ","I"],["最","zuì","most"],["喜欢","xǐ huān","to like"],["熊猫","xióng māo","panda"],["，","",""],["它们","tā men","they (animals)"],["很","hěn","very"],["可爱","kě ài","cute"],["。","",""]],
+    [["朋友","péng yǒu","friend"],["问","wèn","to ask"],["我","wǒ","me"],["：","",""],["“","",""],["你","nǐ","you"],["知道","zhī dào","to know"],["熊猫","xióng māo","panda"],["会","huì","can",10],["吃","chī","to eat"],["什么","shén me","what",11],["吗","ma","question particle"],["？","",""],["”","",""]],
+    [["中午","zhōng wǔ","noon"],["我们","wǒ men","we"],["在","zài","at"],["那","nà","that",12],["家","jiā","family (measure word for restaurant)"],["餐厅","cān tīng","restaurant"],["吃饭","chī fàn","to eat a meal"],["。","",""]],
+    [["我","wǒ","I"],["吃","chī","to eat"],["了","le","particle"],["一","yī","one"],["个","gè","measure word",13],["汉堡","hàn bǎo","hamburger"],["，","",""],["朋友","péng yǒu","friend"],["吃","chī","to eat"],["了","le","particle"],["一","yī","one"],["碗","wǎn","bowl (measure word)"],["面条","miàn tiáo","noodles"],["。","",""]],
+    [["我们","wǒ men","we"],["还","hái","also",14],["喝","hē","to drink"],["了","le","particle"],["饮料","yǐn liào","beverage"],["。","",""]],
+    [["下午","xià wǔ","afternoon"],["我们","wǒ men","we"],["看","kàn","to watch"],["了","le","particle"],["海豚","hǎi tún","dolphin"],["表演","biǎo yǎn","show"],["，","",""],["海豚","hǎi tún","dolphin"],["也","yě","also",15],["能","néng","can"],["跳","tiào","to jump"],["得","de","particle for complement"],["很","hěn","very"],["高","gāo","high"],["。","",""]],
+    [["这","zhè","this"],["一天","yī tiān","one day"],["我们","wǒ men","we"],["玩","wán","to play"],["得","de","particle"],["真","zhēn","really"],["开心","kāi xīn","happy"],["。","",""]],
+    [["我们","wǒ men","we"],["约定","yuē dìng","to agree"],["下次","xià cì","next time"],["再","zài","again"],["来","lái","to come"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "表示上周的‘上’，是方位名词，表示之前的时间。",
+    "2": "人称代词，指说话人自己。",
+    "3": "结构助词，表示所属关系。",
+    "4": "范围副词，表示共同行动。",
+    "5": "动态助词，表示动作已完成。",
+    "6": "疑问代词，用于询问数量。",
+    "7": "时间副词，表示顺序在前。",
+    "8": "方位名词，表示内部。",
+    "9": "程度副词，表示程度高。",
+    "10": "能愿动词，表示有能力做某事。",
+    "11": "疑问代词，用于提问。",
+    "12": "指示代词，指代较远的事物。",
+    "13": "名量词，用于汉堡。",
+    "14": "关联副词，表示追加。",
+    "15": "关联副词，表示同样。"
+  },
+  "translation": "Last weekend, I went to the zoo with my friends. A few of us set out early in the morning, first taking the subway to the zoo. There were many animals in the zoo, very interesting. My favorite were the pandas, they were very cute. A friend asked me: 'Do you know what pandas eat?' I said: 'They eat bamboo.' At noon we had lunch at that restaurant. I ate a hamburger, my friend ate a bowl of noodles. We also drank beverages. In the afternoon we watched a dolphin show, and the dolphins could jump very high. We had a really great time that day. We made an appointment to come again next time."
+}

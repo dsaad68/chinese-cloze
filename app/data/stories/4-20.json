@@ -1,0 +1,41 @@
+{
+  "id": "4-20",
+  "level": 4,
+  "title": "去超市购物",
+  "titlePinyin": "qù chāo shì gòu wù",
+  "topicEn": "Going to the supermarket",
+  "sentences": [
+    [["今天","jīntiān","today"],["下午","xiàwǔ","afternoon"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["妈妈","māma","mom"],["一块儿","yīkuàir","together",2],["从","cóng","from",3],["家里","jiālǐ","home"],["出发","chūfā","set out"],["去","qù","go"],["超市","chāoshì","supermarket"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",4],["去","qù","go"],["了","le","past particle",5],["水果区","shuǐguǒqū","fruit section"],["里","lǐ","inside",6],["。","",""]],
+    [["那里","nàlǐ","there"],["有","yǒu","have"],["很多","hěnduō","many"],["苹果","píngguǒ","apple"],["和","hé","and"],["香蕉","xiāngjiāo","banana"],["。","",""]],
+    [["妈妈","māma","mom"],["问","wèn","ask"],["我","wǒ","me"],["：","",""],["‘","",""],["你","nǐ","you"],["想","xiǎng","want"],["吃","chī","eat"],["什么","shénme","what",7],["水果","shuǐguǒ","fruit"],["？","",""],["’","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["‘","",""],["我","wǒ","I"],["想","xiǎng","want"],["吃","chī","eat"],["苹果","píngguǒ","apple"],["。","",""],["’","",""]],
+    [["妈妈","māma","mom"],["问","wèn","ask"],["：","",""],["‘","",""],["苹果","píngguǒ","apple"],["多少","duōshao","how much",8],["钱","qián","money"],["一斤","yījīn","one jin"],["？","",""],["’","",""]],
+    [["卖","mài","sell"],["水果","shuǐguǒ","fruit"],["的","de","possessive particle",9],["人","rén","person"],["说","shuō","say"],["：","",""],["‘","",""],["三","sān","three",10],["块","kuài","measure word for money",11],["钱","qián","money"],["一斤","yījīn","one jin"],["。","",""],["’","",""]],
+    [["妈妈","māma","mom"],["看","kàn","look"],["了","le","past particle"],["看","kàn","look"],["苹果","píngguǒ","apple"],["，","",""],["说","shuō","say"],["：","",""],["‘","",""],["这些","zhèxiē","these",12],["苹果","píngguǒ","apple"],["很","hěn","very",13],["新鲜","xīnxiān","fresh"],["。","",""],["’","",""]],
+    [["妈妈","māma","mom"],["会","huì","can",14],["挑","tiāo","pick"],["水果","shuǐguǒ","fruit"],["。","",""]],
+    [["她","tā","she"],["买","mǎi","buy"],["了","le","past particle"],["三","sān","three"],["个","gè","measure word"],["苹果","píngguǒ","apple"],["，","",""],["一共","yīgòng","in total"],["花","huā","spend"],["了","le","past particle"],["九","jiǔ","nine"],["块","kuài","measure word for money"],["钱","qián","money"],["，","",""],["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","go"],["了","le","past particle"],["蔬菜区","shūcàiqū","vegetable section"],["里","lǐ","inside"],["。","",""]],
+    [["在","zài","at"],["蔬菜区","shūcàiqū","vegetable section"],["里","lǐ","inside"],["，","",""],["我们","wǒmen","we"],["买","mǎi","buy"],["了","le","past particle"],["白菜","báicài","cabbage"],["和","hé","and"],["西红柿","xīhóngshì","tomato"],["，","",""],["最后","zuìhòu","finally"],["我们","wǒmen","we"],["去","qù","go"],["了","le","past particle"],["肉区","ròuqū","meat section"],["里","lǐ","inside"],["。","",""]],
+    [["妈妈","māma","mom"],["买","mǎi","buy"],["了","le","past particle"],["一","yī","one"],["块","kuài","piece"],["牛肉","niúròu","beef"],["。","",""]],
+    [["我们","wǒmen","we"],["一共","yīgòng","in total"],["花","huā","spend"],["了","le","past particle"],["五十五","wǔshíwǔ","fifty-five"],["块","kuài","measure word for money"],["钱","qián","money"],["。","",""]],
+    [["我们","wǒmen","we"],["都","dōu","all",15],["很","hěn","very"],["高兴","gāoxìng","happy"],["地","de","adverbial particle"],["回","huí","return"],["家","jiā","home"],["了","le","past particle"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Connects 'I' and 'mom' together.",
+    "2": "Indicates they go together.",
+    "3": "Indicates the starting point 'from home'.",
+    "4": "Shows the first action in the sequence.",
+    "5": "Marks the completion of the action 'went'.",
+    "6": "Indicates the location inside the fruit section.",
+    "7": "Asks about the type of fruit.",
+    "8": "Asks about the price.",
+    "9": "Links 'sell fruit' to 'person'.",
+    "10": "The number of yuan per jin.",
+    "11": "Used with numbers to indicate currency unit.",
+    "12": "Points to the apples nearby.",
+    "13": "Modifies the adjective 'fresh'.",
+    "14": "Indicates ability to pick fruit.",
+    "15": "Indicates that all of us were happy."
+  },
+  "translation": "This afternoon, my mom and I went to the supermarket together. First, we went to the fruit section. There were many apples and bananas. Mom asked me, 'What fruit do you want to eat?' I said, 'I want to eat apples.' Mom asked, 'How much are the apples per jin?' The fruit seller said, 'Three yuan per jin.' Mom looked at the apples and said, 'These apples are very fresh.' Mom knows how to pick fruit. She bought three apples, spent nine yuan in total, and then we went to the vegetable section. In the vegetable section, we bought cabbage and tomatoes, and finally we went to the meat section. Mom bought a piece of beef. We spent fifty-five yuan in total. We were all very happy and went home."
+}

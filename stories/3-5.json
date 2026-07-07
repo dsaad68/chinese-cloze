@@ -1,0 +1,41 @@
+{
+  "id": "3-5",
+  "level": 3,
+  "title": "购物",
+  "titlePinyin": "gòu wù",
+  "topicEn": "Shopping for food",
+  "sentences": [
+    [["今天","jīntiān","today"],["我","wǒ","I"],["和","hé","and"],["妈妈","māma","mother"],["去","qù","to go"],["超市","chāoshì","supermarket"],["买","mǎi","to buy"],["东西","dōngxi","things"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["很","hěn","very",1],["大","dà","big"],["，","",""],["有","yǒu","there is/are"],["很","hěn","very"],["多","duō","many",2],["东西","dōngxi","things"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",3],["买","mǎi","to buy"],["水果","shuǐguǒ","fruit"],["。","",""]],
+    [["妈妈","māma","mother"],["买","mǎi","to buy"],["了","le","(completed action marker)",4],["苹果","píngguǒ","apple"],["和","hé","and",5],["西瓜","xīguā","watermelon"],["。","",""]],
+    [["我","wǒ","I"],["买","mǎi","to buy"],["了","le","(completed action marker)"],["牛奶","niúnǎi","milk"],["和","hé","and"],["面包","miànbāo","bread"],["。","",""]],
+    [["然后","ránhòu","then",6],["我们","wǒmen","we"],["去","qù","to go"],["买","mǎi","to buy"],["肉","ròu","meat"],["。","",""]],
+    [["妈妈","māma","mother"],["问","wèn","to ask",7],["我","wǒ","I"],["要","yào","to want"],["不","bù","not",8],["要","yào","to want"],["鸡肉","jīròu","chicken"],["？","",""]],
+    [["我","wǒ","I"],["说","shuō","to say"],["要","yào","to want",9],["。","",""]],
+    [["我们","wǒmen","we"],["买","mǎi","to buy"],["了","le","(completed action marker)"],["半","bàn","half",10],["公斤","gōngjīn","kilogram"],["鸡肉","jīròu","chicken"],["。","",""]],
+    [["最后","zuìhòu","finally"],["我们","wǒmen","we"],["去","qù","to go"],["买","mǎi","to buy"],["饮料","yǐnliào","drinks"],["。","",""]],
+    [["我","wǒ","I"],["选","xuǎn","to choose"],["了","le","(completed action marker)"],["一","yī","one",11],["杯","bēi","cup (measure word)",12],["可乐","kělè","cola"],["。","",""]],
+    [["妈妈","māma","mother"],["买","mǎi","to buy"],["了","le","(completed action marker)"],["茶","chá","tea"],["。","",""]],
+    [["我们","wǒmen","we"],["很","hěn","very"],["累","lèi","tired",13],["，","",""],["但是","dànshì","but",14],["很","hěn","very"],["开心","kāixīn","happy"],["。","",""]],
+    [["我们","wǒmen","we"],["回","huí","to return",15],["家","jiā","home"],["做","zuò","to do/make"],["晚饭","wǎnfàn","dinner"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Modifies the adjective 大 to mean 'very big'.",
+    "2": "Used with 很 to indicate 'many things'.",
+    "3": "Indicates the first action in a sequence.",
+    "4": "Marks completion of the action 买.",
+    "5": "Connects two nouns, apples and watermelon.",
+    "6": "Indicates the next step in the sequence.",
+    "7": "Verb meaning 'to ask', introducing a question.",
+    "8": "Negates the verb 要 in a yes/no question.",
+    "9": "Positive response to the question, meaning 'want'.",
+    "10": "Specifies half a kilogram.",
+    "11": "Numeral 'one' before the measure word 杯.",
+    "12": "Measure word for cup of drink.",
+    "13": "Adjective describing feeling tired.",
+    "14": "Conjunction showing contrast between tiredness and happiness.",
+    "15": "Verb meaning 'to go back', part of phrase 回家."
+  },
+  "translation": "Today my mother and I went to the supermarket to buy things. The supermarket is very big, and there are many things. We first bought fruit. My mother bought apples and watermelon. I bought milk and bread. Then we went to buy meat. My mother asked me if I wanted chicken. I said yes. We bought half a kilogram of chicken. Finally we went to buy drinks. I chose a cup of cola. My mother bought tea. We were very tired, but very happy. We went home to cook dinner."
+}

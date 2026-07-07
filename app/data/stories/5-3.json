@@ -1,0 +1,38 @@
+{
+  "id": "5-3",
+  "level": 5,
+  "title": "周末去书店",
+  "titlePinyin": "zhōumò qù shūdiàn",
+  "topicEn": "Weekend trip to the bookstore",
+  "sentences": [
+    [["昨天","zuótiān","yesterday"],["是","shì","is"],["星期日","xīngqírì","Sunday"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["朋友","péngyou","friend"],["小张","xiǎo Zhāng","Xiao Zhang"],["一块儿","yīkuàir","together",2],["去","qù","go"],["书店","shūdiàn","bookstore"],["。","",""]],
+    [["我们","wǒmen","we"],["从","cóng","from",3],["家里","jiālǐ","home"],["出发","chūfā","set off"],["，","",""],["坐","zuò","take (transport)"],["公交车","gōngjiāochē","bus"],["去","qù","go"],["市中心","shìzhōngxīn","city center"],["。","",""]],
+    [["书店","shūdiàn","bookstore"],["在","zài","at"],["商城","shāngchéng","shopping mall"],["三楼","sānlóu","third floor"],["，","",""],["左","zuǒ","left",4],["是","shì","is"],["文学区","wénxuéqū","literature section"],["，","",""],["右","yòu","right",5],["是","shì","is"],["科学区","kēxuéqū","science section"],["，","",""],["我们","wǒmen","we"],["先","xiān","first",6],["进","jìn","enter"],["文学区","wénxuéqū","literature section"],["，","",""],["书店","shūdiàn","bookstore"],["里","lǐ","inside",7],["有","yǒu","have"],["很多","hěnduō","many"],["书","shū","books"],["。","",""]],
+    [["这些","zhèxiē","these"],["书","shū","books"],["的","de","(possessive)",8],["封面","fēngmiàn","cover"],["好看","hǎokàn","good-looking"],["，","",""],["我","wǒ","I"],["拿","ná","take"],["起","qǐ","up"],["一","yī","one"],["本","běn","(for books)"],["书","shū","book"],["看","kàn","look at"],["价钱","jiàqián","price"],["，","",""],["觉得","juéde","feel"],["不","bù","not"],["贵","guì","expensive"],["。","",""]],
+    [["我","wǒ","I"],["问","wèn","ask"],["店员","diànyuán","shop assistant"],["：","",""],["“","",""],["这","zhè","this"],["本","běn","(for books)"],["书","shū","book"],["什么","shénme","what",9],["内容","nèiróng","content"],["？","",""],["”","",""],["店员","diànyuán","shop assistant"],["说","shuō","say"],["：","",""],["“","",""],["三十五","sānshíwǔ","thirty-five"],["块","kuài","(unit of money)"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["很","hěn","very",10],["喜欢","xǐhuān","like"],["，","",""],["就","jiù","then"],["买","mǎi","buy"],["了","le","(past)",11],["这","zhè","this"],["本","běn","(for books)"],["书","shū","book"],["。","",""]],
+    [["小张","xiǎo Zhāng","Xiao Zhang"],["在","zài","in"],["科学区","kēxuéqū","science section"],["买","mǎi","buy"],["一","yī","one"],["本","běn","(for books)"],["植物书","zhíwùshū","plant book"],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","go"],["书店","shūdiàn","bookstore"],["旁边","pángbiān","beside"],["咖啡厅","kāfēitīng","café"],["，","",""],["我","wǒ","I"],["也","yě","also",12],["要","yào","want"],["一","yī","one"],["杯","bēi","cup of"],["咖啡","kāfēi","coffee"],["，","",""],["他","tā","he"],["要","yào","want"],["一","yī","one"],["杯","bēi","cup of"],["茶","chá","tea"],["。","",""]],
+    [["我们","wǒmen","we"],["一边","yībiān","while"],["喝","hē","drink"],["一边","yībiān","while"],["聊天","liáotiān","chat"],["，","",""],["都","dōu","all",13],["非常","fēicháng","very"],["开心","kāixīn","happy"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["两点","liǎngdiǎn","2 o'clock"],["，","",""],["我们","wǒmen","we"],["在","zài","at"],["书店","shūdiàn","bookstore"],["外","wài","outside",14],["广场上","guǎngchǎngshàng","on the square"],["休息","xiūxi","rest"],["一会儿","yīhuìr","a while"],["。","",""]],
+    [["回家","huíjiā","go home"],["后","hòu","after",15],["，","",""],["我","wǒ","I"],["马上","mǎshàng","immediately"],["开始","kāishǐ","start"],["看","kàn","read"],["那","nà","that"],["本","běn","(for books)"],["书","shū","book"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "连接‘我’和‘朋友’，表示并列关系。",
+    "2": "表示‘我’和‘朋友’共同行动，一起去书店。",
+    "3": "引出起点‘家里’，表示出发的地点。",
+    "4": "表示方位，说明文学区在商场的左侧。",
+    "5": "表示方位，说明科学区在商场的右侧。",
+    "6": "表示时间顺序，我们首先进入文学区。",
+    "7": "表示书店的内部，说明有很多书。",
+    "8": "连接‘书’和‘封面’，表示修饰关系。",
+    "9": "疑问代词，用来询问书的内容。",
+    "10": "程度副词，修饰‘喜欢’，表示程度深。",
+    "11": "动态助词，表示‘买’这个动作已经完成。",
+    "12": "关联副词，表示‘我’和‘他’都要了饮品。",
+    "13": "范围副词，表示‘我们’全部都很开心。",
+    "14": "方位名词，表示在书店的外面。",
+    "15": "时间副词，表示‘回家’之后。"
+  },
+  "translation": "Yesterday was Sunday. I went to the bookstore with my friend Xiao Zhang. We set off from home and took a bus to the city center. The bookstore was on the third floor of a shopping mall. On the left was the literature section, and on the right was the science section. We first entered the literature section; there were many books inside. The covers of these books looked nice. I picked up a book and looked at the price; it wasn't expensive. I asked the shop assistant, 'What is this book about?' The assistant said, 'Thirty-five yuan.' I liked it very much, so I bought this book. Xiao Zhang bought a plant book in the science section. Then we went to a café next to the bookstore. I also ordered a cup of coffee, and he ordered a cup of tea. We drank and chatted, and we were all very happy. At two in the afternoon, we rested on the square outside the bookstore for a while. After going home, I immediately started reading that book."
+}

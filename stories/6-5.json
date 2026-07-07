@@ -1,0 +1,39 @@
+{
+  "id": "6-5",
+  "level": 6,
+  "title": "周末买书记",
+  "titlePinyin": "zhōumò mǎi shū jì",
+  "topicEn": "A Weekend Trip to the Bookstore",
+  "sentences": [
+    [["我","wǒ","I"],["和","hé","and",1],["朋友","péngyou","friend"],["去","qù","go"],["书店","shūdiàn","bookstore"],["。","",""]],
+    [["我们","wǒmen","we"],["想","xiǎng","want"],["买","mǎi","buy"],["几","jǐ","several",2],["本","běn","measure word for books"],["书","shū","book"],["。","",""]],
+    [["走进","zǒujìn","walk into"],["书店","shūdiàn","bookstore"],["，","",""],["书店","shūdiàn","bookstore"],["里","lǐ","inside",3],["有","yǒu","have"],["很多","hěnduō","many"],["人","rén","people"],["。","",""]],
+    [["我","wǒ","I"],["先","xiān","first",4],["看","kàn","look at"],["历史","lìshǐ","history"],["书","shū","book"],["。","",""]],
+    [["那","nà","that"],["本","běn","measure word for books"],["书","shū","book"],["非常","fēicháng","very",5],["厚","hòu","thick"],["。","",""]],
+    [["朋友","péngyou","friend"],["问","wèn","ask"],["我","wǒ","I"],["：","",""],["“","",""],["你","nǐ","you"],["会","huì","will",6],["买","mǎi","buy"],["什么","shénme","what",7],["书","shū","book"],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["还","hái","still"],["没","méi","not yet",8],["决定","juédìng","decide"],["。","",""],["”","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["一起","yīqǐ","together",9],["走","zǒu","walk"],["到","dào","to"],["右","yòu","right",10],["边","biān","side"],["书架","shūjià","bookshelf"],["。","",""]],
+    [["我","wǒ","I"],["看到","kàndào","saw"],["了","le","(perfective)"],["这","zhè","this",11],["本","běn","measure word for books"],["书","shū","book"],["。","",""]],
+    [["我","wǒ","I"],["非常","fēicháng","very"],["喜欢","xǐhuān","like"],["，","",""],["决定","juédìng","decide"],["买","mǎi","buy"],["一","yī","one",12],["本","běn","measure word for books",13],["历史","lìshǐ","history"],["书","shū","book"],["。","",""]],
+    [["我","wǒ","I"],["真","zhēn","really",14],["高兴","gāoxìng","happy"],["。","",""]],
+    [["从","cóng","from",15],["书店","shūdiàn","bookstore"],["出来","chūlái","come out"],["，","",""],["我们","wǒmen","we"],["回家","huíjiā","go home"],["了","le","(perfective)"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "连接‘我’和‘朋友’，表示并列关系。",
+    "2": "询问数量，修饰‘本书’。",
+    "3": "方位名词，表示书店内部。",
+    "4": "时间副词，表示顺序。",
+    "5": "程度副词，修饰‘厚’。",
+    "6": "能愿动词，表示可能性或意愿。",
+    "7": "疑问代词，询问物品。",
+    "8": "否定副词，否定‘决定’。",
+    "9": "范围副词，表示共同行动。",
+    "10": "方位名词，表示右侧。",
+    "11": "指示代词，指代前文提到的书。",
+    "12": "数字，与‘本’搭配表示数量。",
+    "13": "名量词，用于书。",
+    "14": "程度副词，修饰‘高兴’。",
+    "15": "介词，引出起点‘书店’。"
+  },
+  "translation": "My friend and I went to the bookstore. We wanted to buy several books. Walking into the bookstore, there were many people inside. I first looked at a history book. That book was very thick. My friend asked me: 'What book will you buy?' I said: 'Haven't decided yet.' Then we together walked to the right bookshelf. I saw this book. I liked it very much and decided to buy a history book. I was really happy. Coming out of the bookstore, we went home."
+}

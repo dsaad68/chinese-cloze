@@ -1,0 +1,38 @@
+{
+  "id": "3-14",
+  "level": 3,
+  "title": "周末去超市",
+  "titlePinyin": "Zhōumò qù chāoshì",
+  "topicEn": "Going to the supermarket on weekend",
+  "sentences": [
+    [["今天","jīntiān","today"],["是","shì","is"],["星期六","xīngqīliù","Saturday"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["妈妈","māma","mom"],["一起","yìqǐ","together",2],["去","qù","go"],["超市","chāoshì","supermarket"],["。","",""]],
+    [["超市","chāoshì","supermarket"],["在","zài","at",3],["我们","wǒmen","we"],["家","jiā","home"],["后面","hòumiàn","back"],["，","",""],["走路","zǒulù","walk"],["只要","zhǐyào","only need"],["十","shí","ten",4],["分钟","fēnzhōng","minute"],["。","",""]],
+    [["我们","wǒmen","we"],["买了","mǎile","bought"],["很","hěn","very",5],["多","duō","many"],["东西","dōngxī","things"],["：","",""],["水果","shuǐguǒ","fruit"],["、","",""],["蔬菜","shūcài","vegetables"],["和","hé","and"],["牛奶","niúnǎi","milk"],["。","",""]],
+    [["妈妈","māma","mom"],["问","wèn","ask"],["我","wǒ","me"],["：","",""],["\"","",""],["你","nǐ","you"],["想","xiǎng","want"],["吃","chī","eat"],["什么","shénme","what",6],["水果","shuǐguǒ","fruit"],["？","",""],["\"","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["\"","",""],["我","wǒ","I"],["想","xiǎng","want"],["吃","chī","eat"],["苹果","píngguǒ","apple"],["和","hé","and"],["香蕉","xiāngjiāo","banana"],["。","",""],["\"","",""]],
+    [["我们","wǒmen","we"],["买了","mǎile","bought"],["三","sān","three",7],["个","gè","measure word for general"],["苹果","píngguǒ","apple"],["和","hé","and"],["一","yī","one",8],["把","bǎ","measure word for bunch"],["香蕉","xiāngjiāo","banana"],["。","",""]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","go"],["买","mǎi","buy"],["牛奶","niúnǎi","milk"],["，","",""],["一","yī","one"],["瓶","píng","bottle"],["牛奶","niúnǎi","milk"],["十","shí","ten"],["块","kuài","measure word for yuan",9],["钱","qián","money"],["。","",""]],
+    [["妈妈","māma","mom"],["又","yòu","again",10],["买了","mǎile","bought"],["面包","miànbāo","bread"],["和","hé","and"],["鸡蛋","jīdàn","egg"],["。","",""]],
+    [["最后","zuìhòu","finally"],["我们","wǒmen","we",11],["去","qù","go"],["付钱","fùqián","pay"],["，","",""],["一共","yígòng","altogether"],["花了","huāle","spent"],["五","wǔ","five",12],["十","shí","ten"],["块","kuài","yuan"],["钱","qián","money"],["。","",""]],
+    [["回家","huíjiā","go home"],["的","de","particle",13],["路上","lùshang","on the way"],["，","",""],["我们","wǒmen","we"],["真","zhēn","really",14],["高兴","gāoxìng","happy"],["。","",""]],
+    [["下个","xiàgè","next"],["周末","zhōumò","weekend"],["，","",""],["还","hái","still",15],["要","yào","want"],["一起","yìqǐ","together"],["去","qù","go"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Connects '我' and '妈妈' as a pair.",
+    "2": "Indicates doing something together with someone.",
+    "3": "Indicates location of the supermarket.",
+    "4": "Specifies the number of minutes needed to walk.",
+    "5": "Modifies '多' to mean 'very many'.",
+    "6": "Interrogative pronoun asking for choice of fruit.",
+    "7": "Number specifying three apples.",
+    "8": "Number indicating one bunch of bananas.",
+    "9": "Measure word for Chinese currency unit (yuan).",
+    "10": "Indicates an additional action (also bought).",
+    "11": "Subject pronoun for 'we' going to pay.",
+    "12": "Number indicating fifty (five tens).",
+    "13": "Possessive/attributive particle linking '回家' and '路上'.",
+    "14": "Intensifier for '高兴' meaning 'really happy'.",
+    "15": "Indicates continuation or addition ('still want to go together')."
+  },
+  "translation": "Today is Saturday. I go to the supermarket together with my mom. The supermarket is behind our home. It only takes ten minutes to walk. We bought a lot of things: fruit, vegetables, and milk. Mom asked me: 'What fruit do you want to eat?' I said: 'I want to eat apples and bananas.' We bought three apples and one bunch of bananas. Then we went to buy milk. One bottle of milk is ten yuan. Mom also bought bread and eggs. Finally, we went to pay. Altogether we spent fifty yuan. On the way home, we were really happy. Next weekend, we still want to go together."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "7-20",
+  "level": 7,
+  "title": "周末购物",
+  "titlePinyin": "zhōu mò gòu wù",
+  "topicEn": "Weekend Shopping",
+  "sentences": [
+    [["上","shàng","last"],["个","gè","measure word for time"],["周末","zhōumò","weekend"],["，","","comma"],["我","wǒ","I"],["和","hé","and"],["朋友","péngyou","friend"],["一起","yìqǐ","together",1],["去","qù","to go"],["购物","gòuwù","shopping"],["。","","period"]],
+    [["我们","wǒmen","we"],["先","xiān","first",2],["从","cóng","from",3],["家里","jiālǐ","home"],["出发","chūfā","depart"],["，","","comma"],["坐","zuò","to ride"],["地铁","dìtiě","subway"],["到","dào","to"],["东边","dōngbian","east side"],["的","de","'s"],["商场","shāngchǎng","shopping mall"],["，","","comma"],["在","zài","at"],["商场","shāngchǎng","shopping mall"],["里","lǐ","inside",4],["朋友","péngyou","friend"],["问","wèn","ask"],["我","wǒ","I"],["想","xiǎng","want"],["买","mǎi","buy"],["什么","shénme","what",5],["。","","period"]],
+    [["我","wǒ","I"],["说","shuō","say"],["想","xiǎng","want"],["买","mǎi","buy"],["一","yī","one"],["本","běn","volume (measure word)"],["字典","zìdiǎn","dictionary"],["，","","comma"],["店员","diànyuán","shop assistant"],["拿出","náchū","take out"],["了","le","perfective"],["两","liǎng","two",6],["本","běn","volume (measure word)"],["书","shū","book"],["，","","comma"],["我","wǒ","I"],["看","kàn","look"],["了","le","perfective"],["这些","zhèxiē","these",7],["。","","period"]],
+    [["最后","zuìhòu","finally"],["我","wǒ","I"],["买","mǎi","buy"],["了","le","perfective"],["一","yī","one"],["百","bǎi","hundred",8],["页","yè","page"],["的","de","'s"],["，","","comma"],["朋友","péngyou","friend"],["买","mǎi","buy"],["了","le","perfective"],["一","yī","one"],["件","jiàn","item (measure word)"],["衣服","yīfu","clothes"],["，","","comma"],["他","tā","he"],["穿上","chuānshàng","put on"],["后","hòu","after"],["问","wèn","ask"],["我","wǒ","I"],["：","","colon"],["“","","left quotation mark"],["这","zhè","this"],["件","jiàn","item"],["衣服","yīfu","clothes"],["，","","comma"],["你","nǐ","you"],["怎么","zěnme","how",9],["看","kàn","think"],["？","","question mark"],["”","","right quotation mark"],["我","wǒ","I"],["说","shuō","say"],["：","","colon"],["“","","left quotation mark"],["真","zhēn","really",10],["好看","hǎokàn","good-looking"],["！","","exclamation mark"],["”","","right quotation mark"],["我们","wǒmen","we"],["都","dōu","all"],["很","hěn","very"],["开心","kāixīn","happy"],["。","","period"]],
+    [["然后","ránhòu","then"],["我们","wǒmen","we"],["去","qù","go"],["了","le","perfective"],["北面","běimiàn","north side"],["的","de","'s"],["书店","shūdiàn","bookstore"],["，","","comma"],["走进","zǒujìn","enter"],["时","shí","when"],["朋友","péngyou","friend"],["正在","zhèngzài","in the process of"],["看","kàn","read"],["书","shū","book"],["。","","period"]],
+    [["那里","nàlǐ","there",11],["人","rén","people"],["很多","hěnduō","many"],["，","","comma"],["我","wǒ","I"],["常","cháng","often"],["去","qù","go"],["那","nà","that"],["家","jiā","shop (measure word)"],["店","diàn","store"],["，","","comma"],["但","dàn","but"],["这次","zhècì","this time"],["没","méi","not (have)",12],["找到","zhǎodào","find"],["我","wǒ","I"],["要","yào","want"],["的","de","'s"],["。","","period"]],
+    [["朋友","péngyou","friend"],["说","shuō","say"],["：","","colon"],["“","","left quotation mark"],["你","nǐ","you"],["别","bié","don't"],["着急","zháojí","worry"],["，","","comma"],["我","wǒ","I"],["能","néng","can",13],["找到","zhǎodào","find"],["的","de","'s"],["。","","period"],["我们","wǒmen","we"],["还是","háishì","still, or",14],["去","qù","go"],["那","nà","that"],["家","jiā","shop"],["看看","kànkan","have a look"],["吧","ba","suggestion particle"],["。","","period"],["”","","right quotation mark"]],
+    [["他","tā","he"],["跟","gēn","with"],["我","wǒ","I"],["一起","yìqǐ","together"],["仔细","zǐxì","careful"],["地","de","adverbial particle",15],["找","zhǎo","look for"],["每","měi","every"],["一","yī","one"],["本","běn","volume"],["，","","comma"],["最后","zuìhòu","finally"],["我们","wǒmen","we"],["终于","zhōngyú","finally"],["找到","zhǎodào","find"],["了","le","perfective"],["。","","period"]],
+    [["那天","nàtiān","that day"],["我们","wǒmen","we"],["一块儿","yíkuàir","together"],["回家","huíjiā","go home"],["，","","comma"],["都","dōu","all"],["觉得","juéde","feel"],["很","hěn","very"],["满足","mǎnzú","satisfied"],["。","","period"]],
+    [["路上","lùshàng","on the way"],["我","wǒ","I"],["问","wèn","ask"],["朋友","péngyou","friend"],["：","","colon"],["“","","left quotation mark"],["这","zhè","this"],["本","běn","volume"],["字典","zìdiǎn","dictionary"],["多少","duōshǎo","how much"],["钱","qián","money"],["？","","question mark"],["”","","right quotation mark"],["他","tā","he"],["说","shuō","say"],["：","","colon"],["“","","left quotation mark"],["十","shí","ten"],["块","kuài","piece (measure word for money)"],["钱","qián","money"],["。","","period"],["”","","right quotation mark"]],
+    [["我们","wǒmen","we"],["还","hái","also"],["喝","hē","drink"],["了","le","perfective"],["半","bàn","half"],["杯","bēi","cup"],["咖啡","kāfēi","coffee"],["，","","comma"],["朋友","péngyou","friend"],["也","yě","also"],["买","mǎi","buy"],["了","le","perfective"],["一","yī","one"],["杯","bēi","cup"],["奶茶","nǎichá","milk tea"],["。","","period"]]
+  ],
+  "explanations": {
+    "1": "'一起'是协同副词，表示共同做某事。",
+    "2": "'先'是时间副词，表示动作的先后顺序。",
+    "3": "'从'引出时间或处所的起点。",
+    "4": "'里'是方位名词，表示在某个范围之内。",
+    "5": "'什么'是疑问代词，用于询问事物。",
+    "6": "'两'是数字，表示数量二。",
+    "7": "'这些'是指示代词，指代复数事物。",
+    "8": "'百'是数字，表示一百。",
+    "9": "'怎么'是疑问代词，用于询问方式或看法。",
+    "10": "'真'是程度副词，强调程度高，相当于'确实'。",
+    "11": "'那里'是指示代词，指代较远的地方。",
+    "12": "'没'是否定副词，表示否定过去或完成。",
+    "13": "'能'是能愿动词，表示有能力做到。",
+    "14": "'还是'是连接词，表示建议或选择。",
+    "15": "'地'是结构助词，用在状语后修饰动词。"
+  },
+  "translation": "Last weekend, my friend and I went shopping together. We first departed from home and took the subway to the shopping mall on the east side. Inside the mall, my friend asked me what I wanted to buy. I said I wanted to buy a dictionary. The shop assistant took out two books, and I looked at these. Finally I bought one with a hundred pages, and my friend bought a piece of clothing. He put it on and asked me, 'What do you think of this piece of clothing?' I said, 'Really nice!' We were all very happy. Then we went to the bookstore on the north side; when we entered, my friend was reading. There were many people there. I often go to that store, but this time I didn't find what I wanted. My friend said, 'Don't worry, I can find it. Let's still go to that store and have a look.' He looked carefully with me for every volume, and finally we found it. That day we went home together and all felt very satisfied. On the way I asked my friend, 'How much is this dictionary?' He said, 'Ten yuan.' We also drank half a cup of coffee, and my friend also bought a cup of milk tea."
+}

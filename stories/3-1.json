@@ -1,0 +1,38 @@
+{
+  "id": "3-1",
+  "level": 3,
+  "title": "周末购物",
+  "titlePinyin": "zhōu mò gòu wù",
+  "topicEn": "Weekend Shopping",
+  "sentences": [
+    [["这个","zhè ge","this"],["周末","zhōu mò","weekend"],["，","",""],["我","wǒ","I"],["和","hé","and"],["妈妈","mā ma","mother"],["一起","yī qǐ","together",1],["去","qù","go"],["商场","shāng chǎng","mall"],["买","mǎi","buy"],["衣服","yī fu","clothes"],["。","",""]],
+    [["商场","shāng chǎng","mall"],["里","lǐ","inside",2],["人","rén","people"],["很","hěn","very"],["多","duō","many"],["，","",""],["我们","wǒ men","we"],["先","xiān","first",3],["看","kàn","look"],["裙子","qún zi","skirt"],["。","",""]],
+    [["妈妈","mā ma","mother"],["喜欢","xǐ huān","like"],["那","nà","that",4],["条","tiáo","[measure for long objects]",5],["红色","hóng sè","red"],["的","de","'s"],["裙子","qún zi","skirt"],["，","",""],["但是","dàn shì","but"],["我","wǒ","I"],["觉得","jué de","think"],["这","zhè","this",6],["件","jiàn","[measure for items]",7],["蓝色","lán sè","blue"],["的","de","'s"],["很","hěn","very"],["漂亮","piào liang","beautiful"],["。","",""]],
+    [["妈妈","mā ma","mother"],["说","shuō","say"],["：","",""],["“","",""],["你","nǐ","you"],["喜欢","xǐ huān","like"],["红色","hóng sè","red"],["的","de","'s"],["还是","hái shì","or",8],["蓝色","lán sè","blue"],["的","de","'s"],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["蓝色","lán sè","blue"],["的","de","'s"],["。","",""],["”","",""]],
+    [["我们","wǒ men","we"],["试","shì","try"],["了","le","[past particle]",9],["试","shì","try"],["蓝色","lán sè","blue"],["的","de","'s"],["裙子","qún zi","skirt"],["，","",""],["非常","fēi cháng","very",10],["合适","hé shì","suitable"],["。","",""]],
+    [["然后","rán hòu","then",11],["我们","wǒ men","we"],["去","qù","go"],["看","kàn","look"],["鞋子","xié zi","shoes"],["。","",""]],
+    [["我","wǒ","I"],["买","mǎi","buy"],["了","le","[past particle]"],["一","yī","one"],["双","shuāng","[pair]",12],["白色","bái sè","white"],["的","de","'s"],["鞋子","xié zi","shoes"],["，","",""],["妈妈","mā ma","mother"],["买","mǎi","buy"],["了","le","[past particle]"],["一","yī","one"],["个","gè","[general measure]",13],["帽子","mào zi","hat"],["。","",""]],
+    [["我们","wǒ men","we"],["还","hái","also",14],["在","zài","at"],["商场","shāng chǎng","mall"],["里","lǐ","inside"],["吃","chī","eat"],["了","le","[past particle]"],["冰淇淋","bīng qí lín","ice cream"],["。","",""]],
+    [["最后","zuì hòu","finally"],["我们","wǒ men","we"],["从","cóng","from",15],["商场","shāng chǎng","mall"],["出来","chū lái","come out"],["，","",""],["坐","zuò","take"],["公交车","gōng jiāo chē","bus"],["回家","huí jiā","go home"],["。","",""]],
+    [["今天","jīn tiān","today"],["真","zhēn","really"],["开心","kāi xīn","happy"],["！","",""]]
+  ],
+  "explanations": {
+    "1": "表示共同行动，与‘和妈妈’搭配自然。",
+    "2": "表示方位，‘商场里’指商场内部。",
+    "3": "表示时间顺序，‘先看裙子’说明先做这个。",
+    "4": "指示代词，指代远处的那条裙子。",
+    "5": "名量词，用于长条形的物件，如裙子。",
+    "6": "指示代词，指代近处的这件裙子。",
+    "7": "名量词，用于衣物，如裙子。",
+    "8": "连接词，用于选择疑问句。",
+    "9": "动态助词，表示动作完成，‘试了试’尝试过了。",
+    "10": "程度副词，修饰‘合适’，表示很适合。",
+    "11": "时间副词，表示接下来。",
+    "12": "名量词，用于成对的东西，如鞋子。",
+    "13": "名量词，用于帽子等普通物品。",
+    "14": "关联副词，表示动作的追加，‘还吃了冰淇淋’。",
+    "15": "介词，引出起点，‘从商场出来’。"
+  },
+  "translation": "This weekend, my mother and I went to the mall together to buy clothes. There were many people in the mall; we first looked at skirts. Mom liked that red skirt, but I thought this blue one was very beautiful. Mom said: 'Do you like red or blue?' I said: 'Blue.' We tried the blue skirt, and it was very suitable. Then we went to look at shoes. I bought a pair of white shoes, and Mom bought a hat. We also ate ice cream in the mall. Finally, we came out of the mall and took the bus home. Today was really happy!"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "6-3",
+  "level": 6,
+  "title": "周末购物",
+  "titlePinyin": "zhōu mò gòu wù",
+  "topicEn": "Weekend Shopping",
+  "sentences": [
+    [["上","shàng","last"],["个","gè","measure word"],["星期六","xīng qī liù","Saturday"],["，","",""],["我","wǒ","I"],["从","cóng","from",1],["家","jiā","home"],["出发","chū fā","set out"],["去","qù","go"],["逛街","guàng jiē","go shopping"],["。","",""]],
+    [["我","wǒ","I"],["跟","gēn","with",2],["朋友","péng you","friend"],["一起","yì qǐ","together"],["去","qù","go"],["。","",""]],
+    [["我们","wǒ men","we"],["先","xiān","first",3],["去","qù","go"],["了","le","(past)"],["书店","shū diàn","bookstore"],["。","",""]],
+    [["书店","shū diàn","bookstore"],["里","lǐ","inside",4],["的","de","'s",5],["书","shū","book"],["很多","hěn duō","many"],["。","",""]],
+    [["我","wǒ","I",6],["买","mǎi","buy"],["了","le","(past)",7],["一","yī","one",8],["本","běn","(copy)",9],["小说","xiǎo shuō","novel"],["，","",""],["朋友","péng you","friend"],["买","mǎi","buy"],["了","le","(past)"],["三","sān","three"],["本","běn","(copy)"],["词典","cí diǎn","dictionary"],["。","",""]],
+    [["我们","wǒ men","we"],["也","yě","also",10],["买","mǎi","buy"],["了","le","(past)"],["一些","yī xiē","some"],["杂志","zá zhì","magazine"],["。","",""]],
+    [["朋友","péng you","friend"],["问","wèn","ask"],["我","wǒ","me"],["应该","yīng gāi","should"],["买","mǎi","buy"],["哪","nǎ","which",11],["一","yī","one"],["本","běn","(copy)"],["小说","xiǎo shuō","novel"],["。","",""]],
+    [["我","wǒ","I"],["不","bù","not"],["会","huì","can",12],["做饭","zuò fàn","cook"],["，","",""],["所以","suǒ yǐ","so"],["我们","wǒ men","we"],["在","zài","at"],["超市","chāo shì","supermarket"],["买","mǎi","buy"],["了","le","(past)"],["速食","sù shí","instant food"],["。","",""]],
+    [["回家","huí jiā","go home"],["后","hòu","after"],["，","",""],["我们","wǒ men","we"],["正在","zhèng zài","in progress"],["看","kàn","watch"],["电视","diàn shì","TV"],["。","",""]],
+    [["这","zhè","this",13],["个","gè","measure word"],["周末","zhōu mò","weekend"],["过得","guò de","spent"],["真","zhēn","really",14],["愉快","yú kuài","pleasant"],["。","",""]],
+    [["我们","wǒ men","we"],["都","dōu","all",15],["觉得","jué de","feel"],["非常","fēi cháng","very"],["开心","kāi xīn","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "引出时间处所，表示起点。",
+    "2": "引出对象，表示共同行动的人。",
+    "3": "时间副词，表示动作的先后顺序。",
+    "4": "方位名词，表示内部。",
+    "5": "结构助词，表示领属关系。",
+    "6": "人称代词，第一人称单数。",
+    "7": "动态助词，表示动作完成。",
+    "8": "数词，表示数量。",
+    "9": "名量词，用于书籍。",
+    "10": "关联副词，表示同样。",
+    "11": "疑问代词，用于选择疑问。",
+    "12": "能愿动词，表示能力。",
+    "13": "指示代词，指代近处事物。",
+    "14": "程度副词，表示程度高。",
+    "15": "范围副词，表示全部。"
+  },
+  "translation": "Last Saturday, I went shopping from home. I went with a friend. We first went to the bookstore. There were many books in the bookstore. I bought a novel, and my friend bought three dictionaries. We also bought some magazines. My friend asked me which novel to buy. I can't cook, so we bought instant food at the supermarket. After returning home, we were watching TV. This weekend was really enjoyable. We all felt very happy."
+}

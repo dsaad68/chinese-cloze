@@ -1,0 +1,39 @@
+{
+  "id": "4-18",
+  "level": 4,
+  "title": "我的日常",
+  "titlePinyin": "wǒ de rìcháng",
+  "topicEn": "Daily Routine",
+  "sentences": [
+    [["今天","jīntiān","today"],["早上","zǎoshang","morning"],["，","",""],["我","wǒ","I"],["七","qī","seven"],["点","diǎn","o'clock"],["半","bàn","half",1],["起床","qǐchuáng","get up"],["。","",""]],
+    [["起床","qǐchuáng","get up"],["后","hòu","after"],["，","",""],["我","wǒ","I"],["先","xiān","first",2],["洗脸","xǐliǎn","wash face"],["，","",""],["然后","ránhòu","then"],["去","qù","go"],["厨房","chúfáng","kitchen"],["吃","chī","eat"],["早饭","zǎofàn","breakfast"],["。","",""]],
+    [["妈妈","māma","mother"],["做","zuò","make"],["了","le","(past)"],["鸡蛋","jīdàn","egg"],["和","hé","and",3],["面包","miànbāo","bread"],["，","",""],["我","wǒ","I"],["喝","hē","drink"],["了","le","(past)"],["一","yī","one"],["杯","bēi","cup"],["牛奶","niúnǎi","milk"],["。","",""]],
+    [["八","bā","eight"],["点","diǎn","o'clock"],["半","bàn","half"],["，","",""],["我","wǒ","I"],["出门","chūmén","leave home"],["去","qù","go"],["学校","xuéxiào","school"],["。","",""]],
+    [["学校","xuéxiào","school"],["在","zài","at"],["我","wǒ","my"],["家","jiā","home"],["前","qián","front",4],["面","miàn","side"],["，","",""],["我","wǒ","I"],["走路","zǒulù","walk"],["去","qù","go"],["学校","xuéxiào","school"],["，","",""],["需要","xūyào","need"],["十五","shíwǔ","fifteen"],["分钟","fēnzhōng","minutes"],["。","",""]],
+    [["上午","shàngwǔ","morning"],["我们","wǒmen","we"],["上","shàng","attend",5],["汉语课","hànyǔkè","Chinese class"],["，","",""],["老师","lǎoshī","teacher"],["教","jiāo","teach"],["我们","wǒmen","us"],["什么","shénme","what",6],["汉字","hànzì","Chinese characters"],["？","",""]],
+    [["下午","xiàwǔ","afternoon"],["我","wǒ","I"],["和","hé","and"],["同学","tóngxué","classmate"],["一起","yīqǐ","together",7],["去","qù","go"],["图书馆","túshūguǎn","library"],["，","",""],["图书馆","túshūguǎn","library"],["里","lǐ","inside"],["很","hěn","very",8],["多","duō","many"],["书","shū","book"],["，","",""],["我们","wǒmen","we"],["喜欢","xǐhuān","like"],["一起","yīqǐ","together"],["看","kàn","read"],["书","shū","book"],["。","",""]],
+    [["晚上","wǎnshang","evening"],["我","wǒ","I"],["回家","huíjiā","go home"],["做","zuò","do"],["作业","zuòyè","homework"],["，","",""],["有时候","yǒushíhou","sometimes"],["我","wǒ","I"],["还","hái","also",9],["看","kàn","watch"],["电视","diànshì","TV"],["。","",""]],
+    [["周末","zhōumò","weekend"],["我","wǒ","I"],["跟","gēn","with",10],["朋友","péngyou","friend"],["一块儿","yīkuàir","together",11],["去","qù","go"],["公园","gōngyuán","park"],["，","",""],["我们","wǒmen","we"],["玩","wán","play"],["得","de","(particle)"],["非常","fēicháng","very",12],["快乐","kuàilè","happy"],["。","",""]],
+    [["这","zhè","this",13],["是","shì","is"],["我","wǒ","my"],["最","zuì","most"],["大","dà","big"],["的","de","(possessive)"],["快乐","kuàilè","happiness"],["。","",""]],
+    [["我","wǒ","I"],["也","yě","also",14],["能","néng","can"],["学","xué","learn"],["很","hěn","very"],["多","duō","many"],["新","xīn","new"],["东西","dōngxi","things"],["。","",""]],
+    [["我","wǒ","I"],["真","zhēn","really",15],["喜欢","xǐhuān","like"],["学习","xuéxí","study"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "'半'表示时间点的一半，常用于时间表达。",
+    "2": "'先'强调顺序，表示最先做的事情。",
+    "3": "'和'连接并列的两个名词。",
+    "4": "'前'是方位名词，表示位置在前面。",
+    "5": "'上'作为动词，表示参加课程。",
+    "6": "'什么'是疑问代词，用于询问具体内容。",
+    "7": "'一起'是协同副词，表示共同行动。",
+    "8": "'很'是程度副词，修饰'多'表示数量大。",
+    "9": "'还'是关联副词，表示在已有基础上增加。",
+    "10": "'跟'是引出对象的介词，表示陪伴。",
+    "11": "'一块儿'是协同副词，与'一起'同义。",
+    "12": "'非常'是程度副词，强调快乐的程度很深。",
+    "13": "'这'是指示代词，指代前文提到的经历。",
+    "14": "'也'是关联副词，表示同样的情况。",
+    "15": "'真'是程度副词，表示强烈的肯定语气。"
+  },
+  "translation": "This morning, I get up at 7:30. After getting up, I wash my face first, then go to the kitchen for breakfast. Mom makes eggs and bread, and I drink a glass of milk. At 8:30, I leave for school. The school is in front of my house; I walk to school, which takes fifteen minutes. In the morning, we attend Chinese class; the teacher teaches us various Chinese characters. In the afternoon, my classmate and I go to the library together; there are many books in the library, and we like reading together. In the evening, I go home and do homework; sometimes I also watch TV. On weekends, I go to the park with my friend; we have a great time. This is my greatest happiness. I can also learn many new things. I really like studying."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "7-18",
+  "level": 7,
+  "title": "公园喂鸭",
+  "titlePinyin": "Gōngyuán wèi yā",
+  "topicEn": "Feeding ducks at the park",
+  "sentences": [
+    [["周末","zhōumò","weekend"],["上午","shàngwǔ","morning"],["，","",""],["小明","xiǎo míng","Xiaoming"],["和","hé","and/with"],["妈妈","māma","mom"],["一起","yìqǐ","together",1],["去","qù","go"],["公园","gōngyuán","park"],["。","",""]],
+    [["公园","gōngyuán","park"],["里","lǐ","inside",2],["有","yǒu","there are"],["很多","hěnduō","many"],["花","huā","flower"],["和","hé","and"],["树","shù","tree"],["。","",""]],
+    [["他们","tāmen","they"],["先","xiān","first"],["去","qù","go"],["了","le","aspect particle"],["湖","hú","lake"],["的","de","of"],["左边","zuǒbiān","left side",3],["。","",""]],
+    [["湖水","húshuǐ","lake water"],["的","de","of"],["颜色","yánsè","color"],["非常","fēicháng","very",4],["蓝","lán","blue"],["。","",""]],
+    [["小明","xiǎo míng","Xiaoming"],["看见","kànjiàn","see"],["几","jǐ","a few"],["个","gè","(measure word)",5],["鸭子","yāzi","duck"],["在","zài","at"],["湖","hú","lake"],["里","lǐ","inside"],["游","yóu","swim"],["。","",""]],
+    [["妈妈","māma","mom"],["问","wèn","ask"],["：","",""],["“","",""],["你","nǐ","you"],["能","néng","can",6],["喂","wèi","feed"],["鸭子","yāzi","duck"],["吗","ma","question particle"],["？","",""],["”","",""]],
+    [["小明","xiǎo míng","Xiaoming"],["说","shuō","say"],["：","",""],["“","",""],["我","wǒ","I"],["不","bù","not",7],["会","huì","can"],["游泳","yóuyǒng","swim"],["，","",""],["但","dàn","but"],["我","wǒ","I"],["会","huì","can"],["喂","wèi","feed"],["。","",""],["”","",""]],
+    [["妈妈","māma","mom"],["从","cóng","from",8],["包","bāo","bag"],["里","lǐ","inside"],["拿出","náchū","take out"],["一","yī","one"],["块","kuài","piece (measure word)",9],["面包","miànbāo","bread"],["。","",""]],
+    [["小明","xiǎo míng","Xiaoming"],["正在","zhèngzài","is doing"],["把","bǎ","(disposal marker)"],["面包","miànbāo","bread"],["扔","rēng","throw"],["进","jìn","into"],["湖","hú","lake"],["里","lǐ","inside"],["，","",""],["鸭子","yāzi","duck"],["们","men","plural suffix"],["马上","mǎshàng","immediately"],["都","dōu","all",10],["游","yóu","swim"],["过来","guòlái","come over"],["。","",""]],
+    [["这时","zhèshí","at this time"],["，","",""],["一","yī","one",11],["个","gè","(measure word)"],["小朋友","xiǎopéngyǒu","child"],["跑","pǎo","run"],["过来","guòlái","come over"],["，","",""],["问","wèn","ask"],["：","",""],["“","",""],["我","wǒ","I"],["可以","kěyǐ","may"],["和","hé","with",12],["你们","nǐmen","you (plural)"],["一起","yìqǐ","together"],["喂","wèi","feed"],["吗","ma","question particle"],["？","",""],["”","",""]],
+    [["小明","xiǎo míng","Xiaoming"],["说","shuō","say"],["：","",""],["“","",""],["当然","dāngrán","of course"],["可以","kěyǐ","can"],["！","",""],["”","",""]],
+    [["他们","tāmen","they"],["一起","yìqǐ","together"],["喂","wèi","feed"],["了","le","aspect particle",13],["很久","hěnjiǔ","a long time"],["。","",""]],
+    [["最后","zuìhòu","finally"],["，","",""],["他们","tāmen","they"],["坐","zuò","sit"],["在","zài","on"],["长椅","chángyǐ","bench"],["上","shàng","on (top)",14],["休息","xiūxi","rest"],["，","",""],["觉得","juéde","feel"],["今天","jīntiān","today"],["太","tài","too",15],["开心","kāixīn","happy"],["了","le","aspect particle"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "表示小明和妈妈共同行动，符合‘一起去’的语境。",
+    "2": "方位名词表示公园内部，说明花和树的位置。",
+    "3": "方位名词指明他们去的具体方向。",
+    "4": "程度副词修饰‘蓝’，强调颜色很蓝。",
+    "5": "量词用于鸭子，表示数量‘几个’。",
+    "6": "能愿动词表示能力，妈妈询问是否具备喂鸭子的能力。",
+    "7": "否定副词用于‘不会’，表达没有游泳的能力。",
+    "8": "介词引出动作的起点‘包里’。",
+    "9": "量词用于面包，表示一块面包。",
+    "10": "范围副词表示所有鸭子一起游过来。",
+    "11": "数词用于‘一个小朋友’，表示一个孩子。",
+    "12": "介词引出共同行动的对象‘你们’。",
+    "13": "动态助词表示喂鸭子动作的完成或持续。",
+    "14": "方位名词表示坐在长椅的表面。",
+    "15": "程度副词修饰‘开心’，表示程度很高。"
+  },
+  "translation": "On a weekend morning, Xiaoming and his mother went to the park together. There were many flowers and trees in the park. They first went to the left side of the lake. The color of the lake water was very blue. Xiaoming saw a few ducks swimming in the lake. Mom asked, \"Can you feed the ducks?\" Xiaoming said, \"I can't swim, but I can feed them.\" Mom took out a piece of bread from her bag. Xiaoming was throwing the bread into the lake, and the ducks immediately all swam over. At this moment, a child ran over and asked, \"Can I feed with you?\" Xiaoming said, \"Of course!\" They fed together for a long time. Finally, they sat on the bench to rest and felt very happy today."
+}

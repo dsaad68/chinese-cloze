@@ -1,0 +1,38 @@
+{
+  "id": "7-13",
+  "level": 7,
+  "title": "公园里的周末",
+  "titlePinyin": "gōngyuán lǐ de zhōumò",
+  "topicEn": "Weekend in the Park",
+  "sentences": [
+    [["我","wǒ","I",1],["周末","zhōumò","weekend"],["和","hé","and",2],["妈妈","māma","mom"],["一块儿","yīkuàir","together",3],["去","qù","go"],["公园","gōngyuán","park"],["。","",""]],
+    [["我们","wǒmen","we"],["走","zǒu","walk"],["进去","jìnqù","go in"],["，","",""],["里面","lǐmiàn","inside"],["有","yǒu","have"],["很","hěn","very",4],["多","duō","many"],["花","huā","flower"],["。","",""]],
+    [["妈妈","māma","mom"],["问","wèn","ask"],["：","",""],["“","",""],["你","nǐ","you"],["喜欢","xǐhuān","like"],["哪","nǎ","which",5],["朵","duǒ","(for flower)"],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["指","zhǐ","point"],["了","le","(past)"],["指","zhǐ","point"],["最","zuì","most",6],["红","hóng","red"],["的","de","(possessive)"],["。","",""]],
+    [["我们","wǒmen","we"],["继续","jìxù","continue"],["往","wǎng","toward"],["前","qián","forward",7],["走","zǒu","walk"],["，","",""],["看到","kàndào","see"],["一","yī","one",8],["条","tiáo","(for river)"],["小河","xiǎohé","stream"],["。","",""]],
+    [["河里","hé lǐ","in the river"],["有","yǒu","have"],["鱼","yú","fish"],["。","",""]],
+    [["我","wǒ","I"],["想","xiǎng","want"],["数","shǔ","count"],["一","yī","one"],["数","shǔ","count"],["，","",""],["但是","dànshì","but"],["鱼","yú","fish"],["游","yóu","swim"],["得","de","(adverbial)"],["太","tài","too",9],["快","kuài","fast"],["了","le","(past)"],["。","",""]],
+    [["后来","hòulái","later"],["我们","wǒmen","we"],["坐","zuò","sit"],["在","zài","at"],["长椅","chángyǐ","bench"],["上","shàng","on",10],["休息","xiūxi","rest"],["。","",""]],
+    [["我","wǒ","I"],["有点","yǒudiǎn","a bit"],["饿","è","hungry"],["，","",""],["就","jiù","then"],["吃","chī","eat"],["了","le","(past)",11],["面包","miànbāo","bread"],["。","",""]],
+    [["妈妈","māma","mom"],["喝","hē","drink"],["了","le","(past)"],["一","yī","one"],["杯","bēi","cup",12],["水","shuǐ","water"],["。","",""]],
+    [["我们","wǒmen","we"],["一直","yīzhí","always"],["待","dāi","stay"],["到","dào","until"],["下午","xiàwǔ","afternoon",13],["才","cái","then"],["回家","huíjiā","go home"],["。","",""]],
+    [["今天","jīntiān","today"],["真","zhēn","really",14],["开心","kāixīn","happy"],["！","",""]]
+  ],
+  "explanations": {
+    "1": "人称代词，表示说话者自己。",
+    "2": "连接词，连接‘我’和‘妈妈’。",
+    "3": "协同副词，表示共同行动。",
+    "4": "程度副词，修饰‘多’。",
+    "5": "疑问代词，用于询问具体哪一朵花。",
+    "6": "程度副词，表示最高程度。",
+    "7": "方位名词，表示方向。",
+    "8": "数词，表示数量。",
+    "9": "程度副词，表示程度过分。",
+    "10": "方位名词，表示在长椅的表面。",
+    "11": "动态助词，表示动作完成。",
+    "12": "名量词，用于计量饮料。",
+    "13": "时间名词，表示一天中的时段。",
+    "14": "程度副词，加强语气。"
+  },
+  "translation": "I went to the park with my mom on the weekend. We walked in, and there were many flowers inside. Mom asked, 'Which one do you like?' I pointed at the reddest one. We continued walking forward and saw a stream. There were fish in the stream. I wanted to count them, but the fish swam too fast. Later we sat on a bench to rest. I was a bit hungry, so I ate bread. Mom drank a cup of water. We stayed until the afternoon before going home. Today was really happy!"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4-6",
+  "level": 4,
+  "title": "周六去公园",
+  "titlePinyin": "zhōu liù qù gōng yuán",
+  "topicEn": "A Saturday trip to the park",
+  "sentences": [
+    [["今天","jīn tiān","today"],["星期六","xīng qī liù","Saturday"],["。","",""]],
+    [["我","wǒ","I",1],["和","hé","and",2],["一","yī","one",3],["个","gè","measure word",4],["朋友","péng yǒu","friend"],["一起","yì qǐ","together",5],["从","cóng","from",6],["家","jiā","home"],["出发","chū fā","depart"],["去","qù","go"],["公园","gōng yuán","park"],["。","",""]],
+    [["公园","gōng yuán","park"],["里","lǐ","inside",7],["有","yǒu","there are"],["很多","hěn duō","many"],["树","shù","tree"],["和","hé","and"],["花","huā","flower"],["。","",""]],
+    [["我们","wǒ men","we",8],["先","xiān","first",9],["在","zài","at",10],["树","shù","tree"],["下","xià","under",11],["休息","xiū xi","rest"],["了","le","past"],["一会儿","yí huìr","a while"],["。","",""]],
+    [["然后","rán hòu","then"],["我们","wǒ men","we"],["没有","méi yǒu","did not",12],["去","qù","go"],["别","bié","other"],["的","de","possession"],["地方","dì fāng","place"],["，","","comma"],["去","qù","go"],["了","le","past",13],["湖边","hú biān","lakeside"],["看","kàn","watch"],["鱼","yú","fish"],["。","",""]],
+    [["湖","hú","lake"],["里","lǐ","inside"],["的","de","possession",14],["鱼","yú","fish"],["多","duō","many",15],["，","","comma"],["我","wǒ","I"],["不","bù","not"],["知道","zhī dào","know"],["这","zhè","this"],["是","shì","is"],["什么","shén me","what"],["花","huā","flower"],["。","",""]],
+    [["我们","wǒ men","we"],["坐","zuò","sit"],["在","zài","at"],["大树","dà shù","big tree"],["前","qián","in front"],["。","",""]],
+    [["我","wǒ","I"],["的","de","possession"],["朋友","péng yǒu","friend"],["会","huì","can"],["游泳","yóu yǒng","swim"],["，","","comma"],["但是","dàn shì","but"],["我","wǒ","I"],["不","bù","not"],["太","tài","too"],["会","huì","can"],["。","",""]],
+    [["他","tā","he"],["游","yóu","swim"],["得","de","complement"],["很","hěn","very"],["快","kuài","fast"],["。","",""]],
+    [["我们","wǒ men","we"],["买","mǎi","buy"],["了","le","past"],["两","liǎng","two"],["个","gè","measure"],["冰激凌","bīng jī líng","ice cream"],["。","",""]],
+    [["冰激凌","bīng jī líng","ice cream"],["非常","fēi cháng","very"],["好吃","hǎo chī","delicious"],["。","",""]],
+    [["我们","wǒ men","we"],["玩","wán","play"],["得","de","complement"],["很","hěn","very"],["开心","kāi xīn","happy"],["。","",""]],
+    [["下午","xià wǔ","afternoon"],["五","wǔ","five"],["点","diǎn","o'clock"],["半","bàn","half"],["我们","wǒ men","we"],["回","huí","return"],["家","jiā","home"],["了","le","past"],["。","",""]],
+    [["今天","jīn tiān","today"],["真是","zhēn shì","really"],["美好","měi hǎo","wonderful"],["的","de","possession"],["一天","yì tiān","one day"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "需要主语代词‘我’来引出叙述者。",
+    "2": "需要连词‘和’连接‘我’与‘朋友’。",
+    "3": "需要数词‘一’修饰量词‘个’表示一个朋友。",
+    "4": "需要量词‘个’与数词‘一’搭配。",
+    "5": "需要范围副词‘一起’表示共同行动。",
+    "6": "需要介词‘从’表示起点。",
+    "7": "需要方位名词‘里’表示公园内部。",
+    "8": "需要人称代词‘我们’作主语。",
+    "9": "需要时间副词‘先’表示动作顺序。",
+    "10": "需要介词‘在’引出地点。",
+    "11": "需要方位名词‘下’表示树的下方。",
+    "12": "需要否定副词‘没有’否定动作。",
+    "13": "需要动态助词‘了’表示动作完成。",
+    "14": "需要结构助词‘的’表示所属关系。",
+    "15": "需要形容词‘多’描述鱼的数量。"
+  },
+  "translation": "Today is Saturday. I and a friend left home together to go to the park. There are many trees and flowers in the park. We first rested under a tree for a while. Then we didn't go anywhere else, we went to the lakeside to watch fish. The fish in the lake are many, I don't know what flower this is. We sat in front of a big tree. My friend can swim, but I cannot swim well. He swims very fast. We bought two ice creams. The ice cream is very delicious. We played very happily. At 5:30 in the afternoon we returned home. Today is really a wonderful day."
+}

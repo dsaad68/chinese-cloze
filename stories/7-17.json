@@ -1,0 +1,39 @@
+{
+  "id": "7-17",
+  "level": 7,
+  "title": "周末购物",
+  "titlePinyin": "zhōu mò gòu wù",
+  "topicEn": "Weekend Shopping",
+  "sentences": [
+    [["周末","zhōu mò","weekend"],["，","",""],["我","wǒ","I"],["和","hé","and"],["家人","jiā rén","family member"],["一起","yī qǐ","together"],["从","cóng","from",1],["家","jiā","home"],["出发","chū fā","depart"],["去","qù","go"],["超市","chāo shì","supermarket"],["。","",""]],
+    [["超市","chāo shì","supermarket"],["里","lǐ","inside",2],["非常","fēi cháng","very",3],["热闹","rè nào","lively"],["，","",""],["人","rén","people"],["很多","hěn duō","many"],["。","",""]],
+    [["我们","wǒ men","we"],["先","xiān","first",4],["去","qù","go"],["了","le","particle (completed action)",5],["一","yī","one",6],["楼","lóu","floor"],["，","",""],["买","mǎi","buy"],["了","le","particle (completed action)"],["苹果","píng guǒ","apple"],["和","hé","and"],["香蕉","xiāng jiāo","banana"],["。","",""]],
+    [["然后","rán hòu","then"],["，","",""],["我们","wǒ men","we"],["上","shàng","up/ascend",7],["了","le","particle (completed action)"],["二","èr","two",8],["楼","lóu","floor"],["，","",""],["那里","nà lǐ","there",9],["有","yǒu","have"],["卖","mài","sell"],["衣服","yī fu","clothes"],["的","de","possessive/attributive",10],["。","",""]],
+    [["妈妈","mā ma","mom"],["想","xiǎng","want"],["买","mǎi","buy"],["一","yī","one"],["件","jiàn","measure word for clothing"],["衬衫","chèn shān","shirt"],["，","",""],["但是","dàn shì","but"],["太","tài","too",11],["贵","guì","expensive"],["了","le","particle (completed action)"],["，","",""],["她","tā","she"],["没","méi","did not",12],["买","mǎi","buy"],["。","",""]],
+    [["爸爸","bà ba","dad"],["说","shuō","say"],["，","",""],["我们","wǒ men","we"],["去","qù","go"],["西","xī","west",13],["边","biān","side"],["看看","kàn kan","look"],["别的","bié de","other",14],["店","diàn","store"],["吧","ba","particle (suggestion)"],["。","",""]],
+    [["后来","hòu lái","later"],["，","",""],["我们","wǒ men","we"],["还","hái","also"],["去","qù","go"],["了","le","particle (completed action)"],["饮料","yǐn liào","beverage"],["区","qū","area"],["，","",""],["碰见","pèng jiàn","run into"],["了","le","particle (completed action)"],["邻居","lín jū","neighbor"],["。","",""]],
+    [["她","tā","she"],["问","wèn","ask"],["我们","wǒ men","we"],["买","mǎi","buy"],["了","le","particle (completed action)"],["什么","shén me","what",15],["，","",""],["我","wǒ","I"],["说","shuō","say"],["我们","wǒ men","we"],["买","mǎi","buy"],["了","le","particle (completed action)"],["很多","hěn duō","many"],["东西","dōng xi","things"],["。","",""]],
+    [["她","tā","she"],["笑","xiào","smile"],["了","le","particle (completed action)"],["笑","xiào","smile"],["，","",""],["说","shuō","say"],["她","tā","she"],["也","yě","also"],["常","cháng","often"],["来","lái","come"],["这儿","zhèr","here"],["，","",""],["这里","zhè lǐ","here"],["的","de","possessive/attributive"],["东西","dōng xi","things"],["真","zhēn","really"],["便宜","pián yi","cheap"],["。","",""]],
+    [["最后","zuì hòu","finally"],["，","",""],["我们","wǒ men","we"],["付","fù","pay"],["了","le","particle (completed action)"],["钱","qián","money"],["，","",""],["一起","yī qǐ","together"],["回","huí","return"],["家","jiā","home"],["了","le","particle (completed action)"],["。","",""]],
+    [["回家","huí jiā","go home"],["的","de","possessive/attributive"],["路上","lù shang","on the way"],["，","",""],["我们","wǒ men","we"],["都","dōu","all"],["很","hěn","very"],["开心","kāi xīn","happy"],["，","",""],["爸爸","bà ba","dad"],["说","shuō","say"],["下次","xià cì","next time"],["再","zài","again"],["来","lái","come"],["，","",""],["他","tā","he"],["会","huì","will"],["来","lái","come"],["的","de","particle (affirmation)"],["。","",""]],
+    [["我","wǒ","I"],["点","diǎn","nod"],["了","le","particle (completed action)"],["点","diǎn","nod"],["头","tóu","head"],["，","",""],["说","shuō","say"],["好","hǎo","good"],["的","de","particle (affirmation)"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "表示起点，从家出发。",
+    "2": "方位名词，表示超市内部。",
+    "3": "程度副词，修饰“热闹”。",
+    "4": "时间副词，表示顺序。",
+    "5": "动态助词，表示动作完成。",
+    "6": "数词，表示数量“一”。",
+    "7": "方位动词，表示向上移动。",
+    "8": "数词，表示数字“二”。",
+    "9": "指示代词，指代二楼。",
+    "10": "结构助词，连接定语和中心语。",
+    "11": "程度副词，表示程度过高。",
+    "12": "否定副词，表示没有发生。",
+    "13": "方位名词，表示方向。",
+    "14": "指示代词，表示另外的。",
+    "15": "疑问代词，用于提问。"
+  },
+  "translation": "On the weekend, my family and I left home together to go to the supermarket. The supermarket was very lively with many people. We first went to the first floor and bought apples and bananas. Then we went up to the second floor, where there were clothes for sale. Mom wanted to buy a shirt, but it was too expensive, so she didn't buy it. Dad said, \"Let's go to the west side and look at other stores.\" Later, we also went to the beverage area and ran into a neighbor. She asked us what we bought, and I said we bought a lot of things. She smiled and said she often comes here too, and the things here are really cheap. Finally, we paid and went home together. On the way home, we were all very happy, and Dad said he would come again next time. I nodded and said okay."
+}

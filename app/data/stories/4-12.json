@@ -1,0 +1,38 @@
+{
+  "id": "4-12",
+  "level": 4,
+  "title": "超市购物",
+  "titlePinyin": "chāo shì gòu wù",
+  "topicEn": "Shopping at the supermarket",
+  "sentences": [
+    [["今天","jīntiān","today"],["是","shì","is"],["周末","zhōumò","weekend"],["，","",""],["我","wǒ","I"],["和","hé","and",1],["朋友","péngyou","friend"],["一起","yīqǐ","together"],["去","qù","go"],["超市","chāoshì","supermarket"],["买","mǎi","buy"],["东西","dōngxi","things"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",2],["去","qù","go"],["了","le","-ed"],["水果区","shuǐguǒqū","fruit section"],["，","",""],["水果区","shuǐguǒqū","fruit section"],["在","zài","at"],["超市","chāoshì","supermarket"],["里","lǐ","inside",3],["，","",""],["那里","nàlǐ","there"],["有","yǒu","have"],["很多","hěnduō","many"],["苹果","píngguǒ","apple"],["和","hé","and"],["香蕉","xiāngjiāo","banana"],["。","",""]],
+    [["朋友","péngyou","friend"],["问","wèn","ask"],["我","wǒ","me"],["：","",""],["“","",""],["你","nǐ","you"],["想","xiǎng","want"],["买","mǎi","buy"],["什么","shénme","what",4],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["我","wǒ","I"],["想","xiǎng","want"],["买","mǎi","buy"],["一些","yīxiē","some",5],["苹果","píngguǒ","apple"],["，","",""],["还","hái","also",6],["要","yào","want"],["买","mǎi","buy"],["牛奶","niúnǎi","milk"],["。","",""],["”","",""]],
+    [["后来","hòulái","later"],["我们","wǒmen","we"],["去","qù","go"],["了","le","-ed"],["面包区","miànbāoqū","bread section"],["，","",""],["面包","miànbāo","bread"],["在","zài","at"],["架子","jiàzi","shelf"],["上","shàng","on",7],["。","",""]],
+    [["朋友","péngyou","friend"],["说","shuō","say"],["：","",""],["“","",""],["我","wǒ","I"],["会","huì","can",8],["做","zuò","make"],["面包","miànbāo","bread"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["拿","ná","take"],["了","le","-ed"],["两","liǎng","two",9],["个","gè","(measure word)"],["面包","miànbāo","bread"],["，","",""],["朋友","péngyou","friend"],["拿","ná","take"],["了","le","-ed"],["一","yī","one",10],["杯","bēi","cup",11],["酸奶","suānnǎi","yogurt"],["。","",""]],
+    [["最后","zuìhòu","finally"],["我们","wǒmen","we"],["去","qù","go"],["收银台","shōuyíntái","cashier desk"],["付","fù","pay"],["钱","qián","money"],["。","",""]],
+    [["收银员","shōuyínyuán","cashier"],["说","shuō","say"],["一共","yīgòng","total",12],["五十","wǔshí","fifty"],["元","yuán","yuan"],["。","",""]],
+    [["我","wǒ","I"],["给","gěi","give"],["她","tā","her",13],["一百","yībǎi","one hundred"],["元","yuán","yuan"],["，","",""],["她","tā","she"],["找","zhǎo","give change"],["了","le","-ed"],["我","wǒ","me"],["五十","wǔshí","fifty"],["元","yuán","yuan"],["。","",""]],
+    [["我们","wǒmen","we"],["很","hěn","very",14],["高兴","gāoxìng","happy"],["，","",""],["一起","yīqǐ","together",15],["回","huí","return"],["家","jiā","home"],["了","le","-ed"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "表示并列关系，连接‘我’和‘朋友’",
+    "2": "表示时间顺序，说明首先去了水果区",
+    "3": "表示方位，说明水果区在超市内部",
+    "4": "疑问代词，用于提问想买的东西",
+    "5": "表示不确定的数量，修饰苹果",
+    "6": "表示追加，说明除了苹果还要买牛奶",
+    "7": "方位名词，说明面包在架子表面",
+    "8": "能愿动词，表示朋友有能力做面包",
+    "9": "数词，表示两个面包的数量",
+    "10": "数词，表示一杯酸奶的数量",
+    "11": "名量词，用于计量酸奶",
+    "12": "范围副词，表示总金额",
+    "13": "人称代词，指代收银员",
+    "14": "程度副词，修饰‘高兴’表示程度高",
+    "15": "协同副词，表示共同行动回家"
+  },
+  "translation": "Today is the weekend. My friend and I went to the supermarket together to buy things. We first went to the fruit section. The fruit section is inside the supermarket. There are many apples and bananas there. My friend asked me: 'What do you want to buy?' I said: 'I want to buy some apples, and also want to buy milk.' Later we went to the bread section. The bread is on the shelf. My friend said: 'I can make bread.' I took two pieces of bread, and my friend took a cup of yogurt. Finally we went to the cashier to pay. The cashier said the total is fifty yuan. I gave her one hundred yuan, and she gave me fifty yuan change. We were very happy and went home together."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7-10",
+  "level": 7,
+  "title": "周末市场",
+  "titlePinyin": "zhōu mò shì chǎng",
+  "topicEn": "Weekend Market",
+  "sentences": [
+    [["今天","jīn tiān","today"],["我们","wǒ men","we"],["一家","yī jiā","a family"],["人","rén","people"],["一块儿","yī kuài r","together"],["去","qù","go"],["了","le","particle for past tense",1],["东","dōng","east"],["门","mén","gate"],["市场","shì chǎng","market"],["。",".","."]],
+    [["那儿","nà r","there"],["的","de","of"],["水果","shuǐ guǒ","fruit"],["非常","fēi cháng","very"],["新鲜","xīn xiān","fresh"],["，",",",","],["而且","ér qiě","and also"],["价格","jià gé","price"],["也","yě","also"],["很","hěn","very"],["便宜","pián yi","cheap"],["。",".","."]],
+    [["妈妈","mā ma","mom"],["买","mǎi","buy"],["了","le","particle for past tense"],["两","liǎng","two"],["杯","bēi","cup",2],["果汁","guǒ zhī","juice"],["，",",",","],["爸爸","bà ba","dad"],["则","zé","then"],["挑选","tiāo xuǎn","pick"],["了","le","particle for past tense"],["几","jǐ","several",3],["个","gè","measure word"],["苹果","píng guǒ","apple"],["。",".","."]],
+    [["我","wǒ","I"],["看","kàn","see"],["到","dào","arrive"],["摊位","tān wèi","stall"],["上","shàng","on"],["有","yǒu","have"],["很多","hěn duō","many"],["蔬菜","shū cài","vegetables"],["，",",",","],["都","dōu","all"],["是","shì","be"],["农民","nóng mín","farmer"],["自己","zì jǐ","oneself"],["种","zhòng","grow"],["的","de","particle for attribute"],["。",".","."]],
+    [["妹妹","mèi mei","younger sister"],["看","kàn","look"],["见","jiàn","see"],["一","yī","one"],["位","wèi","measure word for person"],["老人","lǎo rén","old man"],["在","zài","at"],["卖","mài","sell"],["鲜花","xiān huā","fresh flowers"],["，",",",","],["她","tā","she"],["马上","mǎ shàng","immediately"],["跑","pǎo","run"],["了","le","particle for past tense"],["过去","guò qù","over"],["。",".","."]],
+    [["我","wǒ","I"],["问","wèn","ask"],["她","tā","her"],["：",":",":"],["“","\"","\""],["你","nǐ","you"],["想","xiǎng","want"],["买","mǎi","buy"],["什么","shén me","what",4],["？","?","?"],["”","\"","\""]],
+    [["她","tā","she"],["说","shuō","say"],["：",":",":"],["“","\"","\""],["我","wǒ","I"],["想","xiǎng","want"],["买","mǎi","buy"],["一","yī","one"],["束","shù","bunch"],["花","huā","flower"],["，",",",","],["送","sòng","give"],["给","gěi","to"],["妈妈","mā ma","mom"],["。",".","."],["”","\"","\""]],
+    [["我","wǒ","I"],["觉得","jué de","feel"],["这","zhè","this"],["个","gè","measure word"],["主意","zhǔ yi","idea"],["真","zhēn","really"],["好","hǎo","good"],["。",".","."]],
+    [["后来","hòu lái","later"],["，",",",","],["我们","wǒ men","we"],["还","hái","also"],["买","mǎi","buy"],["了","le","particle for past tense"],["一些","yī xiē","some"],["海鲜","hǎi xiān","seafood"],["，",",",","],["准备","zhǔn bèi","prepare"],["晚上","wǎn shang","evening"],["做","zuò","cook"],["一","yī","a"],["顿","dùn","measure word for meal"],["大餐","dà cān","big meal"],["。",".","."]],
+    [["市场","shì chǎng","market"],["里","lǐ","inside"],["人","rén","people"],["很多","hěn duō","many"],["，",",",","],["非常","fēi cháng","very"],["热闹","rè nao","lively"],["。",".","."]],
+    [["我","wǒ","I"],["问","wèn","ask"],["爸爸","bà ba","dad"],["：",":",":"],["“","\"","\""],["你","nǐ","you"],["会","huì","can",5],["做","zuò","cook"],["海鲜","hǎi xiān","seafood"],["吗","ma","question particle"],["？","?","?"],["”","\"","\""]],
+    [["爸爸","bà ba","dad"],["笑","xiào","smile"],["着","zhe","-ing"],["说","shuō","say"],["：",":",":"],["“","\"","\""],["当然","dāng rán","of course"],["会","huì","can"],["啊","a","exclamation"],["！","!","!"],["”","\"","\""]],
+    [["我","wǒ","I"],["很","hěn","very"],["开心","kāi xīn","happy"],["，",",",","],["因为","yīn wèi","because"],["今天","jīn tiān","today"],["我们","wǒ men","we"],["能","néng","can",6],["吃","chī","eat"],["到","dào","arrive"],["美味","měi wèi","delicious"],["的","de","particle for attribute"],["晚餐","wǎn cān","dinner"],["。",".","."]],
+    [["太阳","tài yáng","sun"],["从","cóng","from"],["西","xī","west"],["边","biān","side"],["落下","luò xià","set"],["，",",",","],["我们","wǒ men","we"],["提","tí","carry"],["着","zhe","-ing"],["大包小包","dà bāo xiǎo bāo","big and small bags"],["回家","huí jiā","go home"],["。",".","."]],
+    [["这","zhè","this"],["真","zhēn","really"],["是","shì","be"],["一","yī","a"],["个","gè","measure word"],["愉快","yú kuài","pleasant"],["的","de","particle for attribute"],["周末","zhōu mò","weekend"],["！","!","!"]]
+  ],
+  "explanations": {
+    "1": "Dynamic particle 了 indicates the action of going to the market has been completed.",
+    "2": "量词 '杯' 用于盛装液体的容器，果汁用杯计量。",
+    "3": "疑问代词'几'用于询问或表示大概数量，这里表示几个苹果。",
+    "4": "疑问代词'什么'用于提问事物，此处问想买的东西。",
+    "5": "能愿动词'会'表示懂得做某事，此处指爸爸是否懂得做海鲜。",
+    "6": "能愿动词'能'表示有能力或条件做某事，此处指能够吃到美味晚餐。"
+  },
+  "translation": "Today our whole family went to the East Gate Market together. The fruit there is very fresh, and the prices are also very cheap. Mom bought two cups of juice, and Dad picked several apples. I saw that the stalls had many vegetables, all grown by the farmers themselves. My sister saw an old man selling fresh flowers, and she immediately ran over. I asked her: 'What do you want to buy?' She said: 'I want to buy a bunch of flowers and give them to Mom.' I thought this idea was really good. Later, we also bought some seafood and prepared to cook a big dinner in the evening. The market was very lively inside. I asked my dad: 'Can you cook seafood?' Dad smiled and said: 'Of course I can!' I was very happy because today we can eat a delicious dinner. The sun set in the west, and we carried big and small bags home. It was really a pleasant weekend!"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3-16",
+  "level": 3,
+  "title": "张明的一天",
+  "titlePinyin": "Zhāng Míng de yī tiān",
+  "topicEn": "A student's daily routine",
+  "sentences": [
+    [["他","tā","he"],["叫","jiào","to be called",1],["张明","Zhāng Míng","Zhang Ming"],["。","","."]],
+    [["他","tā","he"],["是","shì","is"],["一","yī","one"],["位","wèi","measure word for people",2],["学生","xuéshēng","student"],["。","","."]],
+    [["他","tā","he"],["每天","měi tiān","every day"],["六","liù","six"],["点","diǎn","o'clock"],["半","bàn","half",3],["起床","qǐ chuáng","get up"],["。","","."]],
+    [["他","tā","he"],["先","xiān","first",4],["刷","shuā","brush"],["牙","yá","tooth"],["，","",","],["再","zài","then",5],["洗","xǐ","wash"],["脸","liǎn","face"],["，","",","],["然后","rán hòu","then"],["吃","chī","eat"],["早","zǎo","morning"],["饭","fàn","meal"],["。","","."]],
+    [["之后","zhī hòu","after"],["他","tā","he"],["走路","zǒu lù","walk",6],["去","qù","go"],["学校","xué xiào","school"],["。","","."]],
+    [["他","tā","he"],["的","de","possessive particle"],["家","jiā","home"],["离","lí","away from",7],["学校","xué xiào","school"],["很","hěn","very"],["近","jìn","close"],["，","",","],["所以","suǒ yǐ","so",8],["走路","zǒu lù","walk"],["只要","zhǐ yào","only need",9],["十","shí","ten"],["分","fēn","minute"],["。","","."]],
+    [["早上","zǎo shang","morning",10],["他","tā","he"],["上","shàng","attend"],["中文","zhōng wén","Chinese"],["课","kè","class"],["。","","."]],
+    [["中午","zhōng wǔ","noon"],["他","tā","he"],["和","hé","and"],["朋友","péng yǒu","friend"],["一起","yì qǐ","together",11],["在","zài","at"],["学校","xué xiào","school"],["吃","chī","eat"],["午饭","wǔ fàn","lunch"],["。","","."]],
+    [["下午","xià wǔ","afternoon"],["他","tā","he"],["打","dǎ","play",12],["篮球","lán qiú","basketball"],["。","","."]],
+    [["他","tā","he"],["非常","fēi cháng","very",13],["喜欢","xǐ huān","like"],["运动","yùn dòng","sports"],["。","","."]],
+    [["放学","fàng xué","after school",14],["后","hòu","after"],["他","tā","he"],["回","huí","return"],["家","jiā","home"],["。","","."]],
+    [["晚上","wǎn shang","evening"],["他","tā","he"],["做","zuò","do"],["作业","zuò yè","homework"],["。","","."]],
+    [["然后","rán hòu","then"],["他","tā","he"],["看","kàn","watch"],["电视","diàn shì","TV"],["。","","."]],
+    [["他","tā","he"],["十","shí","ten"],["点","diǎn","o'clock"],["睡觉","shuì jiào","sleep",15],["。","","."]]
+  ],
+  "explanations": {
+    "1": "\"叫\" introduces the person's name.",
+    "2": "\"位\" is a polite measure word for students.",
+    "3": "\"半\" indicates half past the hour.",
+    "4": "\"先\" shows the first action in the sequence.",
+    "5": "\"再\" connects the second action after the first.",
+    "6": "\"走路\" describes the mode of transportation.",
+    "7": "\"离\" indicates the distance between two places.",
+    "8": "\"所以\" introduces the result of the closeness.",
+    "9": "\"只要\" emphasizes a small amount of time needed.",
+    "10": "\"早上\" specifies the time of the Chinese class.",
+    "11": "\"一起\" indicates that they eat together.",
+    "12": "\"打\" is used with 'basketball' to mean 'play basketball'.",
+    "13": "\"非常\" modifies 'like' to express strong liking.",
+    "14": "\"放学\" indicates the time after classes end.",
+    "15": "\"睡觉\" is the final activity of the day."
+  },
+  "translation": "He is called Zhang Ming. He is a student. He gets up at half past six every day. He first brushes his teeth, then washes his face, and then eats breakfast. Afterwards he walks to school. His home is very close to school, so walking only takes ten minutes. In the morning he has Chinese class. At noon he eats lunch with his friend at school. In the afternoon he plays basketball. He likes sports very much. After school he returns home. In the evening he does homework. Then he watches TV. He goes to sleep at ten o'clock."
+}

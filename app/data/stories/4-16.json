@@ -1,0 +1,38 @@
+{
+  "id": "4-16",
+  "level": 4,
+  "title": "周末去动物园",
+  "titlePinyin": "zhōumò qù dòngwùyuán",
+  "topicEn": "Going to the Zoo",
+  "sentences": [
+    [["今天","jīntiān","today"],["早上","zǎoshang","morning"],["，","",""],["我","wǒ","I",1],["和","hé","and",2],["妈妈","māma","mom"],["一起","yìqǐ","together",3],["去","qù","to go"],["动物园","dòngwùyuán","zoo"],["。","",""]],
+    [["动物园","dòngwùyuán","zoo"],["里","lǐ","inside",4],["有","yǒu","there is"],["很多","hěnduō","many"],["动物","dòngwù","animals"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",5],["去","qù","to go"],["看","kàn","to see"],["了","le","(completed action marker)",6],["猴子","hóuzi","monkey"],["。","",""]],
+    [["猴子","hóuzi","monkey"],["在","zài","at"],["山","shān","mountain"],["上","shàng","on",7],["跳来跳去","tiàoláitiàoqù","jump around"],["。","",""]],
+    [["妈妈","māma","mom"],["问","wèn","ask"],["：","",""],["你","nǐ","you",8],["想","xiǎng","want"],["看","kàn","to see"],["什么","shénme","what",9],["动物","dòngwù","animal"],["？","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["也","yě","also",10],["想","xiǎng","want"],["看","kàn","to see"],["熊猫","xióngmāo","panda"],["。","",""]],
+    [["我们","wǒmen","we"],["往","wǎng","toward"],["东","dōng","east",11],["走","zǒu","walk"],["，","",""],["看到","kàndào","see"],["了","le","(completed)"],["很","hěn","very",12],["可爱","kě'ài","cute"],["的","de","(possessive/attribute)",13],["熊猫","xióngmāo","panda"],["。","",""]],
+    [["它","tā","it"],["正","zhèng","just (in progress)",14],["在","zài","-ing"],["吃","chī","eat"],["竹子","zhúzi","bamboo"],["。","",""]],
+    [["中午","zhōngwǔ","noon"],["我们","wǒmen","we"],["饿","è","hungry"],["了","le","(completed)"],["，","",""],["就","jiù","then"],["去","qù","to go"],["餐厅","cāntīng","restaurant"],["吃饭","chīfàn","eat a meal"],["。","",""]],
+    [["我","wǒ","I"],["吃","chī","eat"],["了","le","(completed)"],["一","yī","one"],["块","kuài","piece (of)",15],["蛋糕","dàngāo","cake"],["，","",""],["妈妈","māma","mom"],["喝","hē","drink"],["了","le","(completed)"],["杯","bēi","cup (of)"],["水","shuǐ","water"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["我们","wǒmen","we"],["回家","huíjiā","go home"],["，","",""],["今天","jīntiān","today"],["真","zhēn","really"],["开心","kāixīn","happy"],["！","",""]]
+  ],
+  "explanations": {
+    "1": "First-person pronoun used as the subject.",
+    "2": "Conjunction connecting two nouns 'I' and 'mom'.",
+    "3": "Adverb indicating the action is done together.",
+    "4": "Locative noun indicating inside the zoo.",
+    "5": "Time adverb indicating the first action in a sequence.",
+    "6": "Aspect particle indicating a completed action 'saw'.",
+    "7": "Locative noun indicating 'on the mountain'.",
+    "8": "Second-person pronoun used as the subject of the question.",
+    "9": "Interrogative pronoun asking about the animal.",
+    "10": "Adverb indicating addition or similarity.",
+    "11": "Directional noun indicating the direction 'east'.",
+    "12": "Degree adverb modifying the adjective 'cute'.",
+    "13": "Structural particle linking the adjective 'cute' to 'panda'.",
+    "14": "Time adverb indicating an ongoing action when combined with '在'.",
+    "15": "Measure word for pieces of cake."
+  },
+  "translation": "This morning I and my mom went to the zoo together. There are many animals in the zoo. We first went to see the monkeys. The monkeys were jumping around on the mountain. Mom asked: 'What animals do you want to see?' I said: 'I also want to see pandas.' We walked east and saw a very cute panda. It was eating bamboo. At noon we were hungry, so we went to the restaurant to eat. I ate a piece of cake, and mom drank a cup of water. In the afternoon we went home. Today was really happy!"
+}

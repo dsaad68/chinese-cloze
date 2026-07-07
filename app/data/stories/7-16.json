@@ -1,0 +1,40 @@
+{
+  "id": "7-16",
+  "level": 7,
+  "title": "超市购物",
+  "titlePinyin": "chāoshì gòuwù",
+  "topicEn": "Supermarket Shopping",
+  "sentences": [
+    [["今天","jīntiān","today"],["下午","xiàwǔ","afternoon"],["，","",""],["我","wǒ","I"],["和","hé","and"],["朋友","péngyou","friend"],["一块儿","yīkuàir","together",1],["去","qù","go"],["一","yī","one"],["家","jiā","(measure for store)"],["常","cháng","often"],["去","qù","go"],["的","de","(attributive)"],["超市","chāoshì","supermarket"],["购物","gòuwù","shopping"],["。","",""]],
+    [["我们","wǒmen","we"],["从","cóng","from",2],["家","jiā","home"],["里","lǐ","inside"],["出发","chūfā","depart"],["，","",""],["先","xiān","first",3],["去","qù","go"],["水果","shuǐguǒ","fruit"],["区","qū","section"],["。","",""]],
+    [["我","wǒ","I"],["朋友","péngyou","friend"],["问","wèn","ask"],["售货员","shòuhuòyuán","shop assistant"],["：","",""],["“","",""],["我们","wǒmen","we"],["不","bù","not"],["知道","zhīdào","know"],["买","mǎi","buy"],["什么","shénme","what"],["水果","shuǐguǒ","fruit"],["好","hǎo","good"],["，","",""],["苹果","píngguǒ","apple"],["还是","háishì","or",4],["橙子","chéngzi","orange"],["？","",""],["苹果","píngguǒ","apple"],["在","zài","at"],["哪里","nǎlǐ","where",5],["？","",""],["多少","duōshao","how much"],["钱","qián","money"],["一","yī","one"],["个","gè","(measure)",6],["？","",""],["”","",""]],
+    [["售货员","shòuhuòyuán","shop assistant"],["指","zhǐ","point"],["着","zhe","(progressive)"],["前面","qiánmiàn","in front"],["左边","zuǒbiān","left side",7],["的","de","(possessive)"],["架子","jiàzi","shelf"],["说","shuō","say"],["：","",""],["“","",""],["苹果","píngguǒ","apple"],["就","jiù","just"],["在","zài","at"],["那里","nàlǐ","there"],["，","",""],["上面","shàngmiàn","above"],["有","yǒu","have"],["标签","biāoqiān","label"],["。","",""],["一","yī","one"],["个","gè","(measure)"],["两","liǎng","two"],["块","kuài","(measure for money)"],["钱","qián","money"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["朋友","péngyou","friend"],["说","shuō","say"],["：","",""],["“","",""],["太","tài","too",8],["好","hǎo","good"],["了","le","(particle)"],["，","",""],["我们","wǒmen","we"],["买","mǎi","buy"],["三","sān","three"],["个","gè","(measure)"],["苹果","píngguǒ","apple"],["，","",""],["还","hái","also",9],["再","zài","again",10],["买","mǎi","buy"],["一","yī","one"],["瓶","píng","bottle"],["水","shuǐ","water"],["吧","ba","(suggestion)"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["好","hǎo","OK"],["，","",""],["水","shuǐ","water"],["在","zài","at"],["右边","yòubiān","right side"],["的","de","(possessive)"],["架子","jiàzi","shelf"],["上","shàng","on"],["，","",""],["我","wǒ","I"],["也","yě","also"],["去","qù","go"],["拿","ná","take"],["一","yī","one"],["瓶","píng","bottle"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["拿","ná","take"],["了","le","(past)"],["一","yī","one"],["瓶","píng","bottle"],["水","shuǐ","water"],["放","fàng","put"],["在","zài","in"],["购物车","gòuwùchē","shopping cart"],["里","lǐ","inside"],["。","",""]],
+    [["我们","wǒmen","we"],["正在","zhèngzài","in the process of"],["挑选","tiāoxuǎn","select"],["的","de","(attributive)"],["时候","shíhou","time"],["，","",""],["售货员","shòuhuòyuán","shop assistant"],["说","shuō","say"],["：","",""],["“","",""],["现在","xiànzài","now"],["有","yǒu","there is"],["这个","zhège","this",11],["促销","cùxiāo","promotion"],["，","",""],["如果","rúguǒ","if"],["你们","nǐmen","you (plural)"],["能","néng","can",12],["买","mǎi","buy"],["三","sān","three"],["瓶","píng","bottle"],["水","shuǐ","water"],["，","",""],["就","jiù","then"],["能","néng","can"],["得到","dédào","get"],["一","yī","one"],["包","bāo","pack"],["纸巾","zhǐjīn","tissue"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["朋友","péngyou","friend"],["问","wèn","ask"],["：","",""],["“","",""],["真的","zhēnde","really",13],["吗","ma","(question)"],["？","",""],["那","nà","then"],["我们","wǒmen","we"],["要","yào","want"],["再","zài","again"],["买","mǎi","buy"],["两","liǎng","two"],["瓶","píng","bottle"],["。","",""],["”","",""]],
+    [["于是","yúshì","so"],["我们","wǒmen","we"],["又","yòu","again"],["拿","ná","take"],["了","le","(past)"],["两","liǎng","two"],["瓶","píng","bottle"],["水","shuǐ","water"],["。","",""]],
+    [["我们","wǒmen","we"],["去","qù","go"],["付钱","fùqián","pay"],["的","de","(attributive)"],["时候","shíhou","time"],["，","",""],["收银员","shōuyínyuán","cashier"],["说","shuō","say"],["：","",""],["“","",""],["一共","yīgòng","total"],["十","shí","ten"],["五","wǔ","five"],["元","yuán","yuan"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["给","gěi","give"],["了","le","(past)"],["她","tā","she"],["一","yī","one"],["百","bǎi","hundred"],["元","yuán","yuan"],["，","",""],["她","tā","she"],["找","zhǎo","give change"],["了","le","(past)"],["我","wǒ","I"],["八","bā","eight"],["十","shí","ten"],["五","wǔ","five"],["元","yuán","yuan"],["。","",""]],
+    [["我们","wǒmen","we"],["都","dōu","all",14],["很","hěn","very"],["高兴","gāoxìng","happy"],["地","de","(adverbial)",15],["回家","huíjiā","go home"],["了","le","(particle)"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "表示一起做某事。",
+    "2": "表示起点。",
+    "3": "表示顺序，首先。",
+    "4": "表示选择关系。",
+    "5": "疑问代词，问地点。",
+    "6": "常用量词，用于苹果等。",
+    "7": "方位名词，指左侧。",
+    "8": "程度副词，表示过分。",
+    "9": "关联副词，表示‘也’。",
+    "10": "频率副词，表示又一次。",
+    "11": "指示代词，指代近处的事物。",
+    "12": "能愿动词，表示能力或可能。",
+    "13": "形容词，表示真实。",
+    "14": "范围副词，表示全部。",
+    "15": "结构助词，用于状语后。"
+  },
+  "translation": "This afternoon, my friend and I went to a supermarket we often go to together. We set out from home and first went to the fruit section. My friend asked the shop assistant, 'We don't know what fruit to buy, apples or oranges? Where are the apples? How much is one?' The shop assistant pointed to the shelf on the front left and said, 'The apples are right there, with a label on top. One costs two yuan.' My friend said, 'Great, we'll buy three apples, and also buy a bottle of water.' I said, 'OK, the water is on the shelf on the right, I'll go get one too.' I took a bottle of water and put it in the shopping cart. While we were selecting, the shop assistant said, 'There's a promotion now: if you can buy three bottles of water, you get a pack of tissues for free.' My friend asked, 'Really? Then we'll buy two more bottles.' So we took two more bottles of water. When we went to pay, the cashier said, 'The total is fifteen yuan.' I gave her a hundred yuan, and she gave me eighty-five yuan change. We all went home very happily."
+}

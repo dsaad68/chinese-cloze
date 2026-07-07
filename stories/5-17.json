@@ -1,0 +1,39 @@
+{
+  "id": "5-17",
+  "level": 5,
+  "title": "周末活动",
+  "titlePinyin": "zhōu mò huó dòng",
+  "topicEn": "Weekend Activity",
+  "sentences": [
+    [["这","zhè","this",1],["个","gè","measure word"],["周末","zhōumò","weekend"],["，","",""],["我","wǒ","I"],["和","hé","and",2],["朋友","péngyou","friend"],["一起","yīqǐ","together",3],["从","cóng","from",4],["家","jiā","home"],["里","lǐ","inside",5],["出发","chūfā","depart"],["去","qù","go"],["书店","shūdiàn","bookstore"],["。","",""]],
+    [["我们","wǒmen","we"],["先","xiān","first",6],["坐","zuò","sit; take"],["地铁","dìtiě","subway"],["，","",""],["然后","ránhòu","then"],["走","zǒu","walk"],["路","lù","road"],["。","",""]],
+    [["书店","shūdiàn","bookstore"],["前","qián","front",7],["有","yǒu","have"],["一","yī","one"],["个","gè","measure word"],["很","hěn","very"],["大","dà","big"],["的","de","(modifier)",8],["广场","guǎngchǎng","square"],["，","",""],["广场","guǎngchǎng","square"],["上","shàng","on",9],["有","yǒu","have"],["很","hěn","very"],["多","duō","many"],["鸽子","gēzi","pigeons"],["。","",""]],
+    [["我们","wǒmen","we"],["进","jìn","enter"],["了","le","(past)",10],["书店","shūdiàn","bookstore"],["，","",""],["买","mǎi","buy"],["了","le","(past)"],["两","liǎng","two",11],["本","běn","(measure for books)",12],["书","shū","book"],["，","",""],["我","wǒ","I"],["买","mǎi","buy"],["了","le","(past)"],["一","yī","one"],["本","běn","(measure for books)"],["中文","zhōngwén","Chinese language"],["书","shū","book"],["，","",""],["朋友","péngyou","friend"],["买","mǎi","buy"],["了","le","(past)"],["一","yī","one"],["本","běn","(measure for books)"],["英文","yīngwén","English language"],["书","shū","book"],["。","",""]],
+    [["朋友","péngyou","friend"],["问","wèn","ask"],["我","wǒ","I"],["买","mǎi","buy"],["了","le","(past)"],["什么","shénme","what"],["书","shū","book"],["，","",""],["我","wǒ","I"],["告诉","gàosu","tell"],["他","tā","he"],["中文","zhōngwén","Chinese"],["书","shū","book"],["。","",""]],
+    [["书店","shūdiàn","bookstore"],["里","lǐ","inside"],["有","yǒu","have"],["很","hěn","very"],["多","duō","many"],["人","rén","people"],["。","",""]],
+    [["我们","wǒmen","we"],["还","hái","also",13],["在","zài","at"],["书店","shūdiàn","bookstore"],["旁边","pángbiān","side"],["喝","hē","drink"],["了","le","(past)"],["一","yī","one"],["杯","bēi","cup"],["咖啡","kāfēi","coffee"],["，","",""],["咖啡","kāfēi","coffee"],["很","hěn","very"],["好喝","hǎohē","tasty"],["，","",""],["朋友","péngyou","friend"],["问","wèn","ask"],["我","wǒ","I"],["还","hái","still"],["喝","hē","drink"],["不","bù","not",14],["喝","hē","drink"],["，","",""],["我","wǒ","I"],["说","shuō","say"],["不","bù","not"],["喝","hē","drink"],["了","le","(past)"],["。","",""]],
+    [["下午","xiàwǔ","afternoon"],["我们","wǒmen","we"],["去","qù","go"],["公园","gōngyuán","park"],["散步","sànbù","take a walk"],["。","",""]],
+    [["公园","gōngyuán","park"],["里","lǐ","inside"],["没有","méiyǒu","not have"],["很","hěn","very"],["多","duō","many"],["人","rén","people"],["，","",""],["但","dàn","but"],["有","yǒu","have"],["一","yī","one"],["个","gè","measure word"],["湖","hú","lake"],["。","",""]],
+    [["我们","wǒmen","we"],["能","néng","can",15],["划船","huáchuán","row a boat"],["，","",""],["于是","yúshì","so"],["租","zū","rent"],["了","le","(past)"],["一","yī","one"],["条","tiáo","(measure for long object)"],["小","xiǎo","small"],["船","chuán","boat"],["，","",""],["划","huá","row"],["了","le","(past)"],["半","bàn","half"],["小时","xiǎoshí","hour"],["。","",""]],
+    [["晚上","wǎnshàng","evening"],["我们","wǒmen","we"],["在","zài","at"],["公园","gōngyuán","park"],["外","wài","outside"],["吃","chī","eat"],["晚饭","wǎnfàn","dinner"],["。","",""]],
+    [["今天","jīntiān","today"],["我们","wǒmen","we"],["都","dōu","all"],["很","hěn","very"],["开心","kāixīn","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "Demonstrative pronoun referring to the current weekend.",
+    "2": "Connects the two subjects 'I' and 'friend'.",
+    "3": "Indicates that the action is done jointly.",
+    "4": "Preposition indicating the starting point 'home'.",
+    "5": "Locative noun meaning 'inside the home'.",
+    "6": "Time adverb indicating the first action in sequence.",
+    "7": "Locative noun indicating position in front of the bookstore.",
+    "8": "Structural particle linking adjective 'big' to noun 'square'.",
+    "9": "Locative noun indicating position on the square.",
+    "10": "Dynamic particle marking completion of entering the bookstore.",
+    "11": "Numeral indicating the quantity of books bought.",
+    "12": "Measure word for books, used after the numeral.",
+    "13": "Adverb indicating an additional action (also drank coffee).",
+    "14": "Negation adverb forming the alternative question 'drink or not'.",
+    "15": "Modal verb expressing ability to row a boat."
+  },
+  "translation": "This weekend, my friend and I went to the bookstore together from home. We first took the subway, then walked. In front of the bookstore, there was a big square. There were many pigeons on the square. We entered the bookstore and bought two books. I bought a Chinese book, and my friend bought an English book. My friend asked me what book I bought, and I told him it was a Chinese book. There were many people in the bookstore. We also drank a cup of coffee next to the bookstore. The coffee was very tasty. My friend asked if I wanted another drink, and I said no. In the afternoon, we went to the park for a walk. There were not many people in the park, but there was a lake. We could row a boat, so we rented a small boat and rowed for half an hour. In the evening, we had dinner outside the park. Today we were all very happy."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7-8",
+  "level": 7,
+  "title": "旅行准备",
+  "titlePinyin": "lǚxíng zhǔnbèi",
+  "topicEn": "Preparing for a trip",
+  "sentences": [
+    [["我","wǒ","I"],["打算","dǎsuàn","plan",1],["明天","míngtiān","tomorrow"],["去","qù","go"],["北京","Běijīng","Beijing"],["旅行","lǚxíng","travel"],["。","",""]],
+    [["我","wǒ","I"],["先","xiān","first",2],["问问","wènwen","ask"],["朋友","péngyou","friend"],["天气","tiānqì","weather"],["情况","qíngkuàng","situation"],["。","",""]],
+    [["他","tā","he"],["说","shuō","say"],["：","",""],["“","",""],["北京","Běijīng","Beijing"],["现在","xiànzài","now"],["非常","fēicháng","very"],["冷","lěng","cold"],["，","",""],["你","nǐ","you"],["带","dài","bring"],["了","le","(perfective)"],["什么","shénme","what",3],["衣服","yīfu","clothes"],["？","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["我","wǒ","I"],["会","huì","will",4],["带","dài","bring"],["厚","hòu","thick"],["的","de","(modifier)"],["外套","wàitào","coat"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["正在","zhèngzài","be doing",5],["认真","rènzhēn","serious"],["地","de","(adverbial)",6],["收拾","shōushi","pack"],["行李","xíngli","luggage"],["。","",""]],
+    [["我","wǒ","I"],["先","xiān","first"],["把","bǎ","(object marker)"],["衣服","yīfu","clothes"],["放","fàng","put",7],["进","jìn","into"],["箱子","xiāngzi","suitcase"],["里","lǐ","inside",8],["。","",""]],
+    [["再","zài","again/also",9],["放","fàng","put"],["三","sān","three"],["本","běn","(for books)"],["书","shū","book"],["和","hé","and"],["几","jǐ","several",10],["件","jiàn","(for clothing)"],["外套","wàitào","coat"],["。","",""]],
+    [["我","wǒ","I"],["还","hái","also",11],["带","dài","bring"],["了","le","(perfective)"],["一","yī","one"],["张","zhāng","(for flat objects)"],["新","xīn","new",12],["的","de","(modifier)"],["地图","dìtú","map"],["和","hé","and"],["指南针","zhǐnánzhēn","compass"],["。","",""]],
+    [["我","wǒ","I"],["检查","jiǎnchá","check"],["了","le","(perfective)"],["很久","hěnjiǔ","long time"],["，","",""],["没有","méiyǒu","did not",13],["忘记","wàngjì","forget"],["任何","rènhé","any"],["东西","dōngxi","thing"],["。","",""]],
+    [["早上","zǎoshang","morning"],["我","wǒ","I"],["从","cóng","from"],["家","jiā","home"],["出发","chūfā","set out"],["，","",""],["到","dào","to"],["车站","chēzhàn","station"],["等","děng","wait"],["一个","yīgè","one (measure word)"],["朋友","péngyou","friend"],["。","",""]],
+    [["朋友","péngyou","friend"],["提醒","tíxǐng","remind"],["我","wǒ","me"],["：","",""],["“","",""],["别","bié","don't",14],["忘记","wàngjì","forget"],["带","dài","bring"],["票","piào","ticket"],["！","",""],["”","",""]],
+    [["我","wǒ","I"],["说","shuō","say"],["：","",""],["“","",""],["不","bù","not"],["会","huì","will"],["的","de","(modal particle)"],["。","",""],["”","",""]],
+    [["我","wǒ","I"],["和","hé","with",15],["朋友","péngyou","friend"],["一块儿","yīkuàir","together"],["坐","zuò","take (train)"],["火车","huǒchē","train"],["，","",""],["在","zài","at"],["车","chē","car"],["上","shàng","on"],["聊天","liáotiān","chat"],["。","",""]],
+    [["我们","wǒmen","we"],["都","dōu","all"],["很","hěn","very"],["开心","kāixīn","happy"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "表示计划，引出旅行的目的。",
+    "2": "表示顺序，先做第一件事。",
+    "3": "疑问代词，询问具体物品。",
+    "4": "能愿动词，表示能力或意愿。",
+    "5": "时间副词，强调动作正在进行。",
+    "6": "结构助词，将形容词变为状语。",
+    "7": "动词，表示放置的动作。",
+    "8": "方位名词，表示内部位置。",
+    "9": "频率副词，表示又一次或另外。",
+    "10": "疑问代词，表示不确定的数量。",
+    "11": "关联副词，表示追加。",
+    "12": "形容词，表示刚买或没用过的。",
+    "13": "否定副词，表示动作未发生。",
+    "14": "否定副词，用于劝阻。",
+    "15": "介词，引出共同行动的对象。"
+  },
+  "translation": "I plan to travel to Beijing tomorrow. I first ask my friend about the weather. He says, 'It is very cold in Beijing now, what clothes have you brought?' I say, 'I will bring a thick coat.' I am seriously packing my luggage. I first put clothes into the suitcase. Then I put three books and several coats. I also bring a new map and a compass. I check for a long time and don't forget anything. In the morning I set out from home and go to the station to wait for a friend. My friend reminds me, 'Don't forget to bring the ticket!' I say, 'I won't.' My friend and I take the train together and chat on the train. We are all very happy."
+}

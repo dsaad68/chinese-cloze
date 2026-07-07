@@ -1,0 +1,41 @@
+{
+  "id": "4-3",
+  "level": 4,
+  "title": "我的早上",
+  "titlePinyin": "wǒ de zǎo shang",
+  "topicEn": "my morning routine",
+  "sentences": [
+    [["我","wǒ","I"],["每天","měi tiān","every day"],["早上","zǎo shang","morning"],["七","qī","seven",1],["点","diǎn","o'clock"],["起床","qǐ chuáng","to get up"],["。","",""]],
+    [["然后","rán hòu","then"],["，","",""],["我","wǒ","I"],["先","xiān","first",2],["刷牙","shuā yá","to brush teeth"],["，","",""],["再","zài","then",3],["洗脸","xǐ liǎn","to wash face"],["。","",""]],
+    [["有时","yǒu shí","sometimes",4],["，","",""],["我","wǒ","I"],["吃","chī","to eat"],["面包","miàn bāo","bread"],["和","hé","and"],["喝","hē","to drink"],["牛奶","niú nǎi","milk"],["。","",""]],
+    [["今天","jīn tiān","today"],["早上","zǎo shang","morning"],["，","",""],["我","wǒ","I"],["吃","chī","to eat"],["了","le","past particle",5],["一个","yī gè","one (measure word)"],["苹果","píng guǒ","apple"],["。","",""]],
+    [["吃完","chī wán","to finish eating"],["早饭","zǎo fàn","breakfast"],["后","hòu","after",6],["，","",""],["我","wǒ","I"],["去","qù","to go",7],["上班","shàng bān","to go to work"],["。","",""]],
+    [["我","wǒ","I"],["坐","zuò","to take",8],["公交","gōng jiāo","public bus"],["车","chē","vehicle"],["去","qù","to go"],["公司","gōng sī","company"],["。","",""]],
+    [["公司","gōng sī","company"],["在","zài","at"],["我","wǒ","my"],["家","jiā","home"],["的","de","possessive particle"],["东","dōng","east",9],["边","biān","side"],["。","",""]],
+    [["从","cóng","from",10],["我","wǒ","my"],["家","jiā","home"],["到","dào","to"],["公司","gōng sī","company"],["需要","xū yào","need"],["三","sān","three",11],["十","shí","ten"],["分钟","fēn zhōng","minutes"],["。","",""]],
+    [["我","wǒ","my"],["的","de","possessive"],["同事","tóng shì","colleague"],["们","men","plural suffix"],["都","dōu","all",12],["很","hěn","very"],["好","hǎo","good"],["。","",""]],
+    [["他们","tā men","they"],["一起","yì qǐ","together",13],["吃","chī","to eat"],["饭","fàn","meal"],["。","",""]],
+    [["我们","wǒ men","we"],["中午","zhōng wǔ","noon"],["会","huì","will",14],["去","qù","to go"],["公园","gōng yuán","park"],["散步","sàn bù","to take a walk"],["。","",""]],
+    [["那里","nà lǐ","there",15],["有","yǒu","have"],["很多","hěn duō","many"],["树","shù","tree"],["和","hé","and"],["花","huā","flower"],["。","",""]],
+    [["下午","xià wǔ","afternoon"],["，","",""],["我们","wǒ men","we"],["工作","gōng zuò","to work"],["。","",""]],
+    [["下班","xià bān","to finish work"],["后","hòu","after"],["，","",""],["我","wǒ","I"],["回家","huí jiā","to go home"],["做","zuò","to cook"],["晚饭","wǎn fàn","dinner"],["。","",""]]
+  ],
+  "explanations": {
+    "1": "七 is a number used to indicate time (seven o'clock).",
+    "2": "先 is a time adverb meaning 'first', indicating the order of actions.",
+    "3": "再 is a frequency adverb meaning 'then' or 'again', used to indicate the next action.",
+    "4": "有时 is a time adverb meaning 'sometimes', indicating frequency.",
+    "5": "了 is a dynamic particle indicating completion of an action.",
+    "6": "后 is a position noun meaning 'after', used to show time sequence.",
+    "7": "去 means 'to go', indicating movement to a place.",
+    "8": "坐 means 'to take' (a vehicle), used for transportation.",
+    "9": "东 is a direction noun meaning 'east', indicating location.",
+    "10": "从 introduces a starting point in time or space.",
+    "11": "三 is a number, used here in 'thirty' (三十分钟).",
+    "12": "都 is a range adverb meaning 'all', emphasizing the whole group.",
+    "13": "一起 is a cooperative adverb meaning 'together'.",
+    "14": "会 is a modal verb expressing willingness or possibility.",
+    "15": "那里 is a demonstrative pronoun indicating a place."
+  },
+  "translation": "I get up at seven o'clock every morning. Then, I first brush my teeth, then wash my face. Sometimes I eat bread and drink milk. This morning I ate an apple. After finishing breakfast, I go to work. I take the bus to the company. The company is east of my home. It takes thirty minutes from my home to the company. My colleagues are all very nice. They eat together. At noon we will go to the park for a walk. There are many trees and flowers there. In the afternoon, we work. After work, I go home and cook dinner."
+}
